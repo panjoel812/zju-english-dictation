@@ -1,0 +1,494 @@
+[
+  {
+    "name": "commencement",
+    "trans": [
+      "毕业典礼"
+    ]
+  },
+  {
+    "name": "faculty",
+    "trans": [
+      "全体教员"
+    ]
+  },
+  {
+    "name": "confront",
+    "trans": [
+      "处理、解决"
+    ]
+  },
+  {
+    "name": "quitter",
+    "trans": [
+      "半途而废的人"
+    ]
+  },
+  {
+    "name": "mediocre",
+    "trans": [
+      "不太好的"
+    ]
+  },
+  {
+    "name": "slipshod",
+    "trans": [
+      "马虎的，随便的，草率的"
+    ]
+  },
+  {
+    "name": "forgiving",
+    "trans": [
+      "宽容的，宽大的"
+    ]
+  },
+  {
+    "name": "deadline",
+    "trans": [
+      "截止时间"
+    ]
+  },
+  {
+    "name": "garrulous",
+    "trans": [
+      "喋喋不休的"
+    ]
+  },
+  {
+    "name": "toss",
+    "trans": [
+      "扔，掷，抛"
+    ]
+  },
+  {
+    "name": "dull",
+    "trans": [
+      "迟钝的"
+    ]
+  },
+  {
+    "name": "unimaginative",
+    "trans": [
+      "无创意的"
+    ]
+  },
+  {
+    "name": "fantasy",
+    "trans": [
+      "幻想；想象"
+    ]
+  },
+  {
+    "name": "pretense",
+    "trans": [
+      "假装"
+    ]
+  },
+  {
+    "name": "conventional",
+    "trans": [
+      "依照传统的"
+    ]
+  },
+  {
+    "name": "spoil",
+    "trans": [
+      "毁掉；糟蹋；破坏"
+    ]
+  },
+  {
+    "name": "deprive",
+    "trans": [
+      "剥夺"
+    ]
+  },
+  {
+    "name": "adequate",
+    "trans": [
+      "足够的"
+    ]
+  },
+  {
+    "name": "attentive",
+    "trans": [
+      "关心的"
+    ]
+  },
+  {
+    "name": "co-worker",
+    "trans": [
+      "同事"
+    ]
+  },
+  {
+    "name": "insult",
+    "trans": [
+      "侮辱；冒犯"
+    ]
+  },
+  {
+    "name": "parlous",
+    "trans": [
+      "状况极坏的；非常危险的"
+    ]
+  },
+  {
+    "name": "tolerate",
+    "trans": [
+      "宽容的"
+    ]
+  },
+  {
+    "name": "broaden",
+    "trans": [
+      "增长（知识、经验）"
+    ]
+  },
+  {
+    "name": "supposedly",
+    "trans": [
+      "据说"
+    ]
+  },
+  {
+    "name": "erase",
+    "trans": [
+      "清除"
+    ]
+  },
+  {
+    "name": "semester",
+    "trans": [
+      "一学期"
+    ]
+  },
+  {
+    "name": "midterm",
+    "trans": [
+      "期中考试"
+    ]
+  },
+  {
+    "name": "final",
+    "trans": [
+      "期终考试"
+    ]
+  },
+  {
+    "name": "due",
+    "trans": [
+      "预定的"
+    ]
+  },
+  {
+    "name": "drop out",
+    "trans": [
+      "退学；辍学"
+    ]
+  },
+  {
+    "name": "look back",
+    "trans": [
+      "回忆起；回顾"
+    ]
+  },
+  {
+    "name": "the easy way out",
+    "trans": [
+      "省事的做法"
+    ]
+  },
+  {
+    "name": "act out",
+    "trans": [
+      "用行动表现情绪"
+    ]
+  },
+  {
+    "name": "be rid of",
+    "trans": [
+      "摆脱某人/某事"
+    ]
+  },
+  {
+    "name": "pop into one's mind",
+    "trans": [
+      "突然冒出（想到）"
+    ]
+  },
+  {
+    "name": "get away with",
+    "trans": [
+      "不被发现"
+    ]
+  },
+  {
+    "name": "get down to",
+    "trans": [
+      "开始认真对待"
+    ]
+  },
+  {
+    "name": "by no means",
+    "trans": [
+      "绝不"
+    ]
+  },
+  {
+    "name": "wicker",
+    "trans": [
+      "干枝条"
+    ]
+  },
+  {
+    "name": "grumpy",
+    "trans": [
+      "脾气坏的，易怒的"
+    ]
+  },
+  {
+    "name": "visualize",
+    "trans": [
+      "设想，想象"
+    ]
+  },
+  {
+    "name": "assignment",
+    "trans": [
+      "作业"
+    ]
+  },
+  {
+    "name": "jeer",
+    "trans": [
+      "嘲笑，嘲弄"
+    ]
+  },
+  {
+    "name": "stun",
+    "trans": [
+      "使（某人）震惊"
+    ]
+  },
+  {
+    "name": "proceed",
+    "trans": [
+      "继续进行"
+    ]
+  },
+  {
+    "name": "arch",
+    "trans": [
+      "（使）成拱形"
+    ]
+  },
+  {
+    "name": "eyebrow",
+    "trans": [
+      "眉毛"
+    ]
+  },
+  {
+    "name": "shrug",
+    "trans": [
+      "耸肩"
+    ]
+  },
+  {
+    "name": "slum",
+    "trans": [
+      "贫民窟"
+    ]
+  },
+  {
+    "name": "marketable",
+    "trans": [
+      "有市场的"
+    ]
+  },
+  {
+    "name": "smug",
+    "trans": [
+      "自满的"
+    ]
+  },
+  {
+    "name": "leer",
+    "trans": [
+      "挑逗性或不怀好意的目光"
+    ]
+  },
+  {
+    "name": "dimension",
+    "trans": [
+      "大小、尺寸"
+    ]
+  },
+  {
+    "name": "contemplate",
+    "trans": [
+      "深思、细想"
+    ]
+  },
+  {
+    "name": "warehouse",
+    "trans": [
+      "仓库；货栈"
+    ]
+  },
+  {
+    "name": "grain",
+    "trans": [
+      "谷粒"
+    ]
+  },
+  {
+    "name": "industrial",
+    "trans": [
+      "工业的、产业工人的"
+    ]
+  },
+  {
+    "name": "revenue",
+    "trans": [
+      "收益、收入"
+    ]
+  },
+  {
+    "name": "exterminator",
+    "trans": [
+      "消灭害虫者"
+    ]
+  },
+  {
+    "name": "feasible",
+    "trans": [
+      "（计划）可行的"
+    ]
+  },
+  {
+    "name": "glare",
+    "trans": [
+      "怒目而视"
+    ]
+  },
+  {
+    "name": "pointedly",
+    "trans": [
+      "尖锐地"
+    ]
+  },
+  {
+    "name": "groan",
+    "trans": [
+      "抱怨"
+    ]
+  },
+  {
+    "name": "audible",
+    "trans": [
+      "听得见的"
+    ]
+  },
+  {
+    "name": "interrupt",
+    "trans": [
+      "打断某人的讲话"
+    ]
+  },
+  {
+    "name": "slam dunk",
+    "trans": [
+      "稳操胜券的事"
+    ]
+  },
+  {
+    "name": "verbatim",
+    "trans": [
+      "逐字的"
+    ]
+  },
+  {
+    "name": "rustle",
+    "trans": [
+      "沙沙作响"
+    ]
+  },
+  {
+    "name": "frantic",
+    "trans": [
+      "紧张忙乱的"
+    ]
+  },
+  {
+    "name": "frantically",
+    "trans": [
+      "手忙脚乱地"
+    ]
+  },
+  {
+    "name": "index",
+    "trans": [
+      "索引"
+    ]
+  },
+  {
+    "name": "oddly",
+    "trans": [
+      "奇怪的是"
+    ]
+  },
+  {
+    "name": "vice versa",
+    "trans": [
+      "反之亦然"
+    ]
+  },
+  {
+    "name": "cut one's losses",
+    "trans": [
+      "及早脱手"
+    ]
+  },
+  {
+    "name": "pack up",
+    "trans": [
+      "收好物品"
+    ]
+  },
+  {
+    "name": "smile broadly",
+    "trans": [
+      "咧着嘴笑"
+    ]
+  },
+  {
+    "name": "cut into",
+    "trans": [
+      "削减"
+    ]
+  },
+  {
+    "name": "better still",
+    "trans": [
+      "更好的选择是"
+    ]
+  },
+  {
+    "name": "hand out",
+    "trans": [
+      "分发、散发"
+    ]
+  },
+  {
+    "name": "reason out",
+    "trans": [
+      "解释、解决"
+    ]
+  },
+  {
+    "name": "think through",
+    "trans": [
+      "认真地考虑"
+    ]
+  }
+]

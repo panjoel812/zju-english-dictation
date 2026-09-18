@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Qwerty Learner
+  大学英语默写器
 </h1>
 
 <p align="center">
@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
+  专门为浙江大学大学英语 III、IV 课程设计的英语单词默写与记忆工具
 </p>
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/Realkai42/qwerty-learner/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Realkai42/qwerty-learner" alt="License"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="License"></a>
   <a><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/></a>
   <a><img src="https://img.shields.io/badge/Powered%20by-React-blue"/></a>
   <a><img src="https://img.shields.io/github/stars/RealKai42/qwerty-learner"/></a>
@@ -29,6 +29,39 @@
 <div align=center>
 <img  src="docs/Screenshot.png"/>
 </div>
+
+## 项目说明
+
+本项目由 [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) 改编而来，专门用于浙江大学大学英语 III、IV 课程的单词默写练习。原项目的 GPL-3.0 开源许可证和致谢信息继续保留，具体见 [LICENSE](./LICENSE)。
+
+当前版本重点服务浙江大学英语学习：
+
+- 默认进入浙江大学英语 III Unit 1；
+- 默认关闭中文释义，答题后可查看当前单词释义；
+- 导入浙江大学英语 III、IV，以及 Book 1 Unit 1-4 词库；
+- 保留四六级、雅思和托福词库；
+- 支持逐词记录、错题复习、学习统计和本地记忆；
+- 支持英文默写、发音和章节切换。
+
+## 本地运行
+
+环境要求：Node.js 18 或更高版本。
+
+```bash
+npm install
+npm run dev -- --host 127.0.0.1 --port 5174
+```
+
+浏览器访问 <http://localhost:5174/>。
+
+macOS 用户也可以双击项目根目录下的 [`start-qwerty-learner.command`](./start-qwerty-learner.command) 自动启动并打开浏览器。
+
+## 词库来源
+
+- 浙江大学英语 III：课程单元词汇整理；
+- 浙江大学英语 IV：由 `大英四单词表.pdf` 整理；
+- Book 1 Unit 1-4：由 `book1 u1-4.txt` 整理；
+- 四六级、雅思、托福：沿用原项目内置词库。
 
 ## 📸 在线访问
 

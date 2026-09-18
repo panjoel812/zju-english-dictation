@@ -9,7 +9,7 @@ import { usePrefetchPronunciationSound } from '@/hooks/usePronunciation'
 import { isReviewModeAtom, isShowPrevAndNextWordAtom, loopWordConfigAtom, phoneticConfigAtom, reviewModeInfoAtom } from '@/store'
 import type { Word } from '@/typings'
 import { useAtomValue, useSetAtom } from 'jotai'
-import { useCallback, useContext, useMemo, useState } from 'react'
+import { useCallback, useContext, useEffect, useMemo, useState } from 'react'
 import { useHotkeys } from 'react-hotkeys-hook'
 
 export default function WordPanel() {
@@ -18,6 +18,7 @@ export default function WordPanel() {
   const phoneticConfig = useAtomValue(phoneticConfigAtom)
   const isShowPrevAndNextWord = useAtomValue(isShowPrevAndNextWordAtom)
   const [wordComponentKey, setWordComponentKey] = useState(0)
+  const [isAnswerTranslationVisible, setIsAnswerTranslationVisible] = useState(false)
   const [currentWordExerciseCount, setCurrentWordExerciseCount] = useState(0)
   const { times: loopWordTimes } = useAtomValue(loopWordConfigAtom)
   const currentWord = state.chapterData.words[state.chapterData.index]
@@ -40,6 +41,10 @@ export default function WordPanel() {
   const reloadCurrentWordComponent = useCallback(() => {
     setWordComponentKey((old) => old + 1)
   }, [])
+
+  useEffect(() => {
+    setIsAnswerTranslationVisible(false)
+  }, [state.chapterData.index, wordComponentKey])
 
   const updateReviewRecord = useCallback(
     (state: TypingState) => {
@@ -145,8 +150,8 @@ export default function WordPanel() {
   )
 
   const shouldShowTranslation = useMemo(() => {
-    return isShowTranslation || state.isTransVisible
-  }, [isShowTranslation, state.isTransVisible])
+    return isShowTranslation || state.isTransVisible || isAnswerTranslationVisible
+  }, [isAnswerTranslationVisible, isShowTranslation, state.isTransVisible])
 
   return (
     <div className="container flex h-full w-full flex-col items-center justify-center">
@@ -171,7 +176,12 @@ export default function WordPanel() {
               </div>
             )}
             <div className="relative">
-              <WordComponent word={currentWord} onFinish={onFinish} key={wordComponentKey} />
+              <WordComponent
+                word={currentWord}
+                onFinish={onFinish}
+                onAnswerComplete={() => setIsAnswerTranslationVisible(true)}
+                key={wordComponentKey}
+              />
               {phoneticConfig.isOpen && <Phonetic word={currentWord} />}
               <Translation
                 trans={currentWord.trans.join('；')}

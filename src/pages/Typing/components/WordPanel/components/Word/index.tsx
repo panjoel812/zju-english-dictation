@@ -31,7 +31,15 @@ import { useImmer } from 'use-immer'
 
 const vowelLetters = ['A', 'E', 'I', 'O', 'U']
 
-export default function WordComponent({ word, onFinish }: { word: Word; onFinish: () => void }) {
+export default function WordComponent({
+  word,
+  onFinish,
+  onAnswerComplete,
+}: {
+  word: Word
+  onFinish: () => void
+  onAnswerComplete: () => void
+}) {
   // eslint-disable-next-line  @typescript-eslint/no-non-null-assertion
   const { state, dispatch } = useContext(TypingContext)!
   const [wordState, setWordState] = useImmer<WordState>(structuredClone(initialWordState))
@@ -51,6 +59,7 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
 
   const [showTipAlert, setShowTipAlert] = useState(false)
   const wordPronunciationIconRef = useRef<WordPronunciationIconRef>(null)
+  const lastAutoPlayedWordRef = useRef<{ word: string; timestamp: number } | null>(null)
 
   useEffect(() => {
     // run only when word changes
@@ -129,10 +138,15 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
   )
 
   useEffect(() => {
-    if (wordState.inputWord.length === 0 && state.isTyping) {
-      wordPronunciationIconRef.current?.play && wordPronunciationIconRef.current?.play()
-    }
-  }, [state.isTyping, wordState.inputWord.length, wordPronunciationIconRef.current?.play])
+    if (wordState.inputWord.length !== 0 || !state.isTyping) return
+
+    const now = Date.now()
+    const lastAutoPlayedWord = lastAutoPlayedWordRef.current
+    if (lastAutoPlayedWord?.word === word.name && now - lastAutoPlayedWord.timestamp < 600) return
+
+    lastAutoPlayedWordRef.current = { word: word.name, timestamp: now }
+    wordPronunciationIconRef.current?.play()
+  }, [state.isTyping, word.name, wordState.inputWord.length])
 
   const getLetterVisible = useCallback(
     (index: number) => {
@@ -192,7 +206,8 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
       })
 
       if (inputLength >= wordState.displayWord.length) {
-        // 完成输入时
+        // 完成英文输入后显示当前词释义，但不要求用户输入中文。
+        onAnswerComplete()
         setWordState((state) => {
           state.letterStates[inputLength - 1] = 'correct'
           state.isFinished = true
@@ -269,7 +284,8 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
         letterMistake: wordState.letterMistake,
       })
 
-      onFinish()
+      const finishTimer = window.setTimeout(onFinish, state.isTransVisible ? 0 : 1200)
+      return () => window.clearTimeout(finishTimer)
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [wordState.isFinished])

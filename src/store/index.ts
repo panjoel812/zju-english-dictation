@@ -16,13 +16,15 @@ import type { ReviewRecord } from '@/utils/db/record'
 import { atom } from 'jotai'
 import { atomWithStorage } from 'jotai/utils'
 
-export const currentDictIdAtom = atomWithStorage('currentDict', 'cet4')
+const DEFAULT_DICTIONARY_ID = 'zju-english-3-unit-1-reading-1'
+
+export const currentDictIdAtom = atomWithStorage('currentDict-zju-english3', DEFAULT_DICTIONARY_ID)
 export const currentDictInfoAtom = atom<Dictionary>((get) => {
   const id = get(currentDictIdAtom)
   let dict = idDictionaryMap[id]
-  // 如果 dict 不存在，则返回 cet4. Typing 中会检查 DictId 是否存在，如果不存在则会重置为 cet4
+  // 如果 dict 不存在，则返回默认的浙大英语III词典。
   if (!dict) {
-    dict = idDictionaryMap.cet4
+    dict = idDictionaryMap[DEFAULT_DICTIONARY_ID]
   }
   return dict
 })
@@ -102,7 +104,7 @@ export const infoPanelStateAtom = atom<InfoPanelState>({
   redBook: false,
 })
 
-export const wordDictationConfigAtom = atomForConfig('wordDictationConfig', {
+export const wordDictationConfigAtom = atomForConfig('wordDictationConfig-v2', {
   isOpen: false,
   type: 'hideAll' as WordDictationType,
   openBy: 'auto' as WordDictationOpenBy,

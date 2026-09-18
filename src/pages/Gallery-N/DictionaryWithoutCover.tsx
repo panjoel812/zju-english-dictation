@@ -34,15 +34,15 @@ export default function DictionaryComponent({ dictionary }: Props) {
       <DialogTrigger asChild>
         <div
           ref={divRef}
-          className={`group flex  h-36 w-80 cursor-pointer items-center justify-center overflow-hidden rounded-lg p-4 text-left shadow-lg focus:outline-none ${
+          className={`group flex min-h-44 w-80 cursor-pointer items-center justify-center overflow-hidden rounded-lg p-4 text-left shadow-lg focus:outline-none ${
             isSelected ? 'bg-indigo-400' : 'bg-zinc-50 hover:bg-white dark:bg-gray-800 dark:hover:bg-gray-700'
           }`}
           role="button"
           // onClick={onClick}
         >
-          <div className="relative ml-1 mt-2 flex h-full w-full flex-col items-start justify-start">
+          <div className="relative ml-1 flex h-full w-full flex-col items-start justify-start">
             <h1
-              className={`mb-1.5 text-xl font-normal  ${
+              className={`mb-1.5 line-clamp-2 min-h-[3.5rem] break-words text-xl font-normal leading-7 ${
                 isSelected ? 'text-white' : 'text-gray-800 group-hover:text-indigo-400 dark:text-gray-200'
               }`}
             >
@@ -52,7 +52,7 @@ export default function DictionaryComponent({ dictionary }: Props) {
               <Tooltip delayDuration={400}>
                 <TooltipTrigger asChild>
                   <p
-                    className={`mb-1 max-w-full truncate ${
+                    className={`mb-1 max-w-full truncate leading-5 ${
                       isSelected ? 'text-white' : 'textdelayDuration-gray-600 dark:text-gray-200'
                     } whitespace-nowrap`}
                   >
@@ -65,8 +65,8 @@ export default function DictionaryComponent({ dictionary }: Props) {
               </Tooltip>
             </TooltipProvider>
 
-            <p className={`mb-0.5 font-bold  ${isSelected ? 'text-white' : 'text-gray-600 dark:text-gray-200'}`}>{dictionary.length} 词</p>
-            <div className=" flex w-full items-center pt-2">
+            <p className={`mt-auto mb-0.5 font-bold ${isSelected ? 'text-white' : 'text-gray-600 dark:text-gray-200'}`}>{dictionary.length} 词</p>
+            <div className="flex w-full items-center pt-2">
               {progress > 0 && (
                 <Progress.Root
                   value={progress}

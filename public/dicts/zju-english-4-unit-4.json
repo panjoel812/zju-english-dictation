@@ -1,0 +1,530 @@
+[
+  {
+    "name": "freediving",
+    "trans": [
+      "自由潜水"
+    ]
+  },
+  {
+    "name": "championship",
+    "trans": [
+      "锦标赛"
+    ]
+  },
+  {
+    "name": "superficial",
+    "trans": [
+      "肤浅的"
+    ]
+  },
+  {
+    "name": "nonetheless",
+    "trans": [
+      "尽管如此"
+    ]
+  },
+  {
+    "name": "spectator",
+    "trans": [
+      "观看者"
+    ]
+  },
+  {
+    "name": "diver",
+    "trans": [
+      "潜水员"
+    ]
+  },
+  {
+    "name": "dangle",
+    "trans": [
+      "（使）悬垂"
+    ]
+  },
+  {
+    "name": "terrify",
+    "trans": [
+      "使恐惧"
+    ]
+  },
+  {
+    "name": "bare",
+    "trans": [
+      "裸体的；裸露的"
+    ]
+  },
+  {
+    "name": "stroke",
+    "trans": [
+      "一次划水"
+    ]
+  },
+  {
+    "name": "loosen",
+    "trans": [
+      "使变松"
+    ]
+  },
+  {
+    "name": "skydiver",
+    "trans": [
+      "特技跳伞运动员"
+    ]
+  },
+  {
+    "name": "pose",
+    "trans": [
+      "姿势"
+    ]
+  },
+  {
+    "name": "vanish",
+    "trans": [
+      "突然消失"
+    ]
+  },
+  {
+    "name": "sonar",
+    "trans": [
+      "声呐"
+    ]
+  },
+  {
+    "name": "descent",
+    "trans": [
+      "下降；降落"
+    ]
+  },
+  {
+    "name": "tick",
+    "trans": [
+      "给…打钩号"
+    ]
+  },
+  {
+    "name": "agonizing",
+    "trans": [
+      "折磨人的"
+    ]
+  },
+  {
+    "name": "headlight",
+    "trans": [
+      "前灯"
+    ]
+  },
+  {
+    "name": "fog",
+    "trans": [
+      "雾"
+    ]
+  },
+  {
+    "name": "exhale",
+    "trans": [
+      "呼出；吐气"
+    ]
+  },
+  {
+    "name": "scuba",
+    "trans": [
+      "水肺"
+    ]
+  },
+  {
+    "name": "fin",
+    "trans": [
+      "手蹼"
+    ]
+  },
+  {
+    "name": "assist",
+    "trans": [
+      "协助"
+    ]
+  },
+  {
+    "name": "resurface",
+    "trans": [
+      "重新露出水面"
+    ]
+  },
+  {
+    "name": "cardiac",
+    "trans": [
+      "心脏"
+    ]
+  },
+  {
+    "name": "cardiac arrest",
+    "trans": [
+      "心脏停搏"
+    ]
+  },
+  {
+    "name": "underwater",
+    "trans": [
+      "水下的"
+    ]
+  },
+  {
+    "name": "keenly",
+    "trans": [
+      "观察敏锐的；强烈的"
+    ]
+  },
+  {
+    "name": "envelop",
+    "trans": [
+      "包住；覆盖"
+    ]
+  },
+  {
+    "name": "wilderness",
+    "trans": [
+      "未开发的地区"
+    ]
+  },
+  {
+    "name": "frontier",
+    "trans": [
+      "未完全开拓的领域"
+    ]
+  },
+  {
+    "name": "penalty",
+    "trans": [
+      "惩罚，处罚"
+    ]
+  },
+  {
+    "name": "marine",
+    "trans": [
+      "海洋的"
+    ]
+  },
+  {
+    "name": "fraction",
+    "trans": [
+      "一点"
+    ]
+  },
+  {
+    "name": "exploration",
+    "trans": [
+      "勘探；勘察"
+    ]
+  },
+  {
+    "name": "mysterious",
+    "trans": [
+      "神秘的"
+    ]
+  },
+  {
+    "name": "handful",
+    "trans": [
+      "少数人"
+    ]
+  },
+  {
+    "name": "sailor",
+    "trans": [
+      "水手"
+    ]
+  },
+  {
+    "name": "menace",
+    "trans": [
+      "危险的人或事物"
+    ]
+  },
+  {
+    "name": "on occasion",
+    "trans": [
+      "偶尔；偶然；有时"
+    ]
+  },
+  {
+    "name": "on sb's (own) terms",
+    "trans": [
+      "按照…的条件"
+    ]
+  },
+  {
+    "name": "galaxy",
+    "trans": [
+      "星系"
+    ]
+  },
+  {
+    "name": "terrestrial",
+    "trans": [
+      "地球的；地球上的"
+    ]
+  },
+  {
+    "name": "necessitate",
+    "trans": [
+      "使成为必需"
+    ]
+  },
+  {
+    "name": "observational",
+    "trans": [
+      "观察的"
+    ]
+  },
+  {
+    "name": "ingredient",
+    "trans": [
+      "原料；成分"
+    ]
+  },
+  {
+    "name": "orbit",
+    "trans": [
+      "沿轨道运行"
+    ]
+  },
+  {
+    "name": "flare",
+    "trans": [
+      "耀斑"
+    ]
+  },
+  {
+    "name": "strip",
+    "trans": [
+      "剥去，除去"
+    ]
+  },
+  {
+    "name": "axis",
+    "trans": [
+      "轴"
+    ]
+  },
+  {
+    "name": "stabilize",
+    "trans": [
+      "（使）稳定"
+    ]
+  },
+  {
+    "name": "axial",
+    "trans": [
+      "轴的"
+    ]
+  },
+  {
+    "name": "tilt",
+    "trans": [
+      "倾斜"
+    ]
+  },
+  {
+    "name": "shield",
+    "trans": [
+      "保护；保卫"
+    ]
+  },
+  {
+    "name": "catastrophic",
+    "trans": [
+      "灾难性的"
+    ]
+  },
+  {
+    "name": "proverbial",
+    "trans": [
+      "俗话说的"
+    ]
+  },
+  {
+    "name": "exo-planet",
+    "trans": [
+      "系外行星"
+    ]
+  },
+  {
+    "name": "astrobiology",
+    "trans": [
+      "天体生物学"
+    ]
+  },
+  {
+    "name": "preconception",
+    "trans": [
+      "先入之见"
+    ]
+  },
+  {
+    "name": "hydrothermal",
+    "trans": [
+      "热液的"
+    ]
+  },
+  {
+    "name": "vent",
+    "trans": [
+      "出口，进口"
+    ]
+  },
+  {
+    "name": "absence",
+    "trans": [
+      "不存在；缺乏"
+    ]
+  },
+  {
+    "name": "plausible",
+    "trans": [
+      "有理的"
+    ]
+  },
+  {
+    "name": "conductive",
+    "trans": [
+      "有助于…的发生"
+    ]
+  },
+  {
+    "name": "requirement",
+    "trans": [
+      "必要条件"
+    ]
+  },
+  {
+    "name": "membrane",
+    "trans": [
+      "膜"
+    ]
+  },
+  {
+    "name": "aqueous",
+    "trans": [
+      "含水的"
+    ]
+  },
+  {
+    "name": "radioisotope",
+    "trans": [
+      "放射性同位素"
+    ]
+  },
+  {
+    "name": "decay",
+    "trans": [
+      "衰变"
+    ]
+  },
+  {
+    "name": "geothermal",
+    "trans": [
+      "地热的；地温的"
+    ]
+  },
+  {
+    "name": "rogue",
+    "trans": [
+      "离群的"
+    ]
+  },
+  {
+    "name": "habitable",
+    "trans": [
+      "适合居住的"
+    ]
+  },
+  {
+    "name": "inquire",
+    "trans": [
+      "询问；打听"
+    ]
+  },
+  {
+    "name": "inquiry",
+    "trans": [
+      "查询"
+    ]
+  },
+  {
+    "name": "planetary",
+    "trans": [
+      "行星的"
+    ]
+  },
+  {
+    "name": "spectroscopy",
+    "trans": [
+      "光谱学"
+    ]
+  },
+  {
+    "name": "probe",
+    "trans": [
+      "盘问；追问"
+    ]
+  },
+  {
+    "name": "seasonal",
+    "trans": [
+      "季节性的"
+    ]
+  },
+  {
+    "name": "periodic",
+    "trans": [
+      "周期性的"
+    ]
+  },
+  {
+    "name": "neutrino",
+    "trans": [
+      "中微子"
+    ]
+  },
+  {
+    "name": "inhabitant",
+    "trans": [
+      "居民"
+    ]
+  },
+  {
+    "name": "detection",
+    "trans": [
+      "觉察"
+    ]
+  },
+  {
+    "name": "property",
+    "trans": [
+      "特性"
+    ]
+  },
+  {
+    "name": "restrict",
+    "trans": [
+      "约束；限制"
+    ]
+  },
+  {
+    "name": "solar",
+    "trans": [
+      "太阳的"
+    ]
+  },
+  {
+    "name": "doom",
+    "trans": [
+      "使注定"
+    ]
+  },
+  {
+    "name": "extraterrestrial",
+    "trans": [
+      "地球外的"
+    ]
+  }
+]

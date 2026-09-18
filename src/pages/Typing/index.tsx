@@ -10,7 +10,6 @@ import WordPanel from './components/WordPanel'
 import { useConfetti } from './hooks/useConfetti'
 import { useWordList } from './hooks/useWordList'
 import { TypingContext, TypingStateActionType, initialState, typingReducer } from './store'
-import { DonateCard } from '@/components/DonateCard'
 import Header from '@/components/Header'
 import Tooltip from '@/components/Tooltip'
 import { idDictionaryMap } from '@/resources/dictionary'
@@ -24,6 +23,7 @@ import { useCallback, useEffect, useState } from 'react'
 import { useImmerReducer } from 'use-immer'
 
 const App: React.FC = () => {
+  const defaultDictionaryId = 'zju-english-3-unit-1-reading-1'
   const [state, dispatch] = useImmerReducer(typingReducer, structuredClone(initialState))
   const [isLoading, setIsLoading] = useState<boolean>(true)
   const { words } = useWordList()
@@ -52,7 +52,7 @@ const App: React.FC = () => {
   useEffect(() => {
     const id = currentDictId
     if (!(id in idDictionaryMap)) {
-      setCurrentDictId('cet4')
+      setCurrentDictId(defaultDictionaryId)
       setCurrentChapter(0)
       return
     }
@@ -128,7 +128,6 @@ const App: React.FC = () => {
 
   return (
     <TypingContext.Provider value={{ state: state, dispatch }}>
-      {state.isFinished && <DonateCard />}
       {state.isFinished && <ResultScreen />}
       <Layout>
         <Header>

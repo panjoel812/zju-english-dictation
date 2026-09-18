@@ -1,0 +1,758 @@
+[
+  {
+    "name": "afflict",
+    "trans": [
+      "折磨；使痛苦"
+    ]
+  },
+  {
+    "name": "veiled",
+    "trans": [
+      "隐含的；不明言的"
+    ]
+  },
+  {
+    "name": "conceal",
+    "trans": [
+      "隐瞒；掩盖"
+    ]
+  },
+  {
+    "name": "hasten",
+    "trans": [
+      "赶紧做（或说）"
+    ]
+  },
+  {
+    "name": "forestall",
+    "trans": [
+      "预先阻止"
+    ]
+  },
+  {
+    "name": "tender",
+    "trans": [
+      "温柔的；体贴入微的"
+    ]
+  },
+  {
+    "name": "weep",
+    "trans": [
+      "哭泣；流泪"
+    ]
+  },
+  {
+    "name": "abandon",
+    "trans": [
+      "陷入（某种感情）；抛弃"
+    ]
+  },
+  {
+    "name": "abandonment",
+    "trans": [
+      "放任；放纵"
+    ]
+  },
+  {
+    "name": "armchair",
+    "trans": [
+      "扶手椅"
+    ]
+  },
+  {
+    "name": "exhaustion",
+    "trans": [
+      "筋疲力尽"
+    ]
+  },
+  {
+    "name": "haunt",
+    "trans": [
+      "缠扰；纠缠"
+    ]
+  },
+  {
+    "name": "wares",
+    "trans": [
+      "商品；货物"
+    ]
+  },
+  {
+    "name": "faintly",
+    "trans": [
+      "不清楚地；模糊地"
+    ]
+  },
+  {
+    "name": "sparrow",
+    "trans": [
+      "麻雀"
+    ]
+  },
+  {
+    "name": "twitter",
+    "trans": [
+      "（鸟）鸣啭"
+    ]
+  },
+  {
+    "name": "eaves",
+    "trans": [
+      "屋檐"
+    ]
+  },
+  {
+    "name": "patch",
+    "trans": [
+      "小片；小块"
+    ]
+  },
+  {
+    "name": "cushion",
+    "trans": [
+      "垫子；靠垫；坐垫"
+    ]
+  },
+  {
+    "name": "sob",
+    "trans": [
+      "抽噎声；啜泣声"
+    ]
+  },
+  {
+    "name": "bespeak",
+    "trans": [
+      "显示；表示"
+    ]
+  },
+  {
+    "name": "repress",
+    "trans": [
+      "忍住；克制"
+    ]
+  },
+  {
+    "name": "repression",
+    "trans": [
+      "抑制；压抑"
+    ]
+  },
+  {
+    "name": "gaze",
+    "trans": [
+      "凝视；注视"
+    ]
+  },
+  {
+    "name": "younder",
+    "trans": [
+      "在那边（的）"
+    ]
+  },
+  {
+    "name": "suspension",
+    "trans": [
+      "暂停；中止"
+    ]
+  },
+  {
+    "name": "subtle",
+    "trans": [
+      "细微的；微妙的；难以察觉的"
+    ]
+  },
+  {
+    "name": "elusive",
+    "trans": [
+      "难找的；不常见到的"
+    ]
+  },
+  {
+    "name": "creep",
+    "trans": [
+      "轻声地缓慢前进"
+    ]
+  },
+  {
+    "name": "scent",
+    "trans": [
+      "气味；（尤指）香味"
+    ]
+  },
+  {
+    "name": "bosom",
+    "trans": [
+      "胸部"
+    ]
+  },
+  {
+    "name": "tumultuously",
+    "trans": [
+      "骚乱地；骚动地"
+    ]
+  },
+  {
+    "name": "slender",
+    "trans": [
+      "苗条的；修长的"
+    ]
+  },
+  {
+    "name": "vacant",
+    "trans": [
+      "茫然的；失神的"
+    ]
+  },
+  {
+    "name": "terror",
+    "trans": [
+      "恐惧；惊恐"
+    ]
+  },
+  {
+    "name": "pulse",
+    "trans": [
+      "脉搏"
+    ]
+  },
+  {
+    "name": "monstrous",
+    "trans": [
+      "极端错误的"
+    ]
+  },
+  {
+    "name": "exalted",
+    "trans": [
+      "兴高采烈的"
+    ]
+  },
+  {
+    "name": "dismiss",
+    "trans": [
+      "拒绝考虑；不理会"
+    ]
+  },
+  {
+    "name": "procession",
+    "trans": [
+      "一连串的人（或物）"
+    ]
+  },
+  {
+    "name": "persistence",
+    "trans": [
+      "坚持；执着；执意"
+    ]
+  },
+  {
+    "name": "illumination",
+    "trans": [
+      "阐明；理解"
+    ]
+  },
+  {
+    "name": "kneel",
+    "trans": [
+      "跪着；跪下"
+    ]
+  },
+  {
+    "name": "elixir",
+    "trans": [
+      "灵丹妙药；不老药"
+    ]
+  },
+  {
+    "name": "riot",
+    "trans": [
+      "暴乱；骚乱"
+    ]
+  },
+  {
+    "name": "shudder",
+    "trans": [
+      "战栗；颤抖"
+    ]
+  },
+  {
+    "name": "importunity",
+    "trans": [
+      "强求"
+    ]
+  },
+  {
+    "name": "feverish",
+    "trans": [
+      "特别激动的"
+    ]
+  },
+  {
+    "name": "triumph",
+    "trans": [
+      "成功的满足感"
+    ]
+  },
+  {
+    "name": "unwittingly",
+    "trans": [
+      "不知不觉地"
+    ]
+  },
+  {
+    "name": "clasp",
+    "trans": [
+      "握紧；抱紧"
+    ]
+  },
+  {
+    "name": "descend",
+    "trans": [
+      "从…下来；下降"
+    ]
+  },
+  {
+    "name": "latchkey",
+    "trans": [
+      "碰锁钥匙"
+    ]
+  },
+  {
+    "name": "composedly",
+    "trans": [
+      "镇静地"
+    ]
+  },
+  {
+    "name": "pierce",
+    "trans": [
+      "刺入；刺穿；刺破"
+    ]
+  },
+  {
+    "name": "piercing",
+    "trans": [
+      "尖锐的；刺耳的"
+    ]
+  },
+  {
+    "name": "take the time",
+    "trans": [
+      "花费力气（做某事）"
+    ]
+  },
+  {
+    "name": "count for",
+    "trans": [
+      "有价值；有重要性"
+    ]
+  },
+  {
+    "name": "for heaven's sake",
+    "trans": [
+      "天哪"
+    ]
+  },
+  {
+    "name": "drink in",
+    "trans": [
+      "享受地看；品味"
+    ]
+  },
+  {
+    "name": "run riot",
+    "trans": [
+      "（想象力）自由驰骋"
+    ]
+  },
+  {
+    "name": "at length",
+    "trans": [
+      "最后；终于"
+    ]
+  },
+  {
+    "name": "needful",
+    "trans": [
+      "必要的；需要的"
+    ]
+  },
+  {
+    "name": "confines",
+    "trans": [
+      "界限；范围"
+    ]
+  },
+  {
+    "name": "cramp",
+    "trans": [
+      "限制，束缚"
+    ]
+  },
+  {
+    "name": "noxious",
+    "trans": [
+      "有害的；有毒的"
+    ]
+  },
+  {
+    "name": "medicinal",
+    "trans": [
+      "有疗效的；有药效的"
+    ]
+  },
+  {
+    "name": "restore",
+    "trans": [
+      "使恢复；使回复"
+    ]
+  },
+  {
+    "name": "attorney",
+    "trans": [
+      "律师"
+    ]
+  },
+  {
+    "name": "din",
+    "trans": [
+      "（持久的）嘈杂声；喧闹声"
+    ]
+  },
+  {
+    "name": "craft",
+    "trans": [
+      "诡计；手腕"
+    ]
+  },
+  {
+    "name": "horizon",
+    "trans": [
+      "地平线"
+    ]
+  },
+  {
+    "name": "corporeal",
+    "trans": [
+      "身体的；肉体的"
+    ]
+  },
+  {
+    "name": "spectacle",
+    "trans": [
+      "壮观的景象；奇观"
+    ]
+  },
+  {
+    "name": "float",
+    "trans": [
+      "漂流；飘动"
+    ]
+  },
+  {
+    "name": "crimson",
+    "trans": [
+      "深红色的"
+    ]
+  },
+  {
+    "name": "partake",
+    "trans": [
+      "参加；参与"
+    ]
+  },
+  {
+    "name": "transformation",
+    "trans": [
+      "彻底改观"
+    ]
+  },
+  {
+    "name": "enchantment",
+    "trans": [
+      "迷人；魅力"
+    ]
+  },
+  {
+    "name": "dilate",
+    "trans": [
+      "（使）膨胀"
+    ]
+  },
+  {
+    "name": "conspire",
+    "trans": [
+      "搞阴谋；密谋"
+    ]
+  },
+  {
+    "name": "deify",
+    "trans": [
+      "崇拜"
+    ]
+  },
+  {
+    "name": "pomp",
+    "trans": [
+      "华典；盛典"
+    ]
+  },
+  {
+    "name": "faerie",
+    "trans": [
+      "仙子；小精灵"
+    ]
+  },
+  {
+    "name": "mystic",
+    "trans": [
+      "神奇的；神秘的"
+    ]
+  },
+  {
+    "name": "susceptibility",
+    "trans": [
+      "易受影响的倾向；敏感性"
+    ]
+  },
+  {
+    "name": "flake",
+    "trans": [
+      "小薄片"
+    ]
+  },
+  {
+    "name": "modulate",
+    "trans": [
+      "改变；调整"
+    ]
+  },
+  {
+    "name": "tint",
+    "trans": [
+      "浅色；淡色调"
+    ]
+  },
+  {
+    "name": "repose",
+    "trans": [
+      "安详；休息"
+    ]
+  },
+  {
+    "name": "mill",
+    "trans": [
+      "磨坊"
+    ]
+  },
+  {
+    "name": "spire",
+    "trans": [
+      "尖顶"
+    ]
+  },
+  {
+    "name": "calix",
+    "trans": [
+      "花萼"
+    ]
+  },
+  {
+    "name": "stubble",
+    "trans": [
+      "残株"
+    ]
+  },
+  {
+    "name": "rime",
+    "trans": [
+      "使…蒙上白霜"
+    ]
+  },
+  {
+    "name": "mute",
+    "trans": [
+      "缄默的"
+    ]
+  },
+  {
+    "name": "genial",
+    "trans": [
+      "友好的；善良的"
+    ]
+  },
+  {
+    "name": "behold",
+    "trans": [
+      "看；看见"
+    ]
+  },
+  {
+    "name": "glory",
+    "trans": [
+      "壮丽；灿烂"
+    ]
+  },
+  {
+    "name": "gloom",
+    "trans": [
+      "昏暗"
+    ]
+  },
+  {
+    "name": "alter",
+    "trans": [
+      "使变样；改变"
+    ]
+  },
+  {
+    "name": "succession",
+    "trans": [
+      "一连串，一系列"
+    ]
+  },
+  {
+    "name": "pasture",
+    "trans": [
+      "牧场"
+    ]
+  },
+  {
+    "name": "tribe",
+    "trans": [
+      "族，群"
+    ]
+  },
+  {
+    "name": "punctual",
+    "trans": [
+      "按时的，准时的"
+    ]
+  },
+  {
+    "name": "watercourse",
+    "trans": [
+      "河道；溪流"
+    ]
+  },
+  {
+    "name": "Pontedeira",
+    "trans": [
+      "梭鱼草"
+    ]
+  },
+  {
+    "name": "bloom",
+    "trans": [
+      "开花"
+    ]
+  },
+  {
+    "name": "swarm",
+    "trans": [
+      "成群地来回移动"
+    ]
+  },
+  {
+    "name": "perpetual",
+    "trans": [
+      "长期的；永恒的"
+    ]
+  },
+  {
+    "name": "gala",
+    "trans": [
+      "特别演出"
+    ]
+  },
+  {
+    "name": "ornament",
+    "trans": [
+      "装饰品；点缀品"
+    ]
+  },
+  {
+    "name": "dewy",
+    "trans": [
+      "带露水的"
+    ]
+  },
+  {
+    "name": "orchard",
+    "trans": [
+      "果园"
+    ]
+  },
+  {
+    "name": "blossom",
+    "trans": [
+      "花，全部花朵"
+    ]
+  },
+  {
+    "name": "mock",
+    "trans": [
+      "嘲弄；取笑"
+    ]
+  },
+  {
+    "name": "mere",
+    "trans": [
+      "仅仅的，只不过"
+    ]
+  },
+  {
+    "name": "tinsel",
+    "trans": [
+      "闪光纸"
+    ]
+  },
+  {
+    "name": "shimmer",
+    "trans": [
+      "发微光；闪闪发亮"
+    ]
+  },
+  {
+    "name": "clutch",
+    "trans": [
+      "紧握，紧抓"
+    ]
+  },
+  {
+    "name": "mirage",
+    "trans": [
+      "幻景；海市蜃楼"
+    ]
+  },
+  {
+    "name": "diligence",
+    "trans": [
+      "勤奋；用功"
+    ]
+  },
+  {
+    "name": "herald",
+    "trans": [
+      "预兆"
+    ]
+  },
+  {
+    "name": "inward",
+    "trans": [
+      "内心的；精神的"
+    ]
+  },
+  {
+    "name": "so long as",
+    "trans": [
+      "只要"
+    ]
+  },
+  {
+    "name": "and the like",
+    "trans": [
+      "诸如此类；等等"
+    ]
+  }
+]

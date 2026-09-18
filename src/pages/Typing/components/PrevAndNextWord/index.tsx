@@ -54,7 +54,7 @@ export default function PrevAndNextWord({ type }: LastAndNextWordProps) {
               >
                 {headWord}
               </p>
-              {state.isTransVisible && (
+              {(type === 'prev' || state.isTransVisible) && (
                 <p className="line-clamp-1 max-w-full text-sm font-normal text-gray-600 dark:text-gray-500">{word.trans.join('；')}</p>
               )}
             </div>

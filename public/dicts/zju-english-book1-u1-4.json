@@ -1,0 +1,982 @@
+[
+  {
+    "name": "ambition",
+    "trans": []
+  },
+  {
+    "name": "ambitious",
+    "trans": []
+  },
+  {
+    "name": "someday",
+    "trans": []
+  },
+  {
+    "name": "matter-of-factly",
+    "trans": []
+  },
+  {
+    "name": "biology",
+    "trans": []
+  },
+  {
+    "name": "resolve",
+    "trans": []
+  },
+  {
+    "name": "fiction",
+    "trans": []
+  },
+  {
+    "name": "freshman",
+    "trans": []
+  },
+  {
+    "name": "pretend",
+    "trans": []
+  },
+  {
+    "name": "desperate",
+    "trans": []
+  },
+  {
+    "name": "buddy",
+    "trans": []
+  },
+  {
+    "name": "entertaining",
+    "trans": []
+  },
+  {
+    "name": "apologetic",
+    "trans": []
+  },
+  {
+    "name": "attain",
+    "trans": []
+  },
+  {
+    "name": "attainable",
+    "trans": []
+  },
+  {
+    "name": "determination",
+    "trans": []
+  },
+  {
+    "name": "realistic",
+    "trans": []
+  },
+  {
+    "name": "ethologist",
+    "trans": []
+  },
+  {
+    "name": "jungle",
+    "trans": []
+  },
+  {
+    "name": "fated",
+    "trans": []
+  },
+  {
+    "name": "adventurous",
+    "trans": []
+  },
+  {
+    "name": "exotic",
+    "trans": []
+  },
+  {
+    "name": "string",
+    "trans": []
+  },
+  {
+    "name": "conflict",
+    "trans": []
+  },
+  {
+    "name": "whole-heartedly",
+    "trans": []
+  },
+  {
+    "name": "single-mindedly",
+    "trans": []
+  },
+  {
+    "name": "greedy",
+    "trans": []
+  },
+  {
+    "name": "chaotic",
+    "trans": []
+  },
+  {
+    "name": "overdue",
+    "trans": []
+  },
+  {
+    "name": "mature",
+    "trans": []
+  },
+  {
+    "name": "assign",
+    "trans": []
+  },
+  {
+    "name": "pediatrician",
+    "trans": []
+  },
+  {
+    "name": "best-seller",
+    "trans": []
+  },
+  {
+    "name": "anymore",
+    "trans": []
+  },
+  {
+    "name": "strive",
+    "trans": []
+  },
+  {
+    "name": "best-selling",
+    "trans": []
+  },
+  {
+    "name": "appealing",
+    "trans": []
+  },
+  {
+    "name": "tongue",
+    "trans": []
+  },
+  {
+    "name": "depression",
+    "trans": []
+  },
+  {
+    "name": "isolation",
+    "trans": []
+  },
+  {
+    "name": "employee",
+    "trans": []
+  },
+  {
+    "name": "philosopher",
+    "trans": []
+  },
+  {
+    "name": "unfold",
+    "trans": []
+  },
+  {
+    "name": "mindset",
+    "trans": []
+  },
+  {
+    "name": "lessen",
+    "trans": []
+  },
+  {
+    "name": "emotional",
+    "trans": []
+  },
+  {
+    "name": "perceive",
+    "trans": []
+  },
+  {
+    "name": "heroic",
+    "trans": []
+  },
+  {
+    "name": "consistent",
+    "trans": []
+  },
+  {
+    "name": "sustainable",
+    "trans": []
+  },
+  {
+    "name": "fitness",
+    "trans": []
+  },
+  {
+    "name": "creativity",
+    "trans": []
+  },
+  {
+    "name": "marathon",
+    "trans": []
+  },
+  {
+    "name": "literally",
+    "trans": []
+  },
+  {
+    "name": "overextend",
+    "trans": []
+  },
+  {
+    "name": "obsess",
+    "trans": []
+  },
+  {
+    "name": "maximum",
+    "trans": []
+  },
+  {
+    "name": "workout",
+    "trans": []
+  },
+  {
+    "name": "unlike",
+    "trans": []
+  },
+  {
+    "name": "paradox",
+    "trans": []
+  },
+  {
+    "name": "perform",
+    "trans": []
+  },
+  {
+    "name": "chase",
+    "trans": []
+  },
+  {
+    "name": "grounded",
+    "trans": []
+  },
+  {
+    "name": "productive",
+    "trans": []
+  },
+  {
+    "name": "ethos",
+    "trans": []
+  },
+  {
+    "name": "dispute",
+    "trans": []
+  },
+  {
+    "name": "indisputable",
+    "trans": []
+  },
+  {
+    "name": "explanation",
+    "trans": []
+  },
+  {
+    "name": "straightforward",
+    "trans": []
+  },
+  {
+    "name": "economics",
+    "trans": []
+  },
+  {
+    "name": "economy",
+    "trans": []
+  },
+  {
+    "name": "squeeze",
+    "trans": []
+  },
+  {
+    "name": "engage",
+    "trans": []
+  },
+  {
+    "name": "dominate",
+    "trans": []
+  },
+  {
+    "name": "manufacture",
+    "trans": []
+  },
+  {
+    "name": "manufacturing",
+    "trans": []
+  },
+  {
+    "name": "harvest",
+    "trans": []
+  },
+  {
+    "name": "ripe",
+    "trans": []
+  },
+  {
+    "name": "infinite",
+    "trans": []
+  },
+  {
+    "name": "incoming",
+    "trans": []
+  },
+  {
+    "name": "mobile",
+    "trans": []
+  },
+  {
+    "name": "handle",
+    "trans": []
+  },
+  {
+    "name": "inevitably",
+    "trans": []
+  },
+  {
+    "name": "overwhelm",
+    "trans": []
+  },
+  {
+    "name": "finite",
+    "trans": []
+  },
+  {
+    "name": "demonstrate",
+    "trans": []
+  },
+  {
+    "name": "ironic",
+    "trans": []
+  },
+  {
+    "name": "economist",
+    "trans": []
+  },
+  {
+    "name": "scarcity",
+    "trans": []
+  },
+  {
+    "name": "commitment",
+    "trans": []
+  },
+  {
+    "name": "priority",
+    "trans": []
+  },
+  {
+    "name": "prioritise",
+    "trans": []
+  },
+  {
+    "name": "crucial",
+    "trans": []
+  },
+  {
+    "name": "infect",
+    "trans": []
+  },
+  {
+    "name": "leisure",
+    "trans": []
+  },
+  {
+    "name": "recovery",
+    "trans": []
+  },
+  {
+    "name": "epidemic",
+    "trans": []
+  },
+  {
+    "name": "ultimate",
+    "trans": []
+  },
+  {
+    "name": "status",
+    "trans": []
+  },
+  {
+    "name": "badge",
+    "trans": []
+  },
+  {
+    "name": "indicator",
+    "trans": []
+  },
+  {
+    "name": "absurd",
+    "trans": []
+  },
+  {
+    "name": "locksmith",
+    "trans": []
+  },
+  {
+    "name": "fee",
+    "trans": []
+  },
+  {
+    "name": "complain",
+    "trans": []
+  },
+  {
+    "name": "regain",
+    "trans": []
+  },
+  {
+    "name": "access",
+    "trans": []
+  },
+  {
+    "name": "stroll",
+    "trans": []
+  },
+  {
+    "name": "leisurely",
+    "trans": []
+  },
+  {
+    "name": "ulcer",
+    "trans": []
+  },
+  {
+    "name": "fingernail",
+    "trans": []
+  },
+  {
+    "name": "abuse",
+    "trans": []
+  },
+  {
+    "name": "wimp",
+    "trans": []
+  },
+  {
+    "name": "luggage",
+    "trans": []
+  },
+  {
+    "name": "practically",
+    "trans": []
+  },
+  {
+    "name": "fuss",
+    "trans": []
+  },
+  {
+    "name": "crush",
+    "trans": []
+  },
+  {
+    "name": "self",
+    "trans": []
+  },
+  {
+    "name": "conspiracy",
+    "trans": []
+  },
+  {
+    "name": "airline",
+    "trans": []
+  },
+  {
+    "name": "embarrass",
+    "trans": []
+  },
+  {
+    "name": "embarrassment",
+    "trans": []
+  },
+  {
+    "name": "embarrassed",
+    "trans": []
+  },
+  {
+    "name": "corridor",
+    "trans": []
+  },
+  {
+    "name": "stumble",
+    "trans": []
+  },
+  {
+    "name": "occupy",
+    "trans": []
+  },
+  {
+    "name": "unoccupied",
+    "trans": []
+  },
+  {
+    "name": "gut",
+    "trans": []
+  },
+  {
+    "name": "snap",
+    "trans": []
+  },
+  {
+    "name": "lifetime",
+    "trans": []
+  },
+  {
+    "name": "wrestle",
+    "trans": []
+  },
+  {
+    "name": "outcome",
+    "trans": []
+  },
+  {
+    "name": "tense",
+    "trans": []
+  },
+  {
+    "name": "strain",
+    "trans": []
+  },
+  {
+    "name": "wrist",
+    "trans": []
+  },
+  {
+    "name": "grin",
+    "trans": []
+  },
+  {
+    "name": "teen",
+    "trans": []
+  },
+  {
+    "name": "athletic",
+    "trans": []
+  },
+  {
+    "name": "athleticism",
+    "trans": []
+  },
+  {
+    "name": "gasp",
+    "trans": []
+  },
+  {
+    "name": "recall",
+    "trans": []
+  },
+  {
+    "name": "clip",
+    "trans": []
+  },
+  {
+    "name": "clipping",
+    "trans": []
+  },
+  {
+    "name": "underline",
+    "trans": []
+  },
+  {
+    "name": "helmet",
+    "trans": []
+  },
+  {
+    "name": "grapple",
+    "trans": []
+  },
+  {
+    "name": "ritual",
+    "trans": []
+  },
+  {
+    "name": "competitive",
+    "trans": []
+  },
+  {
+    "name": "palm",
+    "trans": []
+  },
+  {
+    "name": "twist",
+    "trans": []
+  },
+  {
+    "name": "wrap",
+    "trans": []
+  },
+  {
+    "name": "grip",
+    "trans": []
+  },
+  {
+    "name": "elbow",
+    "trans": []
+  },
+  {
+    "name": "indentation",
+    "trans": []
+  },
+  {
+    "name": "itchy",
+    "trans": []
+  },
+  {
+    "name": "defeat",
+    "trans": []
+  },
+  {
+    "name": "yield",
+    "trans": []
+  },
+  {
+    "name": "steady",
+    "trans": []
+  },
+  {
+    "name": "unsteadily",
+    "trans": []
+  },
+  {
+    "name": "unexpected",
+    "trans": []
+  },
+  {
+    "name": "handshake",
+    "trans": []
+  },
+  {
+    "name": "suck",
+    "trans": []
+  },
+  {
+    "name": "brace",
+    "trans": []
+  },
+  {
+    "name": "embrace",
+    "trans": []
+  },
+  {
+    "name": "throat",
+    "trans": []
+  },
+  {
+    "name": "sadness",
+    "trans": []
+  },
+  {
+    "name": "dresser",
+    "trans": []
+  },
+  {
+    "name": "sling",
+    "trans": []
+  },
+  {
+    "name": "oversized",
+    "trans": []
+  },
+  {
+    "name": "sunglasses",
+    "trans": []
+  },
+  {
+    "name": "entire",
+    "trans": []
+  },
+  {
+    "name": "porch",
+    "trans": []
+  },
+  {
+    "name": "carton",
+    "trans": []
+  },
+  {
+    "name": "rewind",
+    "trans": []
+  },
+  {
+    "name": "sip",
+    "trans": []
+  },
+  {
+    "name": "patio",
+    "trans": []
+  },
+  {
+    "name": "seagull",
+    "trans": []
+  },
+  {
+    "name": "rail",
+    "trans": []
+  },
+  {
+    "name": "obligation",
+    "trans": []
+  },
+  {
+    "name": "reassure",
+    "trans": []
+  },
+  {
+    "name": "handwritten",
+    "trans": []
+  },
+  {
+    "name": "shamelessly",
+    "trans": []
+  },
+  {
+    "name": "drunk",
+    "trans": []
+  },
+  {
+    "name": "thunderstorm",
+    "trans": []
+  },
+  {
+    "name": "cuddle",
+    "trans": []
+  },
+  {
+    "name": "dependent",
+    "trans": []
+  },
+  {
+    "name": "browse",
+    "trans": []
+  },
+  {
+    "name": "longing",
+    "trans": []
+  },
+  {
+    "name": "aisle",
+    "trans": []
+  },
+  {
+    "name": "flick",
+    "trans": []
+  },
+  {
+    "name": "restlessly",
+    "trans": []
+  },
+  {
+    "name": "fatigue",
+    "trans": []
+  },
+  {
+    "name": "paralysis",
+    "trans": []
+  },
+  {
+    "name": "donkey",
+    "trans": []
+  },
+  {
+    "name": "unable",
+    "trans": []
+  },
+  {
+    "name": "hay",
+    "trans": []
+  },
+  {
+    "name": "boast",
+    "trans": []
+  },
+  {
+    "name": "fingertip",
+    "trans": []
+  },
+  {
+    "name": "confusion",
+    "trans": []
+  },
+  {
+    "name": "replicate",
+    "trans": []
+  },
+  {
+    "name": "pension",
+    "trans": []
+  },
+  {
+    "name": "motivate",
+    "trans": []
+  },
+  {
+    "name": "demotivate",
+    "trans": []
+  },
+  {
+    "name": "cyberspace",
+    "trans": []
+  },
+  {
+    "name": "stack",
+    "trans": []
+  },
+  {
+    "name": "realm",
+    "trans": []
+  },
+  {
+    "name": "annoy",
+    "trans": []
+  },
+  {
+    "name": "annoying",
+    "trans": []
+  },
+  {
+    "name": "dominance",
+    "trans": []
+  },
+  {
+    "name": "format",
+    "trans": []
+  },
+  {
+    "name": "boom",
+    "trans": []
+  },
+  {
+    "name": "appeal",
+    "trans": []
+  },
+  {
+    "name": "define",
+    "trans": []
+  },
+  {
+    "name": "lower",
+    "trans": []
+  },
+  {
+    "name": "approval",
+    "trans": []
+  },
+  {
+    "name": "fist",
+    "trans": []
+  },
+  {
+    "name": "invincible",
+    "trans": []
+  },
+  {
+    "name": "foyer",
+    "trans": []
+  },
+  {
+    "name": "high-rise",
+    "trans": []
+  },
+  {
+    "name": "dusk",
+    "trans": []
+  },
+  {
+    "name": "trickle",
+    "trans": []
+  },
+  {
+    "name": "scribble",
+    "trans": []
+  },
+  {
+    "name": "arrow",
+    "trans": []
+  },
+  {
+    "name": "brainstorm",
+    "trans": []
+  },
+  {
+    "name": "halfway",
+    "trans": []
+  },
+  {
+    "name": "consult",
+    "trans": []
+  },
+  {
+    "name": "oyster",
+    "trans": []
+  },
+  {
+    "name": "argument",
+    "trans": []
+  },
+  {
+    "name": "management",
+    "trans": []
+  },
+  {
+    "name": "straddle",
+    "trans": []
+  },
+  {
+    "name": "invest",
+    "trans": []
+  },
+  {
+    "name": "existential",
+    "trans": []
+  },
+  {
+    "name": "gratefully",
+    "trans": []
+  },
+  {
+    "name": "executive",
+    "trans": []
+  },
+  {
+    "name": "educational",
+    "trans": []
+  },
+  {
+    "name": "abundant",
+    "trans": []
+  },
+  {
+    "name": "consultation",
+    "trans": []
+  },
+  {
+    "name": "assumption",
+    "trans": []
+  },
+  {
+    "name": "necessity",
+    "trans": []
+  },
+  {
+    "name": "logically",
+    "trans": []
+  },
+  {
+    "name": "sacrifice",
+    "trans": []
+  },
+  {
+    "name": "surrender",
+    "trans": []
+  },
+  {
+    "name": "stuck",
+    "trans": []
+  },
+  {
+    "name": "simultaneously",
+    "trans": []
+  },
+  {
+    "name": "contradictory",
+    "trans": []
+  }
+]

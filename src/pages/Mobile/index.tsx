@@ -68,10 +68,10 @@ const MobilePage: React.FC = () => {
     <div className="flex w-screen flex-col bg-white lg:mx-auto lg:max-w-7xl">
       <header className="fixed left-0 right-0 top-0 z-50 flex items-center justify-between border-b border-gray-100/50 bg-white/80 px-6 py-6 backdrop-blur-xl lg:px-12">
         <div className="flex items-center">
-          <img src={logo} className="mr-4 h-10 w-10 lg:h-12 lg:w-12" alt="Qwerty Learner Logo" />
+          <img src={logo} className="mr-4 h-10 w-10 lg:h-12 lg:w-12" alt="大学英语默写器" />
           <div className="flex flex-col">
-            <h1 className="text-lg font-semibold tracking-tight text-indigo-500 lg:text-xl">Qwerty Learner</h1>
-            <span className="text-xs font-normal text-gray-500">官方网站</span>
+            <h1 className="text-lg font-semibold tracking-tight text-indigo-500 lg:text-xl">大学英语默写器</h1>
+            <span className="text-xs font-normal text-gray-500">浙江大学英语 III、IV</span>
           </div>
         </div>
         <a

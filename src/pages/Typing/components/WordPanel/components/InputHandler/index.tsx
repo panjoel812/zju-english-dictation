@@ -2,7 +2,6 @@ import KeyEventHandler from '../KeyEventHandler'
 import TextAreaHandler from '../TextAreaHandler'
 import { currentDictInfoAtom } from '@/store'
 import { useAtomValue } from 'jotai'
-import type { FormEvent } from 'react'
 import { useMemo } from 'react'
 
 export default function InputHandler({ updateInput }: { updateInput: (updateObj: WordUpdateAction) => void }) {

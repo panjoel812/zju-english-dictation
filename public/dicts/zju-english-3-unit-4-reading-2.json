@@ -1,0 +1,182 @@
+[
+  {
+    "name": "stereotype",
+    "trans": [
+      "模式化的思想；老一套；旧框框"
+    ]
+  },
+  {
+    "name": "prominence",
+    "trans": [
+      "重要；杰出；著名"
+    ]
+  },
+  {
+    "name": "sentiment",
+    "trans": [
+      "多愁善感；感情因素"
+    ]
+  },
+  {
+    "name": "feminine",
+    "trans": [
+      "女性特有的；女性的"
+    ]
+  },
+  {
+    "name": "literary",
+    "trans": [
+      "文学的；文学上的"
+    ]
+  },
+  {
+    "name": "maternal",
+    "trans": [
+      "母性的；母亲般的"
+    ]
+  },
+  {
+    "name": "excessively",
+    "trans": [
+      "过度地；过多地"
+    ]
+  },
+  {
+    "name": "gender",
+    "trans": [
+      "性别"
+    ]
+  },
+  {
+    "name": "inequality",
+    "trans": [
+      "不平等；不平衡；不平均"
+    ]
+  },
+  {
+    "name": "bias",
+    "trans": [
+      "偏见；成见"
+    ]
+  },
+  {
+    "name": "periodical",
+    "trans": [
+      "期刊"
+    ]
+  },
+  {
+    "name": "publication",
+    "trans": [
+      "出版；发行；出版物"
+    ]
+  },
+  {
+    "name": "analyze",
+    "trans": [
+      "分析；剖析"
+    ]
+  },
+  {
+    "name": "identify",
+    "trans": [
+      "认出，识别"
+    ]
+  },
+  {
+    "name": "confirmation",
+    "trans": [
+      "证实，证明"
+    ]
+  },
+  {
+    "name": "predictable",
+    "trans": [
+      "可预料的"
+    ]
+  },
+  {
+    "name": "startling",
+    "trans": [
+      "异乎寻常的；令人惊奇的"
+    ]
+  },
+  {
+    "name": "distinctive",
+    "trans": [
+      "特有的；特别的"
+    ]
+  },
+  {
+    "name": "identical",
+    "trans": [
+      "完全相同的；极为相似的"
+    ]
+  },
+  {
+    "name": "concerted",
+    "trans": [
+      "齐心协力的；一致的"
+    ]
+  },
+  {
+    "name": "discourse",
+    "trans": [
+      "演讲，论述，著述"
+    ]
+  },
+  {
+    "name": "quantitative",
+    "trans": [
+      "（数）量的；与数量有关的；定量的"
+    ]
+  },
+  {
+    "name": "representative",
+    "trans": [
+      "代理，代表"
+    ]
+  },
+  {
+    "name": "trivial",
+    "trans": [
+      "微不足道的，没有什么价值的"
+    ]
+  },
+  {
+    "name": "noticeable",
+    "trans": [
+      "显著的，显而易见的"
+    ]
+  },
+  {
+    "name": "disguise",
+    "trans": [
+      "掩蔽，掩饰"
+    ]
+  },
+  {
+    "name": "unconscious",
+    "trans": [
+      "无意识的；未意识到的"
+    ]
+  },
+  {
+    "name": "publisher",
+    "trans": [
+      "出版者，出版商，出版社"
+    ]
+  },
+  {
+    "name": "pursue",
+    "trans": [
+      "追求；继续进行"
+    ]
+  },
+  {
+    "name": "discrimination",
+    "trans": [
+      "歧视"
+    ]
+  }
+]

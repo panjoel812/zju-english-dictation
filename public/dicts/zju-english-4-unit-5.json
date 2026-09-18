@@ -1,0 +1,558 @@
+[
+  {
+    "name": "epic",
+    "trans": [
+      "漫长而且艰难的"
+    ]
+  },
+  {
+    "name": "jagged",
+    "trans": [
+      "凹凸不平的；锯齿状的"
+    ]
+  },
+  {
+    "name": "haze",
+    "trans": [
+      "烟雾；霾"
+    ]
+  },
+  {
+    "name": "tinge",
+    "trans": [
+      "着淡色于…"
+    ]
+  },
+  {
+    "name": "shade",
+    "trans": [
+      "（色彩的）浓淡，深浅，色度"
+    ]
+  },
+  {
+    "name": "abiding",
+    "trans": [
+      "（感情或信念等）长久的，持久的"
+    ]
+  },
+  {
+    "name": "scholar",
+    "trans": [
+      "学者"
+    ]
+  },
+  {
+    "name": "conqueror",
+    "trans": [
+      "征服者"
+    ]
+  },
+  {
+    "name": "swerve",
+    "trans": [
+      "（通常为了避免碰撞）突然转向一边"
+    ]
+  },
+  {
+    "name": "shimmy",
+    "trans": [
+      "一摇一摆地走"
+    ]
+  },
+  {
+    "name": "trundle",
+    "trans": [
+      "（使）缓慢移动"
+    ]
+  },
+  {
+    "name": "caravan",
+    "trans": [
+      "旅行队"
+    ]
+  },
+  {
+    "name": "spice",
+    "trans": [
+      "香料"
+    ]
+  },
+  {
+    "name": "fell",
+    "trans": [
+      "击倒某人"
+    ]
+  },
+  {
+    "name": "peril",
+    "trans": [
+      "危险，凶险"
+    ]
+  },
+  {
+    "name": "climatic",
+    "trans": [
+      "气候的"
+    ]
+  },
+  {
+    "name": "traverse",
+    "trans": [
+      "跨过；穿过；横越；横穿"
+    ]
+  },
+  {
+    "name": "hostile",
+    "trans": [
+      "敌人的"
+    ]
+  },
+  {
+    "name": "territory",
+    "trans": [
+      "领土"
+    ]
+  },
+  {
+    "name": "persist",
+    "trans": [
+      "坚持，执意"
+    ]
+  },
+  {
+    "name": "thirst",
+    "trans": [
+      "渴；口渴"
+    ]
+  },
+  {
+    "name": "ideology",
+    "trans": [
+      "思想（体系）"
+    ]
+  },
+  {
+    "name": "allure",
+    "trans": [
+      "诱惑；魅力；吸引力"
+    ]
+  },
+  {
+    "name": "intrinsic",
+    "trans": [
+      "本质的；内在的；固有的"
+    ]
+  },
+  {
+    "name": "romance",
+    "trans": [
+      "传奇色彩；浪漫情调"
+    ]
+  },
+  {
+    "name": "interpret",
+    "trans": [
+      "把…理解为"
+    ]
+  },
+  {
+    "name": "durable",
+    "trans": [
+      "持久的"
+    ]
+  },
+  {
+    "name": "testament",
+    "trans": [
+      "是…的证据"
+    ]
+  },
+  {
+    "name": "dazzle",
+    "trans": [
+      "使…倾倒"
+    ]
+  },
+  {
+    "name": "retrace",
+    "trans": [
+      "重走（别人走过的路程）"
+    ]
+  },
+  {
+    "name": "Buddhist",
+    "trans": [
+      "佛教的"
+    ]
+  },
+  {
+    "name": "grotto",
+    "trans": [
+      "小洞穴"
+    ]
+  },
+  {
+    "name": "drift",
+    "trans": [
+      "缓慢移动"
+    ]
+  },
+  {
+    "name": "scenic",
+    "trans": [
+      "景色优美的"
+    ]
+  },
+  {
+    "name": "formation",
+    "trans": [
+      "形成物；形状"
+    ]
+  },
+  {
+    "name": "oasis",
+    "trans": [
+      "绿洲"
+    ]
+  },
+  {
+    "name": "dune",
+    "trans": [
+      "沙丘"
+    ]
+  },
+  {
+    "name": "ridge",
+    "trans": [
+      "山脊"
+    ]
+  },
+  {
+    "name": "superhighway",
+    "trans": [
+      "（超级）高速公路"
+    ]
+  },
+  {
+    "name": "stretch",
+    "trans": [
+      "延伸；绵延"
+    ]
+  },
+  {
+    "name": "catapult",
+    "trans": [
+      "把…弹射出去"
+    ]
+  },
+  {
+    "name": "awe",
+    "trans": [
+      "崇敬；赞叹"
+    ]
+  },
+  {
+    "name": "sorrow",
+    "trans": [
+      "令人悲伤的事；不幸"
+    ]
+  },
+  {
+    "name": "hazardous",
+    "trans": [
+      "危险的；有害的"
+    ]
+  },
+  {
+    "name": "bleak",
+    "trans": [
+      "无遮掩的；荒凉的；索然无味的"
+    ]
+  },
+  {
+    "name": "formidable",
+    "trans": [
+      "令人敬畏的；可怕的"
+    ]
+  },
+  {
+    "name": "harsh",
+    "trans": [
+      "恶劣的；艰苦的"
+    ]
+  },
+  {
+    "name": "starvation",
+    "trans": [
+      "饥饿；挨饿；饿死"
+    ]
+  },
+  {
+    "name": "civilization",
+    "trans": [
+      "文明（社会）"
+    ]
+  },
+  {
+    "name": "precede",
+    "trans": [
+      "先于…（发生或出现）"
+    ]
+  },
+  {
+    "name": "endurance",
+    "trans": [
+      "（忍）耐力"
+    ]
+  },
+  {
+    "name": "trick sb. into sth",
+    "trans": [
+      "用计诱使某人做某事"
+    ]
+  },
+  {
+    "name": "set sail",
+    "trans": [
+      "启航"
+    ]
+  },
+  {
+    "name": "during",
+    "trans": [
+      "在…期间"
+    ]
+  },
+  {
+    "name": "contend with",
+    "trans": [
+      "（不得不）处理问题，对付困境"
+    ]
+  },
+  {
+    "name": "aviator",
+    "trans": [
+      "飞机驾驶员"
+    ]
+  },
+  {
+    "name": "aircraft",
+    "trans": [
+      "飞机；航空器"
+    ]
+  },
+  {
+    "name": "fashionable",
+    "trans": [
+      "时髦的；流行的"
+    ]
+  },
+  {
+    "name": "meaningless",
+    "trans": [
+      "无目的的"
+    ]
+  },
+  {
+    "name": "functional",
+    "trans": [
+      "实用的"
+    ]
+  },
+  {
+    "name": "accessory",
+    "trans": [
+      "装饰物"
+    ]
+  },
+  {
+    "name": "apparel",
+    "trans": [
+      "衣服"
+    ]
+  },
+  {
+    "name": "unremarked",
+    "trans": [
+      "不受注意的"
+    ]
+  },
+  {
+    "name": "populate",
+    "trans": [
+      "居住于"
+    ]
+  },
+  {
+    "name": "inclusion",
+    "trans": [
+      "包含；包括"
+    ]
+  },
+  {
+    "name": "distinctly",
+    "trans": [
+      "十分"
+    ]
+  },
+  {
+    "name": "catalogue",
+    "trans": [
+      "为…编目录"
+    ]
+  },
+  {
+    "name": "curate",
+    "trans": [
+      "策划组织"
+    ]
+  },
+  {
+    "name": "devoid",
+    "trans": [
+      "毫无某物"
+    ]
+  },
+  {
+    "name": "affective",
+    "trans": [
+      "情感的"
+    ]
+  },
+  {
+    "name": "inscribe",
+    "trans": [
+      "雕刻，印刷，题写"
+    ]
+  },
+  {
+    "name": "tangible",
+    "trans": [
+      "确凿的"
+    ]
+  },
+  {
+    "name": "coalesce",
+    "trans": [
+      "联合；合并"
+    ]
+  },
+  {
+    "name": "fibre",
+    "trans": [
+      "纤维"
+    ]
+  },
+  {
+    "name": "stitch",
+    "trans": [
+      "缝"
+    ]
+  },
+  {
+    "name": "connectedness",
+    "trans": [
+      "相互联系；社会关系"
+    ]
+  },
+  {
+    "name": "priceless",
+    "trans": [
+      "极其贵重的"
+    ]
+  },
+  {
+    "name": "conservation",
+    "trans": [
+      "保存；保护；节约"
+    ]
+  },
+  {
+    "name": "accession",
+    "trans": [
+      "登记入册"
+    ]
+  },
+  {
+    "name": "incumbent",
+    "trans": [
+      "有责任的"
+    ]
+  },
+  {
+    "name": "guardian",
+    "trans": [
+      "维护者；保持者"
+    ]
+  },
+  {
+    "name": "album",
+    "trans": [
+      "簿，册"
+    ]
+  },
+  {
+    "name": "organically",
+    "trans": [
+      "自然地；持续地"
+    ]
+  },
+  {
+    "name": "scattered",
+    "trans": [
+      "分散的；稀疏的"
+    ]
+  },
+  {
+    "name": "cabinet",
+    "trans": [
+      "储藏柜，陈列柜"
+    ]
+  },
+  {
+    "name": "festivity",
+    "trans": [
+      "庆祝活动；庆典"
+    ]
+  },
+  {
+    "name": "uniqueness",
+    "trans": [
+      "不同寻常；独特"
+    ]
+  },
+  {
+    "name": "thread",
+    "trans": [
+      "线"
+    ]
+  },
+  {
+    "name": "iteration",
+    "trans": [
+      "重复"
+    ]
+  },
+  {
+    "name": "purposefully",
+    "trans": [
+      "有目的地"
+    ]
+  },
+  {
+    "name": "in existence",
+    "trans": [
+      "存在"
+    ]
+  },
+  {
+    "name": "it is incumbent upon s做某事是某人的责任",
+    "trans": []
+  },
+  {
+    "name": "pass away",
+    "trans": [
+      "去世；离世"
+    ]
+  }
+]

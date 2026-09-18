@@ -1,0 +1,588 @@
+[
+  {
+    "name": "causal",
+    "trans": [
+      "便服"
+    ]
+  },
+  {
+    "name": "headphones",
+    "trans": [
+      "（头戴式）耳机"
+    ]
+  },
+  {
+    "name": "corporate",
+    "trans": [
+      "公司的"
+    ]
+  },
+  {
+    "name": "mortgage",
+    "trans": [
+      "抵押贷款"
+    ]
+  },
+  {
+    "name": "time off",
+    "trans": [
+      "休息时间"
+    ]
+  },
+  {
+    "name": "headquarters",
+    "trans": [
+      "总部"
+    ]
+  },
+  {
+    "name": "perk",
+    "trans": [
+      "额外收入"
+    ]
+  },
+  {
+    "name": "administrative",
+    "trans": [
+      "行政的"
+    ]
+  },
+  {
+    "name": "distributor",
+    "trans": [
+      "分销商"
+    ]
+  },
+  {
+    "name": "liberal",
+    "trans": [
+      "（思想）开放的"
+    ]
+  },
+  {
+    "name": "barrier",
+    "trans": [
+      "分界线；屏障"
+    ]
+  },
+  {
+    "name": "blurred",
+    "trans": [
+      "难以区分的"
+    ]
+  },
+  {
+    "name": "cubicle",
+    "trans": [
+      "小隔间"
+    ]
+  },
+  {
+    "name": "reinvent",
+    "trans": [
+      "彻底改造"
+    ]
+  },
+  {
+    "name": "rat race",
+    "trans": [
+      "你死我活的竞争"
+    ]
+  },
+  {
+    "name": "hierarchy",
+    "trans": [
+      "等级制度"
+    ]
+  },
+  {
+    "name": "flatten",
+    "trans": [
+      "（使）变平"
+    ]
+  },
+  {
+    "name": "wizard",
+    "trans": [
+      "男巫"
+    ]
+  },
+  {
+    "name": "ninja",
+    "trans": [
+      "忍者，日本武士"
+    ]
+  },
+  {
+    "name": "integration",
+    "trans": [
+      "结合"
+    ]
+  },
+  {
+    "name": "acupuncture",
+    "trans": [
+      "针刺疗法"
+    ]
+  },
+  {
+    "name": "nap",
+    "trans": [
+      "小睡，打盹"
+    ]
+  },
+  {
+    "name": "pod",
+    "trans": [
+      "（飞机的）吊舱，发射架"
+    ]
+  },
+  {
+    "name": "nap pod",
+    "trans": [
+      "小憩仓"
+    ]
+  },
+  {
+    "name": "popularize",
+    "trans": [
+      "宣传；推广"
+    ]
+  },
+  {
+    "name": "investigation",
+    "trans": [
+      "调查"
+    ]
+  },
+  {
+    "name": "vocal",
+    "trans": [
+      "激烈地表达意见的"
+    ]
+  },
+  {
+    "name": "opponent",
+    "trans": [
+      "反对者"
+    ]
+  },
+  {
+    "name": "newsroom",
+    "trans": [
+      "新闻编辑室"
+    ]
+  },
+  {
+    "name": "start-up",
+    "trans": [
+      "新兴公司"
+    ]
+  },
+  {
+    "name": "parody",
+    "trans": [
+      "滑稽模仿"
+    ]
+  },
+  {
+    "name": "portrait",
+    "trans": [
+      "描绘，描述，表现"
+    ]
+  },
+  {
+    "name": "misdirection",
+    "trans": [
+      "误导"
+    ]
+  },
+  {
+    "name": "rotten",
+    "trans": [
+      "极糟的"
+    ]
+  },
+  {
+    "name": "recast",
+    "trans": [
+      "重塑"
+    ]
+  },
+  {
+    "name": "workaholism",
+    "trans": [
+      "醉心工作"
+    ]
+  },
+  {
+    "name": "unwind",
+    "trans": [
+      "解绕"
+    ]
+  },
+  {
+    "name": "absurdity",
+    "trans": [
+      "荒谬"
+    ]
+  },
+  {
+    "name": "norm",
+    "trans": [
+      "常态"
+    ]
+  },
+  {
+    "name": "suitcase",
+    "trans": [
+      "手提箱"
+    ]
+  },
+  {
+    "name": "resign",
+    "trans": [
+      "辞职"
+    ]
+  },
+  {
+    "name": "abusive",
+    "trans": [
+      "谩骂"
+    ]
+  },
+  {
+    "name": "tweet",
+    "trans": [
+      "发送（信息）"
+    ]
+  },
+  {
+    "name": "allegation",
+    "trans": [
+      "宣称，指控"
+    ]
+  },
+  {
+    "name": "trade-off",
+    "trans": [
+      "平衡，妥协，协调"
+    ]
+  },
+  {
+    "name": "depressing",
+    "trans": [
+      "令人沮丧的"
+    ]
+  },
+  {
+    "name": "pop up",
+    "trans": [
+      "突然出现"
+    ]
+  },
+  {
+    "name": "tune out",
+    "trans": [
+      "不听"
+    ]
+  },
+  {
+    "name": "hang out",
+    "trans": [
+      "闲逛"
+    ]
+  },
+  {
+    "name": "let alone",
+    "trans": [
+      "更不用说"
+    ]
+  },
+  {
+    "name": "come along",
+    "trans": [
+      "不期而至"
+    ]
+  },
+  {
+    "name": "on tap",
+    "trans": [
+      "打开阀门即可获得的"
+    ]
+  },
+  {
+    "name": "at the expense of",
+    "trans": [
+      "以…为代价"
+    ]
+  },
+  {
+    "name": "wallpaper",
+    "trans": [
+      "给（房间）糊墙纸"
+    ]
+  },
+  {
+    "name": "amplify",
+    "trans": [
+      "增强"
+    ]
+  },
+  {
+    "name": "dive",
+    "trans": [
+      "跳水"
+    ]
+  },
+  {
+    "name": "albeit",
+    "trans": [
+      "虽然；尽管"
+    ]
+  },
+  {
+    "name": "reputable",
+    "trans": [
+      "有声望的"
+    ]
+  },
+  {
+    "name": "plastic surgery",
+    "trans": [
+      "整形手术"
+    ]
+  },
+  {
+    "name": "specialty",
+    "trans": [
+      "医学专科；专外科"
+    ]
+  },
+  {
+    "name": "surgeon",
+    "trans": [
+      "外科医生"
+    ]
+  },
+  {
+    "name": "intern",
+    "trans": [
+      "做实习医生"
+    ]
+  },
+  {
+    "name": "operating room",
+    "trans": [
+      "手术室"
+    ]
+  },
+  {
+    "name": "cosmetic",
+    "trans": [
+      "整容的"
+    ]
+  },
+  {
+    "name": "merit",
+    "trans": [
+      "优秀"
+    ]
+  },
+  {
+    "name": "neurobiology",
+    "trans": [
+      "神经生物学"
+    ]
+  },
+  {
+    "name": "physiology",
+    "trans": [
+      "生理学"
+    ]
+  },
+  {
+    "name": "dreaded",
+    "trans": [
+      "可怕的"
+    ]
+  },
+  {
+    "name": "internship",
+    "trans": [
+      "医生实习期"
+    ]
+  },
+  {
+    "name": "surgical",
+    "trans": [
+      "外科手术用的"
+    ]
+  },
+  {
+    "name": "scrub",
+    "trans": [
+      "手术服"
+    ]
+  },
+  {
+    "name": "mask",
+    "trans": [
+      "面具"
+    ]
+  },
+  {
+    "name": "cafeteria",
+    "trans": [
+      "自助餐馆"
+    ]
+  },
+  {
+    "name": "enthusiasm",
+    "trans": [
+      "热心"
+    ]
+  },
+  {
+    "name": "application",
+    "trans": [
+      "应用"
+    ]
+  },
+  {
+    "name": "outfit",
+    "trans": [
+      "全套服装"
+    ]
+  },
+  {
+    "name": "wardrobe",
+    "trans": [
+      "衣柜"
+    ]
+  },
+  {
+    "name": "gear",
+    "trans": [
+      "排挡"
+    ]
+  },
+  {
+    "name": "drastically",
+    "trans": [
+      "激烈地"
+    ]
+  },
+  {
+    "name": "swirl",
+    "trans": [
+      "（使）打旋"
+    ]
+  },
+  {
+    "name": "spill",
+    "trans": [
+      "泼出，溢出"
+    ]
+  },
+  {
+    "name": "legitimate",
+    "trans": [
+      "正确的"
+    ]
+  },
+  {
+    "name": "manual",
+    "trans": [
+      "说明书"
+    ]
+  },
+  {
+    "name": "supermodel",
+    "trans": [
+      "超级名模"
+    ]
+  },
+  {
+    "name": "flip",
+    "trans": [
+      "（使）快速翻转"
+    ]
+  },
+  {
+    "name": "crystal clear",
+    "trans": [
+      "明白的"
+    ]
+  },
+  {
+    "name": "dive into / in",
+    "trans": [
+      "热切地开始"
+    ]
+  },
+  {
+    "name": "put up with",
+    "trans": [
+      "容忍"
+    ]
+  },
+  {
+    "name": "go off",
+    "trans": [
+      "发出响声"
+    ]
+  },
+  {
+    "name": "come around",
+    "trans": [
+      "如期而至"
+    ]
+  },
+  {
+    "name": "give up on sth.",
+    "trans": [
+      "放弃（努力）"
+    ]
+  },
+  {
+    "name": "shift gears",
+    "trans": [
+      "突然改变方式"
+    ]
+  },
+  {
+    "name": "test the water(s)",
+    "trans": [
+      "试探"
+    ]
+  },
+  {
+    "name": "shut / close the door",
+    "trans": [
+      "把…拒之门外"
+    ]
+  },
+  {
+    "name": "break the news to sb.",
+    "trans": [
+      "把坏消息告诉某人"
+    ]
+  },
+  {
+    "name": "spill the beans",
+    "trans": [
+      "泄露秘密"
+    ]
+  },
+  {
+    "name": "flip through",
+    "trans": [
+      "浏览"
+    ]
+  },
+  {
+    "name": "(right) under one's no（就）在某人眼皮底下（却看不见）",
+    "trans": []
+  }
+]

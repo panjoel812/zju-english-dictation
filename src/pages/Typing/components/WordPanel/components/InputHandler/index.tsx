@@ -2,12 +2,24 @@ import KeyEventHandler from '../KeyEventHandler'
 import TextAreaHandler from '../TextAreaHandler'
 import { currentDictInfoAtom } from '@/store'
 import { useAtomValue } from 'jotai'
-import { useMemo } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 
 export default function InputHandler({ updateInput }: { updateInput: (updateObj: WordUpdateAction) => void }) {
   const dictInfo = useAtomValue(currentDictInfoAtom)
+  const [isMobile, setIsMobile] = useState(() => window.matchMedia('(max-width: 600px)').matches)
+
+  useEffect(() => {
+    const mediaQuery = window.matchMedia('(max-width: 600px)')
+    const onChange = () => setIsMobile(mediaQuery.matches)
+    mediaQuery.addEventListener('change', onChange)
+    return () => mediaQuery.removeEventListener('change', onChange)
+  }, [])
 
   const handler = useMemo(() => {
+    if (isMobile && ['en', 'de', 'romaji'].includes(dictInfo.language)) {
+      return <TextAreaHandler updateInput={updateInput} isMobile />
+    }
+
     switch (dictInfo.language) {
       case 'en':
         return <KeyEventHandler updateInput={updateInput} />
@@ -20,7 +32,7 @@ export default function InputHandler({ updateInput }: { updateInput: (updateObj:
       default:
         return <TextAreaHandler updateInput={updateInput} />
     }
-  }, [dictInfo.language, updateInput])
+  }, [dictInfo.language, isMobile, updateInput])
 
   return <>{handler}</>
 }

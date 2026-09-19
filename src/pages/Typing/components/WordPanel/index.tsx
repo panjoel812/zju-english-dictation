@@ -155,7 +155,7 @@ export default function WordPanel() {
 
   return (
     <div className="container flex h-full w-full flex-col items-center justify-center">
-      <div className="container flex h-24 w-full shrink-0 grow-0 justify-between px-12 pt-10">
+      <div className="container flex h-16 w-full shrink-0 grow-0 justify-between px-3 pt-4 sm:h-24 sm:px-12 sm:pt-10">
         {isShowPrevAndNextWord && state.isTyping && (
           <>
             <PrevAndNextWord type="prev" />
@@ -165,17 +165,19 @@ export default function WordPanel() {
       </div>
       <div className="container flex flex-grow flex-col items-center justify-center">
         {currentWord && (
-          <div className="relative flex w-full justify-center">
+          <div className="relative flex w-full max-w-full justify-center px-2">
             {!state.isTyping && (
-              <div className="absolute flex h-full w-full justify-center">
-                <div className="z-10 flex w-full items-center backdrop-blur-sm">
-                  <p className="w-full select-none text-center text-xl text-gray-600 dark:text-gray-50">
+              <button
+                type="button"
+                onClick={() => dispatch({ type: TypingStateActionType.SET_IS_TYPING, payload: true })}
+                className="absolute z-10 flex h-full w-full items-center justify-center backdrop-blur-sm"
+              >
+                <span className="w-full select-none text-center text-base text-gray-600 dark:text-gray-50 sm:text-xl">
                     按任意键{state.timerData.time ? '继续' : '开始'}
-                  </p>
-                </div>
-              </div>
+                </span>
+              </button>
             )}
-            <div className="relative">
+            <div className="relative max-w-full">
               <WordComponent
                 word={currentWord}
                 onFinish={onFinish}

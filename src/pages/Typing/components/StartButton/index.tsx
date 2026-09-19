@@ -42,12 +42,12 @@ export default function StartButton({ isLoading }: { isLoading: boolean }) {
             : 'bg-indigo-500 shadow-indigo-300 dark:shadow-indigo-500/60'
         } ${
           isShowReStartButton ? 'h-20' : 'h-auto'
-        } flex-column absolute left-0 top-0 w-20 rounded-lg shadow-lg transition-colors duration-200`}
+        } flex-column absolute left-0 top-0 w-16 rounded-lg shadow-lg transition-colors duration-200 sm:w-20`}
       >
         <button
           className={`${
             state.isTyping ? 'bg-gray-400  dark:bg-gray-700 dark:hover:bg-gray-500' : 'bg-indigo-500'
-          } my-btn-primary w-20 shadow`}
+          } my-btn-primary w-16 px-2 text-sm shadow sm:w-20 sm:px-6 sm:text-lg`}
           type="button"
           onClick={onToggleIsTyping}
           aria-label={state.isTyping ? '暂停' : '开始'}

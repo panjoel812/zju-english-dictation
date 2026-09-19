@@ -3,6 +3,7 @@ import './index.css'
 import { ErrorBook } from './pages/ErrorBook'
 import { FriendLinks } from './pages/FriendLinks'
 import MobilePage from './pages/Mobile'
+import MobilePracticePage from './pages/Mobile/Practice'
 import TypingPage from './pages/Typing'
 import { isOpenDarkModeAtom } from '@/store'
 import { Analytics } from '@vercel/analytics/react'
@@ -56,6 +57,7 @@ function Root() {
               <>
                 <Route index element={<MobilePage />} />
                 <Route path="/mobile" element={<MobilePage />} />
+                <Route path="/mobile/practice" element={<MobilePracticePage />} />
                 <Route path="/gallery" element={<GalleryPage />} />
                 <Route path="/analysis" element={<AnalysisPage />} />
                 <Route path="/error-book" element={<ErrorBook />} />

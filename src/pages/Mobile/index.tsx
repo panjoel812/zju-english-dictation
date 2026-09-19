@@ -36,10 +36,10 @@ const MobilePage: React.FC = () => {
         <p className="mt-4 max-w-xs text-sm leading-6 text-slate-300">专为浙江大学大学英语课程整理的默写练习，记录每一次输入和复习。</p>
         <button
           type="button"
-          onClick={() => navigate('/gallery')}
+          onClick={() => navigate('/mobile/practice')}
           className="mt-6 flex w-full items-center justify-between rounded-2xl bg-white px-4 py-3 text-left text-sm font-semibold text-slate-900 transition-transform active:scale-[.98]"
         >
-          <span className="flex items-center gap-2"><BookOpen className="h-4 w-4 text-indigo-500" aria-hidden="true" />选择词库开始</span>
+          <span className="flex items-center gap-2"><BookOpen className="h-4 w-4 text-indigo-500" aria-hidden="true" />开始默写</span>
           <ChevronRight className="h-4 w-4 text-slate-400" aria-hidden="true" />
         </button>
       </section>

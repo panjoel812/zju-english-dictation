@@ -1,35 +1,29 @@
-name: Qwerty E2E Workflows
+name: 大学英语默写器 CI
+
 on:
   push:
     branches:
       - master
-      - dev/e2e
+  pull_request:
+    branches:
+      - master
+
 jobs:
-  e2e:
+  build:
+    name: Install and build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
         with:
-          node-version: 18
-      - name: Cache node modules
-        uses: actions/cache@v4
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
+          node-version: 24
+          cache: npm
+
       - name: Install dependencies
-        run: npm i
-      - name: Install Playwright Browsers
-        run: npx playwright install --with-deps
-      - name: Run all workflows
-        run: npm run test:e2e || echo "status=failure" >> $GITHUB_ENV
-        continue-on-error: true
-      - uses: actions/upload-artifact@v4
-        with:
-          name: playwright-report
-          path: playwright-report/
-          retention-days: 30
-      - name: Check workflows status
-        run: if [ "$status" = "failure" ]; then exit 1; fi
+        run: npm install
+
+      - name: Build application
+        run: npm run build

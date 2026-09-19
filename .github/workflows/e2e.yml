@@ -1,6 +1,7 @@
 name: 大学英语默写器 CI
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master

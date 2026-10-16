@@ -41,7 +41,7 @@ export default function Switcher() {
   )
 
   return (
-    <div className="flex items-center justify-center gap-2">
+    <div className="flex max-w-full flex-wrap items-center justify-center gap-1 sm:gap-2">
       <Tooltip content="音效设置">
         <SoundSwitcher />
       </Tooltip>

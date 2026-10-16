@@ -2,14 +2,17 @@ import KeyEventHandler from '../KeyEventHandler'
 import TextAreaHandler from '../TextAreaHandler'
 import { currentDictInfoAtom } from '@/store'
 import { useAtomValue } from 'jotai'
+import type { FormEvent } from 'react'
 import { useEffect, useMemo, useState } from 'react'
+
+const mobileInputQuery = '(max-width: 600px), (pointer: coarse)'
 
 export default function InputHandler({ updateInput }: { updateInput: (updateObj: WordUpdateAction) => void }) {
   const dictInfo = useAtomValue(currentDictInfoAtom)
-  const [isMobile, setIsMobile] = useState(() => window.matchMedia('(max-width: 600px)').matches)
+  const [isMobile, setIsMobile] = useState(() => window.matchMedia(mobileInputQuery).matches)
 
   useEffect(() => {
-    const mediaQuery = window.matchMedia('(max-width: 600px)')
+    const mediaQuery = window.matchMedia(mobileInputQuery)
     const onChange = () => setIsMobile(mediaQuery.matches)
     mediaQuery.addEventListener('change', onChange)
     return () => mediaQuery.removeEventListener('change', onChange)

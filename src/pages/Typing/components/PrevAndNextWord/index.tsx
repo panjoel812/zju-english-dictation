@@ -39,19 +39,15 @@ export default function PrevAndNextWord({ type }: LastAndNextWordProps) {
   return (
     <>
       {word ? (
-        <Tooltip content={`快捷键: ${shortCutKey}`}>
+        <Tooltip content={`快捷键: ${shortCutKey}`} className="min-w-0 max-w-[48%]">
           <div
             onClick={onClickWord}
             className="flex max-w-xs cursor-pointer select-none items-center text-gray-700 opacity-60 duration-200 ease-in-out hover:opacity-100 dark:text-gray-400"
           >
             {type === 'prev' && <IconPrev className="mr-4 shrink-0 grow-0 text-2xl" />}
 
-            <div className={`grow-1 flex w-full flex-col ${type === 'next' ? 'items-end text-right' : ''}`}>
-              <p
-                className={`font-mono text-2xl font-normal text-gray-700 dark:text-gray-400 ${
-                  !wordDictationConfig.isOpen ? 'tracking-normal' : 'tracking-wider'
-                }`}
-              >
+            <div className={`grow-1 flex w-full min-w-0 flex-col ${type === 'next' ? 'items-end text-right' : ''}`}>
+              <p className="max-w-full break-all font-mono text-base font-normal tracking-normal text-gray-700 dark:text-gray-400 sm:text-2xl">
                 {headWord}
               </p>
               {(type === 'prev' || state.isTransVisible) && (

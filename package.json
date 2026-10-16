@@ -63,6 +63,8 @@
     "build": "cross-env CI=false vite build --base=./",
     "test": "echo \"No tests\"",
     "test:e2e": "playwright test",
+    "test:dictation": "node scripts/check-dictation.mjs",
+    "screenshots:readme": "node scripts/capture-readme.mjs",
     "lint": "eslint .",
     "prettier": "prettier --write .",
     "prepare": "husky install"

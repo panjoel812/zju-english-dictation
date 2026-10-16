@@ -12,12 +12,16 @@ const Tooltip = ({ children, content, className, placement = 'top' }: TooltipPro
 
   return (
     <div className={classNames('relative', className)}>
-      <div onMouseEnter={() => setVisible(true)} onMouseLeave={() => setVisible(false)} onBlur={() => setVisible(false)}>
+      <div
+        onMouseEnter={() => window.matchMedia('(hover: hover)').matches && setVisible(true)}
+        onMouseLeave={() => setVisible(false)}
+        onBlur={() => setVisible(false)}
+      >
         {children}
       </div>
       <div
         className={`${
-          visible ? 'opacity-100' : 'opacity-0'
+          visible ? 'opacity-100' : 'hidden'
         } ${placementClasses} pointer-events-none absolute left-1/2 flex -translate-x-1/2 transform items-center justify-center transition-opacity`}
       >
         <span className="tooltip">{content}</span>

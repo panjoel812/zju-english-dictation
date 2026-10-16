@@ -1,3 +1,4 @@
+import style from './index.module.css'
 import { EXPLICIT_SPACE } from '@/constants'
 import { fontSizeConfigAtom } from '@/store'
 import { useAtomValue } from 'jotai'
@@ -28,10 +29,10 @@ const Letter: React.FC<LetterProps> = ({ letter, state = 'normal', visible = tru
   const fontSizeConfig = useAtomValue(fontSizeConfigAtom)
   return (
     <span
-      className={`m-0 p-0 font-mono font-normal ${
+      className={`${style.letter} m-0 p-0 font-mono font-normal ${
         stateClassNameMap[(letter === EXPLICIT_SPACE) as unknown as string][state]
       } pr-0.8 duration-0 dark:text-opacity-80`}
-      style={{ fontSize: fontSizeConfig.foreignFont.toString() + 'px' }}
+      style={{ '--word-font-size': fontSizeConfig.foreignFont.toString() + 'px' } as React.CSSProperties}
     >
       {visible ? letter : '_'}
     </span>

@@ -20,9 +20,9 @@ export const DictChapterButton = () => {
   }
   return (
     <>
-      <Tooltip content="词典切换">
+      <Tooltip content="词典切换" className="min-w-0 max-w-full">
         <NavLink
-          className="block rounded-lg px-3 py-1 text-lg transition-colors duration-300 ease-in-out hover:bg-indigo-400 hover:text-white focus:outline-none dark:text-white dark:text-opacity-60 dark:hover:text-opacity-100"
+          className="block break-words rounded-lg px-3 py-1 text-base transition-colors duration-300 ease-in-out hover:bg-indigo-400 hover:text-white focus:outline-none dark:text-white dark:text-opacity-60 dark:hover:text-opacity-100 sm:text-lg"
           to="/gallery"
         >
           {currentDictInfo.name} {isReviewMode && '错题复习'}

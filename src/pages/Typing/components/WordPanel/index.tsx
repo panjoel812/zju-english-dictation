@@ -3,6 +3,7 @@ import type { TypingState } from '../../store/type'
 import PrevAndNextWord from '../PrevAndNextWord'
 import Progress from '../Progress'
 import Phonetic from './components/Phonetic'
+import { focusMobileTypingInput } from './components/TextAreaHandler'
 import Translation from './components/Translation'
 import WordComponent from './components/Word'
 import { usePrefetchPronunciationSound } from '@/hooks/usePronunciation'
@@ -155,7 +156,7 @@ export default function WordPanel() {
 
   return (
     <div className="container flex h-full w-full flex-col items-center justify-center">
-      <div className="container flex h-16 w-full shrink-0 grow-0 justify-between px-3 pt-4 sm:h-24 sm:px-12 sm:pt-10">
+      <div className="container flex min-h-[4rem] w-full shrink-0 grow-0 justify-between gap-3 px-3 pt-4 sm:min-h-[6rem] sm:px-12 sm:pt-10">
         {isShowPrevAndNextWord && state.isTyping && (
           <>
             <PrevAndNextWord type="prev" />
@@ -163,26 +164,30 @@ export default function WordPanel() {
           </>
         )}
       </div>
-      <div className="container flex flex-grow flex-col items-center justify-center">
+      <div className="container flex min-h-[260px] flex-grow flex-col items-center justify-center py-4">
         {currentWord && (
           <div className="relative flex w-full max-w-full justify-center px-2">
             {!state.isTyping && (
               <button
                 type="button"
-                onClick={() => dispatch({ type: TypingStateActionType.SET_IS_TYPING, payload: true })}
-                className="absolute z-10 flex h-full w-full items-center justify-center backdrop-blur-sm"
+                aria-label="开始默写"
+                onClick={() => {
+                  focusMobileTypingInput()
+                  dispatch({ type: TypingStateActionType.SET_IS_TYPING, payload: true })
+                }}
+                className="absolute top-0 z-10 flex h-20 w-full items-center justify-center backdrop-blur-sm"
               >
                 <span className="w-full select-none text-center text-base text-gray-600 dark:text-gray-50 sm:text-xl">
-                    按任意键{state.timerData.time ? '继续' : '开始'}
+                  {state.timerData.time ? '继续默写' : '开始默写'}
                 </span>
               </button>
             )}
-            <div className="relative max-w-full">
+            <div className="relative w-full max-w-4xl px-3">
               <WordComponent
                 word={currentWord}
                 onFinish={onFinish}
                 onAnswerComplete={() => setIsAnswerTranslationVisible(true)}
-                key={wordComponentKey}
+                resetKey={wordComponentKey}
               />
               {phoneticConfig.isOpen && <Phonetic word={currentWord} />}
               <Translation

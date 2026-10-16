@@ -38,11 +38,12 @@ export default function WordList() {
 
   return (
     <>
-      <Tooltip content="List" placement="top" className="!absolute left-5 top-[50%] z-20">
+      <Tooltip content="单词列表" placement="top" className="!absolute right-3 top-3 z-20 sm:left-5 sm:right-auto sm:top-[50%]">
         <button
           type="button"
+          aria-label="单词列表"
           onClick={openModal}
-          className="fixed left-0 top-[50%] z-20 rounded-lg rounded-l-none bg-indigo-50 px-2 py-3 text-lg hover:bg-indigo-200 focus:outline-none dark:bg-indigo-900 dark:hover:bg-indigo-800"
+          className="rounded-lg bg-indigo-50 p-2 text-lg hover:bg-indigo-200 focus:outline-none dark:bg-indigo-900 dark:hover:bg-indigo-800 sm:fixed sm:left-0 sm:top-[50%] sm:rounded-l-none sm:py-3"
         >
           <ListIcon className="h-6 w-6 text-lg text-indigo-500 dark:text-white" />
         </button>

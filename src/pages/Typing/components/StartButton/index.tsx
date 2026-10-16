@@ -1,4 +1,5 @@
 import { TypingContext, TypingStateActionType } from '../../store'
+import { focusMobileTypingInput } from '../WordPanel/components/TextAreaHandler'
 import Tooltip from '@/components/Tooltip'
 import { randomConfigAtom } from '@/store'
 import { autoUpdate, offset, useFloating, useHover, useInteractions } from '@floating-ui/react'
@@ -12,8 +13,10 @@ export default function StartButton({ isLoading }: { isLoading: boolean }) {
   const randomConfig = useAtomValue(randomConfigAtom)
 
   const onToggleIsTyping = useCallback(() => {
-    !isLoading && dispatch({ type: TypingStateActionType.TOGGLE_IS_TYPING })
-  }, [isLoading, dispatch])
+    if (isLoading) return
+    if (!state.isTyping) focusMobileTypingInput()
+    dispatch({ type: TypingStateActionType.SET_IS_TYPING, payload: !state.isTyping })
+  }, [isLoading, dispatch, state.isTyping])
 
   const onClickRestart = useCallback(() => {
     dispatch({ type: TypingStateActionType.REPEAT_CHAPTER, shouldShuffle: randomConfig.isOpen })

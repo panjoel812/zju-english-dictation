@@ -35,10 +35,12 @@ export default function WordComponent({
   word,
   onFinish,
   onAnswerComplete,
+  resetKey,
 }: {
   word: Word
   onFinish: () => void
   onAnswerComplete: () => void
+  resetKey: number
 }) {
   // eslint-disable-next-line  @typescript-eslint/no-non-null-assertion
   const { state, dispatch } = useContext(TypingContext)!
@@ -78,31 +80,25 @@ export default function WordComponent({
     newWordState.startTime = getUtcStringForMixpanel()
     newWordState.randomLetterVisible = headword.split('').map(() => Math.random() > 0.4)
     setWordState(newWordState)
-  }, [word, setWordState])
+  }, [word, resetKey, setWordState])
 
   const updateInput = useCallback(
     (updateAction: WordUpdateAction) => {
       switch (updateAction.type) {
         case 'add':
-          if (wordState.hasWrong) return
-
-          if (updateAction.value === ' ') {
-            updateAction.event.preventDefault()
-            setWordState((state) => {
-              state.inputWord = state.inputWord + EXPLICIT_SPACE
-            })
-          } else {
-            setWordState((state) => {
-              state.inputWord = state.inputWord + updateAction.value
-            })
-          }
+          if (!state.isTyping) return
+          if (updateAction.value.includes(' ')) updateAction.event.preventDefault()
+          setWordState((draft) => {
+            if (draft.hasWrong || draft.isFinished) return
+            draft.inputWord += updateAction.value.replace(/ /g, EXPLICIT_SPACE)
+          })
           break
 
         default:
           console.warn('unknown update type', updateAction)
       }
     },
-    [wordState.hasWrong, setWordState],
+    [state.isTyping, setWordState],
   )
 
   const handleHoverWord = useCallback((checked: boolean) => {
@@ -181,70 +177,56 @@ export default function WordComponent({
 
   useEffect(() => {
     const inputLength = wordState.inputWord.length
-    /**
-     * TODO: 当用户输入错误时，会报错
-     * Cannot update a component (`App`) while rendering a different component (`WordComponent`). To locate the bad setState() call inside `WordComponent`, follow the stack trace as described in https://reactjs.org/link/setstate-in-render
-     * 目前不影响生产环境，猜测是因为开发环境下 react 会两次调用 useEffect 从而展示了这个 warning
-     * 但这终究是一个 bug，需要修复
-     */
-    if (wordState.hasWrong || inputLength === 0 || wordState.displayWord.length === 0) {
+    if (wordState.hasWrong || wordState.isFinished || inputLength === 0 || wordState.displayWord.length === 0) {
       return
     }
-
-    const inputChar = wordState.inputWord[inputLength - 1]
-    const correctChar = wordState.displayWord[inputLength - 1]
-    let isEqual = false
-    if (inputChar != undefined && correctChar != undefined) {
-      isEqual = isIgnoreCase ? inputChar.toLowerCase() === correctChar.toLowerCase() : inputChar === correctChar
+    // Mobile keyboards may commit several letters in one input/composition event.
+    const start = wordState.letterStates.findIndex((letter) => letter !== 'correct')
+    let end = start
+    while (end < inputLength) {
+      const inputChar = wordState.inputWord[end]
+      const correctChar = wordState.displayWord[end]
+      if (correctChar === undefined) break
+      if (isIgnoreCase ? inputChar.toLowerCase() !== correctChar.toLowerCase() : inputChar !== correctChar) break
+      end += 1
     }
+    const hasWrong = end < inputLength
+    const finished = !hasWrong && inputLength === wordState.displayWord.length
+    const letterMistake = structuredClone(wordState.letterMistake)
+    if (hasWrong) letterMistake[end] = [...(letterMistake[end] || []), wordState.inputWord[end]]
 
-    if (isEqual) {
-      // 输入正确时
-      setWordState((state) => {
-        state.letterTimeArray.push(Date.now())
-        state.correctCount += 1
-      })
-
-      if (inputLength >= wordState.displayWord.length) {
-        // 完成英文输入后显示当前词释义，但不要求用户输入中文。
-        onAnswerComplete()
-        setWordState((state) => {
-          state.letterStates[inputLength - 1] = 'correct'
-          state.isFinished = true
-          state.endTime = getUtcStringForMixpanel()
-        })
-        playHintSound()
-      } else {
-        setWordState((state) => {
-          state.letterStates[inputLength - 1] = 'correct'
-        })
-        playKeySound()
+    setWordState((draft) => {
+      for (let index = start; index < end; index += 1) {
+        draft.letterStates[index] = 'correct'
+        draft.letterTimeArray.push(Date.now())
+        draft.correctCount += 1
       }
-
+      if (hasWrong) {
+        draft.letterStates[Math.min(end, draft.displayWord.length - 1)] = 'wrong'
+        draft.hasWrong = true
+        draft.hasMadeInputWrong = true
+        draft.wrongCount += 1
+        draft.letterTimeArray = []
+        draft.letterMistake = letterMistake
+      } else if (finished) {
+        draft.isFinished = true
+        draft.endTime = getUtcStringForMixpanel()
+      }
+    })
+    for (let index = start; index < end; index += 1) {
       dispatch({ type: TypingStateActionType.REPORT_CORRECT_WORD })
-    } else {
-      // 出错时
+    }
+    if (hasWrong) {
       playBeepSound()
-      setWordState((state) => {
-        state.letterStates[inputLength - 1] = 'wrong'
-        state.hasWrong = true
-        state.hasMadeInputWrong = true
-        state.wrongCount += 1
-        state.letterTimeArray = []
-
-        if (state.letterMistake[inputLength - 1]) {
-          state.letterMistake[inputLength - 1].push(inputChar)
-        } else {
-          state.letterMistake[inputLength - 1] = [inputChar]
-        }
-
-        const currentState = JSON.parse(JSON.stringify(state))
-        dispatch({ type: TypingStateActionType.REPORT_WRONG_WORD, payload: { letterMistake: currentState.letterMistake } })
-      })
-
+      dispatch({ type: TypingStateActionType.REPORT_WRONG_WORD, payload: { letterMistake } })
       if (currentChapter === 0 && state.chapterData.index === 0 && wordState.wrongCount >= 3) {
         setShowTipAlert(true)
       }
+    } else if (finished) {
+      onAnswerComplete()
+      playHintSound()
+    } else {
+      playKeySound()
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [wordState.inputWord])
@@ -298,29 +280,30 @@ export default function WordComponent({
 
   return (
     <>
-      <InputHandler updateInput={updateInput} />
       <div
         lang={currentLanguageCategory !== 'code' ? currentLanguageCategory : 'en'}
         className="flex flex-col items-center justify-center pb-1 pt-4"
       >
         {['romaji', 'hapin'].includes(currentLanguage) && word.notation && <Notation notation={word.notation} />}
         <div
-          className={`tooltip-info relative w-fit bg-transparent p-0 leading-normal shadow-none dark:bg-transparent ${
+          className={`tooltip-info relative flex max-w-full items-center gap-2 whitespace-normal bg-transparent p-0 leading-normal shadow-none dark:bg-transparent ${
             wordDictationConfig.isOpen ? 'tooltip' : ''
           }`}
           data-tip="按 Tab 快捷键显示完整单词"
         >
           <div
-            onMouseEnter={() => handleHoverWord(true)}
+            onMouseEnter={() => window.matchMedia('(hover: hover)').matches && handleHoverWord(true)}
             onMouseLeave={() => handleHoverWord(false)}
-            className={`flex items-center ${isTextSelectable && 'select-all'} justify-center ${wordState.hasWrong ? style.wrong : ''}`}
+            className={`flex min-w-0 flex-wrap items-center ${isTextSelectable && 'select-all'} justify-center ${
+              wordState.hasWrong ? style.wrong : ''
+            }`}
           >
             {wordState.displayWord.split('').map((t, index) => {
               return <Letter key={`${index}-${t}`} letter={t} visible={getLetterVisible(index)} state={wordState.letterStates[index]} />
             })}
           </div>
           {pronunciationIsOpen && (
-            <div className="absolute -right-12 top-1/2 h-9 w-9 -translate-y-1/2 transform ">
+            <div className="h-9 w-9 shrink-0">
               <Tooltip content={`快捷键${CTRL} + J`}>
                 <WordPronunciationIcon word={word} lang={currentLanguage} ref={wordPronunciationIconRef} className="h-full w-full" />
               </Tooltip>
@@ -328,6 +311,7 @@ export default function WordComponent({
           )}
         </div>
       </div>
+      <InputHandler updateInput={updateInput} />
       <TipAlert className="fixed bottom-10 right-3" show={showTipAlert} setShow={setShowTipAlert} />
     </>
   )

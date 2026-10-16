@@ -16,7 +16,6 @@ async function openPage(viewport = { width: 390, height: 844 }, mobile = true, s
   page.setDefaultTimeout(5000)
   await page.route('**/dicts/zju-english-3-unit-1-reading-1.json', (route) => route.fulfill({ json: words }))
   await page.addInitScript((storage) => {
-    localStorage.setItem('wordDictationConfig-v2', JSON.stringify({ isOpen: true, type: 'hideAll', openBy: 'user' }))
     localStorage.setItem('phoneticConfig', JSON.stringify({ isOpen: false }))
     for (const [key, value] of Object.entries(storage)) localStorage.setItem(key, JSON.stringify(value))
   }, storage)
@@ -84,6 +83,54 @@ async function waitForRecords(page, count) {
 }
 
 try {
+  for (const mobile of [true, false]) {
+    await check(`${mobile ? 'mobile' : 'desktop'} first visit hides English and Chinese by default`, async () => {
+      const { context, page } = await openPage(mobile ? undefined : { width: 1440, height: 1000 }, mobile)
+      assert.equal(await page.locator('.tooltip-info > div:first-child').textContent(), '____________')
+      assert.equal(await page.getByText('n. 企业家', { exact: true }).count(), 0)
+      await page.getByRole('button', { name: '开关默写模式', exact: true }).click()
+      assert.equal(await page.getByRole('switch').getAttribute('aria-checked'), 'true')
+      assert.equal(await page.getByRole('button', { name: '全部隐藏', exact: true }).count(), 1)
+      await context.close()
+    })
+  }
+
+  await check('manually disabling dictation survives reload', async () => {
+    const { context, page } = await openPage()
+    await page.getByRole('button', { name: '开关默写模式', exact: true }).tap()
+    await page.getByRole('switch').uncheck()
+    await page.reload()
+    await page.locator('.tooltip-info').waitFor()
+    assert.equal(await page.locator('.tooltip-info > div:first-child').textContent(), 'entrepreneur')
+    await page.getByRole('button', { name: '开关默写模式', exact: true }).tap()
+    assert.equal(await page.getByRole('switch').getAttribute('aria-checked'), 'false')
+    await context.close()
+  })
+
+  await check('saved dictation choices are not replaced by the new default', async () => {
+    for (const config of [
+      { isOpen: false, type: 'hideAll', openBy: 'user' },
+      { isOpen: true, type: 'hideVowel', openBy: 'user' },
+    ]) {
+      const { context, page } = await openPage(undefined, true, { 'wordDictationConfig-v2': config })
+      assert.equal(await page.locator('.tooltip-info > div:first-child').textContent(), config.isOpen ? '_ntr_pr_n__r' : 'entrepreneur')
+      await context.close()
+    }
+  })
+
+  await check('default dictation stays enabled when repeating a completed chapter', async () => {
+    const { context, page } = await openPage()
+    await page.locator('#typing-mobile-input').tap()
+    for (const word of words) {
+      await input(page, word.name)
+      await page.waitForTimeout(1400)
+    }
+    await page.getByRole('button', { name: '重复本章节', exact: true }).tap()
+    await page.locator('.tooltip-info > div:first-child > span').first().waitFor()
+    assert.equal(await page.locator('.tooltip-info > div:first-child').textContent(), '____________')
+    await context.close()
+  })
+
   await check('mobile starts paused and focuses synchronously on Start', async () => {
     const { context, page } = await openPage()
     assert.equal(await page.getByRole('button', { name: '开始', exact: true }).count(), 1)

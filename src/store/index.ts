@@ -105,9 +105,10 @@ export const infoPanelStateAtom = atom<InfoPanelState>({
 })
 
 export const wordDictationConfigAtom = atomForConfig('wordDictationConfig-v2', {
-  isOpen: false,
+  isOpen: true,
   type: 'hideAll' as WordDictationType,
-  openBy: 'auto' as WordDictationOpenBy,
+  // 'auto' is a one-off review mode that resets after a chapter.
+  openBy: 'user' as WordDictationOpenBy,
 })
 
 export const dismissStartCardDateAtom = atomWithStorage<Date | null>(DISMISS_START_CARD_DATE_KEY, null)

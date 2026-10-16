@@ -1,0 +1,278 @@
+[
+  {
+    "name": "ampere",
+    "trans": [
+      "安培（电流单位）"
+    ]
+  },
+  {
+    "name": "atomic bomb",
+    "trans": [
+      "原子弹"
+    ]
+  },
+  {
+    "name": "collision",
+    "trans": [
+      "（粒子间的）碰撞",
+      "碰撞（相撞）事故"
+    ]
+  },
+  {
+    "name": "compress",
+    "trans": [
+      "压紧；压缩"
+    ]
+  },
+  {
+    "name": "conventional",
+    "trans": [
+      "传统的；常规的；普通的"
+    ]
+  },
+  {
+    "name": "crowning",
+    "trans": [
+      "最好的；至高无上的；登峰造极的"
+    ]
+  },
+  {
+    "name": "deployment",
+    "trans": [
+      "有效运用"
+    ]
+  },
+  {
+    "name": "devastate",
+    "trans": [
+      "严重破坏；彻底破坏；摧毁",
+      "使极度震惊；使伤心欲绝"
+    ]
+  },
+  {
+    "name": "elusive",
+    "trans": [
+      "难以实现的；无法实现的",
+      "难找到的；不常见的"
+    ]
+  },
+  {
+    "name": "extraordinarily",
+    "trans": [
+      "极其"
+    ]
+  },
+  {
+    "name": "fission",
+    "trans": [
+      "（原子的）（核）裂变"
+    ]
+  },
+  {
+    "name": "fizzle",
+    "trans": [
+      "逐渐结束"
+    ]
+  },
+  {
+    "name": "fuse",
+    "trans": [
+      "（使）（物理地）结合，融为一体"
+    ]
+  },
+  {
+    "name": "fusion",
+    "trans": [
+      "核聚变；热核反应"
+    ]
+  },
+  {
+    "name": "helium",
+    "trans": [
+      "氦（一种化学元素，符号为He）"
+    ]
+  },
+  {
+    "name": "hoist",
+    "trans": [
+      "（用绳子或机械）抬起，吊起"
+    ]
+  },
+  {
+    "name": "ignite",
+    "trans": [
+      "燃烧；点燃"
+    ]
+  },
+  {
+    "name": "illuminate",
+    "trans": [
+      "照射；照亮；照明"
+    ]
+  },
+  {
+    "name": "inert gas",
+    "trans": [
+      "惰性气体"
+    ]
+  },
+  {
+    "name": "intricacy",
+    "trans": [
+      "错综复杂；盘根错节",
+      "错综复杂的事物（或细节）"
+    ]
+  },
+  {
+    "name": "magnetic confinement fusion",
+    "trans": [
+      "磁约束聚变"
+    ]
+  },
+  {
+    "name": "magnetic field",
+    "trans": [
+      "磁场"
+    ]
+  },
+  {
+    "name": "matter",
+    "trans": [
+      "（构成宇宙万物的）物质"
+    ]
+  },
+  {
+    "name": "meltdown",
+    "trans": [
+      "（造成放射性物质逸出的）核反应堆堆芯熔毁"
+    ]
+  },
+  {
+    "name": "minimal",
+    "trans": [
+      "极小的；极少的；（尤指）最小的，最少的"
+    ]
+  },
+  {
+    "name": "multiplier",
+    "trans": [
+      "乘数；倍数"
+    ]
+  },
+  {
+    "name": "nucleus",
+    "trans": [
+      "（原子）核"
+    ]
+  },
+  {
+    "name": "particularly",
+    "trans": [
+      "特别；尤其"
+    ]
+  },
+  {
+    "name": "plasma",
+    "trans": [
+      "等离子体"
+    ]
+  },
+  {
+    "name": "plutonium",
+    "trans": [
+      "钚（一种化学元素，符号为Pu）"
+    ]
+  },
+  {
+    "name": "potent",
+    "trans": [
+      "强有力的；有威力的"
+    ]
+  },
+  {
+    "name": "quirk",
+    "trans": [
+      "（特有的）习惯，举动"
+    ]
+  },
+  {
+    "name": "radioactive",
+    "trans": [
+      "具有放射性的；有辐射性的"
+    ]
+  },
+  {
+    "name": "reactor",
+    "trans": [
+      "核反应堆"
+    ]
+  },
+  {
+    "name": "repel",
+    "trans": [
+      "排斥；相斥",
+      "驱逐；逐回；击退；抗御"
+    ]
+  },
+  {
+    "name": "repulsion",
+    "trans": [
+      "（排）斥力",
+      "厌恶；反感"
+    ]
+  },
+  {
+    "name": "runaway reaction",
+    "trans": [
+      "失控反应"
+    ]
+  },
+  {
+    "name": "semiconductor",
+    "trans": [
+      "半导体"
+    ]
+  },
+  {
+    "name": "shot",
+    "trans": [
+      "尝试（尤指做困难的事）"
+    ]
+  },
+  {
+    "name": "smidgen",
+    "trans": [
+      "一点点；少量"
+    ]
+  },
+  {
+    "name": "solenoid",
+    "trans": [
+      "螺线管（通电时产生磁场）"
+    ]
+  },
+  {
+    "name": "thermonuclear",
+    "trans": [
+      "热核反应的；热核的"
+    ]
+  },
+  {
+    "name": "tokamak",
+    "trans": [
+      "托卡马克（受控热核反应装置）"
+    ]
+  },
+  {
+    "name": "uncontrolled",
+    "trans": [
+      "（感情、车辆等）不受控制的"
+    ]
+  },
+  {
+    "name": "uranium",
+    "trans": [
+      "铀（一种化学元素，符号为U）"
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "zju-english-engineering-unit-1-viewing",
+    "name": "新工科英语 - Unit 1 Viewing",
+    "description": "浙大新工科英语 Unit 1 · Viewing through the lens",
+    "length": 13
+  },
+  {
+    "id": "zju-english-engineering-unit-1-reading-1",
+    "name": "新工科英语 - Unit 1 Reading 1",
+    "description": "浙大新工科英语 Unit 1 · Exploring the frontier – Reading 1",
+    "length": 43
+  },
+  {
+    "id": "zju-english-engineering-unit-1-reading-2",
+    "name": "新工科英语 - Unit 1 Reading 2",
+    "description": "浙大新工科英语 Unit 1 · Exploring the frontier – Reading 2",
+    "length": 36
+  },
+  {
+    "id": "zju-english-engineering-unit-2-viewing",
+    "name": "新工科英语 - Unit 2 Viewing",
+    "description": "浙大新工科英语 Unit 2 · Viewing through the lens",
+    "length": 12
+  },
+  {
+    "id": "zju-english-engineering-unit-2-reading-1",
+    "name": "新工科英语 - Unit 2 Reading 1",
+    "description": "浙大新工科英语 Unit 2 · Exploring the frontier – Reading 1",
+    "length": 55
+  },
+  {
+    "id": "zju-english-engineering-unit-2-reading-2",
+    "name": "新工科英语 - Unit 2 Reading 2",
+    "description": "浙大新工科英语 Unit 2 · Exploring the frontier – Reading 2",
+    "length": 46
+  },
+  {
+    "id": "zju-english-engineering-unit-3-viewing",
+    "name": "新工科英语 - Unit 3 Viewing",
+    "description": "浙大新工科英语 Unit 3 · Viewing through the lens",
+    "length": 17
+  },
+  {
+    "id": "zju-english-engineering-unit-3-reading-1",
+    "name": "新工科英语 - Unit 3 Reading 1",
+    "description": "浙大新工科英语 Unit 3 · Exploring the frontier – Reading 1",
+    "length": 45
+  },
+  {
+    "id": "zju-english-engineering-unit-3-reading-2",
+    "name": "新工科英语 - Unit 3 Reading 2",
+    "description": "浙大新工科英语 Unit 3 · Exploring the frontier – Reading 2",
+    "length": 43
+  },
+  {
+    "id": "zju-english-engineering-unit-4-viewing",
+    "name": "新工科英语 - Unit 4 Viewing",
+    "description": "浙大新工科英语 Unit 4 · Viewing through the lens",
+    "length": 12
+  },
+  {
+    "id": "zju-english-engineering-unit-4-reading-1",
+    "name": "新工科英语 - Unit 4 Reading 1",
+    "description": "浙大新工科英语 Unit 4 · Exploring the frontier – Reading 1",
+    "length": 39
+  },
+  {
+    "id": "zju-english-engineering-unit-4-reading-2",
+    "name": "新工科英语 - Unit 4 Reading 2",
+    "description": "浙大新工科英语 Unit 4 · Exploring the frontier – Reading 2",
+    "length": 39
+  },
+  {
+    "id": "zju-english-engineering-unit-5-viewing",
+    "name": "新工科英语 - Unit 5 Viewing",
+    "description": "浙大新工科英语 Unit 5 · Viewing through the lens",
+    "length": 12
+  },
+  {
+    "id": "zju-english-engineering-unit-5-reading-1",
+    "name": "新工科英语 - Unit 5 Reading 1",
+    "description": "浙大新工科英语 Unit 5 · Exploring the frontier – Reading 1",
+    "length": 39
+  },
+  {
+    "id": "zju-english-engineering-unit-5-reading-2",
+    "name": "新工科英语 - Unit 5 Reading 2",
+    "description": "浙大新工科英语 Unit 5 · Exploring the frontier – Reading 2",
+    "length": 38
+  },
+  {
+    "id": "zju-english-engineering-unit-6-viewing",
+    "name": "新工科英语 - Unit 6 Viewing",
+    "description": "浙大新工科英语 Unit 6 · Viewing through the lens",
+    "length": 15
+  },
+  {
+    "id": "zju-english-engineering-unit-6-reading-1",
+    "name": "新工科英语 - Unit 6 Reading 1",
+    "description": "浙大新工科英语 Unit 6 · Exploring the frontier – Reading 1",
+    "length": 37
+  },
+  {
+    "id": "zju-english-engineering-unit-6-reading-2",
+    "name": "新工科英语 - Unit 6 Reading 2",
+    "description": "浙大新工科英语 Unit 6 · Exploring the frontier – Reading 2",
+    "length": 39
+  },
+  {
+    "id": "zju-english-engineering-unit-7-viewing",
+    "name": "新工科英语 - Unit 7 Viewing",
+    "description": "浙大新工科英语 Unit 7 · Viewing through the lens",
+    "length": 11
+  },
+  {
+    "id": "zju-english-engineering-unit-7-reading-1",
+    "name": "新工科英语 - Unit 7 Reading 1",
+    "description": "浙大新工科英语 Unit 7 · Exploring the frontier – Reading 1",
+    "length": 42
+  },
+  {
+    "id": "zju-english-engineering-unit-7-reading-2",
+    "name": "新工科英语 - Unit 7 Reading 2",
+    "description": "浙大新工科英语 Unit 7 · Exploring the frontier – Reading 2",
+    "length": 37
+  },
+  {
+    "id": "zju-english-engineering-unit-8-viewing",
+    "name": "新工科英语 - Unit 8 Viewing",
+    "description": "浙大新工科英语 Unit 8 · Viewing through the lens",
+    "length": 14
+  },
+  {
+    "id": "zju-english-engineering-unit-8-reading-1",
+    "name": "新工科英语 - Unit 8 Reading 1",
+    "description": "浙大新工科英语 Unit 8 · Exploring the frontier – Reading 1",
+    "length": 31
+  },
+  {
+    "id": "zju-english-engineering-unit-8-reading-2",
+    "name": "新工科英语 - Unit 8 Reading 2",
+    "description": "浙大新工科英语 Unit 8 · Exploring the frontier – Reading 2",
+    "length": 30
+  }
+]

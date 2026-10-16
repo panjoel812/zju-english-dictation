@@ -64,6 +64,7 @@
     "test": "echo \"No tests\"",
     "test:e2e": "playwright test",
     "test:dictation": "node scripts/check-dictation.mjs",
+    "test:engineering": "node --test scripts/import-engineering.test.mjs",
     "screenshots:readme": "node scripts/capture-readme.mjs",
     "lint": "eslint .",
     "prettier": "prettier --write .",

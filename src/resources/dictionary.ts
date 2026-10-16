@@ -1,3 +1,4 @@
+import engineeringVocabulary from './zju-engineering.json'
 import type { Dictionary, DictionaryResource } from '@/typings/index'
 import { calcChapterCount } from '@/utils'
 
@@ -4431,12 +4432,22 @@ const indonesianDicts: DictionaryResource[] = [
   },
 ]
 
+const engineeringDictionaries: DictionaryResource[] = engineeringVocabulary.map((resource) => ({
+  ...resource,
+  category: '专业词汇',
+  tags: ['浙大新工科英语'],
+  url: `/dicts/${resource.id}.json`,
+  language: 'en',
+  languageCategory: 'en',
+}))
+
 /**
  * Built-in dictionaries in an array.
  * Why arrays? Because it keeps the order across browsers.
  */
 const allDictionaryResources: DictionaryResource[] = [
   ...chinaExam,
+  ...engineeringDictionaries,
   ...internationalExam,
   ...childrenEnglish,
   ...programming,
@@ -4491,6 +4502,7 @@ const preferredDictionaryIds = [
   'zju-english-4-unit-7',
   'zju-english-4-unit-8',
   'zju-english-book1-u1-4',
+  ...engineeringDictionaries.map((resource) => resource.id),
   'cet4',
   'cet6',
   'ielts',

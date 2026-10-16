@@ -34,7 +34,16 @@ export default function GalleryPage() {
   const groupedByCategoryAndTag = useMemo(() => {
     const currentLanguageCategoryDicts = dictionaries.filter((dict) => dict.languageCategory === galleryState.currentLanguageTab)
     const dictionaryGroups: Array<[string, string[]]> = [
-      ['浙江大学英语', currentLanguageCategoryDicts.filter((dict) => dict.id.startsWith('zju-english-')).map((dict) => dict.id)],
+      [
+        '浙江大学英语',
+        currentLanguageCategoryDicts
+          .filter((dict) => dict.id.startsWith('zju-english-') && !dict.id.startsWith('zju-english-engineering-'))
+          .map((dict) => dict.id),
+      ],
+      [
+        '浙大新工科英语',
+        currentLanguageCategoryDicts.filter((dict) => dict.id.startsWith('zju-english-engineering-')).map((dict) => dict.id),
+      ],
       ['四六级', ['cet4', 'cet6']],
       ['雅思托福', ['ielts', 'toefl']],
     ]

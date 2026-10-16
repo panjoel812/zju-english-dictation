@@ -1,0 +1,287 @@
+[
+  {
+    "name": "aluminum",
+    "trans": [
+      "铝（一种化学元素，符号为Al）"
+    ]
+  },
+  {
+    "name": "analyst",
+    "trans": [
+      "分析师；分析员"
+    ]
+  },
+  {
+    "name": "binder",
+    "trans": [
+      "黏结剂；增黏剂",
+      "活页夹"
+    ]
+  },
+  {
+    "name": "cathode",
+    "trans": [
+      "负极；阴极"
+    ]
+  },
+  {
+    "name": "cement",
+    "trans": [
+      "胶合剂；黏固剂"
+    ]
+  },
+  {
+    "name": "chemical",
+    "trans": [
+      "化学品；化学制品"
+    ]
+  },
+  {
+    "name": "cobalt",
+    "trans": [
+      "钴（一种化学元素，符号为Co）"
+    ]
+  },
+  {
+    "name": "combust",
+    "trans": [
+      "开始燃烧"
+    ]
+  },
+  {
+    "name": "combustible",
+    "trans": [
+      "可燃的；易燃的"
+    ]
+  },
+  {
+    "name": "composition",
+    "trans": [
+      "成分；构成；组合方式"
+    ]
+  },
+  {
+    "name": "cylindrical cell",
+    "trans": [
+      "圆柱形蓄电池"
+    ]
+  },
+  {
+    "name": "dinosaur",
+    "trans": [
+      "守旧落伍的人；过时落后的东西",
+      "恐龙"
+    ]
+  },
+  {
+    "name": "disassembly",
+    "trans": [
+      "拆卸；分解"
+    ]
+  },
+  {
+    "name": "dismantle",
+    "trans": [
+      "拆开，拆卸（机器或设备）"
+    ]
+  },
+  {
+    "name": "electric vehicle",
+    "trans": [
+      "电动车辆",
+      "词条补充：EV"
+    ]
+  },
+  {
+    "name": "electrolyte",
+    "trans": [
+      "电解液"
+    ]
+  },
+  {
+    "name": "emission",
+    "trans": [
+      "排放物；散发物",
+      "（气体、热量、光线等的）排放，散发，射出"
+    ]
+  },
+  {
+    "name": "extract",
+    "trans": [
+      "取出；拔出；提取"
+    ]
+  },
+  {
+    "name": "feat",
+    "trans": [
+      "业绩；功绩；壮举"
+    ]
+  },
+  {
+    "name": "fumes",
+    "trans": [
+      "（浓重难闻，有时有害的）烟，烟雾，气"
+    ]
+  },
+  {
+    "name": "graphite anode",
+    "trans": [
+      "石墨阳极"
+    ]
+  },
+  {
+    "name": "haystack",
+    "trans": [
+      "干草垛"
+    ]
+  },
+  {
+    "name": "hazardous",
+    "trans": [
+      "危险的；不安全的"
+    ]
+  },
+  {
+    "name": "hydrometallurgy",
+    "trans": [
+      "湿法冶金（学）"
+    ]
+  },
+  {
+    "name": "indestructible",
+    "trans": [
+      "不可毁灭的；破坏不了的"
+    ]
+  },
+  {
+    "name": "intricate",
+    "trans": [
+      "错综复杂的；复杂精细的"
+    ]
+  },
+  {
+    "name": "ion",
+    "trans": [
+      "离子"
+    ]
+  },
+  {
+    "name": "landfill",
+    "trans": [
+      "废弃物填埋场",
+      "废弃物的填埋；填埋的废弃物"
+    ]
+  },
+  {
+    "name": "lithium",
+    "trans": [
+      "锂（一种化学元素，符号为Li）"
+    ]
+  },
+  {
+    "name": "mandate",
+    "trans": [
+      "命令；指令",
+      "权力；授权"
+    ]
+  },
+  {
+    "name": "manganese",
+    "trans": [
+      "锰（一种化学元素，符号为Mn）"
+    ]
+  },
+  {
+    "name": "massive",
+    "trans": [
+      "巨大的；强大的；强烈的；极具破坏力的",
+      "大而重的；厚重的"
+    ]
+  },
+  {
+    "name": "mixture",
+    "trans": [
+      "混合物；混合体；混合料"
+    ]
+  },
+  {
+    "name": "module",
+    "trans": [
+      "组件；模块"
+    ]
+  },
+  {
+    "name": "oxide",
+    "trans": [
+      "氧化物"
+    ]
+  },
+  {
+    "name": "phosphate",
+    "trans": [
+      "磷酸盐"
+    ]
+  },
+  {
+    "name": "polyurethane",
+    "trans": [
+      "聚氨酯（一种塑料类材料）"
+    ]
+  },
+  {
+    "name": "problematic",
+    "trans": [
+      "有很多问题的；难对付的；成问题的"
+    ]
+  },
+  {
+    "name": "propel",
+    "trans": [
+      "推动；推进；驱动"
+    ]
+  },
+  {
+    "name": "pyrometallurgy",
+    "trans": [
+      "火法冶金（学）"
+    ]
+  },
+  {
+    "name": "solvent",
+    "trans": [
+      "溶剂",
+      "（尤指公司）有偿付能力的，付得起的"
+    ]
+  },
+  {
+    "name": "sticky",
+    "trans": [
+      "困难的；棘手的",
+      "黏性的；黏的；涂有黏胶的"
+    ]
+  },
+  {
+    "name": "tailpipe",
+    "trans": [
+      "（汽车的）排气管"
+    ]
+  },
+  {
+    "name": "toxic",
+    "trans": [
+      "有毒的；引起中毒的"
+    ]
+  },
+  {
+    "name": "toxin",
+    "trans": [
+      "（尤指致病细菌产生的）毒素"
+    ]
+  },
+  {
+    "name": "viable",
+    "trans": [
+      "可以实施的；可望成功的"
+    ]
+  }
+]

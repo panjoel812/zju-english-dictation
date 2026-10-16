@@ -26,5 +26,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Validate engineering vocabulary
+        run: npm run test:engineering
+
       - name: Build application
         run: npm run build

@@ -1,0 +1,343 @@
+[
+  {
+    "name": "air conditioner",
+    "trans": [
+      "空调机；空调设备"
+    ]
+  },
+  {
+    "name": "algorithm",
+    "trans": [
+      "（尤指计算机使用的）算法，计算程序"
+    ]
+  },
+  {
+    "name": "antenna",
+    "trans": [
+      "天线",
+      "触角；触须"
+    ]
+  },
+  {
+    "name": "array",
+    "trans": [
+      "大群；大堆；大量"
+    ]
+  },
+  {
+    "name": "audacious",
+    "trans": [
+      "敢于冒险的；大胆的"
+    ]
+  },
+  {
+    "name": "avert",
+    "trans": [
+      "防止；避免"
+    ]
+  },
+  {
+    "name": "behold",
+    "trans": [
+      "看见；注视"
+    ]
+  },
+  {
+    "name": "blackout",
+    "trans": [
+      "停电；断电"
+    ]
+  },
+  {
+    "name": "civic",
+    "trans": [
+      "市民的；公民的",
+      "城镇的；城市的"
+    ]
+  },
+  {
+    "name": "cog",
+    "trans": [
+      "（大机构中的）无足轻重的人物，小人物",
+      "齿轮"
+    ]
+  },
+  {
+    "name": "communique",
+    "trans": [
+      "公报",
+      "原文拼写：communiqué"
+    ]
+  },
+  {
+    "name": "contraption",
+    "trans": [
+      "奇异的机械；奇特的装置"
+    ]
+  },
+  {
+    "name": "corporate",
+    "trans": [
+      "（大）公司的"
+    ]
+  },
+  {
+    "name": "democratization",
+    "trans": [
+      "民主化；大众化"
+    ]
+  },
+  {
+    "name": "dispatch",
+    "trans": [
+      "发送；派遣"
+    ]
+  },
+  {
+    "name": "electromechanical",
+    "trans": [
+      "电动机械的；机电的"
+    ]
+  },
+  {
+    "name": "expansion",
+    "trans": [
+      "（尺寸、数量或重要性的）扩大，增加，扩展"
+    ]
+  },
+  {
+    "name": "flick",
+    "trans": [
+      "啪地开动"
+    ]
+  },
+  {
+    "name": "flurry",
+    "trans": [
+      "一阵忙乱（或激动、关注）"
+    ]
+  },
+  {
+    "name": "fringe",
+    "trans": [
+      "在（···的）边缘；在（···的）外围"
+    ]
+  },
+  {
+    "name": "grassroots",
+    "trans": [
+      "草根的；民众的",
+      "（尤指一个政党内的）基层民众；平民百姓"
+    ]
+  },
+  {
+    "name": "grid",
+    "trans": [
+      "电力网；输电网",
+      "网格；方格；格栅；格子"
+    ]
+  },
+  {
+    "name": "hectic",
+    "trans": [
+      "繁忙的；忙碌的"
+    ]
+  },
+  {
+    "name": "iceberg",
+    "trans": [
+      "冰山"
+    ]
+  },
+  {
+    "name": "innards",
+    "trans": [
+      "内部结构",
+      "（尤指动物的）内脏"
+    ]
+  },
+  {
+    "name": "intervention",
+    "trans": [
+      "干预；干涉"
+    ]
+  },
+  {
+    "name": "killer app",
+    "trans": [
+      "极具价值的功能或部分",
+      "受人欢迎的应用软件"
+    ]
+  },
+  {
+    "name": "lurk",
+    "trans": [
+      "暗藏；潜伏着",
+      "潜伏；埋伏"
+    ]
+  },
+  {
+    "name": "mainframe",
+    "trans": [
+      "（大型计算机的）主机，大型机"
+    ]
+  },
+  {
+    "name": "microbe",
+    "trans": [
+      "微生物"
+    ]
+  },
+  {
+    "name": "microprocessor",
+    "trans": [
+      "微处理器"
+    ]
+  },
+  {
+    "name": "miscreant",
+    "trans": [
+      "恶棍；无赖；歹徒"
+    ]
+  },
+  {
+    "name": "morph",
+    "trans": [
+      "（使）变形为；（使）变为"
+    ]
+  },
+  {
+    "name": "mundane",
+    "trans": [
+      "普通的；平凡的；平淡无奇的"
+    ]
+  },
+  {
+    "name": "open-source",
+    "trans": [
+      "（软件）开放源代码的，提供源程序的"
+    ]
+  },
+  {
+    "name": "optimize",
+    "trans": [
+      "使优化；使完善"
+    ]
+  },
+  {
+    "name": "predetermined",
+    "trans": [
+      "预先决定（确定）的"
+    ]
+  },
+  {
+    "name": "reading",
+    "trans": [
+      "（电子设备显示的）读数"
+    ]
+  },
+  {
+    "name": "replumb",
+    "trans": [
+      "重新铺设（房屋、建筑等的）管道系统"
+    ]
+  },
+  {
+    "name": "roam",
+    "trans": [
+      "闲逛（于）；漫步（于）；漫游（于）"
+    ]
+  },
+  {
+    "name": "seductive",
+    "trans": [
+      "有诱惑力的；有魅力的"
+    ]
+  },
+  {
+    "name": "sentient",
+    "trans": [
+      "有知觉力的；有感觉力的"
+    ]
+  },
+  {
+    "name": "shunt",
+    "trans": [
+      "把···转至，调往（另一地方）"
+    ]
+  },
+  {
+    "name": "sprout",
+    "trans": [
+      "长出",
+      "（植物或种子）发芽，抽芽，抽条，生长"
+    ]
+  },
+  {
+    "name": "stitch",
+    "trans": [
+      "缝；缝合；缝补",
+      "（缝纫的）针脚；一针"
+    ]
+  },
+  {
+    "name": "stroll",
+    "trans": [
+      "散步；溜达"
+    ]
+  },
+  {
+    "name": "stubby",
+    "trans": [
+      "短粗的；矮壮的"
+    ]
+  },
+  {
+    "name": "supplant",
+    "trans": [
+      "取代；代替"
+    ]
+  },
+  {
+    "name": "surveillance",
+    "trans": [
+      "监视"
+    ]
+  },
+  {
+    "name": "suspicious",
+    "trans": [
+      "可疑的；引起怀疑的"
+    ]
+  },
+  {
+    "name": "thermostat",
+    "trans": [
+      "温度自动调节器；恒温器"
+    ]
+  },
+  {
+    "name": "toil",
+    "trans": [
+      "苦干；努力工作"
+    ]
+  },
+  {
+    "name": "vigilant",
+    "trans": [
+      "警觉的；警戒的；警惕的"
+    ]
+  },
+  {
+    "name": "wield",
+    "trans": [
+      "拥有，运用，行使，支配（权力等）"
+    ]
+  },
+  {
+    "name": "work",
+    "trans": [
+      "（钟或机器的）活动机件，运转机构"
+    ]
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "name": "argumentative",
+    "trans": [
+      "好表示不同（或相反）观点的；好争论的"
+    ]
+  },
+  {
+    "name": "beanbag ashtray",
+    "trans": [
+      "豆袋烟灰缸"
+    ]
+  },
+  {
+    "name": "checkout",
+    "trans": [
+      "（付款台前的）结账；（超市等的）付款台"
+    ]
+  },
+  {
+    "name": "clockwork",
+    "trans": [
+      "（有类似时钟齿轮和发条装置的）机械；齿轮发条装置"
+    ]
+  },
+  {
+    "name": "constraint",
+    "trans": [
+      "限制；束缚；约束"
+    ]
+  },
+  {
+    "name": "cripple",
+    "trans": [
+      "严重损坏（削弱）",
+      "使跛；使瘸"
+    ]
+  },
+  {
+    "name": "decipher",
+    "trans": [
+      "理解；译解；识别",
+      "破译（密码）；译解（电码）"
+    ]
+  },
+  {
+    "name": "decode",
+    "trans": [
+      "译解（电子信号）",
+      "解（码）；破译（尤指密码）"
+    ]
+  },
+  {
+    "name": "destiny",
+    "trans": [
+      "前途；命运"
+    ]
+  },
+  {
+    "name": "electrical impulse",
+    "trans": [
+      "电脉冲"
+    ]
+  },
+  {
+    "name": "facilitate",
+    "trans": [
+      "促进；使便利"
+    ]
+  },
+  {
+    "name": "flawlessly",
+    "trans": [
+      "完美地；无暇地"
+    ]
+  },
+  {
+    "name": "font",
+    "trans": [
+      "字体；字型"
+    ]
+  },
+  {
+    "name": "horizontal",
+    "trans": [
+      "水平的"
+    ]
+  },
+  {
+    "name": "implementation",
+    "trans": [
+      "实施；贯彻；执行"
+    ]
+  },
+  {
+    "name": "imponderable",
+    "trans": [
+      "难以估量（或回答）的；不可估量（或回答）的"
+    ]
+  },
+  {
+    "name": "intern",
+    "trans": [
+      "实习"
+    ]
+  },
+  {
+    "name": "intrigued",
+    "trans": [
+      "着迷的；感兴趣的"
+    ]
+  },
+  {
+    "name": "inventory management",
+    "trans": [
+      "库存管理；存货管理；存货控制"
+    ]
+  },
+  {
+    "name": "malfunction",
+    "trans": [
+      "（机器的）故障，失灵；（人体器官的）功能障碍"
+    ]
+  },
+  {
+    "name": "mechanism",
+    "trans": [
+      "方法；机制",
+      "机械装置；机件；工作部件"
+    ]
+  },
+  {
+    "name": "merchandising",
+    "trans": [
+      "推销；展销"
+    ]
+  },
+  {
+    "name": "mindset",
+    "trans": [
+      "思维模式"
+    ]
+  },
+  {
+    "name": "omnidirectional",
+    "trans": [
+      "（接收或发射信号）全向的"
+    ]
+  },
+  {
+    "name": "optical sensor",
+    "trans": [
+      "光学传感器"
+    ]
+  },
+  {
+    "name": "original",
+    "trans": [
+      "原先的；最早的；最初的"
+    ]
+  },
+  {
+    "name": "perishable",
+    "trans": [
+      "（尤指食物）易腐烂的，易变质的"
+    ]
+  },
+  {
+    "name": "pitcher",
+    "trans": [
+      "投球手"
+    ]
+  },
+  {
+    "name": "precision",
+    "trans": [
+      "精确（性）；准确（性）"
+    ]
+  },
+  {
+    "name": "propeller",
+    "trans": [
+      "推进者；推动者；推动因素",
+      "（飞机或轮船的）螺旋桨，推进器"
+    ]
+  },
+  {
+    "name": "prospector",
+    "trans": [
+      "勘探者；探矿者"
+    ]
+  },
+  {
+    "name": "prototype",
+    "trans": [
+      "（新型汽车、机器等的）原型，雏形"
+    ]
+  },
+  {
+    "name": "receipt",
+    "trans": [
+      "收据；收条"
+    ]
+  },
+  {
+    "name": "rigid",
+    "trans": [
+      "不易改变的；刻板的"
+    ]
+  },
+  {
+    "name": "rigorous",
+    "trans": [
+      "严格的；缜密的；精确的"
+    ]
+  },
+  {
+    "name": "serial number",
+    "trans": [
+      "序列号"
+    ]
+  },
+  {
+    "name": "specification",
+    "trans": [
+      "规格；规范；明细单；说明书"
+    ]
+  },
+  {
+    "name": "subliminal",
+    "trans": [
+      "潜意识的；下意识的；潜在的"
+    ]
+  },
+  {
+    "name": "supply chain",
+    "trans": [
+      "供应链"
+    ]
+  },
+  {
+    "name": "torrent",
+    "trans": [
+      "迸发；连发；狂潮",
+      "湍流；急流"
+    ]
+  },
+  {
+    "name": "Universal Product Code",
+    "trans": [
+      "通用产品代码；通用商品条码",
+      "词条补充：UPC"
+    ]
+  },
+  {
+    "name": "variable",
+    "trans": [
+      "易变的；多变的"
+    ]
+  },
+  {
+    "name": "vexing",
+    "trans": [
+      "引起烦恼的；令人恼火的；伤脑筋的"
+    ]
+  }
+]

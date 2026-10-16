@@ -84,6 +84,33 @@ async function waitForRecords(page, count) {
 
 try {
   for (const mobile of [true, false]) {
+    await check(`${mobile ? 'mobile' : 'desktop'} project footer links to this repository without covering content`, async () => {
+      const viewport = mobile ? { width: 320, height: 568 } : { width: 1440, height: 1000 }
+      const { context, page } = await openPage(viewport, mobile)
+      for (const path of ['/', '/gallery', '/analysis', '/error-book']) {
+        if (path !== '/') await page.goto(`${baseURL}${path}`, { waitUntil: 'domcontentloaded' })
+        const link = page.locator('footer').getByRole('link', { name: 'GitHub 项目（新标签页打开）', exact: true })
+        await link.waitFor()
+        assert.equal(await link.getAttribute('href'), 'https://github.com/panjoel812/zju-english-dictation')
+        assert.equal(await link.getAttribute('target'), '_blank')
+        assert.match(await link.getAttribute('rel'), /noopener/)
+        assert.match(await link.getAttribute('rel'), /noreferrer/)
+        const rect = await link.boundingBox()
+        assert.ok(rect.x >= 0 && rect.x + rect.width <= viewport.width, JSON.stringify(rect))
+        assert.ok(rect.height >= 44, 'the link must be easy to tap')
+        assert.equal(await page.locator('footer').evaluate((el) => getComputedStyle(el).position), 'static')
+        if (path === '/') {
+          const word = await page.locator('.tooltip-info').boundingBox()
+          assert.ok(rect.y >= word.y + word.height, 'footer stays below the word')
+          if (!mobile) assert.ok(rect.y + rect.height <= viewport.height, 'footer is visible on the desktop typing page')
+          await page.screenshot({ path: `/private/tmp/zju-project-footer-${mobile ? 'mobile' : 'desktop'}-20261016.png`, fullPage: true })
+        }
+      }
+      await context.close()
+    })
+  }
+
+  for (const mobile of [true, false]) {
     await check(`${mobile ? 'mobile' : 'desktop'} first visit hides English and Chinese by default`, async () => {
       const { context, page } = await openPage(mobile ? undefined : { width: 1440, height: 1000 }, mobile)
       assert.equal(await page.locator('.tooltip-info > div:first-child').textContent(), '____________')

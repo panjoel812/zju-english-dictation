@@ -6,6 +6,7 @@ import Pagination, { ITEM_PER_PAGE } from './Pagination'
 import RowDetail from './RowDetail'
 import { currentRowDetailAtom } from './store'
 import type { groupedWordRecords } from './type'
+import ProjectFooter from '@/components/ProjectFooter'
 import { db, useDeleteWordRecord } from '@/utils/db'
 import type { WordRecord } from '@/utils/db/record'
 import * as ScrollArea from '@radix-ui/react-scroll-area'
@@ -128,6 +129,7 @@ export function ErrorBook() {
           </div>
         </div>
         <Pagination className="pt-3" page={currentPage} setPage={setPage} totalPages={totalPages} />
+        <ProjectFooter />
       </div>
       {currentRowDetail && <RowDetail currentRowDetail={currentRowDetail} allRecords={sortedRecords} />}
     </>

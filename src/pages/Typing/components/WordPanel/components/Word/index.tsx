@@ -197,7 +197,12 @@ export default function WordComponent({
 
   const pronunciationInputLength = wholeWordMode ? 0 : wordState.inputWord.length
   useEffect(() => {
-    if (pronunciationInputLength !== 0 || !state.isTyping) return
+    if (!state.isTyping || !pronunciationIsOpen) {
+      wordPronunciationIconRef.current?.stop()
+      lastAutoPlayedWordRef.current = null
+      return
+    }
+    if (pronunciationInputLength !== 0) return
 
     const now = Date.now()
     const lastAutoPlayedWord = lastAutoPlayedWordRef.current
@@ -205,7 +210,7 @@ export default function WordComponent({
 
     lastAutoPlayedWordRef.current = { word: word.name, timestamp: now }
     wordPronunciationIconRef.current?.play()
-  }, [state.isTyping, word.name, pronunciationInputLength, resetKey])
+  }, [state.isTyping, pronunciationIsOpen, word.name, pronunciationInputLength, resetKey])
 
   const getLetterVisible = useCallback(
     (index: number) => {

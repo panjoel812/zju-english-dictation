@@ -1,7 +1,7 @@
 import { SoundIcon } from './SoundIcon'
 import usePronunciationSound from '@/hooks/usePronunciation'
 import type { Word } from '@/typings'
-import { useCallback, useEffect, useImperativeHandle } from 'react'
+import { useCallback, useImperativeHandle } from 'react'
 import React from 'react'
 
 export const WordPronunciationIcon = React.forwardRef<
@@ -28,16 +28,13 @@ export const WordPronunciationIcon = React.forwardRef<
     play()
   }, [play, stop])
 
-  useEffect(() => {
-    return stop
-  }, [word, stop])
-
   useImperativeHandle(
     ref,
     () => ({
       play: playSound,
+      stop,
     }),
-    [playSound],
+    [playSound, stop],
   )
 
   return (
@@ -54,4 +51,5 @@ WordPronunciationIcon.displayName = 'WordPronunciationIcon'
 
 export type WordPronunciationIconRef = {
   play: () => void
+  stop: () => void
 }

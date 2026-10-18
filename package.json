@@ -64,6 +64,7 @@
     "test": "echo \"No tests\"",
     "test:e2e": "playwright test",
     "test:dictation": "node scripts/check-dictation.mjs",
+    "test:pronunciation": "node scripts/check-pronunciation.mjs",
     "test:answer-settings": "node scripts/check-answer-settings.mjs",
     "test:release-settings": "node scripts/check-release-settings.mjs",
     "test:gallery": "node scripts/check-gallery.mjs",

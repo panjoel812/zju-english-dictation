@@ -1,13 +1,9 @@
 import { pronunciationConfigAtom } from '@/store'
 import type { PronunciationType } from '@/typings'
-import { addHowlListener } from '@/utils'
 import { romajiToHiragana } from '@/utils/kana'
-import noop from '@/utils/noop'
-import type { Howl } from 'howler'
+import { Howl } from 'howler'
 import { useAtomValue } from 'jotai'
-import { useEffect, useMemo, useState } from 'react'
-import useSound from 'use-sound'
-import type { HookOptions } from 'use-sound/dist/types'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 
 const pronunciationApi = 'https://dict.youdao.com/dictvoice?audio='
 export function generateWordSoundSrc(word: string, pronunciation: Exclude<PronunciationType, false>): string {
@@ -38,36 +34,65 @@ export default function usePronunciationSound(word: string, isLoop?: boolean) {
   const pronunciationConfig = useAtomValue(pronunciationConfigAtom)
   const loop = useMemo(() => (typeof isLoop === 'boolean' ? isLoop : pronunciationConfig.isLoop), [isLoop, pronunciationConfig.isLoop])
   const [isPlaying, setIsPlaying] = useState(false)
+  const soundRef = useRef<{ sound: Howl; source: string } | null>(null)
+  const pendingSourceRef = useRef<string | null>(null)
+  const source = generateWordSoundSrc(word, pronunciationConfig.type)
 
-  const [play, { stop, sound }] = useSound(generateWordSoundSrc(word, pronunciationConfig.type), {
-    html5: true,
-    format: ['mp3'],
-    loop,
-    volume: pronunciationConfig.volume,
-    rate: pronunciationConfig.rate,
-  } as HookOptions)
-
+  // Bind the current source before parent autoplay runs; keep loading requests
+  // cancellable so pausing or skipping cannot play a stale word later.
   useEffect(() => {
-    if (!sound) return
-    sound.loop(loop)
-    return noop
-  }, [loop, sound])
-
-  useEffect(() => {
-    if (!sound) return
-    const unListens: Array<() => void> = []
-
-    unListens.push(addHowlListener(sound, 'play', () => setIsPlaying(true)))
-    unListens.push(addHowlListener(sound, 'end', () => setIsPlaying(false)))
-    unListens.push(addHowlListener(sound, 'pause', () => setIsPlaying(false)))
-    unListens.push(addHowlListener(sound, 'playerror', () => setIsPlaying(false)))
+    setIsPlaying(false)
+    if (pendingSourceRef.current !== source) pendingSourceRef.current = null
+    if (!source) return
+    const sound = new Howl({
+      src: [source],
+      html5: true,
+      format: ['mp3'],
+      onload: () => {
+        if (soundRef.current?.sound === sound && pendingSourceRef.current === source) {
+          pendingSourceRef.current = null
+          sound.play()
+        }
+      },
+      onplay: () => setIsPlaying(true),
+      onend: () => setIsPlaying(false),
+      onpause: () => setIsPlaying(false),
+      onstop: () => setIsPlaying(false),
+      onloaderror: () => setIsPlaying(false),
+      onplayerror: () => setIsPlaying(false),
+    })
+    soundRef.current = { sound, source }
 
     return () => {
-      setIsPlaying(false)
-      unListens.forEach((unListen) => unListen())
-      ;(sound as Howl).unload()
+      // A same-source Strict Mode setup may still have a pending request.
+      soundRef.current = null
+      sound.unload()
     }
-  }, [sound])
+  }, [source])
+
+  useEffect(() => {
+    soundRef.current?.sound.loop(loop)
+    soundRef.current?.sound.volume(pronunciationConfig.volume)
+    soundRef.current?.sound.rate(pronunciationConfig.rate)
+  }, [source, loop, pronunciationConfig.volume, pronunciationConfig.rate])
+
+  const play = useCallback(() => {
+    const current = soundRef.current
+    if (!current) return
+    const { sound, source } = current
+    if (sound.state() === 'loaded') {
+      pendingSourceRef.current = null
+      sound.play()
+    } else {
+      pendingSourceRef.current = source
+      if (sound.state() === 'unloaded') sound.load()
+    }
+  }, [])
+
+  const stop = useCallback(() => {
+    pendingSourceRef.current = null
+    if (soundRef.current?.sound.state() === 'loaded') soundRef.current.sound.stop()
+  }, [])
 
   return { play, stop, isPlaying }
 }

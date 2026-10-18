@@ -2,10 +2,10 @@ import Layout from '../../components/Layout'
 import { DictChapterButton } from './components/DictChapterButton'
 import PronunciationSwitcher from './components/PronunciationSwitcher'
 import ResultScreen from './components/ResultScreen'
+import Setting from './components/Setting'
 import Speed from './components/Speed'
 import StartButton from './components/StartButton'
 import Switcher from './components/Switcher'
-import WordList from './components/WordList'
 import WordPanel from './components/WordPanel'
 import { focusMobileTypingInput } from './components/WordPanel/components/TextAreaHandler'
 import { useConfetti } from './hooks/useConfetti'
@@ -124,7 +124,7 @@ const App: React.FC = () => {
     <TypingContext.Provider value={{ state: state, dispatch }}>
       {state.isFinished && <ResultScreen />}
       <Layout>
-        <Header>
+        <Header actions={<Setting />}>
           <DictChapterButton />
           <PronunciationSwitcher />
           <Switcher />
@@ -158,7 +158,6 @@ const App: React.FC = () => {
           </div>
         </div>
       </Layout>
-      <WordList />
     </TypingContext.Provider>
   )
 }

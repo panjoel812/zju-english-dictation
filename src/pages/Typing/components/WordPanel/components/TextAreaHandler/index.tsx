@@ -11,9 +11,11 @@ export function focusMobileTypingInput() {
 export default function TextAreaHandler({
   updateInput,
   isMobile = false,
+  inline = false,
 }: {
   updateInput: (updateObj: WordUpdateAction) => void
   isMobile?: boolean
+  inline?: boolean
 }) {
   const textareaRef = useRef<HTMLTextAreaElement>(null)
   // eslint-disable-next-line  @typescript-eslint/no-non-null-assertion
@@ -41,17 +43,19 @@ export default function TextAreaHandler({
 
   return (
     <textarea
-      id={isMobile ? 'typing-mobile-input' : undefined}
+      id={isMobile || inline ? 'typing-mobile-input' : undefined}
       className={
-        isMobile
+        inline
+          ? 'absolute inset-0 z-20 h-full w-full cursor-text resize-none border-0 bg-transparent p-0 text-base opacity-0'
+          : isMobile
           ? 'relative z-20 mx-auto mt-4 block h-12 w-full max-w-sm resize-none rounded-lg border border-gray-300 bg-white px-3 py-3 text-center text-base leading-6 text-gray-700 outline-none focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 dark:border-gray-600 dark:bg-gray-800 dark:text-gray-200'
           : 'absolute left-0 top-0 m-0 h-0 w-0 appearance-none overflow-hidden border-0 p-0 focus:outline-none'
       }
       ref={textareaRef}
       rows={1}
-      inputMode={isMobile ? 'text' : undefined}
+      inputMode={isMobile || inline ? 'text' : undefined}
       aria-label="英文默写输入"
-      placeholder={isMobile ? '输入英文' : undefined}
+      placeholder={isMobile && !inline ? '输入英文' : undefined}
       autoCapitalize="none"
       autoCorrect="off"
       autoComplete="off"
@@ -59,7 +63,7 @@ export default function TextAreaHandler({
       onInput={onInput}
       onCompositionEnd={onInput}
       onFocus={() => {
-        if (isMobile && !state.isTyping) dispatch({ type: TypingStateActionType.SET_IS_TYPING, payload: true })
+        if ((isMobile || inline) && !state.isTyping) dispatch({ type: TypingStateActionType.SET_IS_TYPING, payload: true })
       }}
     ></textarea>
   )

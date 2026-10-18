@@ -1,48 +1,104 @@
 import { TypingContext, TypingStateActionType } from '../../store'
 import AdvancedSetting from './AdvancedSetting'
 import DataSetting from './DataSetting'
+import DictationSetting from './DictationSetting'
+import ReleaseNotes from './ReleaseNotes'
 import SoundSetting from './SoundSetting'
 import ViewSetting from '@/pages/Typing/components/Setting/ViewSetting'
+import { acknowledgeCurrentRelease, currentReleaseVersion, hasSeenCurrentRelease } from '@/resources/releases'
 import { Dialog, Tab, Transition } from '@headlessui/react'
 import classNames from 'classnames'
-import { Fragment, useContext, useState } from 'react'
+import { Fragment, useContext, useEffect, useLayoutEffect, useRef, useState } from 'react'
 import IconCog6Tooth from '~icons/heroicons/cog-6-tooth-solid'
 import IconEye from '~icons/heroicons/eye-solid'
 import IconAdjustmentsHorizontal from '~icons/tabler/adjustments-horizontal'
 import IconDatabaseCog from '~icons/tabler/database-cog'
 import IconEar from '~icons/tabler/ear'
+import IconLanguage from '~icons/tabler/language'
 import IconX from '~icons/tabler/x'
 
+const tabs = [
+  { label: '默写设置', Icon: IconLanguage, Component: DictationSetting },
+  { label: '音效设置', Icon: IconEar, Component: SoundSetting },
+  { label: '高级设置', Icon: IconAdjustmentsHorizontal, Component: AdvancedSetting },
+  { label: '显示设置', Icon: IconEye, Component: ViewSetting },
+  { label: '数据设置', Icon: IconDatabaseCog, Component: DataSetting },
+]
+
 export default function Setting() {
-  const [isOpen, setIsOpen] = useState(false)
-  const { dispatch } = useContext(TypingContext) ?? {}
+  const { state, dispatch } = useContext(TypingContext) ?? {}
+  const [view, setView] = useState<'settings' | 'release' | null>(() => (!state?.isTyping && !hasSeenCurrentRelease() ? 'release' : null))
+  const [fromSettings, setFromSettings] = useState(false)
+  const titleRef = useRef<HTMLHeadingElement>(null)
+  const isOpen = view !== null
+
+  useEffect(() => {
+    if (isOpen && state?.isTyping) dispatch?.({ type: TypingStateActionType.SET_IS_TYPING, payload: false })
+  }, [isOpen, state?.isTyping, dispatch])
+
+  useEffect(() => {
+    titleRef.current?.focus()
+  }, [view])
 
   function closeModal() {
-    setIsOpen(false)
+    if (view === 'release') {
+      acknowledgeCurrentRelease()
+      setView(fromSettings ? 'settings' : null)
+    } else {
+      setView(null)
+    }
   }
 
   function openModal() {
-    setIsOpen(true)
+    setFromSettings(false)
+    setView('settings')
     if (dispatch) {
       dispatch({ type: TypingStateActionType.SET_IS_TYPING, payload: false })
     }
   }
+
+  useLayoutEffect(() => {
+    if (!isOpen) return
+    // The portal mounts after the opener; block background shortcuts until focus enters it.
+    const containKeyboard = (event: KeyboardEvent) => {
+      if (event.target instanceof HTMLElement && event.target.closest('[role="dialog"]')) return
+      event.preventDefault()
+      event.stopPropagation()
+      titleRef.current?.focus()
+    }
+    document.addEventListener('keydown', containKeyboard, true)
+    document.addEventListener('keyup', containKeyboard, true)
+    return () => {
+      document.removeEventListener('keydown', containKeyboard, true)
+      document.removeEventListener('keyup', containKeyboard, true)
+    }
+  }, [isOpen])
 
   return (
     <>
       <button
         type="button"
         onClick={openModal}
-        className={`flex items-center justify-center rounded p-[2px] text-lg text-indigo-500 outline-none transition-colors duration-300 ease-in-out hover:bg-indigo-400 hover:text-white  ${
-          isOpen && 'bg-indigo-500 text-white'
+        className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-lg text-xl text-indigo-500 transition-colors hover:bg-indigo-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-500 dark:hover:bg-gray-700 ${
+          isOpen ? 'bg-indigo-100 dark:bg-gray-700' : ''
         }`}
         title="打开设置对话框"
+        aria-label="打开设置对话框"
       >
         <IconCog6Tooth className="icon" />
       </button>
 
       <Transition appear show={isOpen} as={Fragment}>
-        <Dialog as="div" className="relative z-50" onClose={closeModal}>
+        <Dialog
+          as="div"
+          className="fixed inset-0 z-50"
+          onClose={closeModal}
+          initialFocus={titleRef}
+          onKeyDown={(event) => {
+            if (event.key !== 'Escape') event.stopPropagation()
+          }}
+          onKeyUp={(event) => event.stopPropagation()}
+        >
           <Transition.Child
             as={Fragment}
             enter="ease-out duration-300"
@@ -56,7 +112,7 @@ export default function Setting() {
           </Transition.Child>
 
           <div className="fixed inset-0 overflow-y-auto">
-            <div className="flex min-h-full items-center justify-center p-4 text-center">
+            <div className="flex min-h-full items-center justify-center p-3 text-center">
               <Transition.Child
                 as={Fragment}
                 enter="ease-out duration-300"
@@ -66,79 +122,76 @@ export default function Setting() {
                 leaveFrom="opacity-100 scale-100"
                 leaveTo="opacity-0 scale-95"
               >
-                <Dialog.Panel className="flex w-200 flex-col overflow-hidden rounded-2xl bg-white p-0 shadow-xl dark:bg-gray-800">
-                  <div className="relative flex h-22 items-end justify-between rounded-t-lg border-b border-neutral-100 bg-stone-50 px-6 py-3 dark:border-neutral-700 dark:bg-gray-900">
-                    <span className="text-3xl font-bold text-gray-600">设置</span>
-                    <button type="button" onClick={() => setIsOpen(false)} title="关闭对话框">
-                      <IconX className="absolute right-7 top-5 cursor-pointer text-gray-400" />
+                <Dialog.Panel
+                  className={classNames(
+                    'flex max-h-[calc(100dvh-24px)] w-full flex-col overflow-hidden rounded-lg bg-white shadow-xl dark:bg-gray-800',
+                    view === 'release' ? 'max-w-lg' : 'h-[min(40rem,calc(100dvh-24px))] max-w-3xl',
+                  )}
+                >
+                  <div className="flex shrink-0 items-center justify-between gap-3 border-b border-gray-100 px-4 py-3 dark:border-gray-700 sm:px-6">
+                    <Dialog.Title
+                      ref={titleRef}
+                      tabIndex={-1}
+                      className="text-left text-xl font-semibold text-gray-700 outline-none dark:text-gray-100"
+                    >
+                      {view === 'release' ? `${currentReleaseVersion} 更新说明` : '设置'}
+                    </Dialog.Title>
+                    <button
+                      type="button"
+                      onClick={closeModal}
+                      title={view === 'release' ? '关闭更新说明' : '关闭设置'}
+                      aria-label={view === 'release' ? '关闭更新说明' : '关闭设置'}
+                      className="flex h-10 w-10 shrink-0 items-center justify-center rounded text-gray-500 hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-500 dark:text-gray-300 dark:hover:bg-gray-700"
+                    >
+                      <IconX />
                     </button>
                   </div>
-
-                  <Tab.Group vertical>
-                    <div className="flex h-120 w-full ">
-                      <Tab.List className="flex h-full w-52 flex-col items-start space-y-3  border-r border-neutral-100 bg-stone-50 px-6 py-3 dark:border-transparent dark:bg-gray-900">
-                        <Tab
-                          className={({ selected }) =>
-                            classNames(
-                              'flex h-14 w-full cursor-pointer items-center gap-2 rounded-lg px-4 py-2 ring-0 focus:outline-none',
-                              selected && 'bg-gray-200 bg-opacity-50 dark:bg-gray-800',
-                            )
-                          }
+                  {view === 'release' ? (
+                    <ReleaseNotes onAcknowledge={closeModal} fromSettings={fromSettings} />
+                  ) : (
+                    <>
+                      <Tab.Group as="div" className="flex min-h-0 flex-1 flex-col">
+                        <Tab.List className="flex shrink-0 gap-1 overflow-x-auto border-b border-gray-100 p-2 dark:border-gray-700 sm:gap-2 sm:px-4">
+                          {tabs.map(({ label, Icon }) => (
+                            <Tab
+                              key={label}
+                              className={({ selected }) =>
+                                classNames(
+                                  'flex shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded px-3 py-3 text-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-500 sm:flex-1',
+                                  selected
+                                    ? 'bg-indigo-50 text-indigo-600 dark:bg-gray-700 dark:text-indigo-300'
+                                    : 'text-gray-600 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-700',
+                                )
+                              }
+                            >
+                              <Icon className="hidden sm:block" />
+                              {label}
+                            </Tab>
+                          ))}
+                        </Tab.List>
+                        <Tab.Panels className="min-h-0 min-w-0 flex-1 overflow-hidden">
+                          {tabs.map(({ label, Component }) => (
+                            <Tab.Panel key={label} className="flex h-full min-w-0 overflow-hidden focus:outline-none">
+                              <Component />
+                            </Tab.Panel>
+                          ))}
+                        </Tab.Panels>
+                      </Tab.Group>
+                      <div className="flex shrink-0 items-center justify-between border-t border-gray-100 px-4 py-2 text-sm dark:border-gray-700 sm:px-6">
+                        <span className="text-gray-500 dark:text-gray-400">v{currentReleaseVersion}</span>
+                        <button
+                          type="button"
+                          className="rounded px-3 py-2 text-indigo-600 hover:bg-indigo-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-500 dark:text-indigo-300 dark:hover:bg-gray-700"
+                          onClick={() => {
+                            setFromSettings(true)
+                            setView('release')
+                          }}
                         >
-                          <IconEar className="mr-2 text-neutral-500  dark:text-neutral-300" />
-                          <span className="text-neutral-500 dark:text-neutral-300 ">音效设置</span>
-                        </Tab>
-                        <Tab
-                          className={({ selected }) =>
-                            classNames(
-                              'flex h-14 w-full cursor-pointer items-center gap-2 rounded-lg px-4 py-2 ring-0 focus:outline-none',
-                              selected && 'bg-gray-200 bg-opacity-50 dark:bg-gray-800',
-                            )
-                          }
-                        >
-                          <IconAdjustmentsHorizontal className="mr-2 text-neutral-500  dark:text-neutral-300" />
-                          <span className="text-neutral-500 dark:text-neutral-300">高级设置</span>
-                        </Tab>
-                        <Tab
-                          className={({ selected }) =>
-                            classNames(
-                              'flex h-14 w-full cursor-pointer items-center gap-2 rounded-lg px-4 py-2 ring-0 focus:outline-none',
-                              selected && 'bg-gray-200 bg-opacity-50 dark:bg-gray-800',
-                            )
-                          }
-                        >
-                          <IconEye className="mr-2 text-neutral-500  dark:text-neutral-300" />
-                          <span className="text-neutral-500 dark:text-neutral-300">显示设置</span>
-                        </Tab>
-                        <Tab
-                          className={({ selected }) =>
-                            classNames(
-                              'flex h-14 w-full cursor-pointer items-center gap-2 rounded-lg px-4 py-2 ring-0 focus:outline-none',
-                              selected && 'bg-gray-200 bg-opacity-50 dark:bg-gray-800',
-                            )
-                          }
-                        >
-                          <IconDatabaseCog className="mr-2 text-neutral-500  dark:text-neutral-300" />
-                          <span className="text-neutral-500 dark:text-neutral-300">数据设置</span>
-                        </Tab>
-                      </Tab.List>
-
-                      <Tab.Panels className="h-full w-full flex-1">
-                        <Tab.Panel className="flex h-full w-full  focus:outline-none">
-                          <SoundSetting />
-                        </Tab.Panel>
-                        <Tab.Panel className="flex h-full focus:outline-none">
-                          <AdvancedSetting />
-                        </Tab.Panel>
-                        <Tab.Panel className="flex h-full focus:outline-none">
-                          <ViewSetting />
-                        </Tab.Panel>
-                        <Tab.Panel className="flex h-full focus:outline-none">
-                          <DataSetting />
-                        </Tab.Panel>
-                      </Tab.Panels>
-                    </div>
-                  </Tab.Group>
+                          本次更新
+                        </button>
+                      </div>
+                    </>
+                  )}
                 </Dialog.Panel>
               </Transition.Child>
             </div>

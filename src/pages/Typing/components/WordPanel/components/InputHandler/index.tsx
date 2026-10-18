@@ -7,7 +7,13 @@ import { useEffect, useMemo, useState } from 'react'
 
 const mobileInputQuery = '(max-width: 600px), (pointer: coarse)'
 
-export default function InputHandler({ updateInput }: { updateInput: (updateObj: WordUpdateAction) => void }) {
+export default function InputHandler({
+  updateInput,
+  inline = false,
+}: {
+  updateInput: (updateObj: WordUpdateAction) => void
+  inline?: boolean
+}) {
   const dictInfo = useAtomValue(currentDictInfoAtom)
   const [isMobile, setIsMobile] = useState(() => window.matchMedia(mobileInputQuery).matches)
 
@@ -19,6 +25,7 @@ export default function InputHandler({ updateInput }: { updateInput: (updateObj:
   }, [])
 
   const handler = useMemo(() => {
+    if (inline && isMobile) return <TextAreaHandler updateInput={updateInput} isMobile inline />
     if (isMobile && ['en', 'de', 'romaji'].includes(dictInfo.language)) {
       return <TextAreaHandler updateInput={updateInput} isMobile />
     }
@@ -35,7 +42,7 @@ export default function InputHandler({ updateInput }: { updateInput: (updateObj:
       default:
         return <TextAreaHandler updateInput={updateInput} />
     }
-  }, [dictInfo.language, isMobile, updateInput])
+  }, [dictInfo.language, isMobile, updateInput, inline])
 
   return <>{handler}</>
 }

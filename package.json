@@ -1,6 +1,6 @@
 {
   "name": "zju-english-dictation",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "private": true,
   "homepage": ".",
   "dependencies": {
@@ -65,6 +65,7 @@
     "test:e2e": "playwright test",
     "test:dictation": "node scripts/check-dictation.mjs",
     "test:answer-settings": "node scripts/check-answer-settings.mjs",
+    "test:release-settings": "node scripts/check-release-settings.mjs",
     "test:gallery": "node scripts/check-gallery.mjs",
     "test:engineering": "node --test scripts/import-engineering.test.mjs scripts/restore-zju-pos.test.mjs",
     "screenshots:readme": "node scripts/capture-readme.mjs",

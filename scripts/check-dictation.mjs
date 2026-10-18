@@ -14,8 +14,10 @@ async function openPage(viewport = { width: 390, height: 844 }, mobile = true, s
   const context = await browser.newContext({ viewport, isMobile: mobile, hasTouch: mobile })
   const page = await context.newPage()
   page.setDefaultTimeout(5000)
+  await page.route('https://dict.youdao.com/**', (route) => route.abort())
   await page.route('**/dicts/zju-english-3-unit-1-reading-1.json', (route) => route.fulfill({ json: words }))
   await page.addInitScript((storage) => {
+    localStorage.setItem('lastSeenRelease', JSON.stringify('0.3.1'))
     localStorage.setItem('wholeWordMode', 'false')
     localStorage.setItem('phoneticConfig', JSON.stringify({ isOpen: false }))
     for (const [key, value] of Object.entries(storage)) localStorage.setItem(key, JSON.stringify(value))

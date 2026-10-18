@@ -3,9 +3,9 @@ import AnalysisButton from '../AnalysisButton'
 import ErrorBookButton from '../ErrorBookButton'
 import HandPositionIllustration from '../HandPositionIllustration'
 import LoopWordSwitcher from '../LoopWordSwitcher'
-import Setting from '../Setting'
 import SoundSwitcher from '../SoundSwitcher'
 import WordDictationSwitcher from '../WordDictationSwitcher'
+import WordList from '../WordList'
 import Tooltip from '@/components/Tooltip'
 import { isOpenDarkModeAtom } from '@/store'
 import { CTRL } from '@/utils'
@@ -91,9 +91,7 @@ export default function Switcher() {
       <Tooltip className="h-7 w-7" content="指法图示">
         <HandPositionIllustration></HandPositionIllustration>
       </Tooltip>
-      <Tooltip content="设置">
-        <Setting />
-      </Tooltip>
+      <WordList />
     </div>
   )
 }

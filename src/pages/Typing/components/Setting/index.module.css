@@ -1,22 +1,22 @@
 .tab-content {
-  @apply flex w-full flex-col items-start justify-start gap-10 overflow-y-auto pb-40 pl-6 pr-9 pt-8;
+  @apply flex w-full min-w-0 flex-col items-start justify-start gap-7 overflow-y-auto p-4 sm:p-6;
 }
 
 .section {
   @apply flex w-full flex-col items-start gap-4;
 }
 .section-label {
-  @apply pb-0 text-xl font-medium text-gray-600;
+  @apply pb-0 text-left text-base font-medium text-gray-700 dark:text-gray-200 sm:text-lg;
 }
 .section-description {
-  @apply -mt-1 pl-4 text-left text-xs font-normal leading-tight text-gray-600;
+  @apply -mt-1 text-left text-sm font-normal leading-6 text-gray-600 dark:text-gray-300;
 }
 
 .block {
-  @apply flex w-full flex-col items-start gap-2 py-0 pl-4;
+  @apply flex w-full min-w-0 flex-col items-start gap-2 py-0;
 }
 .block-label {
-  @apply font-medium text-gray-600;
+  @apply font-medium text-gray-600 dark:text-gray-300;
 }
 .switch-block {
   composes: block;

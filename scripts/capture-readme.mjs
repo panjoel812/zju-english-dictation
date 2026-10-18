@@ -17,6 +17,8 @@ async function practice(mobile) {
   })
   const page = await context.newPage()
   await page.addInitScript(() => {
+    localStorage.setItem('lastSeenRelease', JSON.stringify('0.3.1'))
+    localStorage.setItem('hideWordLength', 'true')
     localStorage.setItem('wordDictationConfig-v2', JSON.stringify({ isOpen: true, type: 'hideAll', openBy: 'user' }))
     localStorage.setItem('phoneticConfig', JSON.stringify({ isOpen: false }))
   })

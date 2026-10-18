@@ -26,6 +26,7 @@ async function check(name, fn, { mobile = false, storage = {}, dictionary = word
     await page.route('**/dicts/zju-english-3-unit-1-reading-1.json', (route) => route.fulfill({ json: dictionary }))
     await page.addInitScript((settings) => {
       if (!sessionStorage.getItem('seeded')) {
+        localStorage.setItem('lastSeenRelease', JSON.stringify('0.3.1'))
         localStorage.setItem('phoneticConfig', JSON.stringify({ isOpen: false }))
         for (const [key, value] of Object.entries(settings)) localStorage.setItem(key, JSON.stringify(value))
         sessionStorage.setItem('seeded', 'true')
@@ -63,6 +64,153 @@ async function records(page) {
 }
 
 try {
+  await check(
+    'long answer peek wraps completely without clipping at 320px',
+    async (page) => {
+      await page.setViewportSize({ width: 320, height: 568 })
+      await page.getByRole('textbox', { name: '英文默写输入' }).fill('take')
+      const line = page.getByLabel('单词长度已隐藏', { exact: true })
+      const width = (await line.boundingBox()).width
+      await page.keyboard.down('Tab')
+      const answer = line.getByText('take full responsibility for the consequences of all your decisions', { exact: true })
+      await expect(answer).toBeVisible()
+      assert.ok(await answer.evaluate((el) => el.scrollHeight <= el.clientHeight), 'The entire revealed answer must fit')
+      assert.equal((await line.boundingBox()).width, width)
+      await page.keyboard.up('Tab')
+      await expect(page.getByRole('textbox', { name: '英文默写输入' })).toHaveValue('take')
+    },
+    {
+      mobile: true,
+      storage: { hideWordLength: true },
+      dictionary: [{ name: 'take full responsibility for the consequences of all your decisions', trans: ['承担决定带来的后果'] }],
+    },
+  )
+
+  await check(
+    'desktop legacy typing continues after next-word and pronunciation clicks',
+    async (page) => {
+      await page.getByRole('button', { name: '开始', exact: true }).click()
+      await page.getByLabel('下一词长度已隐藏', { exact: true }).click()
+      await page.keyboard.down('Tab')
+      await expect(page.getByLabel('单词长度已隐藏', { exact: true })).toHaveText('mistaken')
+      await page.keyboard.up('Tab')
+      await page.keyboard.type('mistaken')
+      await expect.poll(async () => (await records(page)).length).toBe(1)
+      await expect(page.getByText('承担责任', { exact: true })).toHaveCount(0)
+      await expect(page.getByLabel('单词长度已隐藏', { exact: true })).toHaveText('')
+      await page.locator('.tooltip-info > div:last-child .cursor-pointer').click()
+      await page.keyboard.type('take responsibility')
+      await expect.poll(async () => (await records(page)).length).toBe(2)
+    },
+    { storage: { hideWordLength: true, wholeWordMode: false } },
+  )
+
+  await check(
+    'Tab peek preserves the selection while editing on the line',
+    async (page) => {
+      const input = page.getByRole('textbox', { name: '英文默写输入' })
+      await input.fill('entrepreneux')
+      await input.evaluate((el) => el.setSelectionRange(2, 3))
+      await page.keyboard.press('Tab')
+      assert.deepEqual(await input.evaluate((el) => [el.selectionStart, el.selectionEnd]), [2, 3])
+      await input.press('X')
+      await expect(input).toHaveValue('enXrepreneux')
+    },
+    { storage: { hideWordLength: true } },
+  )
+
+  await check(
+    'clicking the fixed line starts typing without revealing the answer on hover',
+    async (page) => {
+      const input = page.getByRole('textbox', { name: '英文默写输入' })
+      await input.click()
+      await input.hover()
+      await expect(input).toHaveValue('')
+      await expect(input).toBeEditable()
+      await input.type('entre')
+      await expect(input).toHaveValue('entre')
+      await input.press('Tab')
+      await expect(input).toHaveValue('entre')
+      await expect(input).toBeFocused()
+    },
+    { storage: { hideWordLength: true } },
+  )
+
+  for (const mobile of [false, true]) {
+    await check(
+      `${mobile ? 'mobile' : 'desktop'} types directly on the fixed line without a second input`,
+      async (page) => {
+        const line = page.getByLabel('单词长度已隐藏', { exact: true })
+        const input = page.getByRole('textbox', { name: '英文默写输入' })
+        await expect(input).toHaveCount(1)
+        assert.ok(await line.evaluate((el) => el.contains(document.getElementById('typing-mobile-input'))), 'Input must be on the line')
+        await page.getByRole('button', { name: '开始', exact: true }).click()
+        const before = await line.boundingBox()
+        await input.fill('a deliberately long answer that should scroll inside the same line')
+        assert.equal((await line.boundingBox()).width, before.width)
+        assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth))
+        assert.ok(await input.evaluate((el) => el.scrollWidth > el.clientWidth), 'Long answers scroll inside the input')
+        await input.fill('entrepreneux')
+        await input.press('Backspace')
+        await input.press('r')
+        await expect(input).toHaveValue('entrepreneur')
+        assert.equal((await records(page)).length, 0)
+        assert.equal((await line.boundingBox()).width, before.width)
+        if (mobile) await page.getByRole('button', { name: '提交答案', exact: true }).tap()
+        else await input.press('Enter')
+        await expect(page.getByText('n. 企业家', { exact: true })).toBeVisible()
+        await expect(input).toHaveValue('')
+        await expect(input).toBeFocused()
+        assert.equal((await line.boundingBox()).width, before.width)
+        await input.fill('mistaken')
+        await input.press('Enter')
+        await expect(input).toHaveValue('')
+        await input.fill('take responsibility')
+        await input.press('Enter')
+        await expect.poll(async () => (await records(page)).length).toBe(3)
+      },
+      { mobile, storage: { hideWordLength: true } },
+    )
+  }
+
+  await check(
+    'fixed line stays focused through answer reveal and repeated words',
+    async (page) => {
+      const input = page.getByRole('textbox', { name: '英文默写输入' })
+      await page.getByRole('button', { name: '开始', exact: true }).tap()
+      await input.fill('entre')
+      await input.press('Tab')
+      await expect(input).toHaveValue('entre')
+      await expect(input).toBeFocused()
+      await input.fill('entrepreneur')
+      await input.press('Enter')
+      await expect.poll(async () => (await records(page)).length).toBe(1)
+      await expect(input).toHaveValue('')
+      await expect(input).toBeFocused()
+      await input.fill('entrepreneur')
+      await input.press('Enter')
+      await expect.poll(async () => (await records(page)).length).toBe(2)
+    },
+    { mobile: true, storage: { hideWordLength: true, loopWordConfig: { times: 2 } } },
+  )
+
+  await check(
+    'legacy mobile grading uses the line without another input box',
+    async (page) => {
+      const line = page.getByLabel('单词长度已隐藏', { exact: true })
+      const input = page.getByRole('textbox', { name: '英文默写输入' })
+      assert.ok(
+        await line.evaluate((el) => el.contains(document.getElementById('typing-mobile-input'))),
+        'Legacy input must be on the line',
+      )
+      await page.getByRole('button', { name: '开始', exact: true }).tap()
+      await input.type('entrepreneur')
+      await expect.poll(async () => (await records(page)).length).toBe(1)
+      await expect(input).toBeFocused()
+    },
+    { mobile: true, storage: { hideWordLength: true, wholeWordMode: false } },
+  )
+
   await check('keyboard-start focuses the whole-word input for subsequent typing', async (page) => {
     await page.keyboard.press('a')
     await expect(page.getByRole('textbox', { name: '英文默写输入' })).toBeFocused()

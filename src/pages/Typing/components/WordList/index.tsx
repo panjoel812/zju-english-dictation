@@ -38,14 +38,14 @@ export default function WordList() {
 
   return (
     <>
-      <Tooltip content="单词列表" placement="top" className="!absolute right-3 top-3 z-20 sm:left-5 sm:right-auto sm:top-[50%]">
+      <Tooltip content="单词列表" placement="top" className="sm:fixed sm:left-0 sm:top-1/2 sm:z-20">
         <button
           type="button"
           aria-label="单词列表"
           onClick={openModal}
-          className="rounded-lg bg-indigo-50 p-2 text-lg hover:bg-indigo-200 focus:outline-none dark:bg-indigo-900 dark:hover:bg-indigo-800 sm:fixed sm:left-0 sm:top-[50%] sm:rounded-l-none sm:py-3"
+          className="flex h-7 w-7 items-center justify-center rounded text-lg text-indigo-500 hover:bg-indigo-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-500 dark:hover:bg-gray-700 sm:h-auto sm:w-auto sm:rounded-l-none sm:bg-indigo-50 sm:p-2 sm:py-3 dark:sm:bg-indigo-900"
         >
-          <ListIcon className="h-6 w-6 text-lg text-indigo-500 dark:text-white" />
+          <ListIcon className="h-5 w-5 text-indigo-500 dark:text-white sm:h-6 sm:w-6" />
         </button>
       </Tooltip>
 

@@ -343,6 +343,9 @@ export default function WordComponent({
     }
   }, [wordState.wrongCount, dispatch])
 
+  const isLengthHidden = wordDictationConfig.isOpen && hideWordLength
+  const isAnswerRevealed = wordState.isFinished || (isShowAnswerOnHover && isHoveringWord)
+
   return (
     <>
       <div
@@ -352,26 +355,36 @@ export default function WordComponent({
         {['romaji', 'hapin'].includes(currentLanguage) && word.notation && <Notation notation={word.notation} />}
         <div
           className={`tooltip-info relative flex max-w-full items-center gap-2 whitespace-normal bg-transparent p-0 leading-normal shadow-none dark:bg-transparent ${
-            wordDictationConfig.isOpen ? 'tooltip' : ''
+            isLengthHidden ? 'w-full max-w-md' : wordDictationConfig.isOpen ? 'tooltip' : ''
           }`}
           data-tip="按 Tab 快捷键显示完整单词"
         >
           <div
-            onMouseEnter={() => window.matchMedia('(hover: hover)').matches && handleHoverWord(true)}
+            onMouseEnter={() => !isLengthHidden && window.matchMedia('(hover: hover)').matches && handleHoverWord(true)}
             onMouseLeave={() => handleHoverWord(false)}
             className={`flex min-w-0 flex-wrap items-center ${isTextSelectable && 'select-all'} justify-center ${
-              wordState.hasWrong ? style.wrong : ''
-            }`}
+              isLengthHidden ? 'flex-1' : ''
+            } ${!wholeWordMode && wordState.hasWrong ? style.wrong : ''}`}
           >
-            {wordDictationConfig.isOpen && hideWordLength && !wordState.isFinished && !(isShowAnswerOnHover && isHoveringWord) ? (
+            {isLengthHidden && wholeWordMode ? (
+              <WholeWordInput
+                inline
+                value={wordState.inputWord.replaceAll(EXPLICIT_SPACE, ' ')}
+                revealedAnswer={isAnswerRevealed ? wordState.displayWord.replaceAll(EXPLICIT_SPACE, ' ') : undefined}
+                onChange={replaceInput}
+                onSubmit={submitWord}
+                isFinished={wordState.isFinished}
+                hasWrong={wordState.hasWrong}
+              />
+            ) : isLengthHidden ? (
               <div
                 aria-label="单词长度已隐藏"
-                className="flex min-h-[56px] w-64 max-w-full flex-wrap items-center justify-center border-b-2 border-gray-400"
+                className="relative flex min-h-[56px] w-full flex-wrap items-center justify-center border-b-2 border-gray-400 focus-within:border-indigo-500"
               >
-                {!wholeWordMode &&
-                  wordState.inputWord
-                    .split('')
-                    .map((letter, index) => <Letter key={index} letter={letter} state={wordState.hasWrong ? 'wrong' : 'correct'} />)}
+                {(isAnswerRevealed ? wordState.displayWord : wordState.inputWord).split('').map((letter, index) => (
+                  <Letter key={index} letter={letter} state={wordState.hasWrong ? 'wrong' : 'correct'} />
+                ))}
+                <InputHandler updateInput={updateInput} inline />
               </div>
             ) : (
               wordState.displayWord.split('').map((t, index) => {
@@ -380,7 +393,7 @@ export default function WordComponent({
             )}
           </div>
           {pronunciationIsOpen && (
-            <div className="h-9 w-9 shrink-0">
+            <div className={`h-9 w-9 shrink-0 ${isLengthHidden ? 'mt-2.5 self-start' : ''}`}>
               <Tooltip content={`快捷键${CTRL} + J`}>
                 <WordPronunciationIcon word={word} lang={currentLanguage} ref={wordPronunciationIconRef} className="h-full w-full" />
               </Tooltip>
@@ -388,17 +401,18 @@ export default function WordComponent({
           )}
         </div>
       </div>
-      {wholeWordMode ? (
-        <WholeWordInput
-          value={wordState.inputWord.replaceAll(EXPLICIT_SPACE, ' ')}
-          onChange={replaceInput}
-          onSubmit={submitWord}
-          isFinished={wordState.isFinished}
-          hasWrong={wordState.hasWrong}
-        />
-      ) : (
-        <InputHandler updateInput={updateInput} />
-      )}
+      {!isLengthHidden &&
+        (wholeWordMode ? (
+          <WholeWordInput
+            value={wordState.inputWord.replaceAll(EXPLICIT_SPACE, ' ')}
+            onChange={replaceInput}
+            onSubmit={submitWord}
+            isFinished={wordState.isFinished}
+            hasWrong={wordState.hasWrong}
+          />
+        ) : (
+          <InputHandler updateInput={updateInput} />
+        ))}
       <TipAlert className="fixed bottom-10 right-3" show={showTipAlert} setShow={setShowTipAlert} />
     </>
   )

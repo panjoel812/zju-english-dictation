@@ -241,8 +241,8 @@ export default function SoundSetting() {
             <div className={`${styles.block}`}>
               <span className={styles.blockLabel}>按键音效</span>
               <Listbox value={keySoundsConfig.resource.key} onChange={onChangeKeySoundsResource}>
-                <div className="relative">
-                  <Listbox.Button className="listbox-button w-60">
+                <div className="relative w-full max-w-[15rem]">
+                  <Listbox.Button className="listbox-button w-full">
                     <span>{keySoundsConfig.resource.name}</span>
                     <span>
                       <IconChevronDown className="focus:outline-none" />

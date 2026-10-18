@@ -7,7 +7,6 @@ import { TipAlert } from './TipAlert'
 import style from './index.module.css'
 import { initialWordState } from './type'
 import type { WordState } from './type'
-import Tooltip from '@/components/Tooltip'
 import type { WordPronunciationIconRef } from '@/components/WordPronunciationIcon'
 import { WordPronunciationIcon } from '@/components/WordPronunciationIcon'
 import { EXPLICIT_SPACE } from '@/constants'
@@ -345,6 +344,16 @@ export default function WordComponent({
 
   const isLengthHidden = wordDictationConfig.isOpen && hideWordLength
   const isAnswerRevealed = wordState.isFinished || (isShowAnswerOnHover && isHoveringWord)
+  const pronunciation = pronunciationIsOpen ? (
+    <div
+      title={`快捷键${CTRL} + J`}
+      onPointerDown={(event) => {
+        if (event.button === 0) event.preventDefault()
+      }}
+    >
+      <WordPronunciationIcon word={word} lang={currentLanguage} ref={wordPronunciationIconRef} className="h-9 w-9" />
+    </div>
+  ) : undefined
 
   return (
     <>
@@ -354,21 +363,27 @@ export default function WordComponent({
       >
         {['romaji', 'hapin'].includes(currentLanguage) && word.notation && <Notation notation={word.notation} />}
         <div
-          className={`tooltip-info relative flex max-w-full items-center gap-2 whitespace-normal bg-transparent p-0 leading-normal shadow-none dark:bg-transparent ${
-            isLengthHidden ? 'w-full max-w-md' : wordDictationConfig.isOpen ? 'tooltip' : ''
-          }`}
+          className="tooltip-info relative w-full max-w-xl whitespace-normal bg-transparent px-12 leading-normal shadow-none dark:bg-transparent"
           data-tip="按 Tab 快捷键显示完整单词"
         >
           <div
-            onMouseEnter={() => !isLengthHidden && window.matchMedia('(hover: hover)').matches && handleHoverWord(true)}
+            onMouseEnter={() => !wholeWordMode && !isLengthHidden && window.matchMedia('(hover: hover)').matches && handleHoverWord(true)}
             onMouseLeave={() => handleHoverWord(false)}
-            className={`flex min-w-0 flex-wrap items-center ${isTextSelectable && 'select-all'} justify-center ${
-              isLengthHidden ? 'flex-1' : ''
+            className={`relative flex min-w-0 flex-wrap items-center justify-center ${
+              isTextSelectable && !wholeWordMode ? 'select-all' : ''
             } ${!wholeWordMode && wordState.hasWrong ? style.wrong : ''}`}
           >
-            {isLengthHidden && wholeWordMode ? (
+            {wholeWordMode ? (
               <WholeWordInput
-                inline
+                prompt={
+                  isLengthHidden
+                    ? undefined
+                    : wordState.displayWord
+                        .split('')
+                        .map((letter, index) => (getLetterVisible(index) ? letter : '_'))
+                        .join('')
+                }
+                pronunciation={pronunciation}
                 value={wordState.inputWord.replaceAll(EXPLICIT_SPACE, ' ')}
                 revealedAnswer={isAnswerRevealed ? wordState.displayWord.replaceAll(EXPLICIT_SPACE, ' ') : undefined}
                 onChange={replaceInput}
@@ -376,43 +391,28 @@ export default function WordComponent({
                 isFinished={wordState.isFinished}
                 hasWrong={wordState.hasWrong}
               />
-            ) : isLengthHidden ? (
+            ) : (
               <div
-                aria-label="单词长度已隐藏"
-                className="relative flex min-h-[56px] w-full flex-wrap items-center justify-center border-b-2 border-gray-400 focus-within:border-indigo-500"
+                aria-label={isLengthHidden ? '单词长度已隐藏' : '字母格输入区'}
+                className={`relative flex min-h-[56px] max-w-full flex-wrap items-center justify-center ${
+                  isLengthHidden ? 'w-full max-w-sm border-b-2 border-gray-400 focus-within:border-indigo-500' : ''
+                }`}
               >
-                {(isAnswerRevealed ? wordState.displayWord : wordState.inputWord).split('').map((letter, index) => (
-                  <Letter key={index} letter={letter} state={wordState.hasWrong ? 'wrong' : 'correct'} />
+                {(isLengthHidden && !isAnswerRevealed ? wordState.inputWord : wordState.displayWord).split('').map((letter, index) => (
+                  <Letter
+                    key={index}
+                    letter={letter}
+                    visible={isLengthHidden || getLetterVisible(index)}
+                    state={isLengthHidden ? (wordState.hasWrong ? 'wrong' : 'correct') : wordState.letterStates[index]}
+                  />
                 ))}
                 <InputHandler updateInput={updateInput} inline />
+                {pronunciation && <div className="absolute left-full top-2 ml-2 h-10 w-10">{pronunciation}</div>}
               </div>
-            ) : (
-              wordState.displayWord.split('').map((t, index) => {
-                return <Letter key={`${index}-${t}`} letter={t} visible={getLetterVisible(index)} state={wordState.letterStates[index]} />
-              })
             )}
           </div>
-          {pronunciationIsOpen && (
-            <div className={`h-9 w-9 shrink-0 ${isLengthHidden ? 'mt-2.5 self-start' : ''}`}>
-              <Tooltip content={`快捷键${CTRL} + J`}>
-                <WordPronunciationIcon word={word} lang={currentLanguage} ref={wordPronunciationIconRef} className="h-full w-full" />
-              </Tooltip>
-            </div>
-          )}
         </div>
       </div>
-      {!isLengthHidden &&
-        (wholeWordMode ? (
-          <WholeWordInput
-            value={wordState.inputWord.replaceAll(EXPLICIT_SPACE, ' ')}
-            onChange={replaceInput}
-            onSubmit={submitWord}
-            isFinished={wordState.isFinished}
-            hasWrong={wordState.hasWrong}
-          />
-        ) : (
-          <InputHandler updateInput={updateInput} />
-        ))}
       <TipAlert className="fixed bottom-10 right-3" show={showTipAlert} setShow={setShowTipAlert} />
     </>
   )

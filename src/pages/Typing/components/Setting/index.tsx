@@ -9,12 +9,12 @@ import { acknowledgeCurrentRelease, currentReleaseVersion, hasSeenCurrentRelease
 import { Dialog, Tab, Transition } from '@headlessui/react'
 import classNames from 'classnames'
 import { Fragment, useContext, useEffect, useLayoutEffect, useRef, useState } from 'react'
-import IconCog6Tooth from '~icons/heroicons/cog-6-tooth-solid'
 import IconEye from '~icons/heroicons/eye-solid'
 import IconAdjustmentsHorizontal from '~icons/tabler/adjustments-horizontal'
 import IconDatabaseCog from '~icons/tabler/database-cog'
 import IconEar from '~icons/tabler/ear'
 import IconLanguage from '~icons/tabler/language'
+import IconSettings from '~icons/tabler/settings'
 import IconX from '~icons/tabler/x'
 
 const tabs = [
@@ -79,13 +79,13 @@ export default function Setting() {
       <button
         type="button"
         onClick={openModal}
-        className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-lg text-xl text-indigo-500 transition-colors hover:bg-indigo-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-500 dark:hover:bg-gray-700 ${
-          isOpen ? 'bg-indigo-100 dark:bg-gray-700' : ''
+        className={`flex h-10 w-10 shrink-0 items-center justify-center rounded text-xl text-gray-500 transition-colors hover:bg-gray-100 hover:text-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-500 dark:text-gray-400 dark:hover:bg-gray-700 ${
+          isOpen ? 'bg-gray-100 dark:bg-gray-700' : ''
         }`}
         title="打开设置对话框"
         aria-label="打开设置对话框"
       >
-        <IconCog6Tooth className="icon" />
+        <IconSettings className="h-5 w-5" />
       </button>
 
       <Transition appear show={isOpen} as={Fragment}>

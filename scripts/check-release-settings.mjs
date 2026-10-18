@@ -5,9 +5,9 @@ import { chromium } from 'playwright'
 const browser = await chromium.launch({ channel: process.env.BROWSER_CHANNEL || 'chrome', headless: true })
 const baseURL = process.env.TEST_URL || 'http://127.0.0.1:5174'
 const failures = []
-const releaseTitle = '0.3.1 更新说明'
+const releaseTitle = '0.3.2 更新说明'
 
-async function check(name, fn, { width = 1440, height = 1000, seen = '0.3.1', blockedStorage = false } = {}) {
+async function check(name, fn, { width = 1440, height = 1000, seen = '0.3.2', blockedStorage = false } = {}) {
   if (process.env.TEST_MATCH && !name.includes(process.env.TEST_MATCH)) return
   const context = await browser.newContext({ viewport: { width, height }, isMobile: width < 768, hasTouch: width < 768 })
   const page = await context.newPage()
@@ -75,10 +75,13 @@ try {
       async (page) => {
         await expect(page.locator('header').getByRole('button', { name: '打开设置对话框', exact: true })).toHaveCount(1)
         const bounds = await gear(page).boundingBox()
-        const brand = await page.getByRole('heading', { name: '大学英语默写器' }).boundingBox()
-        const header = await page.locator('header').boundingBox()
-        assert.ok(bounds.x + bounds.width > header.x + header.width - 64, `Gear not at header right: ${JSON.stringify(bounds)}`)
-        assert.ok(Math.abs(bounds.y + bounds.height / 2 - brand.y - brand.height / 2) < 24, 'Gear must share the brand row')
+        const toolbar = page.locator('header nav')
+        const toolbarBounds = await toolbar.boundingBox()
+        assert.ok(
+          await toolbar.evaluate((el) => el.contains(document.querySelector('[aria-label="打开设置对话框"]'))),
+          'Gear belongs inside the toolbar',
+        )
+        assert.ok(bounds.x + bounds.width > toolbarBounds.x + toolbarBounds.width - 44, 'Gear stays at the toolbar right')
         assert.equal(
           await gear(page).evaluate((el) => {
             for (let node = el; node; node = node.parentElement) if (getComputedStyle(node).position === 'fixed') return true
@@ -151,7 +154,7 @@ try {
             .getByRole('button', { name: dismissal === 'close' ? '关闭更新说明' : '知道了', exact: true })
             .click()
         await expect(release(page)).toHaveCount(0)
-        assert.equal(await page.evaluate(() => localStorage.getItem('lastSeenRelease')), '"0.3.1"')
+        assert.equal(await page.evaluate(() => localStorage.getItem('lastSeenRelease')), '"0.3.2"')
         await page.reload({ waitUntil: 'domcontentloaded' })
         await page.locator('.tooltip-info').waitFor()
         await expect(release(page)).toHaveCount(0)
@@ -215,7 +218,7 @@ try {
       await page.locator('.tooltip-info').waitFor()
       await expect(release(page)).toHaveCount(0)
     },
-    { seen: '0.3.0' },
+    { seen: '0.3.1' },
   )
 
   await check('manual reopen pauses typing and swaps a single dialog', async (page) => {

@@ -26,7 +26,7 @@ async function check(name, fn, { mobile = false, storage = {}, dictionary = word
     await page.route('**/dicts/zju-english-3-unit-1-reading-1.json', (route) => route.fulfill({ json: dictionary }))
     await page.addInitScript((settings) => {
       if (!sessionStorage.getItem('seeded')) {
-        localStorage.setItem('lastSeenRelease', JSON.stringify('0.3.1'))
+        localStorage.setItem('lastSeenRelease', JSON.stringify('0.3.2'))
         localStorage.setItem('phoneticConfig', JSON.stringify({ isOpen: false }))
         for (const [key, value] of Object.entries(settings)) localStorage.setItem(key, JSON.stringify(value))
         sessionStorage.setItem('seeded', 'true')
@@ -64,6 +64,154 @@ async function records(page) {
 }
 
 try {
+  await check(
+    'phrase wrapping keeps remaining hints aligned after a trailing space',
+    async (page) => {
+      await page.setViewportSize({ width: 320, height: 844 })
+      const field = page.getByLabel('字母格输入区', { exact: true })
+      const input = field.getByRole('textbox', { name: '英文默写输入' })
+      await input.fill('take all the resp')
+      const cells = field.locator('[aria-hidden="true"] > span > span')
+      const space = await cells.nth(12).boundingBox()
+      const next = await cells.nth(13).boundingBox()
+      assert.ok(space.y < next.y, 'The trailing space must wrap like the native textarea, not become a leading cell')
+      const hint = await cells.nth(17).boundingBox()
+      assert.ok(Math.abs(hint.x - next.x - 4 * next.width) < 1, 'Remaining hints must start immediately after resp')
+      await page.screenshot({ path: '/private/tmp/zju-v032-phrase-grid.png', fullPage: true })
+      await input.fill('take all the responsibility')
+      await input.press('Enter')
+      await expect.poll(async () => (await records(page)).length).toBe(1)
+    },
+    {
+      mobile: true,
+      storage: { 'wordDictationConfig-v2': { isOpen: true, type: 'hideConsonant', openBy: 'user' } },
+      dictionary: [{ name: 'take all the responsibility', trans: ['承担全部责任'] }],
+    },
+  )
+
+  await check(
+    'long letter-slot prompts stay fully visible on mobile',
+    async (page) => {
+      await page.setViewportSize({ width: 320, height: 844 })
+      const field = page.getByLabel('字母格输入区', { exact: true })
+      const input = field.getByRole('textbox', { name: '英文默写输入' })
+      const expectHintsToFit = async () => {
+        const bounds = await field.boundingBox()
+        for (const cell of await field.locator('[aria-hidden="true"] > span > span').all()) {
+          const rect = await cell.boundingBox()
+          assert.ok(rect.x >= bounds.x && rect.x + rect.width <= bounds.x + bounds.width + 1, `Clipped hint: ${JSON.stringify(rect)}`)
+          assert.ok(rect.y + rect.height <= bounds.y + bounds.height + 1, 'Hint extends below the field')
+        }
+      }
+      await expect(field).toHaveText('__a_a__e_i__i_a___')
+      await expectHintsToFit()
+      await input.fill('characteristi')
+      await expectHintsToFit()
+      await page.screenshot({ path: '/private/tmp/zju-v032-long-grid.png', fullPage: true })
+      await input.fill('characteristically')
+      await input.press('Enter')
+      await expect.poll(async () => (await records(page)).length).toBe(1)
+    },
+    {
+      mobile: true,
+      storage: { 'wordDictationConfig-v2': { isOpen: true, type: 'hideConsonant', openBy: 'user' } },
+      dictionary: [{ name: 'characteristically', trans: ['adv. 典型地'] }],
+    },
+  )
+
+  for (const [isOpen, type, expected] of [
+    [false, 'hideAll', 'entrepreneur'],
+    [true, 'hideVowel', '_ntr_pr_n__r'],
+    [true, 'hideConsonant', 'e___e__e_eu_'],
+  ]) {
+    await check(
+      `inline letter slots retain ${isOpen ? type : 'visible English'}`,
+      async (page) => {
+        const field = page.getByLabel('字母格输入区', { exact: true })
+        const input = field.getByRole('textbox', { name: '英文默写输入' })
+        await expect(field).toHaveText(expected)
+        await input.fill('entrepreneux')
+        await input.evaluate((el) => el.setSelectionRange(2, 3))
+        await input.press('Tab')
+        assert.deepEqual(await input.evaluate((el) => [el.selectionStart, el.selectionEnd]), [2, 3])
+        await input.press('X')
+        await expect(input).toHaveValue('enXrepreneux')
+        await page.locator('.tooltip-info .cursor-pointer').click()
+        await expect(input).toBeFocused()
+        await input.fill('entrepreneur')
+        await input.press('Enter')
+        await expect.poll(async () => (await records(page)).length).toBe(1)
+      },
+      { storage: { 'wordDictationConfig-v2': { isOpen, type, openBy: 'user' } } },
+    )
+  }
+
+  for (const mobile of [false, true]) {
+    await check(
+      `${mobile ? 'mobile' : 'desktop'} default letter slots accept input without a lower box`,
+      async (page) => {
+        const input = page.getByRole('textbox', { name: '英文默写输入' })
+        const wordArea = page.locator('.tooltip-info')
+        await expect(page.getByLabel('单词长度已隐藏', { exact: true })).toHaveCount(0)
+        assert.ok(await wordArea.evaluate((el) => el.contains(document.getElementById('typing-mobile-input'))))
+        assert.ok(
+          await input.evaluate((el) =>
+            ['borderTopWidth', 'borderRightWidth', 'borderBottomWidth', 'borderLeftWidth'].every(
+              (key) => getComputedStyle(el)[key] === '0px',
+            ),
+          ),
+        )
+        await expect(wordArea).toHaveText('____________')
+        await input.click()
+        await expect(input).toBeEditable()
+        await input.type('entxx')
+        await expect(input).toHaveValue('entxx')
+        await expect(wordArea).toContainText('_______')
+        await page.screenshot({ path: `/private/tmp/zju-v032-grid-typing-${mobile ? 'mobile' : 'desktop'}.png`, fullPage: true })
+        assert.equal((await records(page)).length, 0)
+        await input.fill('entrepreneur')
+        await input.press('Enter')
+        await expect.poll(async () => (await records(page)).length).toBe(1)
+        await expect(input).toHaveValue('')
+        await expect(input).toBeFocused()
+        await expect(wordArea).toHaveText('________')
+        await page.screenshot({ path: `/private/tmp/zju-v032-grid-${mobile ? 'mobile' : 'desktop'}.png`, fullPage: true })
+      },
+      { mobile },
+    )
+  }
+
+  await check(
+    'mobile legacy letter slots have no lower input box',
+    async (page) => {
+      const input = page.getByRole('textbox', { name: '英文默写输入' })
+      assert.ok(await page.locator('.tooltip-info').evaluate((el) => el.contains(document.getElementById('typing-mobile-input'))))
+      await page.getByRole('button', { name: '开始', exact: true }).tap()
+      await input.type('entrepreneur')
+      await expect.poll(async () => (await records(page)).length).toBe(1)
+      await expect(input).toBeFocused()
+    },
+    { mobile: true, storage: { wholeWordMode: false } },
+  )
+
+  for (const width of [320, 390, 1440]) {
+    await check(
+      `fixed line itself is centered at ${width}px`,
+      async (page) => {
+        await page.setViewportSize({ width, height: 900 })
+        const input = page.getByRole('textbox', { name: '英文默写输入' })
+        await input.fill('entre')
+        const line = await page.getByLabel('单词长度已隐藏', { exact: true }).boundingBox()
+        assert.ok(Math.abs(line.x + line.width / 2 - width / 2) < 2, JSON.stringify(line))
+        const sound = await page.locator('.tooltip-info .cursor-pointer').boundingBox()
+        assert.ok(sound.x >= line.x + line.width, 'Sound control belongs to the right of the line')
+        assert.ok(sound.x + sound.width <= width, 'Sound control must fit the viewport')
+        await page.screenshot({ path: `/private/tmp/zju-v032-line-${width}.png`, fullPage: true })
+      },
+      { mobile: width < 768, storage: { hideWordLength: true } },
+    )
+  }
+
   await check(
     'long answer peek wraps completely without clipping at 320px',
     async (page) => {

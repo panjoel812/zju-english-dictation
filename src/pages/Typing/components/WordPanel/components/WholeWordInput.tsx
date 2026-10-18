@@ -1,5 +1,9 @@
+import style from './Word/index.module.css'
 import { TypingContext, TypingStateActionType } from '@/pages/Typing/store'
+import { fontSizeConfigAtom } from '@/store'
 import classNames from 'classnames'
+import { useAtomValue } from 'jotai'
+import type { CSSProperties, ReactNode } from 'react'
 import { useContext, useEffect, useRef } from 'react'
 import IconCheck from '~icons/tabler/check'
 
@@ -9,7 +13,8 @@ export default function WholeWordInput({
   onSubmit,
   isFinished,
   hasWrong,
-  inline = false,
+  prompt,
+  pronunciation,
   revealedAnswer,
 }: {
   value: string
@@ -17,17 +22,21 @@ export default function WholeWordInput({
   onSubmit: () => void
   isFinished: boolean
   hasWrong: boolean
-  inline?: boolean
+  prompt?: string
+  pronunciation?: ReactNode
   revealedAnswer?: string
 }) {
   // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
   const { state, dispatch } = useContext(TypingContext)!
-  const inputRef = useRef<HTMLInputElement>(null)
+  const inputRef = useRef<HTMLInputElement | HTMLTextAreaElement | null>(null)
   const isComposing = useRef(false)
+  const fontSizeConfig = useAtomValue(fontSizeConfigAtom)
+  const isLengthHidden = prompt === undefined
+  const AnswerField = isLengthHidden ? 'input' : 'textarea'
 
   useEffect(() => {
     inputRef.current?.setAttribute('enterkeyhint', 'done')
-  }, [])
+  }, [isLengthHidden])
 
   useEffect(() => {
     if (!state.isTyping) inputRef.current?.blur()
@@ -35,17 +44,34 @@ export default function WholeWordInput({
 
   return (
     <form
-      className={inline ? 'relative w-full min-w-0' : 'mx-auto mt-4 w-full max-w-sm'}
+      className="relative w-full min-w-0"
       onSubmit={(event) => {
         event.preventDefault()
         if (!isComposing.current) onSubmit()
       }}
     >
-      <div className="flex items-center gap-2">
-        <div aria-label={inline ? '单词长度已隐藏' : undefined} className={classNames('relative min-w-0 flex-1', inline && 'min-h-[56px]')}>
-          <input
-            type="text"
-            ref={inputRef}
+      <div
+        className={classNames('relative mx-auto max-w-full font-mono', isLengthHidden ? 'w-full max-w-sm' : style.letter)}
+        style={
+          isLengthHidden
+            ? undefined
+            : ({
+                width: `calc(${Math.max(prompt.length, 1)}ch + 8px)`,
+                '--word-font-size': `${fontSizeConfig.foreignFont}px`,
+              } as CSSProperties)
+        }
+      >
+        <div
+          aria-label={isLengthHidden ? '单词长度已隐藏' : '字母格输入区'}
+          className="relative min-h-[56px]"
+          style={isLengthHidden ? undefined : { minHeight: 'max(56px, calc(1.5em + 16px))' }}
+        >
+          <AnswerField
+            type={isLengthHidden ? 'text' : undefined}
+            rows={isLengthHidden ? undefined : 1}
+            ref={(element: HTMLInputElement | HTMLTextAreaElement | null) => {
+              inputRef.current = element
+            }}
             id="typing-mobile-input"
             value={value}
             onChange={(event) => onChange(event.target.value.replace(/[\r\n]/g, ''))}
@@ -71,13 +97,12 @@ export default function WholeWordInput({
             autoCorrect="off"
             autoComplete="off"
             spellCheck={false}
-            placeholder={inline ? undefined : '输入英文'}
             style={revealedAnswer !== undefined ? { color: 'transparent', caretColor: 'transparent' } : undefined}
             className={classNames(
-              'z-20 block w-full min-w-0 outline-none',
-              inline
-                ? 'absolute inset-0 h-full rounded-none border-0 border-b-2 border-gray-400 bg-transparent px-1 py-2 text-center font-mono text-2xl shadow-none focus:border-indigo-500 focus:ring-0 dark:border-gray-500 sm:text-3xl'
-                : 'relative h-12 rounded-lg border border-gray-300 bg-white px-3 py-3 text-base leading-6 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 dark:border-gray-600 dark:bg-gray-800',
+              'absolute inset-0 z-20 block h-full w-full min-w-0 rounded-none border-0 bg-transparent px-1 py-2 font-mono leading-normal shadow-none outline-none focus:ring-0',
+              isLengthHidden
+                ? 'border-b-2 border-gray-400 text-center text-2xl focus:border-indigo-500 dark:border-gray-500 sm:text-3xl'
+                : `${style.letter} resize-none overflow-hidden whitespace-pre-wrap break-all text-left`,
               hasWrong
                 ? 'text-red-600 dark:text-red-400'
                 : isFinished
@@ -85,6 +110,30 @@ export default function WholeWordInput({
                 : 'text-gray-700 dark:text-gray-200',
             )}
           />
+          {!isLengthHidden && revealedAnswer === undefined && (
+            <span
+              aria-hidden="true"
+              className="pointer-events-none relative block px-1 py-2 leading-normal text-gray-600 dark:text-gray-200"
+            >
+              <span className="block whitespace-pre-wrap break-all">
+                {(value + prompt.slice(value.length)).split('').map((letter, index) => (
+                  <span
+                    key={index}
+                    className={classNames(
+                      'relative',
+                      letter === '_' &&
+                        'text-transparent after:absolute after:bottom-0 after:left-[9%] after:right-[9%] after:border-b-[0.08em] after:border-gray-600 dark:after:border-gray-200',
+                    )}
+                    style={{
+                      visibility: index < value.length ? 'hidden' : undefined,
+                    }}
+                  >
+                    {letter}
+                  </span>
+                ))}
+              </span>
+            </span>
+          )}
           {revealedAnswer !== undefined && (
             <span
               aria-hidden="true"
@@ -97,6 +146,9 @@ export default function WholeWordInput({
             </span>
           )}
         </div>
+        {pronunciation && <div className="absolute left-full top-2 ml-2 h-10 w-10">{pronunciation}</div>}
+      </div>
+      <div className="mt-3 flex justify-center">
         <button
           type="submit"
           aria-label="提交答案"
@@ -106,13 +158,9 @@ export default function WholeWordInput({
             // Keep the mobile keyboard open while tapping Submit.
             if (event.button === 0) event.preventDefault()
           }}
-          className={classNames(
-            'flex shrink-0 items-center justify-center rounded bg-indigo-500 text-white hover:bg-indigo-600 disabled:opacity-40',
-            inline ? 'h-11 w-11 text-xl' : 'h-12 gap-1 px-3 text-sm',
-          )}
+          className="flex h-11 w-11 shrink-0 items-center justify-center rounded text-xl text-indigo-500 hover:bg-indigo-50 disabled:opacity-40 dark:hover:bg-gray-800"
         >
           <IconCheck aria-hidden="true" />
-          {!inline && '提交'}
         </button>
       </div>
       <p id="word-answer-status" role="status" className="min-h-[24px] pt-1 text-center text-sm text-red-600 dark:text-red-400">

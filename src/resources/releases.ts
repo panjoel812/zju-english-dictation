@@ -28,8 +28,12 @@ export function acknowledgeCurrentRelease() {
 }
 
 export const currentReleaseNotes = [
-  { title: '长横线直接输入', description: '开启「隐藏字母数」后，直接点击横线输入，不再另设填写框；长答案在行内滚动。' },
-  { title: '隐藏字母数', description: '横线长度固定，不再用格数提示单词长度。' },
+  { title: '字母格也能直接输入', description: '默认保留字母格，直接点击单词位置填写；字母格和长横线都不再有下方的独立输入框。' },
+  {
+    title: '长横线居中',
+    description: '「隐藏字母数」默认关闭；开启后显示居中的固定长横线，发音按钮在右侧，不再用格数提示单词长度。已有选择会保留。',
+  },
+  { title: '设置融入工具栏', description: '设置齿轮收进顶部工具栏右侧，点击进入「默写设置」即可切换两种显示方式。' },
   { title: '整词提交后判定', description: '输入完成后按 Enter 或点提交，提交前可修改答案。' },
   { title: '释义跨章保持', description: '切换章节后保留中文释义的显示或隐藏状态。' },
   { title: '释义附带词性', description: '新工科英语按原文补齐词性；大学英语 III、IV 补充有可靠资料的条目。' },

@@ -17,7 +17,7 @@ async function openPage(viewport = { width: 390, height: 844 }, mobile = true, s
   await page.route('https://dict.youdao.com/**', (route) => route.abort())
   await page.route('**/dicts/zju-english-3-unit-1-reading-1.json', (route) => route.fulfill({ json: words }))
   await page.addInitScript((storage) => {
-    localStorage.setItem('lastSeenRelease', JSON.stringify('0.3.1'))
+    localStorage.setItem('lastSeenRelease', JSON.stringify('0.3.2'))
     localStorage.setItem('wholeWordMode', 'false')
     localStorage.setItem('phoneticConfig', JSON.stringify({ isOpen: false }))
     for (const [key, value] of Object.entries(storage)) localStorage.setItem(key, JSON.stringify(value))
@@ -129,7 +129,7 @@ try {
     const { context, page } = await openPage()
     await page.getByRole('button', { name: '开关默写模式', exact: true }).tap()
     await page.getByRole('switch', { name: '默写模式', exact: true }).uncheck()
-    await page.reload()
+    await page.reload({ waitUntil: 'domcontentloaded' })
     await page.locator('.tooltip-info').waitFor()
     assert.equal(await page.locator('.tooltip-info > div:first-child').textContent(), 'entrepreneur')
     await page.getByRole('button', { name: '开关默写模式', exact: true }).tap()
@@ -156,7 +156,7 @@ try {
       await page.waitForTimeout(1400)
     }
     await page.getByRole('button', { name: '重复本章节', exact: true }).tap()
-    await page.locator('.tooltip-info > div:first-child > span').first().waitFor()
+    await page.getByLabel('字母格输入区', { exact: true }).waitFor()
     assert.equal(await page.locator('.tooltip-info > div:first-child').textContent(), '____________')
     await context.close()
   })
@@ -199,7 +199,7 @@ try {
     await page.getByText('adj. 错误的', { exact: true }).waitFor()
     await page.waitForTimeout(1400)
     assert.equal((await records(page)).length, 2)
-    await page.reload()
+    await page.reload({ waitUntil: 'domcontentloaded' })
     assert.equal((await records(page)).length, 2, 'records survive reload')
     await context.close()
   })
@@ -265,7 +265,8 @@ try {
 
   await check('tap the paused word to focus input and fit a keyboard-sized viewport', async () => {
     const { context, page } = await openPage()
-    await page.getByRole('button', { name: '开始默写', exact: true }).tap()
+    // The word area itself is now the keyboard target, including while paused.
+    await page.getByLabel('字母格输入区', { exact: true }).getByRole('textbox').tap()
     assert.equal(await page.evaluate(() => document.activeElement?.id), 'typing-mobile-input')
     await page.setViewportSize({ width: 390, height: 400 })
     await page.locator('#typing-mobile-input').tap()

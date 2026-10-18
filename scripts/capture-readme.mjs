@@ -31,10 +31,14 @@ async function practice(mobile) {
   await page.screenshot({ path: fileURLToPath(new URL(mobile ? 'mobile.png' : 'desktop.png', output)), animations: 'disabled' })
   if (!mobile) {
     await page.keyboard.type('preneur', { delay: 80 })
-    await page.getByText('企业家', { exact: true }).waitFor()
+    await page.getByRole('textbox', { name: '英文默写输入' }).press('Enter')
+    await page
+      .locator('span')
+      .filter({ hasText: /^(n\. )?企业家$/ })
+      .waitFor()
     await page.screenshot({ path: fileURLToPath(new URL('answer.png', output)), animations: 'disabled' })
     await page.goto(`${baseURL}/gallery`, { waitUntil: 'domcontentloaded' })
-    await page.getByText('浙江大学英语', { exact: true }).first().waitFor()
+    await page.getByRole('tablist', { name: '词库分类', exact: true }).waitFor()
     await page.screenshot({ path: fileURLToPath(new URL('dictionaries.png', output)), animations: 'disabled' })
   }
   await context.close()

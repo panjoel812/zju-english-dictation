@@ -111,6 +111,10 @@ export const wordDictationConfigAtom = atomForConfig('wordDictationConfig-v2', {
   openBy: 'user' as WordDictationOpenBy,
 })
 
+export const hideWordLengthAtom = atomWithStorage('hideWordLength', false)
+
+export const wholeWordModeAtom = atomWithStorage('wholeWordMode', true)
+
 export const dismissStartCardDateAtom = atomWithStorage<Date | null>(DISMISS_START_CARD_DATE_KEY, null)
 
 // Enhanced version promotion popup state

@@ -16,6 +16,7 @@ async function openPage(viewport = { width: 390, height: 844 }, mobile = true, s
   page.setDefaultTimeout(5000)
   await page.route('**/dicts/zju-english-3-unit-1-reading-1.json', (route) => route.fulfill({ json: words }))
   await page.addInitScript((storage) => {
+    localStorage.setItem('wholeWordMode', 'false')
     localStorage.setItem('phoneticConfig', JSON.stringify({ isOpen: false }))
     for (const [key, value] of Object.entries(storage)) localStorage.setItem(key, JSON.stringify(value))
   }, storage)
@@ -116,7 +117,7 @@ try {
       assert.equal(await page.locator('.tooltip-info > div:first-child').textContent(), '____________')
       assert.equal(await page.getByText('n. 企业家', { exact: true }).count(), 0)
       await page.getByRole('button', { name: '开关默写模式', exact: true }).click()
-      assert.equal(await page.getByRole('switch').getAttribute('aria-checked'), 'true')
+      assert.equal(await page.getByRole('switch', { name: '默写模式', exact: true }).getAttribute('aria-checked'), 'true')
       assert.equal(await page.getByRole('button', { name: '全部隐藏', exact: true }).count(), 1)
       await context.close()
     })
@@ -125,12 +126,12 @@ try {
   await check('manually disabling dictation survives reload', async () => {
     const { context, page } = await openPage()
     await page.getByRole('button', { name: '开关默写模式', exact: true }).tap()
-    await page.getByRole('switch').uncheck()
+    await page.getByRole('switch', { name: '默写模式', exact: true }).uncheck()
     await page.reload()
     await page.locator('.tooltip-info').waitFor()
     assert.equal(await page.locator('.tooltip-info > div:first-child').textContent(), 'entrepreneur')
     await page.getByRole('button', { name: '开关默写模式', exact: true }).tap()
-    assert.equal(await page.getByRole('switch').getAttribute('aria-checked'), 'false')
+    assert.equal(await page.getByRole('switch', { name: '默写模式', exact: true }).getAttribute('aria-checked'), 'false')
     await context.close()
   })
 

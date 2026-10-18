@@ -8,25 +8,25 @@
   {
     "name": "biological",
     "trans": [
-      "生物的"
+      "adj. 生物的"
     ]
   },
   {
     "name": "genetic",
     "trans": [
-      "基因的；遗传学的"
+      "adj. 基因的；遗传学的"
     ]
   },
   {
     "name": "microbe",
     "trans": [
-      "微生物"
+      "n. 微生物"
     ]
   },
   {
     "name": "ridiculous",
     "trans": [
-      "愚蠢的；荒唐的"
+      "adj. 愚蠢的；荒唐的"
     ]
   },
   {
@@ -44,7 +44,7 @@
   {
     "name": "broccoli",
     "trans": [
-      "西兰花"
+      "n. 西兰花"
     ]
   },
   {
@@ -62,19 +62,19 @@
   {
     "name": "distaste",
     "trans": [
-      "不喜欢；反感"
+      "n. 不喜欢；反感"
     ]
   },
   {
     "name": "variation",
     "trans": [
-      "（相似物体之间的）差异；（数量或形式的）变化，变动"
+      "n. （相似物体之间的）差异；（数量或形式的）变化，变动"
     ]
   },
   {
     "name": "receptor",
     "trans": [
-      "感受器，受体"
+      "n. 感受器，受体"
     ]
   },
   {
@@ -86,7 +86,7 @@
   {
     "name": "plentiful",
     "trans": [
-      "丰富的，充足的"
+      "adj. 丰富的，充足的"
     ]
   },
   {
@@ -152,37 +152,37 @@
   {
     "name": "evolutionary",
     "trans": [
-      "进化的"
+      "adj. 进化的"
     ]
   },
   {
     "name": "reproduce",
     "trans": [
-      "生殖；繁殖"
+      "v. 生殖；繁殖"
     ]
   },
   {
     "name": "parental",
     "trans": [
-      "父母的"
+      "adj. 父母的"
     ]
   },
   {
     "name": "offspring",
     "trans": [
-      "子女；后代"
+      "n. 子女；后代"
     ]
   },
   {
     "name": "disinterest",
     "trans": [
-      "无兴趣"
+      "n. 无兴趣"
     ]
   },
   {
     "name": "organ",
     "trans": [
-      "器官"
+      "n. 器官"
     ]
   },
   {
@@ -206,7 +206,7 @@
   {
     "name": "magnificent",
     "trans": [
-      "壮丽的；宏伟的；值得赞扬的"
+      "adj. 壮丽的；宏伟的；值得赞扬的"
     ]
   },
   {
@@ -218,7 +218,7 @@
   {
     "name": "compassion",
     "trans": [
-      "怜悯；同情"
+      "n. 怜悯；同情"
     ]
   }
 ]

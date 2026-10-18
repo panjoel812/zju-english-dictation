@@ -1,6 +1,6 @@
 import { TypingContext, TypingStateActionType } from '../../store'
 import Tooltip from '@/components/Tooltip'
-import { currentDictInfoAtom, wordDictationConfigAtom } from '@/store'
+import { currentDictInfoAtom, hideWordLengthAtom, wordDictationConfigAtom } from '@/store'
 import { CTRL } from '@/utils'
 import { useAtomValue } from 'jotai'
 import { useCallback, useContext, useMemo } from 'react'
@@ -12,6 +12,7 @@ export default function PrevAndNextWord({ type }: LastAndNextWordProps) {
   const { state, dispatch } = useContext(TypingContext)!
 
   const wordDictationConfig = useAtomValue(wordDictationConfigAtom)
+  const hideWordLength = useAtomValue(hideWordLengthAtom)
   const newIndex = useMemo(() => state.chapterData.index + (type === 'prev' ? -1 : 1), [state.chapterData.index, type])
   const word = state.chapterData.words[newIndex]
   const shortCutKey = useMemo(() => (type === 'prev' ? `${CTRL} + Shift + ArrowLeft` : `${CTRL} + Shift + ArrowRight`), [type])
@@ -32,9 +33,9 @@ export default function PrevAndNextWord({ type }: LastAndNextWordProps) {
     if (type === 'prev') return showWord
 
     if (type === 'next') {
-      return !wordDictationConfig.isOpen ? showWord : (showWord || '').replace(/./g, '_')
+      return !wordDictationConfig.isOpen ? showWord : hideWordLength ? '' : (showWord || '').replace(/./g, '_')
     }
-  }, [word, currentLanguage, type, wordDictationConfig.isOpen])
+  }, [word, currentLanguage, type, wordDictationConfig.isOpen, hideWordLength])
 
   return (
     <>
@@ -49,6 +50,9 @@ export default function PrevAndNextWord({ type }: LastAndNextWordProps) {
             <div className={`grow-1 flex w-full min-w-0 flex-col ${type === 'next' ? 'items-end text-right' : ''}`}>
               <p className="max-w-full break-all font-mono text-base font-normal tracking-normal text-gray-700 dark:text-gray-400 sm:text-2xl">
                 {headWord}
+                {type === 'next' && wordDictationConfig.isOpen && hideWordLength && (
+                  <span aria-label="下一词长度已隐藏" className="inline-block w-20 max-w-full border-b-2 border-current" />
+                )}
               </p>
               {(type === 'prev' || state.isTransVisible) && (
                 <p className="line-clamp-1 max-w-full text-sm font-normal text-gray-600 dark:text-gray-500">{word.trans.join('；')}</p>

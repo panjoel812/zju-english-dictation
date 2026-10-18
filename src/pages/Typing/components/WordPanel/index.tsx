@@ -115,7 +115,7 @@ export default function WordPanel() {
       e.preventDefault()
       onSkipWord('prev')
     },
-    { preventDefault: true },
+    { preventDefault: true, enableOnFormTags: true },
   )
 
   useHotkeys(
@@ -124,7 +124,7 @@ export default function WordPanel() {
       e.preventDefault()
       onSkipWord('next')
     },
-    { preventDefault: true },
+    { preventDefault: true, enableOnFormTags: true },
   )
   const [isShowTranslation, setIsHoveringTranslation] = useState(false)
 

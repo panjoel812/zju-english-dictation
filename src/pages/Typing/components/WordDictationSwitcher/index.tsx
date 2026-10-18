@@ -1,5 +1,6 @@
-import { wordDictationConfigAtom } from '@/store'
+import { hideWordLengthAtom, wholeWordModeAtom, wordDictationConfigAtom } from '@/store'
 import type { WordDictationType } from '@/typings'
+import { autoUpdate, flip, offset, shift, useFloating } from '@floating-ui/react'
 import { Listbox, Popover, Switch, Transition } from '@headlessui/react'
 import { useAtom } from 'jotai'
 import { Fragment, useLayoutEffect, useState } from 'react'
@@ -30,7 +31,15 @@ const wordDictationTypeList: { name: string; type: WordDictationType }[] = [
 
 export default function WordDictationSwitcher() {
   const [wordDictationConfig, setWordDictationConfig] = useAtom(wordDictationConfigAtom)
+  const [hideWordLength, setHideWordLength] = useAtom(hideWordLengthAtom)
+  const [wholeWordMode, setWholeWordMode] = useAtom(wholeWordModeAtom)
   const [currentType, setCurrentType] = useState(wordDictationTypeList[0])
+  const { x, y, strategy, refs } = useFloating({
+    placement: 'bottom',
+    strategy: 'fixed',
+    middleware: [offset(8), flip(), shift({ padding: 12 })],
+    whileElementsMounted: autoUpdate,
+  })
 
   const onToggleWordDictation = () => {
     setWordDictationConfig((old) => {
@@ -57,7 +66,7 @@ export default function WordDictationSwitcher() {
     () => {
       onToggleWordDictation()
     },
-    { enableOnFormTags: true, preventDefault: true },
+    { enableOnFormTags: !wholeWordMode, preventDefault: true },
     [],
   )
 
@@ -66,6 +75,7 @@ export default function WordDictationSwitcher() {
       {({ open }) => (
         <>
           <Popover.Button
+            ref={refs.setReference}
             className={`flex items-center justify-center rounded p-[2px] text-lg ${
               wordDictationConfig.isOpen ? 'text-indigo-500' : 'text-gray-500'
             } outline-none transition-colors duration-300 ease-in-out hover:bg-indigo-400 hover:text-white  ${
@@ -85,12 +95,21 @@ export default function WordDictationSwitcher() {
             leaveFrom="opacity-100 translate-y-0"
             leaveTo="opacity-0 translate-y-1"
           >
-            <Popover.Panel className="absolute left-1/2 z-10 mt-2 flex max-w-max -translate-x-1/2 px-4 ">
-              <div className="shadow-upper box-border flex w-60 select-none flex-col items-center justify-center gap-4 rounded-xl bg-white p-4 drop-shadow dark:bg-gray-800">
+            <Popover.Panel
+              ref={refs.setFloating}
+              style={{ position: strategy, top: y ?? 0, left: x ?? 0 }}
+              className="z-30 max-h-[calc(100dvh-24px)] max-w-[calc(100vw-24px)] overflow-y-auto rounded-lg shadow-lg"
+            >
+              <div className="box-border flex w-60 max-w-full select-none flex-col items-center justify-center gap-4 rounded-lg bg-white p-4 dark:bg-gray-800">
                 <div className="flex w-full  flex-col  items-start gap-2 py-0">
                   <span className="text-sm font-normal leading-5 text-gray-900 dark:text-white dark:text-opacity-60">开关默写模式</span>
                   <div className="flex w-full flex-row items-center justify-between">
-                    <Switch checked={wordDictationConfig.isOpen} onChange={onToggleWordDictation} className="switch-root">
+                    <Switch
+                      aria-label="默写模式"
+                      checked={wordDictationConfig.isOpen}
+                      onChange={onToggleWordDictation}
+                      className="switch-root"
+                    >
                       <span aria-hidden="true" className="switch-thumb" />
                     </Switch>
                     <span className="text-right text-xs font-normal leading-tight text-gray-600">{`默写已${
@@ -143,6 +162,18 @@ export default function WordDictationSwitcher() {
                     </div>
                   </div>
                 </Transition>
+                <div className="flex w-full items-center justify-between gap-3 text-sm text-gray-700 dark:text-gray-200">
+                  <span>隐藏字母数</span>
+                  <Switch aria-label="隐藏字母数" checked={hideWordLength} onChange={setHideWordLength} className="switch-root">
+                    <span aria-hidden="true" className="switch-thumb" />
+                  </Switch>
+                </div>
+                <div className="flex w-full items-center justify-between gap-3 text-sm text-gray-700 dark:text-gray-200">
+                  <span>整词提交后判定</span>
+                  <Switch aria-label="整词提交后判定" checked={wholeWordMode} onChange={setWholeWordMode} className="switch-root">
+                    <span aria-hidden="true" className="switch-thumb" />
+                  </Switch>
+                </div>
               </div>
             </Popover.Panel>
           </Transition>

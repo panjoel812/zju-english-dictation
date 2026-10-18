@@ -34,7 +34,7 @@ export default function DictionaryComponent({ dictionary }: Props) {
       <DialogTrigger asChild>
         <div
           ref={divRef}
-          className={`group flex min-h-44 w-80 cursor-pointer items-center justify-center overflow-hidden rounded-lg p-4 text-left shadow-lg focus:outline-none ${
+          className={`min-h-44 group flex w-full min-w-0 cursor-pointer items-center justify-center overflow-hidden rounded-lg p-4 text-left shadow-lg focus:outline-none ${
             isSelected ? 'bg-indigo-400' : 'bg-zinc-50 hover:bg-white dark:bg-gray-800 dark:hover:bg-gray-700'
           }`}
           role="button"
@@ -65,7 +65,9 @@ export default function DictionaryComponent({ dictionary }: Props) {
               </Tooltip>
             </TooltipProvider>
 
-            <p className={`mt-auto mb-0.5 font-bold ${isSelected ? 'text-white' : 'text-gray-600 dark:text-gray-200'}`}>{dictionary.length} 词</p>
+            <p className={`mb-0.5 mt-auto font-bold ${isSelected ? 'text-white' : 'text-gray-600 dark:text-gray-200'}`}>
+              {dictionary.length} 词
+            </p>
             <div className="flex w-full items-center pt-2">
               {progress > 0 && (
                 <Progress.Root

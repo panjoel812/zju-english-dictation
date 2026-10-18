@@ -93,6 +93,7 @@ export const typingReducer = (state: TypingState, action: TypingStateAction) => 
   switch (action.type) {
     case TypingStateActionType.SETUP_CHAPTER: {
       const newState = structuredClone(initialState)
+      newState.isTransVisible = state.isTransVisible
       const words = action.payload.shouldShuffle ? shuffle(action.payload.words) : action.payload.words
       let initialIndex = action.payload.initialIndex ?? 0
       if (initialIndex >= words.length) {

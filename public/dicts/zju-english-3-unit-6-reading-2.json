@@ -2,7 +2,7 @@
   {
     "name": "confession",
     "trans": [
-      "承认，坦白"
+      "n. 承认，坦白"
     ]
   },
   {
@@ -20,7 +20,7 @@
   {
     "name": "insatiable",
     "trans": [
-      "无法满足的"
+      "adj. 无法满足的"
     ]
   },
   {
@@ -32,7 +32,7 @@
   {
     "name": "tropical",
     "trans": [
-      "热带的"
+      "adj. 热带的"
     ]
   },
   {
@@ -56,7 +56,7 @@
   {
     "name": "dorm",
     "trans": [
-      "宿舍"
+      "n. 宿舍"
     ]
   },
   {
@@ -68,7 +68,7 @@
   {
     "name": "cucumber",
     "trans": [
-      "黄瓜"
+      "n. 黄瓜"
     ]
   },
   {
@@ -110,13 +110,13 @@
   {
     "name": "wrapper",
     "trans": [
-      "包装纸"
+      "n. 包装纸"
     ]
   },
   {
     "name": "peel",
     "trans": [
-      "外皮"
+      "n. 外皮"
     ]
   },
   {
@@ -128,7 +128,7 @@
   {
     "name": "cultured",
     "trans": [
-      "有文化的，有修养的"
+      "adj. 有文化的，有修养的"
     ]
   },
   {
@@ -158,13 +158,13 @@
   {
     "name": "golden",
     "trans": [
-      "金色的"
+      "adj. 金色的"
     ]
   },
   {
     "name": "yolk",
     "trans": [
-      "蛋黄"
+      "n. 蛋黄"
     ]
   },
   {
@@ -188,7 +188,7 @@
   {
     "name": "participate",
     "trans": [
-      "参加，参与"
+      "vi. 参加，参与"
     ]
   },
   {
@@ -206,7 +206,7 @@
   {
     "name": "sustenance",
     "trans": [
-      "营养，食物"
+      "n. 营养，食物"
     ]
   },
   {
@@ -230,7 +230,7 @@
   {
     "name": "prediction",
     "trans": [
-      "预言，预测"
+      "n. 预言，预测"
     ]
   }
 ]

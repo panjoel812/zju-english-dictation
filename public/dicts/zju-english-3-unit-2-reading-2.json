@@ -38,7 +38,7 @@
   {
     "name": "cathedral",
     "trans": [
-      "大教堂"
+      "n. 大教堂"
     ]
   },
   {
@@ -50,7 +50,7 @@
   {
     "name": "toothbrush",
     "trans": [
-      "牙刷"
+      "n. 牙刷"
     ]
   },
   {
@@ -74,19 +74,19 @@
   {
     "name": "capitalism",
     "trans": [
-      "资本主义"
+      "n. 资本主义"
     ]
   },
   {
     "name": "virtually",
     "trans": [
-      "几乎"
+      "adv. 几乎"
     ]
   },
   {
     "name": "fossil",
     "trans": [
-      "化石"
+      "n. 化石"
     ]
   },
   {
@@ -98,7 +98,7 @@
   {
     "name": "volcanic",
     "trans": [
-      "火山的"
+      "adj. 火山的"
     ]
   },
   {
@@ -122,7 +122,7 @@
   {
     "name": "critic",
     "trans": [
-      "评论家，批评家"
+      "n. 评论家，批评家"
     ]
   },
   {
@@ -134,7 +134,7 @@
   {
     "name": "jot",
     "trans": [
-      "草草记下"
+      "vt. 草草记下"
     ]
   },
   {
@@ -164,7 +164,7 @@
   {
     "name": "maximize",
     "trans": [
-      "使最大化"
+      "vt. 使最大化"
     ]
   },
   {
@@ -182,7 +182,7 @@
   {
     "name": "mustache",
     "trans": [
-      "小胡子；髭"
+      "n. 小胡子；髭"
     ]
   },
   {
@@ -206,25 +206,25 @@
   {
     "name": "tap",
     "trans": [
-      "轻拍；轻敲"
+      "v. 轻拍；轻敲"
     ]
   },
   {
     "name": "snugly",
     "trans": [
-      "温暖舒适地"
+      "adv. 温暖舒适地"
     ]
   },
   {
     "name": "stripe",
     "trans": [
-      "条纹，线条"
+      "n. 条纹，线条"
     ]
   },
   {
     "name": "striped",
     "trans": [
-      "有条纹的"
+      "adj. 有条纹的"
     ]
   },
   {
@@ -236,7 +236,7 @@
   {
     "name": "enduring",
     "trans": [
-      "持久的；耐久的"
+      "adj. 持久的；耐久的"
     ]
   },
   {
@@ -254,13 +254,13 @@
   {
     "name": "obey",
     "trans": [
-      "服从；遵守"
+      "v. 服从；遵守"
     ]
   },
   {
     "name": "disobey",
     "trans": [
-      "不服从；违抗"
+      "v. 不服从；违抗"
     ]
   },
   {

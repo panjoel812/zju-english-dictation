@@ -14,19 +14,19 @@
   {
     "name": "spouse",
     "trans": [
-      "配偶"
+      "n. 配偶"
     ]
   },
   {
     "name": "spousal",
     "trans": [
-      "配偶的"
+      "adj. 配偶的"
     ]
   },
   {
     "name": "frustrated",
     "trans": [
-      "懊恼的，沮丧的"
+      "adj. 懊恼的，沮丧的"
     ]
   },
   {
@@ -50,7 +50,7 @@
   {
     "name": "millennium",
     "trans": [
-      "一千年；千年期"
+      "n. 一千年；千年期"
     ]
   },
   {
@@ -104,7 +104,7 @@
   {
     "name": "prehistoric",
     "trans": [
-      "史前的"
+      "adj. 史前的"
     ]
   },
   {
@@ -134,7 +134,7 @@
   {
     "name": "anthropologist",
     "trans": [
-      "人类学家"
+      "n. 人类学家"
     ]
   },
   {
@@ -146,13 +146,13 @@
   {
     "name": "ancestor",
     "trans": [
-      "祖先"
+      "n. 祖先"
     ]
   },
   {
     "name": "ancestral",
     "trans": [
-      "祖先的"
+      "adj. 祖先的"
     ]
   },
   {
@@ -176,13 +176,13 @@
   {
     "name": "justification",
     "trans": [
-      "正当理由"
+      "n. 正当理由"
     ]
   },
   {
     "name": "inherit",
     "trans": [
-      "经遗传获得"
+      "vt. 经遗传获得"
     ]
   },
   {

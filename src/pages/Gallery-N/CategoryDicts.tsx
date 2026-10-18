@@ -1,37 +1,57 @@
 import DictTagSwitcher from './DictTagSwitcher'
 import DictionaryComponent from './DictionaryWithoutCover'
+import { Tabs, TabsContent } from '@/components/ui/tabs'
 import { currentDictInfoAtom } from '@/store'
 import type { Dictionary } from '@/typings'
-import { findCommonValues } from '@/utils'
 import { useAtomValue } from 'jotai'
-import { useCallback, useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 
-export default function DictionaryGroup({ groupedDictsByTag }: { groupedDictsByTag: Record<string, Dictionary[]> }) {
-  const tagList = useMemo(() => Object.keys(groupedDictsByTag), [groupedDictsByTag])
-  const [currentTag, setCurrentTag] = useState(tagList.length > 0 ? tagList[0] : '')
+function unitLabel(dictionary: Dictionary) {
+  const unit = dictionary.id.match(/-unit-(\d+)(?:-|$)/)?.[1]
+  return unit ? `Unit ${unit}` : undefined
+}
+
+function DictionaryGrid({ dictionaries }: { dictionaries: Dictionary[] }) {
+  return (
+    <div className="grid min-w-0 grid-cols-1 gap-5 px-1 pb-4 sm:grid-cols-2 lg:grid-cols-3">
+      {dictionaries.map((dict) => (
+        <DictionaryComponent key={dict.id} dictionary={dict} />
+      ))}
+    </div>
+  )
+}
+
+export default function DictionaryGroup({ dictionaries }: { dictionaries: Dictionary[] }) {
   const currentDictInfo = useAtomValue(currentDictInfoAtom)
-
-  const onChangeCurrentTag = useCallback((tag: string) => {
-    setCurrentTag(tag)
-  }, [])
+  const units = useMemo(() => {
+    const grouped: Record<string, Dictionary[]> = {}
+    for (const dictionary of dictionaries) {
+      const unit = unitLabel(dictionary)
+      if (unit) (grouped[unit] ??= []).push(dictionary)
+    }
+    return grouped
+  }, [dictionaries])
+  const unitList = useMemo(() => Object.keys(units).sort((a, b) => a.localeCompare(b, undefined, { numeric: true })), [units])
+  const [currentUnit, setCurrentUnit] = useState(() => {
+    const current = dictionaries.find((dict) => dict.id === currentDictInfo.id)
+    return (current && unitLabel(current)) ?? unitList[0]
+  })
 
   useEffect(() => {
-    const commonTags = findCommonValues(tagList, currentDictInfo.tags)
-    if (commonTags.length > 0) {
-      setCurrentTag(commonTags[0])
-    }
-  }, [currentDictInfo.tags, tagList])
+    const current = dictionaries.find((dict) => dict.id === currentDictInfo.id)
+    if (current) setCurrentUnit(unitLabel(current) ?? unitList[0])
+  }, [currentDictInfo.id, dictionaries, unitList])
+
+  if (unitList.length === 0) return <DictionaryGrid dictionaries={dictionaries} />
 
   return (
-    <div>
-      <DictTagSwitcher tagList={tagList} currentTag={currentTag} onChangeCurrentTag={onChangeCurrentTag} />
-      <div className="mt-8 grid gap-x-5 gap-y-10 px-1 pb-4 sm:grid-cols-1 md:grid-cols-2 dic3:grid-cols-3 dic4:grid-cols-4">
-        {currentTag && groupedDictsByTag[currentTag] ? (
-          groupedDictsByTag[currentTag].map((dict) => <DictionaryComponent key={dict.id} dictionary={dict} />)
-        ) : (
-          <div className="col-span-full text-center text-gray-500">当前分类下没有可用的词典</div>
-        )}
-      </div>
-    </div>
+    <Tabs value={currentUnit} onValueChange={setCurrentUnit} className="min-w-0">
+      <DictTagSwitcher label="单元" tagList={unitList} currentTag={currentUnit} />
+      {unitList.map((unit) => (
+        <TabsContent key={unit} value={unit} className="mt-5">
+          <DictionaryGrid dictionaries={units[unit]} />
+        </TabsContent>
+      ))}
+    </Tabs>
   )
 }

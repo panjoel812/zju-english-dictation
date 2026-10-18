@@ -8,7 +8,7 @@
   {
     "name": "prominence",
     "trans": [
-      "重要；杰出；著名"
+      "n. 重要；杰出；著名"
     ]
   },
   {
@@ -38,13 +38,13 @@
   {
     "name": "excessively",
     "trans": [
-      "过度地；过多地"
+      "adv. 过度地；过多地"
     ]
   },
   {
     "name": "gender",
     "trans": [
-      "性别"
+      "n. 性别"
     ]
   },
   {
@@ -62,7 +62,7 @@
   {
     "name": "periodical",
     "trans": [
-      "期刊"
+      "n. 期刊"
     ]
   },
   {
@@ -74,19 +74,19 @@
   {
     "name": "analyze",
     "trans": [
-      "分析；剖析"
+      "vt. 分析；剖析"
     ]
   },
   {
     "name": "identify",
     "trans": [
-      "认出，识别"
+      "v. 认出，识别"
     ]
   },
   {
     "name": "confirmation",
     "trans": [
-      "证实，证明"
+      "n. 证实，证明"
     ]
   },
   {
@@ -152,7 +152,7 @@
   {
     "name": "disguise",
     "trans": [
-      "掩蔽，掩饰"
+      "vt. 掩蔽，掩饰"
     ]
   },
   {
@@ -176,7 +176,7 @@
   {
     "name": "discrimination",
     "trans": [
-      "歧视"
+      "n. 歧视"
     ]
   }
 ]

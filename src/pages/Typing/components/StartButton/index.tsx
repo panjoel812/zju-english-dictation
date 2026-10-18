@@ -1,7 +1,7 @@
 import { TypingContext, TypingStateActionType } from '../../store'
 import { focusMobileTypingInput } from '../WordPanel/components/TextAreaHandler'
 import Tooltip from '@/components/Tooltip'
-import { randomConfigAtom } from '@/store'
+import { randomConfigAtom, wholeWordModeAtom } from '@/store'
 import { autoUpdate, offset, useFloating, useHover, useInteractions } from '@floating-ui/react'
 import { useAtomValue } from 'jotai'
 import { useCallback, useContext, useState } from 'react'
@@ -11,6 +11,7 @@ export default function StartButton({ isLoading }: { isLoading: boolean }) {
   // eslint-disable-next-line  @typescript-eslint/no-non-null-assertion
   const { state, dispatch } = useContext(TypingContext)!
   const randomConfig = useAtomValue(randomConfigAtom)
+  const wholeWordMode = useAtomValue(wholeWordModeAtom)
 
   const onToggleIsTyping = useCallback(() => {
     if (isLoading) return
@@ -22,7 +23,16 @@ export default function StartButton({ isLoading }: { isLoading: boolean }) {
     dispatch({ type: TypingStateActionType.REPEAT_CHAPTER, shouldShuffle: randomConfig.isOpen })
   }, [dispatch, randomConfig.isOpen])
 
-  useHotkeys('enter', onToggleIsTyping, { enableOnFormTags: true, preventDefault: true }, [onToggleIsTyping])
+  useHotkeys(
+    'enter',
+    onToggleIsTyping,
+    {
+      enableOnFormTags: !wholeWordMode,
+      enabled: !wholeWordMode || !state.isTyping,
+      preventDefault: true,
+    },
+    [onToggleIsTyping],
+  )
 
   const [isShowReStartButton, setIsShowReStartButton] = useState(false)
   const { refs, context } = useFloating({
@@ -35,7 +45,10 @@ export default function StartButton({ isLoading }: { isLoading: boolean }) {
   const { getReferenceProps, getFloatingProps } = useInteractions([hoverButton])
 
   return (
-    <Tooltip content={`${state.isTyping ? '暂停' : '开始'} （Enter）`} className="box-content h-7 w-8 px-6 py-1">
+    <Tooltip
+      content={`${state.isTyping ? '暂停' : '开始'}${wholeWordMode && state.isTyping ? '' : ' （Enter）'}`}
+      className="box-content h-7 w-8 px-6 py-1"
+    >
       <div
         ref={refs.setReference}
         {...getReferenceProps()}

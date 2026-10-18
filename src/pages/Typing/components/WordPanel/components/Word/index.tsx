@@ -1,5 +1,6 @@
 import type { WordUpdateAction } from '../InputHandler'
 import InputHandler from '../InputHandler'
+import WholeWordInput from '../WholeWordInput'
 import Letter from './Letter'
 import Notation from './Notation'
 import { TipAlert } from './TipAlert'
@@ -15,10 +16,12 @@ import { TypingContext, TypingStateActionType } from '@/pages/Typing/store'
 import {
   currentChapterAtom,
   currentDictInfoAtom,
+  hideWordLengthAtom,
   isIgnoreCaseAtom,
   isShowAnswerOnHoverAtom,
   isTextSelectableAtom,
   pronunciationIsOpenAtom,
+  wholeWordModeAtom,
   wordDictationConfigAtom,
 } from '@/store'
 import type { Word } from '@/typings'
@@ -47,6 +50,8 @@ export default function WordComponent({
   const [wordState, setWordState] = useImmer<WordState>(structuredClone(initialWordState))
 
   const wordDictationConfig = useAtomValue(wordDictationConfigAtom)
+  const hideWordLength = useAtomValue(hideWordLengthAtom)
+  const wholeWordMode = useAtomValue(wholeWordModeAtom)
   const isTextSelectable = useAtomValue(isTextSelectableAtom)
   const isIgnoreCase = useAtomValue(isIgnoreCaseAtom)
   const isShowAnswerOnHover = useAtomValue(isShowAnswerOnHoverAtom)
@@ -62,6 +67,7 @@ export default function WordComponent({
   const [showTipAlert, setShowTipAlert] = useState(false)
   const wordPronunciationIconRef = useRef<WordPronunciationIconRef>(null)
   const lastAutoPlayedWordRef = useRef<{ word: string; timestamp: number } | null>(null)
+  const previousWholeWordMode = useRef(wholeWordMode)
 
   useEffect(() => {
     // run only when word changes
@@ -81,6 +87,63 @@ export default function WordComponent({
     newWordState.randomLetterVisible = headword.split('').map(() => Math.random() > 0.4)
     setWordState(newWordState)
   }, [word, resetKey, setWordState])
+
+  useEffect(() => {
+    if (previousWholeWordMode.current === wholeWordMode) return
+    previousWholeWordMode.current = wholeWordMode
+    setWordState((draft) => {
+      if (draft.isFinished) return
+      draft.inputWord = ''
+      draft.hasWrong = false
+      draft.letterStates = new Array(draft.displayWord.length).fill('normal')
+    })
+  }, [wholeWordMode, setWordState])
+
+  const replaceInput = (value: string) => {
+    if (!state.isTyping || wordState.isFinished) return
+    const next = value.replace(/ /g, EXPLICIT_SPACE)
+    if (next === wordState.inputWord) return
+    setWordState((draft) => {
+      const editCount = Math.max(1, next.length - draft.inputWord.length)
+      for (let index = 0; index < editCount; index += 1) draft.letterTimeArray.push(Date.now())
+      draft.inputWord = next
+      draft.hasWrong = false
+      draft.letterStates = new Array(draft.displayWord.length).fill('normal')
+    })
+    playKeySound()
+  }
+
+  const submitWord = () => {
+    if (!state.isTyping || wordState.isFinished || wordState.hasWrong || !wordState.inputWord.replaceAll(EXPLICIT_SPACE, '').length) return
+    const input = isIgnoreCase ? wordState.inputWord.toLowerCase() : wordState.inputWord
+    const expected = isIgnoreCase ? wordState.displayWord.toLowerCase() : wordState.displayWord
+    if (input === expected) {
+      setWordState((draft) => {
+        draft.letterStates.fill('correct')
+        draft.correctCount += expected.length
+        draft.isFinished = true
+        draft.endTime = getUtcStringForMixpanel()
+      })
+      for (let index = 0; index < expected.length; index += 1) dispatch({ type: TypingStateActionType.REPORT_CORRECT_WORD })
+      onAnswerComplete()
+      playHintSound()
+    } else {
+      const letterMistake = structuredClone(wordState.letterMistake)
+      for (let index = 0; index < Math.max(input.length, expected.length); index += 1) {
+        if (input[index] !== expected[index]) {
+          letterMistake[index] = [...(letterMistake[index] || []), wordState.inputWord[index] ?? '∅']
+        }
+      }
+      setWordState((draft) => {
+        draft.hasWrong = true
+        draft.hasMadeInputWrong = true
+        draft.wrongCount += 1
+        draft.letterMistake = letterMistake
+      })
+      playBeepSound()
+      dispatch({ type: TypingStateActionType.REPORT_WRONG_WORD, payload: { letterMistake } })
+    }
+  }
 
   const updateInput = useCallback(
     (updateAction: WordUpdateAction) => {
@@ -133,8 +196,9 @@ export default function WordComponent({
     { enableOnFormTags: true, preventDefault: true },
   )
 
+  const pronunciationInputLength = wholeWordMode ? 0 : wordState.inputWord.length
   useEffect(() => {
-    if (wordState.inputWord.length !== 0 || !state.isTyping) return
+    if (pronunciationInputLength !== 0 || !state.isTyping) return
 
     const now = Date.now()
     const lastAutoPlayedWord = lastAutoPlayedWordRef.current
@@ -142,7 +206,7 @@ export default function WordComponent({
 
     lastAutoPlayedWordRef.current = { word: word.name, timestamp: now }
     wordPronunciationIconRef.current?.play()
-  }, [state.isTyping, word.name, wordState.inputWord.length])
+  }, [state.isTyping, word.name, pronunciationInputLength, resetKey])
 
   const getLetterVisible = useCallback(
     (index: number) => {
@@ -176,6 +240,7 @@ export default function WordComponent({
   )
 
   useEffect(() => {
+    if (wholeWordMode) return
     const inputLength = wordState.inputWord.length
     if (wordState.hasWrong || wordState.isFinished || inputLength === 0 || wordState.displayWord.length === 0) {
       return
@@ -232,7 +297,7 @@ export default function WordComponent({
   }, [wordState.inputWord])
 
   useEffect(() => {
-    if (wordState.hasWrong) {
+    if (wordState.hasWrong && !wholeWordMode) {
       const timer = setTimeout(() => {
         setWordState((state) => {
           state.inputWord = ''
@@ -245,7 +310,7 @@ export default function WordComponent({
         clearTimeout(timer)
       }
     }
-  }, [wordState.hasWrong, setWordState])
+  }, [wordState.hasWrong, wholeWordMode, setWordState])
 
   useEffect(() => {
     if (wordState.isFinished) {
@@ -298,9 +363,21 @@ export default function WordComponent({
               wordState.hasWrong ? style.wrong : ''
             }`}
           >
-            {wordState.displayWord.split('').map((t, index) => {
-              return <Letter key={`${index}-${t}`} letter={t} visible={getLetterVisible(index)} state={wordState.letterStates[index]} />
-            })}
+            {wordDictationConfig.isOpen && hideWordLength && !wordState.isFinished && !(isShowAnswerOnHover && isHoveringWord) ? (
+              <div
+                aria-label="单词长度已隐藏"
+                className="flex min-h-[56px] w-64 max-w-full flex-wrap items-center justify-center border-b-2 border-gray-400"
+              >
+                {!wholeWordMode &&
+                  wordState.inputWord
+                    .split('')
+                    .map((letter, index) => <Letter key={index} letter={letter} state={wordState.hasWrong ? 'wrong' : 'correct'} />)}
+              </div>
+            ) : (
+              wordState.displayWord.split('').map((t, index) => {
+                return <Letter key={`${index}-${t}`} letter={t} visible={getLetterVisible(index)} state={wordState.letterStates[index]} />
+              })
+            )}
           </div>
           {pronunciationIsOpen && (
             <div className="h-9 w-9 shrink-0">
@@ -311,7 +388,17 @@ export default function WordComponent({
           )}
         </div>
       </div>
-      <InputHandler updateInput={updateInput} />
+      {wholeWordMode ? (
+        <WholeWordInput
+          value={wordState.inputWord.replaceAll(EXPLICIT_SPACE, ' ')}
+          onChange={replaceInput}
+          onSubmit={submitWord}
+          isFinished={wordState.isFinished}
+          hasWrong={wordState.hasWrong}
+        />
+      ) : (
+        <InputHandler updateInput={updateInput} />
+      )}
       <TipAlert className="fixed bottom-10 right-3" show={showTipAlert} setShow={setShowTipAlert} />
     </>
   )

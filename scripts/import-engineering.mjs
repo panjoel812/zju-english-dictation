@@ -9,6 +9,10 @@ const moduleDefinitions = [
   { heading: 'Exploring the frontier – Reading 2', slug: 'reading-2', label: 'Reading 2' },
 ]
 
+function normalizePartOfSpeech(pos) {
+  return { 'a.': 'adj.', 'ad.': 'adv.' }[pos] ?? pos
+}
+
 export function parseUnit(source, unit) {
   const modules = []
   let currentModule
@@ -53,18 +57,22 @@ export function parseUnit(source, unit) {
     const isHeadword =
       /^[★▲]?\s*[-A-Za-zÀ-ÿ]/.test(line) &&
       !/[\u4e00-\u9fff]/.test(line) &&
-      !/^(n|a|ad|v|vi|vt)\./.test(line) &&
-      (/\/[^/]+\//.test(line) || /\b(n|v|a|ad|vt|vi)\./.test(line) || /suffix$/.test(line))
+      !/^(n|a|ad|adj|adv|v|vi|vt)\./.test(line) &&
+      (/\/[^/]+\//.test(line) || /\b(n|v|a|ad|adj|adv|vt|vi)\./.test(line) || /suffix$/.test(line))
 
     if (isHeadword) {
       finishEntry()
       const notes = []
+      let pos
       // Phonetics may appear inside multiword terms and contain legacy PDF font codes.
       let name = line
         .replace(/^[★▲]\s*/, '')
         .replace(/\/[^/]*\//g, '')
         .replace(/\//g, '')
-        .replace(/\s+(?:(?:n|v|a|ad|vt|vi)\..*|number|suffix)$/, '')
+        .replace(/\s+(?:((?:n|v|a|ad|adj|adv|vt|vi)\.).*|(number|suffix))$/, (_, label, category) => {
+          pos = normalizePartOfSpeech(label ?? category)
+          return ''
+        })
         .replace(/\(([^)]+)\)/g, (_, alias) => {
           notes.push(`词条补充：${alias.replace(/\s+/g, ' ').trim()}`)
           return ''
@@ -76,14 +84,18 @@ export function parseUnit(source, unit) {
         name = 'communique'
       }
       assert.match(name, /^[A-Za-z-]+(?:[ '-][A-Za-z-]+)*$/, `Unit ${unit}: unrecognized headword ${line}`)
-      entry = { name, trans: [], notes }
+      entry = { name, trans: [], notes, pos }
     } else {
       assert.ok(entry, `Unit ${unit}: definition without a headword: ${line}`)
+      // A new label applies to subsequent senses until the source changes it.
+      const pos = line.match(/^(?:(?:n|v|a|ad|adj|adv|vt|vi)\.|(?:number|suffix)\b)/)?.[0]
+      if (pos) entry.pos = normalizePartOfSpeech(pos)
       const firstChinese = line.search(/[\u4e00-\u9fff]/)
       if (firstChinese !== -1) {
         // Preserve prefixes such as "Jensen-Shannon散度" and Chinese opening parentheses.
         const start = line.lastIndexOf(' ', firstChinese - 1) + 1
-        entry.trans.push(line.slice(start).trim())
+        const meaning = line.slice(start).trim()
+        entry.trans.push(entry.pos ? `${entry.pos} ${meaning}` : meaning)
       }
     }
   }

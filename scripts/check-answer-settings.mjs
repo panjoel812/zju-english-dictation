@@ -63,7 +63,37 @@ async function records(page) {
   })
 }
 
+async function expectSlotsOnOneLine(page) {
+  const field = page.getByLabel('字母格输入区', { exact: true })
+  const cells = field.locator('[aria-hidden="true"] > span > span')
+  const first = await cells.first().boundingBox()
+  const bounds = await field.boundingBox()
+  for (const cell of await cells.all()) {
+    const rect = await cell.boundingBox()
+    assert.ok(Math.abs(rect.y - first.y) < 1, `A letter slot wrapped despite enough space: ${JSON.stringify(rect)}`)
+    assert.ok(rect.x >= bounds.x && rect.x + rect.width <= bounds.x + bounds.width + 1, 'Letter slot exceeds field width')
+  }
+}
+
 try {
+  for (const fontSize of [20, 28, 48, 72, 96]) {
+    await check(
+      `short letter slots stay on one row at ${fontSize}px`,
+      async (page) => {
+        const field = page.getByLabel('字母格输入区', { exact: true })
+        const input = field.getByRole('textbox', { name: '英文默写输入' })
+        await expect(field).toHaveText('________')
+        await expectSlotsOnOneLine(page)
+        await input.fill('mist')
+        await expectSlotsOnOneLine(page)
+        await input.fill('mistaken')
+        await expectSlotsOnOneLine(page)
+        assert.ok(await input.evaluate((el) => el.scrollHeight <= el.clientHeight), 'Native input must fit on one row too')
+      },
+      { storage: { fontsize: { foreignFont: fontSize } }, dictionary: [words[1]] },
+    )
+  }
+
   await check(
     'phrase wrapping keeps remaining hints aligned after a trailing space',
     async (page) => {
@@ -162,11 +192,13 @@ try {
           ),
         )
         await expect(wordArea).toHaveText('____________')
+        await expectSlotsOnOneLine(page)
         await input.click()
         await expect(input).toBeEditable()
         await input.type('entxx')
         await expect(input).toHaveValue('entxx')
         await expect(wordArea).toContainText('_______')
+        await expectSlotsOnOneLine(page)
         await page.screenshot({ path: `/private/tmp/zju-v032-grid-typing-${mobile ? 'mobile' : 'desktop'}.png`, fullPage: true })
         assert.equal((await records(page)).length, 0)
         await input.fill('entrepreneur')
@@ -175,6 +207,7 @@ try {
         await expect(input).toHaveValue('')
         await expect(input).toBeFocused()
         await expect(wordArea).toHaveText('________')
+        await expectSlotsOnOneLine(page)
         await page.screenshot({ path: `/private/tmp/zju-v032-grid-${mobile ? 'mobile' : 'desktop'}.png`, fullPage: true })
       },
       { mobile },

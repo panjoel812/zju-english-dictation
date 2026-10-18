@@ -56,7 +56,8 @@ export default function WholeWordInput({
           isLengthHidden
             ? undefined
             : ({
-                width: `calc(${Math.max(prompt.length, 1)}ch + 8px)`,
+                // Include 8px padding and 1px for per-letter subpixel rounding.
+                width: `calc(${Math.max(prompt.length, 1)}ch + 9px)`,
                 '--word-font-size': `${fontSizeConfig.foreignFont}px`,
               } as CSSProperties)
         }

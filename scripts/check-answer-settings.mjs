@@ -246,6 +246,32 @@ try {
   }
 
   await check(
+    'desktop fixed line keeps a long typed word on one row beside the pronunciation control',
+    async (page) => {
+      const field = page.getByLabel('单词长度已隐藏', { exact: true })
+      await page.getByRole('button', { name: '开始', exact: true }).click()
+      await page.keyboard.type('indistinguishable')
+      const letters = field.locator('span')
+      const first = await letters.first().boundingBox()
+      const bounds = await field.boundingBox()
+      for (const letter of await letters.all()) {
+        const rect = await letter.boundingBox()
+        assert.ok(Math.abs(rect.y - first.y) < 1, `Long word wrapped on the fixed line: ${JSON.stringify(rect)}`)
+        assert.ok(rect.x >= bounds.x && rect.x + rect.width <= bounds.x + bounds.width + 1, 'Long word exceeds the fixed line')
+      }
+      const sound = await page.locator('.tooltip-info .cursor-pointer').boundingBox()
+      assert.ok(sound.x >= bounds.x + bounds.width, 'Sound control belongs to the right of the fixed line')
+    },
+    {
+      dictionary: [
+        { name: 'indistinguishable', trans: ['adj. 难以区别的'] },
+        { name: 'short', trans: ['adj. 短的'] },
+      ],
+      storage: { hideWordLength: true, wholeWordMode: false, fontsize: { foreignFont: 48 } },
+    },
+  )
+
+  await check(
     'long answer peek wraps completely without clipping at 320px',
     async (page) => {
       await page.setViewportSize({ width: 320, height: 568 })
@@ -264,6 +290,30 @@ try {
       mobile: true,
       storage: { hideWordLength: true },
       dictionary: [{ name: 'take full responsibility for the consequences of all your decisions', trans: ['承担决定带来的后果'] }],
+    },
+  )
+
+  await check(
+    'desktop long answers stay inside the fixed line beside the pronunciation control',
+    async (page) => {
+      const input = page.getByRole('textbox', { name: '英文默写输入' })
+      const line = page.getByLabel('单词长度已隐藏', { exact: true })
+      await input.fill('indistinguishable')
+      await input.press('Enter')
+      const answer = line.getByText('indistinguishable', { exact: true })
+      await expect(answer).toBeVisible()
+      const lineBox = await line.boundingBox()
+      const answerBox = await answer.boundingBox()
+      const soundBox = await page.locator('.tooltip-info .cursor-pointer').boundingBox()
+      assert.ok(answerBox && lineBox && answerBox.x >= lineBox.x && answerBox.x + answerBox.width <= lineBox.x + lineBox.width + 1, JSON.stringify({ lineBox, answerBox }))
+      assert.ok(soundBox && soundBox.x >= lineBox.x + lineBox.width, JSON.stringify({ lineBox, soundBox }))
+    },
+    {
+      dictionary: [
+        { name: 'indistinguishable', trans: ['adj. 难以区别的'] },
+        { name: 'short', trans: ['adj. 短的'] },
+      ],
+      storage: { hideWordLength: true },
     },
   )
 

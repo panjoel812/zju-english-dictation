@@ -64,7 +64,7 @@ export default function WholeWordInput({
       >
         <div
           aria-label={isLengthHidden ? '单词长度已隐藏' : '字母格输入区'}
-          className="relative min-h-[56px]"
+          className={classNames('relative min-h-[56px]', isLengthHidden && 'min-w-0 overflow-hidden')}
           style={isLengthHidden ? undefined : { minHeight: 'max(56px, calc(1.5em + 16px))' }}
         >
           <AnswerField
@@ -102,7 +102,7 @@ export default function WholeWordInput({
             className={classNames(
               'absolute inset-0 z-20 block h-full w-full min-w-0 rounded-none border-0 bg-transparent px-1 py-2 font-mono leading-normal shadow-none outline-none focus:ring-0',
               isLengthHidden
-                ? 'border-b-2 border-gray-400 text-center text-2xl focus:border-indigo-500 dark:border-gray-500 sm:text-3xl'
+                ? 'overflow-hidden border-b-2 border-gray-400 text-center text-2xl focus:border-indigo-500 dark:border-gray-500 sm:text-3xl'
                 : `${style.letter} resize-none overflow-hidden whitespace-pre-wrap break-all text-left`,
               hasWrong
                 ? 'text-red-600 dark:text-red-400'
@@ -140,6 +140,7 @@ export default function WholeWordInput({
               aria-hidden="true"
               className={classNames(
                 'pointer-events-none relative z-20 flex min-h-[56px] items-center justify-center break-all px-1 py-2 text-center font-mono text-base leading-5 sm:text-xl sm:leading-6',
+                isLengthHidden && 'min-w-0 max-w-full overflow-hidden',
                 isFinished ? 'text-green-600 dark:text-green-400' : 'text-gray-700 dark:text-gray-200',
               )}
             >

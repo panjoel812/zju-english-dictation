@@ -166,6 +166,35 @@ try {
     )
   })
 
+  await check(
+    'mobile dictionary detail stays within the viewport and keeps its close button visible',
+    async (page) => {
+      await cards(page)
+        .filter({ has: page.getByRole('heading', { name: '浙江大学英语III - Unit 1 Reading 1', exact: true }) })
+        .click()
+      const dialog = page.getByRole('dialog')
+      await expect(dialog).toBeVisible()
+      const metrics = await dialog.evaluate((element) => {
+        const rect = element.getBoundingClientRect()
+        const close = element.querySelector('button')?.getBoundingClientRect()
+        const title = element.querySelector('h3')
+        return {
+          viewport: window.innerWidth,
+          document: document.documentElement.scrollWidth,
+          rect: { x: rect.x, right: rect.right, width: rect.width },
+          close: close ? { x: close.x, right: close.right, width: close.width } : null,
+          titleOverflow: title ? title.scrollWidth > title.clientWidth : true,
+        }
+      })
+      assert.ok(metrics.rect.x >= 0 && metrics.rect.right <= metrics.viewport, JSON.stringify(metrics))
+      assert.ok(metrics.close && metrics.close.x >= 0 && metrics.close.right <= metrics.viewport, JSON.stringify(metrics))
+      assert.ok(metrics.document <= metrics.viewport, JSON.stringify(metrics))
+      assert.equal(metrics.titleOverflow, false, JSON.stringify(metrics))
+      await expect(dialog.getByRole('button', { name: 'Close' })).toBeVisible()
+    },
+    { width: 390 },
+  )
+
   for (const width of [320, 390]) {
     await check(
       `mobile ${width}px keeps page and cards within viewport while tab bars scroll`,

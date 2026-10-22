@@ -86,7 +86,7 @@ export default function DictionaryComponent({ dictionary }: Props) {
           </div>
         </div>
       </DialogTrigger>
-      <DialogContent className="w-[60rem] max-w-none !rounded-[20px]">
+      <DialogContent className="max-h-[calc(100dvh-1rem)] w-[calc(100vw-1rem)] max-w-[calc(100vw-1rem)] overflow-y-auto !rounded-2xl p-4 sm:max-h-[calc(100vh-2rem)] sm:w-[60rem] sm:max-w-[calc(100vw-2rem)] sm:rounded-[20px] sm:p-6">
         <DictDetail dictionary={dictionary} />
       </DialogContent>
     </Dialog>

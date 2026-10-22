@@ -15,6 +15,7 @@ import { TypingContext, TypingStateActionType } from '@/pages/Typing/store'
 import {
   currentChapterAtom,
   currentDictInfoAtom,
+  fontSizeConfigAtom,
   hideWordLengthAtom,
   isIgnoreCaseAtom,
   isShowAnswerOnHoverAtom,
@@ -50,6 +51,7 @@ export default function WordComponent({
 
   const wordDictationConfig = useAtomValue(wordDictationConfigAtom)
   const hideWordLength = useAtomValue(hideWordLengthAtom)
+  const fontSizeConfig = useAtomValue(fontSizeConfigAtom)
   const wholeWordMode = useAtomValue(wholeWordModeAtom)
   const isTextSelectable = useAtomValue(isTextSelectableAtom)
   const isIgnoreCase = useAtomValue(isIgnoreCaseAtom)
@@ -348,6 +350,12 @@ export default function WordComponent({
   }, [wordState.wrongCount, dispatch])
 
   const isLengthHidden = wordDictationConfig.isOpen && hideWordLength
+  const hiddenLineWidth = 384
+  const hiddenWordLength = Math.max(wordState.displayWord.replaceAll(EXPLICIT_SPACE, ' ').length, 1)
+  const hiddenLineFontSize = Math.min(
+    fontSizeConfig.foreignFont,
+    Math.max(16, Math.floor((hiddenLineWidth - hiddenWordLength * 3.2 - 8) / (hiddenWordLength * 0.6))),
+  )
   const isAnswerRevealed = wordState.isFinished || (isShowAnswerOnHover && isHoveringWord)
   const pronunciation = pronunciationIsOpen ? (
     <div
@@ -399,7 +407,9 @@ export default function WordComponent({
             ) : (
               <div
                 aria-label={isLengthHidden ? '单词长度已隐藏' : '字母格输入区'}
-                className={`relative flex min-h-[56px] max-w-full flex-wrap items-center justify-center ${
+                className={`relative flex min-h-[56px] max-w-full items-center justify-center ${
+                  isLengthHidden ? 'flex-nowrap' : 'flex-wrap'
+                } ${
                   isLengthHidden ? 'w-full max-w-sm border-b-2 border-gray-400 focus-within:border-indigo-500' : ''
                 }`}
               >
@@ -409,6 +419,7 @@ export default function WordComponent({
                     letter={letter}
                     visible={isLengthHidden || getLetterVisible(index)}
                     state={isLengthHidden ? (wordState.hasWrong ? 'wrong' : 'correct') : wordState.letterStates[index]}
+                    fontSize={isLengthHidden ? hiddenLineFontSize : undefined}
                   />
                 ))}
                 <InputHandler updateInput={updateInput} inline />

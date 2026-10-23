@@ -166,7 +166,7 @@ export default function WordPanel() {
       </div>
       <div className="container flex min-h-[260px] flex-grow flex-col items-center justify-center py-4">
         {currentWord && (
-          <div className="relative flex w-full max-w-full justify-center px-2">
+          <div className="relative flex w-full max-w-full flex-col items-center px-2">
             {!state.isTyping && (
               <button
                 type="button"
@@ -175,7 +175,7 @@ export default function WordPanel() {
                   focusMobileTypingInput()
                   dispatch({ type: TypingStateActionType.SET_IS_TYPING, payload: true })
                 }}
-                className="absolute top-0 z-10 flex h-20 w-full items-center justify-center backdrop-blur-sm"
+                className="relative z-10 flex h-14 w-full max-w-4xl shrink-0 items-center justify-center text-gray-600 dark:text-gray-50"
               >
                 <span className="w-full select-none text-center text-base text-gray-600 dark:text-gray-50 sm:text-xl">
                   {state.timerData.time ? '继续默写' : '开始默写'}

@@ -351,9 +351,10 @@ export default function WordComponent({
 
   const isLengthHidden = wordDictationConfig.isOpen && hideWordLength
   const hiddenLineWidth = 384
-  const hiddenWordLength = Math.max(wordState.displayWord.replaceAll(EXPLICIT_SPACE, ' ').length, 1)
+  const hiddenWordLength = Math.max(word.name.replace(/ /g, EXPLICIT_SPACE).replace(/…/g, '..').length, 1)
+  const hiddenLineBaseFontSize = wholeWordMode ? 30 : fontSizeConfig.foreignFont
   const hiddenLineFontSize = Math.min(
-    fontSizeConfig.foreignFont,
+    hiddenLineBaseFontSize,
     Math.max(16, Math.floor((hiddenLineWidth - hiddenWordLength * 3.2 - 8) / (hiddenWordLength * 0.6))),
   )
   const isAnswerRevealed = wordState.isFinished || (isShowAnswerOnHover && isHoveringWord)
@@ -397,6 +398,7 @@ export default function WordComponent({
                         .join('')
                 }
                 pronunciation={pronunciation}
+                hiddenLineFontSize={isLengthHidden ? hiddenLineFontSize : undefined}
                 value={wordState.inputWord.replaceAll(EXPLICIT_SPACE, ' ')}
                 revealedAnswer={isAnswerRevealed ? wordState.displayWord.replaceAll(EXPLICIT_SPACE, ' ') : undefined}
                 onChange={replaceInput}

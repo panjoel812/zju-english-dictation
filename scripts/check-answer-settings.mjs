@@ -76,6 +76,45 @@ async function expectSlotsOnOneLine(page) {
 }
 
 try {
+  await check(
+    'paused continue prompt does not cover the word area',
+    async (page) => {
+      const prompt = page.getByRole('button', { name: '开始默写', exact: true })
+      const wordArea = page.locator('.tooltip-info')
+      const promptBox = await prompt.boundingBox()
+      const wordBox = await wordArea.boundingBox()
+      assert.ok(promptBox && wordBox, 'Both the continue prompt and word area must be present')
+      assert.ok(
+        promptBox.y + promptBox.height <= wordBox.y || promptBox.y >= wordBox.y + wordBox.height,
+        JSON.stringify({ promptBox, wordBox }),
+      )
+    },
+    { storage: { hideWordLength: true } },
+  )
+
+  await check(
+    'whole-word answer keeps the same font size after Enter',
+    async (page) => {
+      const input = page.getByRole('textbox', { name: '英文默写输入' })
+      const line = page.getByLabel('单词长度已隐藏', { exact: true })
+      await input.click()
+      await input.fill('indistinguishable')
+      const inputFontSize = await input.evaluate((element) => getComputedStyle(element).fontSize)
+      await input.press('Enter')
+      const answer = line.getByText('indistinguishable', { exact: true })
+      await expect(answer).toBeVisible()
+      const answerFontSize = await answer.evaluate((element) => getComputedStyle(element).fontSize)
+      assert.equal(answerFontSize, inputFontSize, JSON.stringify({ inputFontSize, answerFontSize }))
+    },
+    {
+      dictionary: [
+        { name: 'indistinguishable', trans: ['adj. 难以区别的'] },
+        { name: 'short', trans: ['adj. 短的'] },
+      ],
+      storage: { hideWordLength: true },
+    },
+  )
+
   for (const fontSize of [20, 28, 48, 72, 96]) {
     await check(
       `short letter slots stay on one row at ${fontSize}px`,

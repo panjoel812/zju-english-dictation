@@ -16,6 +16,7 @@ export default function WholeWordInput({
   prompt,
   pronunciation,
   revealedAnswer,
+  hiddenLineFontSize,
 }: {
   value: string
   onChange: (value: string) => void
@@ -25,6 +26,7 @@ export default function WholeWordInput({
   prompt?: string
   pronunciation?: ReactNode
   revealedAnswer?: string
+  hiddenLineFontSize?: number
 }) {
   // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
   const { state, dispatch } = useContext(TypingContext)!
@@ -33,6 +35,9 @@ export default function WholeWordInput({
   const fontSizeConfig = useAtomValue(fontSizeConfigAtom)
   const isLengthHidden = prompt === undefined
   const AnswerField = isLengthHidden ? 'input' : 'textarea'
+  const hiddenLineStyle = hiddenLineFontSize
+    ? ({ fontSize: `${hiddenLineFontSize}px`, lineHeight: '1.25' } as CSSProperties)
+    : undefined
 
   useEffect(() => {
     inputRef.current?.setAttribute('enterkeyhint', 'done')
@@ -98,7 +103,11 @@ export default function WholeWordInput({
             autoCorrect="off"
             autoComplete="off"
             spellCheck={false}
-            style={revealedAnswer !== undefined ? { color: 'transparent', caretColor: 'transparent' } : undefined}
+            style={
+              revealedAnswer !== undefined
+                ? { ...hiddenLineStyle, color: 'transparent', caretColor: 'transparent' }
+                : hiddenLineStyle
+            }
             className={classNames(
               'absolute inset-0 z-20 block h-full w-full min-w-0 rounded-none border-0 bg-transparent px-1 py-2 font-mono leading-normal shadow-none outline-none focus:ring-0',
               isLengthHidden
@@ -143,6 +152,7 @@ export default function WholeWordInput({
                 isLengthHidden && 'min-w-0 max-w-full overflow-hidden',
                 isFinished ? 'text-green-600 dark:text-green-400' : 'text-gray-700 dark:text-gray-200',
               )}
+              style={hiddenLineStyle}
             >
               {revealedAnswer}
             </span>

@@ -55,7 +55,7 @@ test('preserves all 49 original dictionaries except for the restored POS prefixe
     ['zju-english-engineering-', 24, 745, 882, 745, 860, '020f4cd905e85f8ee98462186bff415db0b7fa2388828f2d34235d6991c3b3ff'],
     ['zju-english-3-', 16, 580, 580, 182, 182, '4d3366c5f7d569f687bb9661e855e13508937ef4cde66c6016af9cff7ac007c6'],
     ['zju-english-4-', 8, 720, 716, 21, 21, '12491409c30ffe7981f0ab001ca3d85703c7805747f19fa19363b40091c0e8b6'],
-    ['zju-english-book1-', 1, 245, 0, 0, 0, '3bf66eb5276e3c760b6a78824766ea89990caeafa78285940b6ce24e053d1582'],
+    ['zju-english-book1-', 1, 245, 309, 39, 51, '46a32a8dfe9c9c076c010cf12b1197d20c7f960852350ade0c8678e40abe5cf8'],
   ]
   for (const [family, fileCount, wordCount, translationCount, taggedWords, taggedMeanings, digest] of families) {
     const files = readdirSync(root)

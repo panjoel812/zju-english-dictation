@@ -75,8 +75,8 @@ try {
           )
           await page.getByRole('heading', { name: resource.name, exact: true }).click()
           await page.getByRole('dialog').getByRole('heading', { name: '第 1 章', exact: true }).click()
-          await expect(page.locator('header h1')).toHaveText('CED')
-          await expect(page).toHaveTitle('CED')
+          await expect(page.locator('header h1')).toHaveText('ZED')
+          await expect(page).toHaveTitle('ZED')
           await expect(input(page)).toBeVisible()
           const translation = page.getByText(words[0].trans[0], { exact: true })
           await expect(translation).toBeVisible()
@@ -152,10 +152,10 @@ try {
 
   for (const width of [1440, 390]) {
     await check(
-      `English defaults, answer order and CED name at ${width}px`,
+      `English defaults, answer order and ZED name at ${width}px`,
       async (page) => {
         await page.getByRole('button', { name: '返回练习', exact: true }).click()
-        await expect(page.locator('header h1')).toHaveText('CED')
+        await expect(page.locator('header h1')).toHaveText('ZED')
         await expect(page.getByLabel('单词长度已隐藏', { exact: true })).toBeVisible()
         const translation = page.getByText('n. 企业家', { exact: true })
         await expect(translation).toBeVisible()
@@ -170,4 +170,4 @@ try {
   await browser.close()
 }
 if (failures.length) throw new Error(`${failures.length} check(s) failed: ${failures.join('; ')}`)
-console.log('All CED language checks passed.')
+console.log('All ZED language checks passed.')

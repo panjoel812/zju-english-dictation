@@ -1,4 +1,4 @@
-name: CED CI
+name: ZED CI
 
 on:
   workflow_dispatch:

@@ -34,7 +34,7 @@
   {
     "name": "biology",
     "trans": [
-      "生物学， 生态学"
+      "n. 生物学， 生态学"
     ],
     "usphone": "baɪ'ɑlədʒi",
     "ukphone": "baɪ'ɒlədʒi"
@@ -67,7 +67,7 @@
   {
     "name": "pretend",
     "trans": [
-      "装作， 假装"
+      "v. 装作， 假装"
     ],
     "usphone": "prɪ'tɛnd",
     "ukphone": "prɪ'tend"
@@ -75,7 +75,7 @@
   {
     "name": "desperate",
     "trans": [
-      "拼死的， 不顾一切的； 绝望的； 极需要的"
+      "adj. 拼死的， 不顾一切的； 绝望的； 极需要的"
     ],
     "usphone": "'dɛspərət",
     "ukphone": "'despərət"
@@ -124,7 +124,7 @@
   {
     "name": "determination",
     "trans": [
-      "决心， 决定； 确定"
+      "n. 决心， 决定； 确定"
     ],
     "usphone": "dɪˌtɜːrmɪˈneɪʃn",
     "ukphone": "dɪˌtɜːmɪ'neɪʃn"
@@ -148,7 +148,7 @@
   {
     "name": "jungle",
     "trans": [
-      "丛林， 密林， 莽丛； 乱七八糟的一堆"
+      "n. 丛林， 密林， 莽丛； 乱七八糟的一堆"
     ],
     "usphone": "'dʒʌŋɡl",
     "ukphone": "'dʒʌŋgl"
@@ -156,7 +156,7 @@
   {
     "name": "fated",
     "trans": [
-      "命中注定的，宿命的；受命运支配的"
+      "adj. 命中注定的，宿命的；受命运支配的"
     ],
     "usphone": "'feitid",
     "ukphone": "'feɪtɪd"
@@ -213,7 +213,7 @@
   {
     "name": "greedy",
     "trans": [
-      "贪吃的； 贪婪的； 渴望的"
+      "adj. 贪吃的； 贪婪的； 渴望的"
     ],
     "usphone": "'gridi",
     "ukphone": "'griːdi"
@@ -329,7 +329,7 @@
   {
     "name": "employee",
     "trans": [
-      "受雇者， 雇员， 雇工"
+      "n. 受雇者， 雇员， 雇工"
     ],
     "usphone": "ɪmˈplɔɪi;ɛmplɔɪˈi",
     "ukphone": "ɪm'plɔɪɪː"
@@ -337,7 +337,7 @@
   {
     "name": "philosopher",
     "trans": [
-      "哲学家， 哲人"
+      "n. 哲学家， 哲人"
     ],
     "usphone": "fə'lɑsəfɚ",
     "ukphone": "fə'lɒsəfə"
@@ -369,7 +369,7 @@
   {
     "name": "emotional",
     "trans": [
-      "感情的， 情绪的"
+      "adj. 感情的， 情绪的"
     ],
     "usphone": "ɪ'moʃənl",
     "ukphone": "ɪ'məuʃənl"
@@ -377,7 +377,7 @@
   {
     "name": "perceive",
     "trans": [
-      "感知， 感觉， 察觉； 认识到， 意识到； 理解"
+      "v. 感知， 感觉， 察觉； 认识到， 意识到； 理解"
     ],
     "usphone": "pɚ'siv",
     "ukphone": "pə'siːv"
@@ -385,7 +385,7 @@
   {
     "name": "heroic",
     "trans": [
-      "英雄的； 英勇的"
+      "adj. 英雄的； 英勇的"
     ],
     "usphone": "hə'roɪk",
     "ukphone": "hə'rəuik"
@@ -477,8 +477,8 @@
   {
     "name": "unlike",
     "trans": [
-      "不同的",
-      "不像…"
+      "adj. 不同的",
+      "prep. 不像…"
     ],
     "usphone": "'ʌn'laɪk",
     "ukphone": "ˌʌn'laɪk"
@@ -494,7 +494,7 @@
   {
     "name": "perform",
     "trans": [
-      "做， 履行， 完成； 表演， 演出； 工作情况， 表现"
+      "v. 做， 履行， 完成； 表演， 演出； 工作情况， 表现"
     ],
     "usphone": "pɚ'fɔrm",
     "ukphone": "pə'fɔːm"
@@ -534,8 +534,8 @@
   {
     "name": "dispute",
     "trans": [
-      "争论， 争执； 对…表示异议",
-      "争论"
+      "v. 争论， 争执； 对…表示异议",
+      "n. 争论"
     ],
     "usphone": "'dɪs'pjʊt",
     "ukphone": "dɪ'spjuːt; 'dɪspjuːt"
@@ -637,7 +637,7 @@
   {
     "name": "ripe",
     "trans": [
-      "熟的； 时机成熟的"
+      "adj. 熟的； 时机成熟的"
     ],
     "usphone": "raɪp",
     "ukphone": "raɪp"
@@ -670,8 +670,8 @@
   {
     "name": "handle",
     "trans": [
-      "柄，把手",
-      "拿， 触； 操作， 处理"
+      "n. 柄，把手",
+      "v. 拿， 触； 操作， 处理"
     ],
     "usphone": "'hændl",
     "ukphone": "'hændl"
@@ -767,7 +767,7 @@
   {
     "name": "infect",
     "trans": [
-      "传染， 感染； 影响"
+      "v. 传染， 感染； 影响"
     ],
     "usphone": "ɪn'fɛkt",
     "ukphone": "ɪn'fekt"
@@ -791,8 +791,8 @@
   {
     "name": "epidemic",
     "trans": [
-      "流行性的；传染的",
-      "流行病； 传播"
+      "adj. 流行性的；传染的",
+      "n. 流行病； 传播"
     ],
     "usphone": ",ɛpɪ'dɛmɪk",
     "ukphone": "ˌepɪ'demɪk"
@@ -850,7 +850,7 @@
   {
     "name": "fee",
     "trans": [
-      "费； 酬金， 赏金"
+      "n. 费； 酬金， 赏金"
     ],
     "usphone": "fi",
     "ukphone": "fiː"
@@ -941,7 +941,7 @@
   {
     "name": "practically",
     "trans": [
-      "几乎， 简直； 实际上"
+      "adv. 几乎， 简直； 实际上"
     ],
     "usphone": "'præktɪkli",
     "ukphone": "'præktɪkli"
@@ -949,7 +949,7 @@
   {
     "name": "fuss",
     "trans": [
-      "忙乱； 大惊小怪， 小题大做； 烦恼， 过于忧虑"
+      "v. 忙乱； 大惊小怪， 小题大做； 烦恼， 过于忧虑"
     ],
     "usphone": "fʌs",
     "ukphone": "fʌs"
@@ -981,7 +981,7 @@
   {
     "name": "airline",
     "trans": [
-      "航空公司； 航线"
+      "n. 航空公司； 航线"
     ],
     "usphone": "'ɛrlaɪn",
     "ukphone": "'eəlaɪn"
@@ -1013,7 +1013,7 @@
   {
     "name": "corridor",
     "trans": [
-      "走廊， 回廊， 通路"
+      "n. 走廊， 回廊， 通路"
     ],
     "usphone": "'kɔrɪdɔr",
     "ukphone": "'kɒrɪdɔː"
@@ -1056,9 +1056,9 @@
   {
     "name": "snap",
     "trans": [
-      "咔嚓折断，啪地绷断；吧嗒一声；猛咬；厉声说话，怒声责骂",
-      "仓促的， 突然的",
-      "吧嗒声；快照"
+      "v. 咔嚓折断，啪地绷断；吧嗒一声；猛咬；厉声说话，怒声责骂",
+      "adj. 仓促的， 突然的",
+      "n. 吧嗒声；快照"
     ],
     "usphone": "snæp",
     "ukphone": "snæp"
@@ -1083,7 +1083,7 @@
   {
     "name": "outcome",
     "trans": [
-      "结果"
+      "n. 结果"
     ],
     "usphone": "'aʊt'kʌm",
     "ukphone": "'autkʌm"
@@ -1091,9 +1091,9 @@
   {
     "name": "tense",
     "trans": [
-      "拉紧的；紧张的",
-      "拉紧， 绷紧",
-      "时态"
+      "adj. 拉紧的；紧张的",
+      "v. 拉紧， 绷紧",
+      "n. 时态"
     ],
     "usphone": "tɛns",
     "ukphone": "tens"
@@ -1110,7 +1110,7 @@
   {
     "name": "wrist",
     "trans": [
-      "腕， 腕关节"
+      "n. 腕， 腕关节"
     ],
     "usphone": "rɪst",
     "ukphone": "rɪst"
@@ -1185,7 +1185,7 @@
   {
     "name": "underline",
     "trans": [
-      "在…下面画线； 强调， 使…突出"
+      "v. 在…下面画线； 强调， 使…突出"
     ],
     "usphone": "'ʌndəlaɪn",
     "ukphone": "ˌʌndə'laɪn"
@@ -1227,7 +1227,7 @@
   {
     "name": "palm",
     "trans": [
-      "手掌， 掌状物； 棕榈树"
+      "n. 手掌， 掌状物； 棕榈树"
     ],
     "usphone": "pɑm",
     "ukphone": "pɑːm"
@@ -1244,8 +1244,8 @@
   {
     "name": "wrap",
     "trans": [
-      "裹，包，捆",
-      "披肩"
+      "v. 裹，包，捆",
+      "n. 披肩"
     ],
     "usphone": "ræp",
     "ukphone": "ræp"
@@ -1262,8 +1262,8 @@
   {
     "name": "elbow",
     "trans": [
-      "肘，肘部",
-      "用肘部， 用肘挤"
+      "n. 肘，肘部",
+      "v. 用肘部， 用肘挤"
     ],
     "usphone": "'ɛlbo",
     "ukphone": "'elbəu"
@@ -1304,8 +1304,8 @@
   {
     "name": "steady",
     "trans": [
-      "稳定",
-      "稳的，平稳的；稳定的，持续的；稳固的"
+      "v. 稳定",
+      "adj. 稳的，平稳的；稳定的，持续的；稳固的"
     ],
     "usphone": "'stɛdi",
     "ukphone": "'stedi"
@@ -1321,7 +1321,7 @@
   {
     "name": "unexpected",
     "trans": [
-      "想不到的， 意外的"
+      "adj. 想不到的， 意外的"
     ],
     "usphone": "'ʌnɪk'spɛktɪd",
     "ukphone": "ˌʌnɪk'spektɪd"
@@ -1337,7 +1337,7 @@
   {
     "name": "suck",
     "trans": [
-      "吸， 吮， 啜； 吸收"
+      "v. 吸， 吮， 啜； 吸收"
     ],
     "usphone": "sʌk",
     "ukphone": "sʌk"
@@ -1355,8 +1355,8 @@
   {
     "name": "embrace",
     "trans": [
-      "拥抱，怀抱",
-      "拥抱； 包括； 包围"
+      "n. 拥抱，怀抱",
+      "v. 拥抱； 包括； 包围"
     ],
     "usphone": "ɪm'bres",
     "ukphone": "ɪm'breɪs"
@@ -1364,7 +1364,7 @@
   {
     "name": "throat",
     "trans": [
-      "咽喉， 喉咙； 嗓音"
+      "n. 咽喉， 喉咙； 嗓音"
     ],
     "usphone": "θrot",
     "ukphone": "θrəut"
@@ -1412,7 +1412,7 @@
   {
     "name": "entire",
     "trans": [
-      "全部的， 整个的"
+      "adj. 全部的， 整个的"
     ],
     "usphone": "ɪn'taɪɚ",
     "ukphone": "ɪn'taɪə"
@@ -1436,7 +1436,7 @@
   {
     "name": "rewind",
     "trans": [
-      "(rewound,rewound)倒回"
+      "v. (rewound,rewound)倒回"
     ],
     "usphone": ",ri'waɪnd",
     "ukphone": "riː'waɪnd"
@@ -1469,8 +1469,8 @@
   {
     "name": "rail",
     "trans": [
-      "责骂， 抱怨",
-      "栏杆，横杆；铁轨，轨道；铁路"
+      "v. 责骂， 抱怨",
+      "n. 栏杆，横杆；铁轨，轨道；铁路"
     ],
     "usphone": "rel",
     "ukphone": "reɪl"
@@ -1510,7 +1510,7 @@
   {
     "name": "drunk",
     "trans": [
-      "醉的； 陶醉的"
+      "adj. 醉的； 陶醉的"
     ],
     "usphone": "drʌŋk",
     "ukphone": "drʌŋk"
@@ -1534,7 +1534,7 @@
   {
     "name": "dependent",
     "trans": [
-      "依靠的， 依赖的； 取决于…的"
+      "adj. 依靠的， 依赖的； 取决于…的"
     ],
     "usphone": "dɪ'pɛndənt",
     "ukphone": "dɪ'pendənt"
@@ -1599,7 +1599,7 @@
   {
     "name": "donkey",
     "trans": [
-      "驴； 笨蛋"
+      "n. 驴； 笨蛋"
     ],
     "usphone": "ˈdɑŋkɪ",
     "ukphone": "'dɔŋki"
@@ -1623,9 +1623,9 @@
   {
     "name": "boast",
     "trans": [
-      "自夸；自豪",
-      "自夸，吹嘘；以拥有…而自豪",
-      "自吹自擂， 自夸的话"
+      "v. 自夸；自豪",
+      "v. 自夸，吹嘘；以拥有…而自豪",
+      "n. 自吹自擂， 自夸的话"
     ],
     "usphone": "bost",
     "ukphone": "bəust"
@@ -1657,8 +1657,8 @@
   {
     "name": "pension",
     "trans": [
-      "养老金，抚恤金",
-      "发给…养老金"
+      "n. 养老金，抚恤金",
+      "v. 发给…养老金"
     ],
     "usphone": "'pɛnʃən",
     "ukphone": "'penʃn"
@@ -1699,7 +1699,7 @@
   {
     "name": "realm",
     "trans": [
-      "界， 领域， 范围； 王国， 国度"
+      "n. 界， 领域， 范围； 王国， 国度"
     ],
     "usphone": "rɛlm",
     "ukphone": "relm"
@@ -1767,8 +1767,8 @@
   {
     "name": "lower",
     "trans": [
-      "较低的；下面的",
-      "放下， 降低"
+      "adj. 较低的；下面的",
+      "v. 放下， 降低"
     ],
     "usphone": "'loɚ",
     "ukphone": "'ləuə"
@@ -1792,7 +1792,7 @@
   {
     "name": "invincible",
     "trans": [
-      "不能征服的， 无敌的"
+      "adj. 不能征服的， 无敌的"
     ],
     "usphone": "ɪn'vɪnsəbl",
     "ukphone": "ɪn'vɪnsəbl"
@@ -1816,7 +1816,7 @@
   {
     "name": "dusk",
     "trans": [
-      "薄暮， 黄昏； 幽暗"
+      "n. 薄暮， 黄昏； 幽暗"
     ],
     "usphone": "dʌsk",
     "ukphone": "dʌsk"
@@ -1840,7 +1840,7 @@
   {
     "name": "arrow",
     "trans": [
-      "箭， 箭状物； 箭头符号"
+      "n. 箭， 箭状物； 箭头符号"
     ],
     "usphone": "'æro",
     "ukphone": "'ærəu"
@@ -1856,8 +1856,8 @@
   {
     "name": "halfway",
     "trans": [
-      "半路地； 在中途， 在半途",
-      "中途的；部分的；不彻底的"
+      "adv. 半路地； 在中途， 在半途",
+      "adj. 中途的；部分的；不彻底的"
     ],
     "usphone": ",hæf'we",
     "ukphone": "ˌhɑːf'weɪ"
@@ -1881,7 +1881,7 @@
   {
     "name": "argument",
     "trans": [
-      "争论， 辩论； 理由； 说理， 论证"
+      "n. 争论， 辩论； 理由； 说理， 论证"
     ],
     "usphone": "'ɑrɡjumənt",
     "ukphone": "'ɑːgjumənt"
@@ -1970,7 +1970,7 @@
   {
     "name": "necessity",
     "trans": [
-      "必需品； 必要性， 需要"
+      "n. 必需品； 必要性， 需要"
     ],
     "usphone": "nə'sɛsəti",
     "ukphone": "nə'sesəti"
@@ -1994,7 +1994,7 @@
   {
     "name": "surrender",
     "trans": [
-      "交出， 放弃； 投降"
+      "v. 交出， 放弃； 投降"
     ],
     "usphone": "sə'rɛndɚ",
     "ukphone": "sə'rendə"

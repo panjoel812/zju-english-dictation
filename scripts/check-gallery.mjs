@@ -21,7 +21,8 @@ async function check(name, run, { dictionary, width = 1440 } = {}) {
   page.setDefaultTimeout(5000)
   try {
     await page.addInitScript((dictionary) => {
-      localStorage.setItem('lastSeenRelease', JSON.stringify('0.3.2'))
+      localStorage.setItem('zju-practice-guide-seen-v1', 'true')
+      localStorage.setItem('lastSeenRelease', JSON.stringify('0.4.0'))
       if (dictionary) localStorage.setItem('currentDict-zju-english3', JSON.stringify(dictionary))
       localStorage.setItem('currentChapter', '1')
     }, dictionary)

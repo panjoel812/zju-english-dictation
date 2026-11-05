@@ -1,0 +1,550 @@
+[
+  {
+    "name": "モノレール",
+    "trans": [
+      "名 单轨铁路，单轨电车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-001",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "单轨铁路，单轨电车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "オイル",
+    "trans": [
+      "名 油，润滑油"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-002",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "油，润滑油",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ダンス",
+    "trans": [
+      "名 跳舞，舞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-003",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "跳舞，舞",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "じだい（時代）",
+    "trans": [
+      "名 时代"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-004",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "时代",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じだい",
+      "時代"
+    ],
+    "speech": "じだい"
+  },
+  {
+    "name": "やくしゃ（役者）",
+    "trans": [
+      "名 演员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-005",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "演员",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やくしゃ",
+      "役者"
+    ],
+    "speech": "やくしゃ"
+  },
+  {
+    "name": "むすめ（娘）",
+    "trans": [
+      "名 女儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-006",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "女儿",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "むすめ",
+      "娘"
+    ],
+    "speech": "むすめ"
+  },
+  {
+    "name": "こいぬ（子犬）",
+    "trans": [
+      "名 小狗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-007",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "小狗",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こいぬ",
+      "子犬"
+    ],
+    "speech": "こいぬ"
+  },
+  {
+    "name": "げきじょう（劇場）",
+    "trans": [
+      "名 剧场，剧院"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-008",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "剧场，剧院",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "げきじょう",
+      "劇場"
+    ],
+    "speech": "げきじょう"
+  },
+  {
+    "name": "ししゃかい（試写会）",
+    "trans": [
+      "名 试映会，预映会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-009",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "试映会，预映会",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ししゃかい",
+      "試写会"
+    ],
+    "speech": "ししゃかい"
+  },
+  {
+    "name": "みみ（耳）",
+    "trans": [
+      "名 耳朵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-010",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "耳朵",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みみ",
+      "耳"
+    ],
+    "speech": "みみ"
+  },
+  {
+    "name": "おく（奥）",
+    "trans": [
+      "名 里头，内部；深处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-011",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "里头，内部；深处",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おく",
+      "奥"
+    ],
+    "speech": "おく"
+  },
+  {
+    "name": "きげん（機嫌）",
+    "trans": [
+      "名 情绪，心情"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-012",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "情绪，心情",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きげん",
+      "機嫌"
+    ],
+    "speech": "きげん"
+  },
+  {
+    "name": "せんじつ（先日）",
+    "trans": [
+      "名 前几天，前些天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-013",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "前几天，前些天",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せんじつ",
+      "先日"
+    ],
+    "speech": "せんじつ"
+  },
+  {
+    "name": "コピーき（コピー機）",
+    "trans": [
+      "名 复印机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-014",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "复印机",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "コピーき",
+      "コピー機"
+    ],
+    "speech": "コピーき"
+  },
+  {
+    "name": "けん（券）",
+    "trans": [
+      "名 券，票"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-015",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "券，票",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けん",
+      "券"
+    ],
+    "speech": "けん"
+  },
+  {
+    "name": "さいしゅうびん（最終便）",
+    "trans": [
+      "名 最晚航班"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-016",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "最晚航班",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さいしゅうびん",
+      "最終便"
+    ],
+    "speech": "さいしゅうびん"
+  },
+  {
+    "name": "にゅじょうけん（入場券）",
+    "trans": [
+      "名 入场卷，门票"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-017",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "入场卷，门票",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にゅじょうけん",
+      "入場券"
+    ],
+    "speech": "にゅじょうけん"
+  },
+  {
+    "name": "しょうたいけん（招待券）",
+    "trans": [
+      "名 招待券，请帖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-018",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "招待券，请帖",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょうたいけん",
+      "招待券"
+    ],
+    "speech": "しょうたいけん"
+  },
+  {
+    "name": "かいすうけん（回数券）",
+    "trans": [
+      "名 回数券"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-019",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "回数券",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいすうけん",
+      "回数券"
+    ],
+    "speech": "かいすうけん"
+  },
+  {
+    "name": "むかいます（向かいます）",
+    "trans": [
+      "动1 往～去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-020",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "往～去",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "むかいます",
+      "向かいます"
+    ],
+    "speech": "むかいます"
+  },
+  {
+    "name": "そろえます",
+    "trans": [
+      "动2 备齐，凑齐；使一致"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-021",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "备齐，凑齐；使一致",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "もれます（漏れます）",
+    "trans": [
+      "动2 漏，泄漏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-022",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "漏，泄漏",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "もれます",
+      "漏れます"
+    ],
+    "speech": "もれます"
+  },
+  {
+    "name": "まとめます",
+    "trans": [
+      "动2 汇集；总结，整理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-023",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "汇集；总结，整理",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かいつうします（開通します）",
+    "trans": [
+      "动3 开通"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-024",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "开通",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいつうします",
+      "開通します"
+    ],
+    "speech": "かいつうします"
+  },
+  {
+    "name": "かいちくします（改築します）",
+    "trans": [
+      "动3 改建"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-025",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "改建",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいちくします",
+      "改築します"
+    ],
+    "speech": "かいちくします"
+  },
+  {
+    "name": "かんせいします（完成します）",
+    "trans": [
+      "动3 完成"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-026",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "完成",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんせいします",
+      "完成します"
+    ],
+    "speech": "かんせいします"
+  },
+  {
+    "name": "にゅうしゃします（入社します）",
+    "trans": [
+      "动3 入社"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-027",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "入社",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にゅうしゃします",
+      "入社します"
+    ],
+    "speech": "にゅうしゃします"
+  },
+  {
+    "name": "しん（清）",
+    "trans": [
+      "专 清，清代"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-028",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "清，清代",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しん",
+      "清"
+    ],
+    "speech": "しん"
+  },
+  {
+    "name": "…… おまたせしました（お待たせしました）",
+    "trans": [
+      "让您久等了"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U40-029",
+    "sourceSheet": "B1U40",
+    "sourceMeaning": "让您久等了",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

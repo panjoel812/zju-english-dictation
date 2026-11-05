@@ -1,0 +1,607 @@
+[
+  {
+    "name": "avenue",
+    "trans": [
+      "n.f. 林荫大道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-001",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "林荫大道",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": "音标: [avny]",
+    "phonetic": "[avny]"
+  },
+  {
+    "name": "de",
+    "trans": [
+      "prép. ……的（表示从属关系）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-002",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "……的（表示从属关系）",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": "音标: [də]",
+    "phonetic": "[də]"
+  },
+  {
+    "name": "excuser",
+    "trans": [
+      "v.t. 原谅，宽恕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-003",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "原谅，宽恕",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": "音标: [ɛkskyze]",
+    "phonetic": "[ɛkskyze]"
+  },
+  {
+    "name": "place",
+    "trans": [
+      "n.f. 广场；地方"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-004",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "广场；地方",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": "音标: [plas]",
+    "phonetic": "[plas]"
+  },
+  {
+    "name": "aller",
+    "trans": [
+      "v.i. 去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-005",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "去",
+    "sourceTags": [
+      "v.i."
+    ],
+    "sourceNotes": "音标: [ale]",
+    "phonetic": "[ale]"
+  },
+  {
+    "name": "tout",
+    "trans": [
+      "adj. / adv. 全部的；完全地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-006",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "全部的；完全地",
+    "sourceTags": [
+      "adj. / adv."
+    ],
+    "sourceNotes": "音标: [tu]",
+    "phonetic": "[tu]"
+  },
+  {
+    "name": "droit",
+    "trans": [
+      "adv. 笔直地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-007",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "笔直地",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [drwa]",
+    "phonetic": "[drwa]"
+  },
+  {
+    "name": "puis",
+    "trans": [
+      "adv. 然后"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-008",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "然后",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [pɥi]",
+    "phonetic": "[pɥi]"
+  },
+  {
+    "name": "prendre",
+    "trans": [
+      "v.t. 走（道路）；拿；乘（车、船等）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-009",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "走（道路）；拿；乘（车、船等）",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": "音标: [prɑ̃dr]",
+    "phonetic": "[prɑ̃dr]"
+  },
+  {
+    "name": "premier, ère",
+    "trans": [
+      "adj. / n. 第一的；第一个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-010",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "第一的；第一个",
+    "sourceTags": [
+      "adj. / n."
+    ],
+    "sourceNotes": "音标: [prəmje, ɛr]",
+    "phonetic": "[prəmje, ɛr]"
+  },
+  {
+    "name": "gauche",
+    "trans": [
+      "adj. / n.f. 左的，左边的；左，左边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-011",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "左的，左边的；左，左边",
+    "sourceTags": [
+      "adj. / n.f."
+    ],
+    "sourceNotes": "音标: [goʃ]",
+    "phonetic": "[goʃ]"
+  },
+  {
+    "name": "beaucoup",
+    "trans": [
+      "adv. 很，非常"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-012",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "很，非常",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [boku]",
+    "phonetic": "[boku]"
+  },
+  {
+    "name": "ici",
+    "trans": [
+      "adv. 这儿，这里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-013",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "这儿，这里",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [isi]",
+    "phonetic": "[isi]"
+  },
+  {
+    "name": "près",
+    "trans": [
+      "adv. 近，附近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-014",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "近，附近",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [prɛ]",
+    "phonetic": "[prɛ]"
+  },
+  {
+    "name": "près de",
+    "trans": [
+      "靠近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-015",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "靠近",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "que",
+    "trans": [
+      "pron.interr. 什么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-016",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "什么",
+    "sourceTags": [
+      "pron.interr."
+    ],
+    "sourceNotes": "音标: [kə]",
+    "phonetic": "[kə]"
+  },
+  {
+    "name": "tourner",
+    "trans": [
+      "v.i. 拐弯，转向"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-017",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "拐弯，转向",
+    "sourceTags": [
+      "v.i."
+    ],
+    "sourceNotes": "音标: [turne]",
+    "phonetic": "[turne]"
+  },
+  {
+    "name": "droite",
+    "trans": [
+      "adj. / n.f. 右的，右边的；右，右边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-018",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "右的，右边的；右，右边",
+    "sourceTags": [
+      "adj. / n.f."
+    ],
+    "sourceNotes": "音标: [drwat]",
+    "phonetic": "[drwat]"
+  },
+  {
+    "name": "loin",
+    "trans": [
+      "adv. 远"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-019",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "远",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [lwɛ̃]",
+    "phonetic": "[lwɛ̃]"
+  },
+  {
+    "name": "bus",
+    "trans": [
+      "n.m. 公共汽车；autobus 的缩写形式"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-020",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "公共汽车；autobus 的缩写形式",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [bys]",
+    "phonetic": "[bys]"
+  },
+  {
+    "name": "ou",
+    "trans": [
+      "conj. 或者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-021",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "或者",
+    "sourceTags": [
+      "conj."
+    ],
+    "sourceNotes": "音标: [u]",
+    "phonetic": "[u]"
+  },
+  {
+    "name": "pied",
+    "trans": [
+      "n.m. 脚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-022",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "脚",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [pje]",
+    "phonetic": "[pje]"
+  },
+  {
+    "name": "minute",
+    "trans": [
+      "n.f. 分，分钟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-023",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "分，分钟",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": "音标: [minyt]",
+    "phonetic": "[minyt]"
+  },
+  {
+    "name": "libre",
+    "trans": [
+      "adj. 有空的；自由的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-024",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "有空的；自由的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": "音标: [libr]",
+    "phonetic": "[libr]"
+  },
+  {
+    "name": "demain",
+    "trans": [
+      "adv. / n.m. 明天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-025",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "明天",
+    "sourceTags": [
+      "adv. / n.m."
+    ],
+    "sourceNotes": "音标: [dəmɛ̃]",
+    "phonetic": "[dəmɛ̃]"
+  },
+  {
+    "name": "devoir",
+    "trans": [
+      "v.t. / n.m.pl. 应该，必须；作业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-026",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "应该，必须；作业",
+    "sourceTags": [
+      "v.t. / n.m.pl."
+    ],
+    "sourceNotes": "音标: [dəvwar]",
+    "phonetic": "[dəvwar]"
+  },
+  {
+    "name": "maintenant",
+    "trans": [
+      "adv. 现在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-027",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "现在",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [mɛ̃tnɑ̃]",
+    "phonetic": "[mɛ̃tnɑ̃]"
+  },
+  {
+    "name": "concert",
+    "trans": [
+      "n.m. 音乐会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-028",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "音乐会",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [kɔ̃sɛr]",
+    "phonetic": "[kɔ̃sɛr]"
+  },
+  {
+    "name": "soir",
+    "trans": [
+      "n.m. 晚上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-029",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "晚上",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [swar]",
+    "phonetic": "[swar]"
+  },
+  {
+    "name": "vouloir",
+    "trans": [
+      "v.t. 想，愿意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-030",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "想，愿意",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": "音标: [vulwa:r]",
+    "phonetic": "[vulwa:r]"
+  },
+  {
+    "name": "partir",
+    "trans": [
+      "v.i. 动身，出发"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-031",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "动身，出发",
+    "sourceTags": [
+      "v.i."
+    ],
+    "sourceNotes": "音标: [partir]",
+    "phonetic": "[partir]"
+  },
+  {
+    "name": "avoir",
+    "trans": [
+      "v.t. 有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-032",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "有",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": "音标: [avwar]",
+    "phonetic": "[avwar]"
+  },
+  {
+    "name": "rendez-vous",
+    "trans": [
+      "n.m. 约会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-033",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "约会",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [rɑ̃devu]",
+    "phonetic": "[rɑ̃devu]"
+  },
+  {
+    "name": "mon",
+    "trans": [
+      "adj.poss. 我的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-034",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "我的",
+    "sourceTags": [
+      "adj.poss."
+    ],
+    "sourceNotes": "音标: [mɔ̃]",
+    "phonetic": "[mɔ̃]"
+  },
+  {
+    "name": "ce (cet), cette, ces",
+    "trans": [
+      "adj.dém. 这，这个；这些"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-035",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "这，这个；这些",
+    "sourceTags": [
+      "adj.dém."
+    ],
+    "sourceNotes": "音标: [sə, sɛt, se]",
+    "phonetic": "[sə, sɛt, se]"
+  },
+  {
+    "name": "après-midi",
+    "trans": [
+      "n.m. / n.f.inv. 下午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-036",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "下午",
+    "sourceTags": [
+      "n.m. / n.f.inv."
+    ],
+    "sourceNotes": "音标: [aprɛmidi]",
+    "phonetic": "[aprɛmidi]"
+  },
+  {
+    "name": "aujourd’hui",
+    "trans": [
+      "adv. / n.m. 今天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-037",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "今天",
+    "sourceTags": [
+      "adv. / n.m."
+    ],
+    "sourceNotes": "音标: [oʒurdɥi]",
+    "phonetic": "[oʒurdɥi]"
+  },
+  {
+    "name": "occupé, e",
+    "trans": [
+      "adj. 忙的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U03-038",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "忙的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": "音标: [ɔkype]",
+    "phonetic": "[ɔkype]"
+  }
+]

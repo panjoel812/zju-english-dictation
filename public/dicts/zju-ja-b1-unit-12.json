@@ -1,0 +1,615 @@
+[
+  {
+    "name": "きせつ（季節）",
+    "trans": [
+      "名 季节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-001",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "季节",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きせつ",
+      "季節"
+    ],
+    "speech": "きせつ"
+  },
+  {
+    "name": "ふゆ（冬）",
+    "trans": [
+      "名 冬天，冬季"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-002",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "冬天，冬季",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふゆ",
+      "冬"
+    ],
+    "speech": "ふゆ"
+  },
+  {
+    "name": "はる（春）",
+    "trans": [
+      "名 春天，春季"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-003",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "春天，春季",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はる",
+      "春"
+    ],
+    "speech": "はる"
+  },
+  {
+    "name": "にほんりょうり（日本料理）",
+    "trans": [
+      "名 日式饭菜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-004",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "日式饭菜",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にほんりょうり",
+      "日本料理"
+    ],
+    "speech": "にほんりょうり"
+  },
+  {
+    "name": "すし（寿司）",
+    "trans": [
+      "名 寿司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-005",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "寿司",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すし",
+      "寿司"
+    ],
+    "speech": "すし"
+  },
+  {
+    "name": "ナシ",
+    "trans": [
+      "名 梨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-006",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "梨",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "バナナ",
+    "trans": [
+      "名 香蕉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-007",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "香蕉",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ミカン",
+    "trans": [
+      "名 橘子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-008",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "橘子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しょうちゅう（焼酎）",
+    "trans": [
+      "名 烧酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-009",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "烧酒",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょうちゅう",
+      "焼酎"
+    ],
+    "speech": "しょうちゅう"
+  },
+  {
+    "name": "にほんしゅ（日本酒）",
+    "trans": [
+      "名 日本酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-010",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "日本酒",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にほんしゅ",
+      "日本酒"
+    ],
+    "speech": "にほんしゅ"
+  },
+  {
+    "name": "こうちゃ（紅茶）",
+    "trans": [
+      "名 红茶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-011",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "红茶",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうちゃ",
+      "紅茶"
+    ],
+    "speech": "こうちゃ"
+  },
+  {
+    "name": "ウーロンちゃ（ウーロン茶）",
+    "trans": [
+      "名 乌龙茶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-012",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "乌龙茶",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ウーロンちゃ",
+      "ウーロン茶"
+    ],
+    "speech": "ウーロンちゃ"
+  },
+  {
+    "name": "ジャスミンちゃ（ジャスミン茶）",
+    "trans": [
+      "名 茉莉花茶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-013",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "茉莉花茶",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ジャスミンちゃ",
+      "ジャスミン茶"
+    ],
+    "speech": "ジャスミンちゃ"
+  },
+  {
+    "name": "りょくちゃ（緑茶）",
+    "trans": [
+      "名 绿茶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-014",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "绿茶",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りょくちゃ",
+      "緑茶"
+    ],
+    "speech": "りょくちゃ"
+  },
+  {
+    "name": "ジュース",
+    "trans": [
+      "名 果汁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-015",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "果汁",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "にんき（人気）",
+    "trans": [
+      "名 声望，受欢迎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-016",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "声望，受欢迎",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にんき",
+      "人気"
+    ],
+    "speech": "にんき"
+  },
+  {
+    "name": "せき（席）",
+    "trans": [
+      "名 座位，席位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-017",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "座位，席位",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せき",
+      "席"
+    ],
+    "speech": "せき"
+  },
+  {
+    "name": "クラス",
+    "trans": [
+      "名 班级"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-018",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "班级",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しゅるい（種類）",
+    "trans": [
+      "名 种类"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-019",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "种类",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅるい",
+      "種類"
+    ],
+    "speech": "しゅるい"
+  },
+  {
+    "name": "せ（背）",
+    "trans": [
+      "名 个子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-020",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "个子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せ",
+      "背"
+    ],
+    "speech": "せ"
+  },
+  {
+    "name": "あに（兄）",
+    "trans": [
+      "名 哥哥，兄长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-021",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "哥哥，兄长",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あに",
+      "兄"
+    ],
+    "speech": "あに"
+  },
+  {
+    "name": "さいきん（最近）",
+    "trans": [
+      "名 最近，近来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-022",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "最近，近来",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さいきん",
+      "最近"
+    ],
+    "speech": "さいきん"
+  },
+  {
+    "name": "ふります（降ります）",
+    "trans": [
+      "动1 下（雨，雪），降（雨，雪）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-023",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "下（雨，雪），降（雨，雪）",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふります",
+      "降ります"
+    ],
+    "speech": "ふります"
+  },
+  {
+    "name": "わかい（若い）",
+    "trans": [
+      "形1 年轻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-024",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "年轻",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "わかい",
+      "若い"
+    ],
+    "speech": "わかい"
+  },
+  {
+    "name": "あたたかい（暖かい）",
+    "trans": [
+      "形1 暖和，温暖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-025",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "暖和，温暖",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あたたかい",
+      "暖かい"
+    ],
+    "speech": "あたたかい"
+  },
+  {
+    "name": "すずしい（涼しい）",
+    "trans": [
+      "形1 凉爽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-026",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "凉爽",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すずしい",
+      "涼しい"
+    ],
+    "speech": "すずしい"
+  },
+  {
+    "name": "はやい（速い）",
+    "trans": [
+      "形1 快"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-027",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "快",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はやい",
+      "速い"
+    ],
+    "speech": "はやい"
+  },
+  {
+    "name": "だいすき（大好き）",
+    "trans": [
+      "形2 非常喜欢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-028",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "非常喜欢",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "だいすき",
+      "大好き"
+    ],
+    "speech": "だいすき"
+  },
+  {
+    "name": "いちばん",
+    "trans": [
+      "副 最，第一"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-029",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "最，第一",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ずっと",
+    "trans": [
+      "副 ～得多"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-030",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "～得多",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "やはり∕やっぱり",
+    "trans": [
+      "副 仍然，还是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-031",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "仍然，还是",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "エベレスト",
+    "trans": [
+      "专 珠穆朗玛峰"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-032",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "珠穆朗玛峰",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "にんきがあります（人気があります）",
+    "trans": [
+      "受欢迎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U12-033",
+    "sourceSheet": "B1U12",
+    "sourceMeaning": "受欢迎",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にんきがあります",
+      "人気があります"
+    ],
+    "speech": "にんきがあります"
+  }
+]

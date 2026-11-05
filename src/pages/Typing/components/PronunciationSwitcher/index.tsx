@@ -4,6 +4,7 @@ import { currentDictInfoAtom, phoneticConfigAtom, pronunciationConfigAtom } from
 import type { PronunciationType } from '@/typings'
 import { PRONUNCIATION_PHONETIC_MAP } from '@/typings'
 import { CTRL } from '@/utils'
+import { autoUpdate, flip, offset, shift, useFloating } from '@floating-ui/react'
 import { Listbox, Popover, Switch, Transition } from '@headlessui/react'
 import { useAtom, useAtomValue } from 'jotai'
 import { Fragment, useCallback, useEffect, useMemo } from 'react'
@@ -11,6 +12,12 @@ import IconCheck from '~icons/tabler/check'
 import IconChevronDown from '~icons/tabler/chevron-down'
 
 const PronunciationSwitcher = () => {
+  const { x, y, strategy, refs } = useFloating({
+    placement: 'bottom',
+    strategy: 'fixed',
+    middleware: [offset(8), flip(), shift({ padding: 12 })],
+    whileElementsMounted: autoUpdate,
+  })
   const currentDictInfo = useAtomValue(currentDictInfoAtom)
   const [pronunciationConfig, setPronunciationConfig] = useAtom(pronunciationConfigAtom)
   const [phoneticConfig, setPhoneticConfig] = useAtom(phoneticConfigAtom)
@@ -109,12 +116,9 @@ const PronunciationSwitcher = () => {
       {({ open }) => (
         <>
           <Popover.Button
-            className={`flex h-8 min-w-max cursor-pointer items-center justify-center rounded-md px-1 transition-colors duration-300 ease-in-out hover:bg-indigo-400 hover:text-white focus:outline-none dark:text-white dark:text-opacity-60 dark:hover:text-opacity-100  ${
-              open ? 'bg-indigo-400 text-white' : 'bg-transparent'
-            }`}
-            onFocus={(e) => {
-              e.target.blur()
-            }}
+            ref={refs.setReference}
+            className={`toolbar-button w-auto min-w-[60px] px-3 text-sm ${open ? 'bg-indigo-50 dark:bg-gray-700' : ''}`}
+            aria-label="发音及音标切换"
           >
             <Tooltip content="发音及音标切换">{currentLabel}</Tooltip>
           </Popover.Button>
@@ -128,7 +132,7 @@ const PronunciationSwitcher = () => {
             leaveFrom="opacity-100 translate-y-0"
             leaveTo="opacity-0 translate-y-1"
           >
-            <Popover.Panel className="absolute left-1/2 z-20 mt-2 flex max-w-max -translate-x-1/2 px-4 ">
+            <Popover.Panel ref={refs.setFloating} style={{ position: strategy, top: y ?? 0, left: x ?? 0 }} className="z-40 flex max-w-max">
               <div className="shadow-upper box-border flex w-60 select-none flex-col items-center justify-center gap-4 rounded-xl bg-white p-4 drop-shadow transition duration-1000 ease-in-out dark:bg-gray-800">
                 <div className="flex w-full  flex-col  items-start gap-2 py-0">
                   <span className="text-sm font-normal leading-5 text-gray-900 dark:text-white dark:text-opacity-60">开关音标显示</span>

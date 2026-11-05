@@ -1,0 +1,806 @@
+[
+  {
+    "name": "ボート",
+    "trans": [
+      "名 小船，小艇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-001",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "小船，小艇",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ベンチ",
+    "trans": [
+      "名 长椅，长凳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-002",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "长椅，长凳",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しやくしょ（市役所）",
+    "trans": [
+      "名 市政府"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-003",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "市政府",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しやくしょ",
+      "市役所"
+    ],
+    "speech": "しやくしょ"
+  },
+  {
+    "name": "けいたいでんわ（携帯電話）",
+    "trans": [
+      "名 手机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-004",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "手机",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けいたいでんわ",
+      "携帯電話"
+    ],
+    "speech": "けいたいでんわ"
+  },
+  {
+    "name": "きんえん（禁煙）",
+    "trans": [
+      "名 禁止吸烟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-005",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "禁止吸烟",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きんえん",
+      "禁煙"
+    ],
+    "speech": "きんえん"
+  },
+  {
+    "name": "かぜ（風邪）",
+    "trans": [
+      "名 感冒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-006",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "感冒",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かぜ",
+      "風邪"
+    ],
+    "speech": "かぜ"
+  },
+  {
+    "name": "ねつ（熱）",
+    "trans": [
+      "名 发烧，体温"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-007",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "发烧，体温",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ねつ",
+      "熱"
+    ],
+    "speech": "ねつ"
+  },
+  {
+    "name": "すいみん（睡眠）",
+    "trans": [
+      "名 睡眠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-008",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "睡眠",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すいみん",
+      "睡眠"
+    ],
+    "speech": "すいみん"
+  },
+  {
+    "name": "おふろ（お風呂）",
+    "trans": [
+      "名 澡堂，浴室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-009",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "澡堂，浴室",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おふろ",
+      "お風呂"
+    ],
+    "speech": "おふろ"
+  },
+  {
+    "name": "やっきょく（薬局）",
+    "trans": [
+      "名 药店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-010",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "药店",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やっきょく",
+      "薬局"
+    ],
+    "speech": "やっきょく"
+  },
+  {
+    "name": "クーラー",
+    "trans": [
+      "名 空调"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-011",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "空调",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ひ（火）",
+    "trans": [
+      "名 火"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-012",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "火",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひ",
+      "火"
+    ],
+    "speech": "ひ"
+  },
+  {
+    "name": "き（気）",
+    "trans": [
+      "名 精神，意识"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-013",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "精神，意识",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "き",
+      "気"
+    ],
+    "speech": "き"
+  },
+  {
+    "name": "うちあわせ（打ち合わせ）",
+    "trans": [
+      "名 事先商量，碰头，商洽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-014",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "事先商量，碰头，商洽",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うちあわせ",
+      "打ち合わせ"
+    ],
+    "speech": "うちあわせ"
+  },
+  {
+    "name": "むり（無理）",
+    "trans": [
+      "名 勉强，难以办到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-015",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "勉强，难以办到",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "むり",
+      "無理"
+    ],
+    "speech": "むり"
+  },
+  {
+    "name": "ちゅうしゃきんし（駐車禁止）",
+    "trans": [
+      "名 禁止停车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-016",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "禁止停车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちゅうしゃきんし",
+      "駐車禁止"
+    ],
+    "speech": "ちゅうしゃきんし"
+  },
+  {
+    "name": "たちいりきんし（立入禁止）",
+    "trans": [
+      "名 禁止进入"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-017",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "禁止进入",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たちいりきんし",
+      "立入禁止"
+    ],
+    "speech": "たちいりきんし"
+  },
+  {
+    "name": "かきげんきん（火気厳禁）",
+    "trans": [
+      "名 严禁烟火"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-018",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "严禁烟火",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かきげんきん",
+      "火気厳禁"
+    ],
+    "speech": "かきげんきん"
+  },
+  {
+    "name": "さつえいきんし（撮影禁止）",
+    "trans": [
+      "名 禁止拍照"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-019",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "禁止拍照",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さつえいきんし",
+      "撮影禁止"
+    ],
+    "speech": "さつえいきんし"
+  },
+  {
+    "name": "のります（乗ります）",
+    "trans": [
+      "动1 乘坐，乘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-020",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "乘坐，乘",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "のります",
+      "乗ります"
+    ],
+    "speech": "のります"
+  },
+  {
+    "name": "つかいます（使います）",
+    "trans": [
+      "动1 用，使用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-021",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "用，使用",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つかいます",
+      "使います"
+    ],
+    "speech": "つかいます"
+  },
+  {
+    "name": "すわります（座ります）",
+    "trans": [
+      "动1 坐，落座"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-022",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "坐，落座",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すわります",
+      "座ります"
+    ],
+    "speech": "すわります"
+  },
+  {
+    "name": "はいります（入ります）",
+    "trans": [
+      "动1 进入，加入"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-023",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "进入，加入",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はいります",
+      "入ります"
+    ],
+    "speech": "はいります"
+  },
+  {
+    "name": "もうします（申します）",
+    "trans": [
+      "动1 是，说，讲，告诉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-024",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "是，说，讲，告诉",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "もうします",
+      "申します"
+    ],
+    "speech": "もうします"
+  },
+  {
+    "name": "とります",
+    "trans": [
+      "动1 取，取得"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-025",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "取，取得",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "うたいます（歌います）",
+    "trans": [
+      "动1 唱，歌唱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-026",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "唱，歌唱",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うたいます",
+      "歌います"
+    ],
+    "speech": "うたいます"
+  },
+  {
+    "name": "つたえます（伝えます）",
+    "trans": [
+      "动2 说，传达，转告"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-027",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "说，传达，转告",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つたえます",
+      "伝えます"
+    ],
+    "speech": "つたえます"
+  },
+  {
+    "name": "とめます（止めます）",
+    "trans": [
+      "动2 停，制止"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-028",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "停，制止",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とめます",
+      "止めます"
+    ],
+    "speech": "とめます"
+  },
+  {
+    "name": "あたたかい（暖かい）",
+    "trans": [
+      "形1 热乎，温暖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-029",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "热乎，温暖",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あたたかい",
+      "暖かい"
+    ],
+    "speech": "あたたかい"
+  },
+  {
+    "name": "だいじょうぶ（大丈夫）",
+    "trans": [
+      "形2 没关系，放心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-030",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "没关系，放心",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "だいじょうぶ",
+      "大丈夫"
+    ],
+    "speech": "だいじょうぶ"
+  },
+  {
+    "name": "だめ",
+    "trans": [
+      "形2 不行，不可以"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-031",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "不行，不可以",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "じゅうぶん（十分）",
+    "trans": [
+      "副 好好地，充足地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-032",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "好好地，充足地",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じゅうぶん",
+      "十分"
+    ],
+    "speech": "じゅうぶん"
+  },
+  {
+    "name": "もちろん",
+    "trans": [
+      "副 当然，不用说"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-033",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "当然，不用说",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ゆっくり",
+    "trans": [
+      "副 好好地，安静地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-034",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "好好地，安静地",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "もしもし",
+    "trans": [
+      "叹 喂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-035",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "喂",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "いえ",
+    "trans": [
+      "叹 不，不是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-036",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "不，不是",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おだいじに（お大事に）",
+    "trans": [
+      "请多保重"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-037",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "请多保重",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おだいじに",
+      "お大事に"
+    ],
+    "speech": "おだいじに"
+  },
+  {
+    "name": "いけません",
+    "trans": [
+      "不行，不可以"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-038",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "不行，不可以",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かまいません",
+    "trans": [
+      "没关系，不要紧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-039",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "没关系，不要紧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "まだです",
+    "trans": [
+      "还没有，仍然……没有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-040",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "还没有，仍然……没有",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "きをつけます（気をつけます）",
+    "trans": [
+      "注意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-041",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "注意",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きをつけます",
+      "気をつけます"
+    ],
+    "speech": "きをつけます"
+  },
+  {
+    "name": "むりをします（無理をします）",
+    "trans": [
+      "勉强"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-042",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "勉强",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "むりをします",
+      "無理をします"
+    ],
+    "speech": "むりをします"
+  },
+  {
+    "name": "すいみんをとります（睡眠をとります）",
+    "trans": [
+      "睡觉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-043",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "睡觉",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すいみんをとります",
+      "睡眠をとります"
+    ],
+    "speech": "すいみんをとります"
+  },
+  {
+    "name": "おふろにはいります（お風呂にはいります）",
+    "trans": [
+      "洗澡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U15-044",
+    "sourceSheet": "B1U15",
+    "sourceMeaning": "洗澡",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おふろにはいります",
+      "お風呂にはいります"
+    ],
+    "speech": "おふろにはいります"
+  }
+]

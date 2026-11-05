@@ -1,0 +1,958 @@
+[
+  {
+    "name": "けいざい（経済）",
+    "trans": [
+      "名 经济"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-001",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "经济",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けいざい",
+      "経済"
+    ],
+    "speech": "けいざい"
+  },
+  {
+    "name": "こくさいかんけいがく（国際関係学）",
+    "trans": [
+      "名 国际关系学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-002",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "国际关系学",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こくさいかんけいがく",
+      "国際関係学"
+    ],
+    "speech": "こくさいかんけいがく"
+  },
+  {
+    "name": "おおぜい（大勢）",
+    "trans": [
+      "名 许多，众多"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-003",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "许多，众多",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おおぜい",
+      "大勢"
+    ],
+    "speech": "おおぜい"
+  },
+  {
+    "name": "こうこう（高校）",
+    "trans": [
+      "名 高中"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-004",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "高中",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうこう",
+      "高校"
+    ],
+    "speech": "こうこう"
+  },
+  {
+    "name": "にっき（日記）",
+    "trans": [
+      "名 日记"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-005",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "日记",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にっき",
+      "日記"
+    ],
+    "speech": "にっき"
+  },
+  {
+    "name": "きょうし（教師）",
+    "trans": [
+      "名 教师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-006",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "教师",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きょうし",
+      "教師"
+    ],
+    "speech": "きょうし"
+  },
+  {
+    "name": "おとしより（お年寄り）",
+    "trans": [
+      "名 老年人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-007",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "老年人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おとしより",
+      "お年寄り"
+    ],
+    "speech": "おとしより"
+  },
+  {
+    "name": "ラジオたいそう（ラジオ体操）",
+    "trans": [
+      "名 广播体操"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-008",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "广播体操",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ラジオたいそう",
+      "ラジオ体操"
+    ],
+    "speech": "ラジオたいそう"
+  },
+  {
+    "name": "しゃこうダンス（社交ダンス）",
+    "trans": [
+      "名 交际舞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-009",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "交际舞",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゃこうダンス",
+      "社交ダンス"
+    ],
+    "speech": "しゃこうダンス"
+  },
+  {
+    "name": "たっきゅう（卓球）",
+    "trans": [
+      "名 乒乓球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-010",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "乒乓球",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たっきゅう",
+      "卓球"
+    ],
+    "speech": "たっきゅう"
+  },
+  {
+    "name": "バスケットボール",
+    "trans": [
+      "名 篮球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-011",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "篮球",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "スポーツセンター",
+    "trans": [
+      "名 体育中心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-012",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "体育中心",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "にゅうえんりょう（入園料）",
+    "trans": [
+      "名 门票，入园费"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-013",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "门票，入园费",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にゅうえんりょう",
+      "入園料"
+    ],
+    "speech": "にゅうえんりょう"
+  },
+  {
+    "name": "ゆうりょう（有料）",
+    "trans": [
+      "名 收费"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-014",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "收费",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ゆうりょう",
+      "有料"
+    ],
+    "speech": "ゆうりょう"
+  },
+  {
+    "name": "しょう（賞）",
+    "trans": [
+      "名 奖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-015",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "奖",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょう",
+      "賞"
+    ],
+    "speech": "しょう"
+  },
+  {
+    "name": "きょく（曲）",
+    "trans": [
+      "名 乐曲，歌曲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-016",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "乐曲，歌曲",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きょく",
+      "曲"
+    ],
+    "speech": "きょく"
+  },
+  {
+    "name": "し（詩）",
+    "trans": [
+      "名 诗歌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-017",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "诗歌",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "し",
+      "詩"
+    ],
+    "speech": "し"
+  },
+  {
+    "name": "しんごう（信号）",
+    "trans": [
+      "名 信号，红绿灯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-018",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "信号，红绿灯",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しんごう",
+      "信号"
+    ],
+    "speech": "しんごう"
+  },
+  {
+    "name": "はさみ",
+    "trans": [
+      "名 剪刀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-019",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "剪刀",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ぶひん（部品）",
+    "trans": [
+      "名 零部件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-020",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "零部件",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぶひん",
+      "部品"
+    ],
+    "speech": "ぶひん"
+  },
+  {
+    "name": "アルバイト",
+    "trans": [
+      "名 打工，副业，工读"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-021",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "打工，副业，工读",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "スピーチ",
+    "trans": [
+      "名 演说，演讲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-022",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "演说，演讲",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "グラフ",
+    "trans": [
+      "名 图表"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-023",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "图表",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "きかく（企画）",
+    "trans": [
+      "名 策划，计划"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-024",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "策划，计划",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きかく",
+      "企画"
+    ],
+    "speech": "きかく"
+  },
+  {
+    "name": "せつめい（説明）",
+    "trans": [
+      "名 说明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-025",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "说明",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せつめい",
+      "説明"
+    ],
+    "speech": "せつめい"
+  },
+  {
+    "name": "ごはん（ご飯）",
+    "trans": [
+      "名 饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-026",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "饭",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ごはん",
+      "ご飯"
+    ],
+    "speech": "ごはん"
+  },
+  {
+    "name": "さとう（砂糖）",
+    "trans": [
+      "名 砂糖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-027",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "砂糖",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さとう",
+      "砂糖"
+    ],
+    "speech": "さとう"
+  },
+  {
+    "name": "かいがいりょこう（海外旅行）",
+    "trans": [
+      "名 海外旅行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-028",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "海外旅行",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいがいりょこう",
+      "海外旅行"
+    ],
+    "speech": "かいがいりょこう"
+  },
+  {
+    "name": "こと",
+    "trans": [
+      "名 事情"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-029",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "事情",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おじいさん",
+    "trans": [
+      "代 爷爷；老大爷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-030",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "爷爷；老大爷",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おばあさん",
+    "trans": [
+      "代 奶奶；老奶奶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-031",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "奶奶；老奶奶",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あね（姉）",
+    "trans": [
+      "代 姐姐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-032",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "姐姐",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あね",
+      "姉"
+    ],
+    "speech": "あね"
+  },
+  {
+    "name": "かよいます（通います）",
+    "trans": [
+      "动1 上学，来往"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-033",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "上学，来往",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かよいます",
+      "通います"
+    ],
+    "speech": "かよいます"
+  },
+  {
+    "name": "あつまります（集まります）",
+    "trans": [
+      "动1 聚，集合"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-034",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "聚，集合",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あつまります",
+      "集まります"
+    ],
+    "speech": "あつまります"
+  },
+  {
+    "name": "おどります（踊ります）",
+    "trans": [
+      "动1 跳舞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-035",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "跳舞",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おどります",
+      "踊ります"
+    ],
+    "speech": "おどります"
+  },
+  {
+    "name": "いります（要ります）",
+    "trans": [
+      "动1 要"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-036",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "要",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いります",
+      "要ります"
+    ],
+    "speech": "いります"
+  },
+  {
+    "name": "こまります（困ります）",
+    "trans": [
+      "动1 为难，难办"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-037",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "为难，难办",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こまります",
+      "困ります"
+    ],
+    "speech": "こまります"
+  },
+  {
+    "name": "たたきます",
+    "trans": [
+      "动1 拍，敲，打"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-038",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "拍，敲，打",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "いれます（入れます）",
+    "trans": [
+      "动2 放入，放进"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-039",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "放入，放进",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いれます",
+      "入れます"
+    ],
+    "speech": "いれます"
+  },
+  {
+    "name": "かんびょうします（看病します）",
+    "trans": [
+      "动3 护理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-040",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "护理",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんびょうします",
+      "看病します"
+    ],
+    "speech": "かんびょうします"
+  },
+  {
+    "name": "けんかします",
+    "trans": [
+      "动3 吵架，打架"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-041",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "吵架，打架",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "りようします（利用します）",
+    "trans": [
+      "动3 利用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-042",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "利用",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りようします",
+      "利用します"
+    ],
+    "speech": "りようします"
+  },
+  {
+    "name": "そうだんします（そうだんします）",
+    "trans": [
+      "动3 商谈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-043",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "商谈",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "そうだんします"
+    ],
+    "speech": "そうだんします"
+  },
+  {
+    "name": "ほかに",
+    "trans": [
+      "副 另外"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-044",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "另外",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しばらく",
+    "trans": [
+      "副 许久，好久；片刻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-045",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "许久，好久；片刻",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "へえ",
+    "trans": [
+      "叹 哎，哎呀，哎哟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-046",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "哎，哎呀，哎哟",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "きのした（木下）",
+    "trans": [
+      "专 木下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-047",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "木下",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きのした",
+      "木下"
+    ],
+    "speech": "きのした"
+  },
+  {
+    "name": "たむら（田村）",
+    "trans": [
+      "专 田村"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-048",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "田村",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たむら",
+      "田村"
+    ],
+    "speech": "たむら"
+  },
+  {
+    "name": "このまえ（この前）",
+    "trans": [
+      "前几天，之前，最近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-049",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "前几天，之前，最近",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "このまえ",
+      "この前"
+    ],
+    "speech": "このまえ"
+  },
+  {
+    "name": "そういえば（そう言えば）",
+    "trans": [
+      "说起来，这么说来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-050",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "说起来，这么说来",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "そういえば",
+      "そう言えば"
+    ],
+    "speech": "そういえば"
+  },
+  {
+    "name": "きがつきます（気がつきます）",
+    "trans": [
+      "察觉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-051",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "察觉",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きがつきます",
+      "気がつきます"
+    ],
+    "speech": "きがつきます"
+  },
+  {
+    "name": "しばらくです",
+    "trans": [
+      "好久不见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U27-052",
+    "sourceSheet": "B1U27",
+    "sourceMeaning": "好久不见",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

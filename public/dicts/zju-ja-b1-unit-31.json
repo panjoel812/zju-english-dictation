@@ -1,0 +1,680 @@
+[
+  {
+    "name": "ボタン",
+    "trans": [
+      "名 按钮；纽扣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-001",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "按钮；纽扣",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ブローチ",
+    "trans": [
+      "名 胸针"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-002",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "胸针",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "カーテン",
+    "trans": [
+      "名 窗帘，帘子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-003",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "窗帘，帘子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "コンクリート",
+    "trans": [
+      "名 混凝土，水泥"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-004",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "混凝土，水泥",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "プラスチック",
+    "trans": [
+      "名 塑胶，塑料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-005",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "塑胶，塑料",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ひすい",
+    "trans": [
+      "名 翡翠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-006",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "翡翠",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "サービスセンター",
+    "trans": [
+      "名 维修服务中心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-007",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "维修服务中心",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かいいん（会員）",
+    "trans": [
+      "名 会员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-008",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "会员",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいいん",
+      "会員"
+    ],
+    "speech": "かいいん"
+  },
+  {
+    "name": "とくてん（特典）",
+    "trans": [
+      "名 优惠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-009",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "优惠",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とくてん",
+      "特典"
+    ],
+    "speech": "とくてん"
+  },
+  {
+    "name": "おてあらい（お手洗い）",
+    "trans": [
+      "名 洗手间，厕所"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-010",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "洗手间，厕所",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おてあらい",
+      "お手洗い"
+    ],
+    "speech": "おてあらい"
+  },
+  {
+    "name": "かいだん（階段）",
+    "trans": [
+      "名 楼梯，台阶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-011",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "楼梯，台阶",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいだん",
+      "階段"
+    ],
+    "speech": "かいだん"
+  },
+  {
+    "name": "いこう（以降）",
+    "trans": [
+      "名 以后"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-012",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "以后",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いこう",
+      "以降"
+    ],
+    "speech": "いこう"
+  },
+  {
+    "name": "そば",
+    "trans": [
+      "名 旁边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-013",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "旁边",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "たっきゅうだい（卓球台）",
+    "trans": [
+      "名 乒乓球桌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-014",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "乒乓球桌",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たっきゅうだい",
+      "卓球台"
+    ],
+    "speech": "たっきゅうだい"
+  },
+  {
+    "name": "サイズ",
+    "trans": [
+      "名 大小，尺寸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-015",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "大小，尺寸",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "にんげん（人間）",
+    "trans": [
+      "名 人，人类"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-016",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "人，人类",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にんげん",
+      "人間"
+    ],
+    "speech": "にんげん"
+  },
+  {
+    "name": "はくちょう（白鳥）",
+    "trans": [
+      "名 鹅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-017",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "鹅",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はくちょう",
+      "白鳥"
+    ],
+    "speech": "はくちょう"
+  },
+  {
+    "name": "でんげん（電源）",
+    "trans": [
+      "名 电源"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-018",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "电源",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "でんげん",
+      "電源"
+    ],
+    "speech": "でんげん"
+  },
+  {
+    "name": "スイカ",
+    "trans": [
+      "名 西瓜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-019",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "西瓜",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おします（押します）",
+    "trans": [
+      "动1 按，推，挤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-020",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "按，推，挤",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おします",
+      "押します"
+    ],
+    "speech": "おします"
+  },
+  {
+    "name": "つきます",
+    "trans": [
+      "动1 灯亮，灯开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-021",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "灯亮，灯开",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "さがります（下がります）",
+    "trans": [
+      "动1 下降，降低"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-022",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "下降，降低",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さがります",
+      "下がります"
+    ],
+    "speech": "さがります"
+  },
+  {
+    "name": "おこります（怒ります）",
+    "trans": [
+      "动1 生气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-023",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "生气",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おこります",
+      "怒ります"
+    ],
+    "speech": "おこります"
+  },
+  {
+    "name": "まわします（回します）",
+    "trans": [
+      "动1 转，传送，传递"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-024",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "转，传送，传递",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まわします",
+      "回します"
+    ],
+    "speech": "まわします"
+  },
+  {
+    "name": "うごきます（動きます）",
+    "trans": [
+      "动1 运转，转动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-025",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "运转，转动",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うごきます",
+      "動きます"
+    ],
+    "speech": "うごきます"
+  },
+  {
+    "name": "いきます（生きます）",
+    "trans": [
+      "动2 活，生存"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-026",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "活，生存",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いきます",
+      "生きます"
+    ],
+    "speech": "いきます"
+  },
+  {
+    "name": "おります（下ります）",
+    "trans": [
+      "动2 下，下来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-027",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "下，下来",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おります",
+      "下ります"
+    ],
+    "speech": "おります"
+  },
+  {
+    "name": "フリーズします",
+    "trans": [
+      "动3 死机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-028",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "死机",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "こしょうします（故障します）",
+    "trans": [
+      "动3 故障"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-029",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "故障",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こしょうします",
+      "故障します"
+    ],
+    "speech": "こしょうします"
+  },
+  {
+    "name": "うつくしい（美しい）",
+    "trans": [
+      "形1 美丽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-030",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "美丽",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うつくしい",
+      "美しい"
+    ],
+    "speech": "うつくしい"
+  },
+  {
+    "name": "うまい",
+    "trans": [
+      "形1 高明，好吃，可口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-031",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "高明，好吃，可口",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "くわしい（詳しい）",
+    "trans": [
+      "形1 详细"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-032",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "详细",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "くわしい",
+      "詳しい"
+    ],
+    "speech": "くわしい"
+  },
+  {
+    "name": "じゆう（自由）",
+    "trans": [
+      "形2 随便，自由"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-033",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "随便，自由",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じゆう",
+      "自由"
+    ],
+    "speech": "じゆう"
+  },
+  {
+    "name": "ていねい（丁寧）",
+    "trans": [
+      "形2 精心，细心，恭敬"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-034",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "精心，细心，恭敬",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ていねい",
+      "丁寧"
+    ],
+    "speech": "ていねい"
+  },
+  {
+    "name": "きちんと",
+    "trans": [
+      "副 好好地；正经地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-035",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "好好地；正经地",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ただし",
+    "trans": [
+      "连 不过，只是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-036",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "不过，只是",
+    "sourceTags": [
+      "连"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しかし",
+    "trans": [
+      "连 可是，但是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-037",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "可是，但是",
+    "sourceTags": [
+      "连"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "きもちわるい（気持ち悪い）",
+    "trans": [
+      "不舒服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U31-038",
+    "sourceSheet": "B1U31",
+    "sourceMeaning": "不舒服",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きもちわるい",
+      "気持ち悪い"
+    ],
+    "speech": "きもちわるい"
+  }
+]

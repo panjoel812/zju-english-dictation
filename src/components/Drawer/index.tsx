@@ -28,7 +28,7 @@ export default function Drawer(props: DrawerProps) {
 
   return (
     <Transition show={open} appear as={Fragment}>
-      <Dialog as="div" className="relative z-30" onClose={onCloseDrawer}>
+      <Dialog as="div" className="fixed inset-0 z-50" onClose={onCloseDrawer}>
         <Transition.Child
           as={Fragment}
           enter="ease-out duration-300"
@@ -55,7 +55,7 @@ export default function Drawer(props: DrawerProps) {
               className={classNames(
                 `${placement}-0`,
                 props.classNames || '',
-                'absolute flex h-full w-[35rem] flex-col drop-shadow-2xl transition-all duration-300 ease-out',
+                'absolute flex h-full w-full max-w-[35rem] flex-col drop-shadow-2xl transition-all duration-300 ease-out',
               )}
             >
               {children}

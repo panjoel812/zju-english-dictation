@@ -1,0 +1,696 @@
+[
+  {
+    "name": "おと（音）",
+    "trans": [
+      "名 声音，响声"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-001",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "声音，响声",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おと",
+      "音"
+    ],
+    "speech": "おと"
+  },
+  {
+    "name": "こえ（声）",
+    "trans": [
+      "名 声音"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-002",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "声音",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こえ",
+      "声"
+    ],
+    "speech": "こえ"
+  },
+  {
+    "name": "くうき（空気）",
+    "trans": [
+      "名 空气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-003",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "空气",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "くうき",
+      "空気"
+    ],
+    "speech": "くうき"
+  },
+  {
+    "name": "むすこ（息子）",
+    "trans": [
+      "名 儿子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-004",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "儿子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "むすこ",
+      "息子"
+    ],
+    "speech": "むすこ"
+  },
+  {
+    "name": "いしゃ（医者）",
+    "trans": [
+      "名 医生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-005",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "医生",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いしゃ",
+      "医者"
+    ],
+    "speech": "いしゃ"
+  },
+  {
+    "name": "おじょうさん（お嬢さん）",
+    "trans": [
+      "名 令爱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-006",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "令爱",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おじょうさん",
+      "お嬢さん"
+    ],
+    "speech": "おじょうさん"
+  },
+  {
+    "name": "しゃかいじん（社会人）",
+    "trans": [
+      "名 社会的一员，成人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-007",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "社会的一员，成人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゃかいじん",
+      "社会人"
+    ],
+    "speech": "しゃかいじん"
+  },
+  {
+    "name": "りょこうガイド（旅行ガイド）",
+    "trans": [
+      "名 旅行导游"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-008",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "旅行导游",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りょこうガイド",
+      "旅行ガイド"
+    ],
+    "speech": "りょこうガイド"
+  },
+  {
+    "name": "がくしゃ（学者）",
+    "trans": [
+      "名 学者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-009",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "学者",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "がくしゃ",
+      "学者"
+    ],
+    "speech": "がくしゃ"
+  },
+  {
+    "name": "パイロット",
+    "trans": [
+      "名 飞行员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-010",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "飞行员",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "デザイナー",
+    "trans": [
+      "名 设计者，设计家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-011",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "设计者，设计家",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "タイムサービス",
+    "trans": [
+      "名 时段廉价销售"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-012",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "时段廉价销售",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しんしゅんセール（新春セール）",
+    "trans": [
+      "名 新年大甩卖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-013",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "新年大甩卖",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しんしゅんセール",
+      "新春セール"
+    ],
+    "speech": "しんしゅんセール"
+  },
+  {
+    "name": "さんわりびき（３割引）",
+    "trans": [
+      "名 七折"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-014",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "七折",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さんわりびき",
+      "３割引"
+    ],
+    "speech": "さんわりびき"
+  },
+  {
+    "name": "でいか（定価）",
+    "trans": [
+      "名 定价"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-015",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "定价",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "でいか",
+      "定価"
+    ],
+    "speech": "でいか"
+  },
+  {
+    "name": "はんがく（半額）",
+    "trans": [
+      "名 半价"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-016",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "半价",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はんがく",
+      "半額"
+    ],
+    "speech": "はんがく"
+  },
+  {
+    "name": "ねだん（値段）",
+    "trans": [
+      "名 价格"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-017",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "价格",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ねだん",
+      "値段"
+    ],
+    "speech": "ねだん"
+  },
+  {
+    "name": "シャツ",
+    "trans": [
+      "名 衬衫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-018",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "衬衫",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "スカート",
+    "trans": [
+      "名 裙子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-019",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "裙子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "いろ（色）",
+    "trans": [
+      "名 颜色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-020",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "颜色",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いろ",
+      "色"
+    ],
+    "speech": "いろ"
+  },
+  {
+    "name": "あか（赤）",
+    "trans": [
+      "名 红色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-021",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "红色",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あか",
+      "赤"
+    ],
+    "speech": "あか"
+  },
+  {
+    "name": "あお（青）",
+    "trans": [
+      "名 蓝色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-022",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "蓝色",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あお",
+      "青"
+    ],
+    "speech": "あお"
+  },
+  {
+    "name": "おしょうがつ（お正月）",
+    "trans": [
+      "名 过年，新年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-023",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "过年，新年",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おしょうがつ",
+      "お正月"
+    ],
+    "speech": "おしょうがつ"
+  },
+  {
+    "name": "じかん（時間）",
+    "trans": [
+      "名 时间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-024",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "时间",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じかん",
+      "時間"
+    ],
+    "speech": "じかん"
+  },
+  {
+    "name": "しょうらい（将来）",
+    "trans": [
+      "名 将来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-025",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "将来",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょうらい",
+      "将来"
+    ],
+    "speech": "しょうらい"
+  },
+  {
+    "name": "じゅんび（準備）",
+    "trans": [
+      "名 准备"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-026",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "准备",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じゅんび",
+      "準備"
+    ],
+    "speech": "じゅんび"
+  },
+  {
+    "name": "びょうき（病気）",
+    "trans": [
+      "名 疾病"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-027",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "疾病",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "びょうき",
+      "病気"
+    ],
+    "speech": "びょうき"
+  },
+  {
+    "name": "なります",
+    "trans": [
+      "动1 变，当，变成，成为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-028",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "变，当，变成，成为",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あきます（開きます）",
+    "trans": [
+      "动1 开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-029",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "开",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あきます",
+      "開きます"
+    ],
+    "speech": "あきます"
+  },
+  {
+    "name": "にあいます（似合います）",
+    "trans": [
+      "动1 适合，相称"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-030",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "适合，相称",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にあいます",
+      "似合います"
+    ],
+    "speech": "にあいます"
+  },
+  {
+    "name": "うるさい",
+    "trans": [
+      "形1 闹，使人心烦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-031",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "闹，使人心烦",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "シンプル",
+    "trans": [
+      "形2 单纯，简洁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-032",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "单纯，简洁",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "まもなく（間もなく）",
+    "trans": [
+      "副 马上，一会儿，不久"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-033",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "马上，一会儿，不久",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まもなく",
+      "間もなく"
+    ],
+    "speech": "まもなく"
+  },
+  {
+    "name": "さらに∕もっと",
+    "trans": [
+      "副 更加，更"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-034",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "更加，更",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "さあ",
+    "trans": [
+      "叹 啊，喂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-035",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "啊，喂",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "でくるだけ",
+    "trans": [
+      "尽量，尽可能"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-036",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "尽量，尽可能",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "まとめて",
+    "trans": [
+      "一下子，一起，汇总，汇集"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-037",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "一下子，一起，汇总，汇集",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "いまから（今から）",
+    "trans": [
+      "从现在起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U18-038",
+    "sourceSheet": "B1U18",
+    "sourceMeaning": "从现在起",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いまから",
+      "今から"
+    ],
+    "speech": "いまから"
+  }
+]

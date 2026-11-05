@@ -1,16 +1,17 @@
 import { TypingContext, TypingStateActionType } from '../../store'
-import AdvancedSetting from './AdvancedSetting'
 import DataSetting from './DataSetting'
 import DictationSetting from './DictationSetting'
 import ReleaseNotes from './ReleaseNotes'
 import SoundSetting from './SoundSetting'
 import ViewSetting from '@/pages/Typing/components/Setting/ViewSetting'
 import { acknowledgeCurrentRelease, currentReleaseVersion, hasSeenCurrentRelease } from '@/resources/releases'
+import { randomConfigAtom } from '@/store'
+import { hasSeenPracticeGuide } from '@/utils/practiceGuide'
 import { Dialog, Tab, Transition } from '@headlessui/react'
 import classNames from 'classnames'
+import { useAtomValue } from 'jotai'
 import { Fragment, useContext, useEffect, useLayoutEffect, useRef, useState } from 'react'
 import IconEye from '~icons/heroicons/eye-solid'
-import IconAdjustmentsHorizontal from '~icons/tabler/adjustments-horizontal'
 import IconDatabaseCog from '~icons/tabler/database-cog'
 import IconEar from '~icons/tabler/ear'
 import IconLanguage from '~icons/tabler/language'
@@ -19,15 +20,17 @@ import IconX from '~icons/tabler/x'
 
 const tabs = [
   { label: '默写设置', Icon: IconLanguage, Component: DictationSetting },
-  { label: '音效设置', Icon: IconEar, Component: SoundSetting },
-  { label: '高级设置', Icon: IconAdjustmentsHorizontal, Component: AdvancedSetting },
+  { label: '发音音效', Icon: IconEar, Component: SoundSetting },
   { label: '显示设置', Icon: IconEye, Component: ViewSetting },
-  { label: '数据设置', Icon: IconDatabaseCog, Component: DataSetting },
+  { label: '数据管理', Icon: IconDatabaseCog, Component: DataSetting },
 ]
 
 export default function Setting() {
+  const random = useAtomValue(randomConfigAtom)
   const { state, dispatch } = useContext(TypingContext) ?? {}
-  const [view, setView] = useState<'settings' | 'release' | null>(() => (!state?.isTyping && !hasSeenCurrentRelease() ? 'release' : null))
+  const [view, setView] = useState<'settings' | 'release' | null>(() =>
+    !state?.isTyping && hasSeenPracticeGuide() && !hasSeenCurrentRelease() ? 'release' : null,
+  )
   const [fromSettings, setFromSettings] = useState(false)
   const titleRef = useRef<HTMLHeadingElement>(null)
   const isOpen = view !== null
@@ -78,10 +81,9 @@ export default function Setting() {
     <>
       <button
         type="button"
+        data-guide="settings"
         onClick={openModal}
-        className={`flex h-10 w-10 shrink-0 items-center justify-center rounded text-xl text-gray-500 transition-colors hover:bg-gray-100 hover:text-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-500 dark:text-gray-400 dark:hover:bg-gray-700 ${
-          isOpen ? 'bg-gray-100 dark:bg-gray-700' : ''
-        }`}
+        className={`toolbar-button text-gray-500 dark:text-gray-400 ${isOpen ? 'bg-gray-100 dark:bg-gray-700' : ''}`}
         title="打开设置对话框"
         aria-label="打开设置对话框"
       >
@@ -179,6 +181,16 @@ export default function Setting() {
                       </Tab.Group>
                       <div className="flex shrink-0 items-center justify-between border-t border-gray-100 px-4 py-2 text-sm dark:border-gray-700 sm:px-6">
                         <span className="text-gray-500 dark:text-gray-400">v{currentReleaseVersion}</span>
+                        <button
+                          type="button"
+                          className="rounded px-3 py-2 text-gray-500 hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-500 dark:text-gray-400 dark:hover:bg-gray-700"
+                          onClick={() => {
+                            setView(null)
+                            dispatch?.({ type: TypingStateActionType.REPEAT_CHAPTER, shouldShuffle: random.isOpen })
+                          }}
+                        >
+                          重新开始当前章节
+                        </button>
                         <button
                           type="button"
                           className="rounded px-3 py-2 text-indigo-600 hover:bg-indigo-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-500 dark:text-indigo-300 dark:hover:bg-gray-700"

@@ -1,0 +1,652 @@
+[
+  {
+    "name": "ようじ（用事）",
+    "trans": [
+      "名 事情"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-001",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "事情",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ようじ",
+      "用事"
+    ],
+    "speech": "ようじ"
+  },
+  {
+    "name": "たいかい（大会）",
+    "trans": [
+      "名 大会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-002",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "大会",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たいかい",
+      "大会"
+    ],
+    "speech": "たいかい"
+  },
+  {
+    "name": "きぼ（規模）",
+    "trans": [
+      "名 规模"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-003",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "规模",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きぼ",
+      "規模"
+    ],
+    "speech": "きぼ"
+  },
+  {
+    "name": "けいかく（計画）",
+    "trans": [
+      "名 计划"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-004",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "计划",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けいかく",
+      "計画"
+    ],
+    "speech": "けいかく"
+  },
+  {
+    "name": "きそく（規則）",
+    "trans": [
+      "名 规则"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-005",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "规则",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きそく",
+      "規則"
+    ],
+    "speech": "きそく"
+  },
+  {
+    "name": "ひよう（費用）",
+    "trans": [
+      "名 费用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-006",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "费用",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひよう",
+      "費用"
+    ],
+    "speech": "ひよう"
+  },
+  {
+    "name": "しお（塩）",
+    "trans": [
+      "名 盐，食盐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-007",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "盐，食盐",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しお",
+      "塩"
+    ],
+    "speech": "しお"
+  },
+  {
+    "name": "メダル",
+    "trans": [
+      "名 纪念章，奖牌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-008",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "纪念章，奖牌",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ソフト",
+    "trans": [
+      "名 软件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-009",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "软件",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かわ（川）",
+    "trans": [
+      "名 河，河流"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-010",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "河，河流",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かわ",
+      "川"
+    ],
+    "speech": "かわ"
+  },
+  {
+    "name": "てつどう（鉄道）",
+    "trans": [
+      "名 火车，铁路，铁道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-011",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "火车，铁路，铁道",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てつどう",
+      "鉄道"
+    ],
+    "speech": "てつどう"
+  },
+  {
+    "name": "ぜんちょう（全長）",
+    "trans": [
+      "名 全长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-012",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "全长",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぜんちょう",
+      "全長"
+    ],
+    "speech": "ぜんちょう"
+  },
+  {
+    "name": "ばんごう（番号）",
+    "trans": [
+      "名 号码，番号"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-013",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "号码，番号",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ばんごう",
+      "番号"
+    ],
+    "speech": "ばんごう"
+  },
+  {
+    "name": "たんい（単位）",
+    "trans": [
+      "名 计量单位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-014",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "计量单位",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たんい",
+      "単位"
+    ],
+    "speech": "たんい"
+  },
+  {
+    "name": "こさじ（小さじ）",
+    "trans": [
+      "名 小匙，小勺"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-015",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "小匙，小勺",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こさじ",
+      "小さじ"
+    ],
+    "speech": "こさじ"
+  },
+  {
+    "name": "ボリューム",
+    "trans": [
+      "名 音量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-016",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "音量",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ちょくつうれっしゃ（直通列車）",
+    "trans": [
+      "名 直达列车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-017",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "直达列车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちょくつうれっしゃ",
+      "直通列車"
+    ],
+    "speech": "ちょくつうれっしゃ"
+  },
+  {
+    "name": "せかいいさん（世界遺産）",
+    "trans": [
+      "名 世界遗产"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-018",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "世界遗产",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せかいいさん",
+      "世界遺産"
+    ],
+    "speech": "せかいいさん"
+  },
+  {
+    "name": "かんこうスポット（観光スポット）",
+    "trans": [
+      "名 旅游点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-019",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "旅游点",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんこうスポット",
+      "観光スポット"
+    ],
+    "speech": "かんこうスポット"
+  },
+  {
+    "name": "こえます（超えます）",
+    "trans": [
+      "动2 超过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-020",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "超过",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こえます",
+      "超えます"
+    ],
+    "speech": "こえます"
+  },
+  {
+    "name": "しゅつじょうします（出場します）",
+    "trans": [
+      "动3 参加，出场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-021",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "参加，出场",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅつじょうします",
+      "出場します"
+    ],
+    "speech": "しゅつじょうします"
+  },
+  {
+    "name": "つまみぐいします（つまみ食いします）",
+    "trans": [
+      "动3 偷吃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-022",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "偷吃",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つまみぐいします",
+      "つまみ食いします"
+    ],
+    "speech": "つまみぐいします"
+  },
+  {
+    "name": "かんさんします（換算します）",
+    "trans": [
+      "动3 换算"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-023",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "换算",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんさんします",
+      "換算します"
+    ],
+    "speech": "かんさんします"
+  },
+  {
+    "name": "ふくしゅうします（復習します）",
+    "trans": [
+      "动3 复习"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-024",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "复习",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふくしゅうします",
+      "復習します"
+    ],
+    "speech": "ふくしゅうします"
+  },
+  {
+    "name": "せいこうします（成功します）",
+    "trans": [
+      "动3 成功"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-025",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "成功",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せいこうします",
+      "成功します"
+    ],
+    "speech": "せいこうします"
+  },
+  {
+    "name": "よわい（弱い）",
+    "trans": [
+      "形1 弱，脆弱，柔弱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-026",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "弱，脆弱，柔弱",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "よわい",
+      "弱い"
+    ],
+    "speech": "よわい"
+  },
+  {
+    "name": "きびしい（厳しい）",
+    "trans": [
+      "形1 严厉，严格"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-027",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "严厉，严格",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きびしい",
+      "厳しい"
+    ],
+    "speech": "きびしい"
+  },
+  {
+    "name": "ぜいたく",
+    "trans": [
+      "形2 奢望，奢侈，过分"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-028",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "奢望，奢侈，过分",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "こっそり",
+    "trans": [
+      "副 偷偷地，悄悄地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-029",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "偷偷地，悄悄地",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "さすが",
+    "trans": [
+      "副 不愧是，果然"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-030",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "不愧是，果然",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "じっさいに（実際に）",
+    "trans": [
+      "副 实地，实际上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-031",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "实地，实际上",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じっさいに",
+      "実際に"
+    ],
+    "speech": "じっさいに"
+  },
+  {
+    "name": "とうだい（東大）",
+    "trans": [
+      "专 东大，东京大学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-032",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "东大，东京大学",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とうだい",
+      "東大"
+    ],
+    "speech": "とうだい"
+  },
+  {
+    "name": "はったつれい（八達嶺）",
+    "trans": [
+      "专 八达岭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-033",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "八达岭",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はったつれい",
+      "八達嶺"
+    ],
+    "speech": "はったつれい"
+  },
+  {
+    "name": "ペキンきたえき（北京北駅）",
+    "trans": [
+      "专 北京北站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U37-034",
+    "sourceSheet": "B1U37",
+    "sourceMeaning": "北京北站",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ペキンきたえき",
+      "北京北駅"
+    ],
+    "speech": "ペキンきたえき"
+  }
+]

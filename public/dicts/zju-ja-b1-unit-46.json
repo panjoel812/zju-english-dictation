@@ -1,0 +1,913 @@
+[
+  {
+    "name": "けがわ（毛皮）",
+    "trans": [
+      "名 毛皮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-001",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "毛皮",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けがわ",
+      "毛皮"
+    ],
+    "speech": "けがわ"
+  },
+  {
+    "name": "ほんもの（本物）",
+    "trans": [
+      "名 真货，真东西"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-002",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "真货，真东西",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほんもの",
+      "本物"
+    ],
+    "speech": "ほんもの"
+  },
+  {
+    "name": "がら（柄）",
+    "trans": [
+      "名 花纹，花样"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-003",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "花纹，花样",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "がら",
+      "柄"
+    ],
+    "speech": "がら"
+  },
+  {
+    "name": "レモン",
+    "trans": [
+      "名 柠檬"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-004",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "柠檬",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "みそしる（みそ汁）",
+    "trans": [
+      "名 酱汤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-005",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "酱汤",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みそしる",
+      "みそ汁"
+    ],
+    "speech": "みそしる"
+  },
+  {
+    "name": "おまつり（お祭り）",
+    "trans": [
+      "名 祭日，节日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-006",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "祭日，节日",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おまつり",
+      "お祭り"
+    ],
+    "speech": "おまつり"
+  },
+  {
+    "name": "オートバイ",
+    "trans": [
+      "名 摩托车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-007",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "摩托车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "インタビュー",
+    "trans": [
+      "名 采访"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-008",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "采访",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "プラン",
+    "trans": [
+      "名 计划"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-009",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "计划",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ずつう（頭痛）",
+    "trans": [
+      "名 头疼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-010",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "头疼",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ずつう",
+      "頭痛"
+    ],
+    "speech": "ずつう"
+  },
+  {
+    "name": "さむけ（寒気）",
+    "trans": [
+      "名 寒气，寒战"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-011",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "寒气，寒战",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さむけ",
+      "寒気"
+    ],
+    "speech": "さむけ"
+  },
+  {
+    "name": "はきけ（吐き気）",
+    "trans": [
+      "名 恶心，想要呕吐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-012",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "恶心，想要呕吐",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はきけ",
+      "吐き気"
+    ],
+    "speech": "はきけ"
+  },
+  {
+    "name": "かじ（家事）",
+    "trans": [
+      "名 家务活"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-013",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "家务活",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かじ",
+      "家事"
+    ],
+    "speech": "かじ"
+  },
+  {
+    "name": "めんせつ（面接）",
+    "trans": [
+      "名 面试"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-014",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "面试",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "めんせつ",
+      "面接"
+    ],
+    "speech": "めんせつ"
+  },
+  {
+    "name": "できごと（出来事）",
+    "trans": [
+      "名 事情，事件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-015",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "事情，事件",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "できごと",
+      "出来事"
+    ],
+    "speech": "できごと"
+  },
+  {
+    "name": "いけん（意見）",
+    "trans": [
+      "名 意见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-016",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "意见",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いけん",
+      "意見"
+    ],
+    "speech": "いけん"
+  },
+  {
+    "name": "かいせつ（開設）",
+    "trans": [
+      "名 开设"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-017",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "开设",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいせつ",
+      "開設"
+    ],
+    "speech": "かいせつ"
+  },
+  {
+    "name": "こうほち（候補地）",
+    "trans": [
+      "名 候选地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-018",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "候选地",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうほち",
+      "候補地"
+    ],
+    "speech": "こうほち"
+  },
+  {
+    "name": "まわり（周り）",
+    "trans": [
+      "名 一带，周围"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-019",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "一带，周围",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まわり",
+      "周り"
+    ],
+    "speech": "まわり"
+  },
+  {
+    "name": "あかるさ（明るさ）",
+    "trans": [
+      "名 明朗，快活"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-020",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "明朗，快活",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あかるさ",
+      "明るさ"
+    ],
+    "speech": "あかるさ"
+  },
+  {
+    "name": "におい",
+    "trans": [
+      "名 味道，气味"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-021",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "味道，气味",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "せっけん",
+    "trans": [
+      "名 肥皂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-022",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "肥皂",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "こうすい（香水）",
+    "trans": [
+      "名 香水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-023",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "香水",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうすい",
+      "香水"
+    ],
+    "speech": "こうすい"
+  },
+  {
+    "name": "ラン",
+    "trans": [
+      "名 兰花"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-024",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "兰花",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "すえ（末）",
+    "trans": [
+      "名 末尾，末了"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-025",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "末尾，末了",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すえ",
+      "末"
+    ],
+    "speech": "すえ"
+  },
+  {
+    "name": "はじめ（初め）",
+    "trans": [
+      "名 最初"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-026",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "最初",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はじめ",
+      "初め"
+    ],
+    "speech": "はじめ"
+  },
+  {
+    "name": "はんつき（半月）",
+    "trans": [
+      "名 半月，半个月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-027",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "半月，半个月",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はんつき",
+      "半月"
+    ],
+    "speech": "はんつき"
+  },
+  {
+    "name": "モデル",
+    "trans": [
+      "名 模特儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-028",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "模特儿",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "けいさつかん（警察官）",
+    "trans": [
+      "名 警察"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-029",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "警察",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けいさつかん",
+      "警察官"
+    ],
+    "speech": "けいさつかん"
+  },
+  {
+    "name": "おすもうさん（お相撲さん）",
+    "trans": [
+      "名 相扑选手"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-030",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "相扑选手",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おすもうさん",
+      "お相撲さん"
+    ],
+    "speech": "おすもうさん"
+  },
+  {
+    "name": "かぶきやくしゃ（歌舞伎役者）",
+    "trans": [
+      "名 歌舞伎演员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-031",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "歌舞伎演员",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かぶきやくしゃ",
+      "歌舞伎役者"
+    ],
+    "speech": "かぶきやくしゃ"
+  },
+  {
+    "name": "すいえいせんしゅ（水泳選手）",
+    "trans": [
+      "名 游泳选手"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-032",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "游泳选手",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すいえいせんしゅ",
+      "水泳選手"
+    ],
+    "speech": "すいえいせんしゅ"
+  },
+  {
+    "name": "すみます（済みます）",
+    "trans": [
+      "动1 结束，完了"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-033",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "结束，完了",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すみます",
+      "済みます"
+    ],
+    "speech": "すみます"
+  },
+  {
+    "name": "つもります（積もります）",
+    "trans": [
+      "动1 堆积；积攒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-034",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "堆积；积攒",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つもります",
+      "積もります"
+    ],
+    "speech": "つもります"
+  },
+  {
+    "name": "すごします（過ごします）",
+    "trans": [
+      "动1 度过；生活"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-035",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "度过；生活",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すごします",
+      "過ごします"
+    ],
+    "speech": "すごします"
+  },
+  {
+    "name": "ほほえみます",
+    "trans": [
+      "动1 微笑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-036",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "微笑",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "のばします（延ばします）",
+    "trans": [
+      "动1 延长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-037",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "延长",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "のばします",
+      "延ばします"
+    ],
+    "speech": "のばします"
+  },
+  {
+    "name": "すませます（済ませます）",
+    "trans": [
+      "动2 搞完，办完"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-038",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "搞完，办完",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すませます",
+      "済ませます"
+    ],
+    "speech": "すませます"
+  },
+  {
+    "name": "かれます（枯れます）",
+    "trans": [
+      "动2 枯萎；干燥"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-039",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "枯萎；干燥",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かれます",
+      "枯れます"
+    ],
+    "speech": "かれます"
+  },
+  {
+    "name": "はっそうします（発送します）",
+    "trans": [
+      "动3 发送，寄送"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-040",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "发送，寄送",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はっそうします",
+      "発送します"
+    ],
+    "speech": "はっそうします"
+  },
+  {
+    "name": "きんちょうします（緊張します）",
+    "trans": [
+      "动3 紧张"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-041",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "紧张",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きんちょうします",
+      "緊張します"
+    ],
+    "speech": "きんちょうします"
+  },
+  {
+    "name": "さわやか",
+    "trans": [
+      "形2 清爽，爽快"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-042",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "清爽，爽快",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "まるで",
+    "trans": [
+      "副 好像，就像"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-043",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "好像，就像",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "いかにも",
+    "trans": [
+      "副 典型的；实在；的确"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-044",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "典型的；实在；的确",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ワイタン（外灘）",
+    "trans": [
+      "专 外滩"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-045",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "外滩",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ワイタン",
+      "外灘"
+    ],
+    "speech": "ワイタン"
+  },
+  {
+    "name": "おきなわ（沖縄）",
+    "trans": [
+      "专 冲绳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-046",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "冲绳",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おきなわ",
+      "沖縄"
+    ],
+    "speech": "おきなわ"
+  },
+  {
+    "name": "ナンキンろ（南京路）",
+    "trans": [
+      "专 南京路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-047",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "南京路",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ナンキンろ",
+      "南京路"
+    ],
+    "speech": "ナンキンろ"
+  },
+  {
+    "name": "このごろ",
+    "trans": [
+      "最近，近来，最近时期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-048",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "最近，近来，最近时期",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "じむしょさがし（事務所探し）",
+    "trans": [
+      "寻找事务所"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U46-049",
+    "sourceSheet": "B1U46",
+    "sourceMeaning": "寻找事务所",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じむしょさがし",
+      "事務所探し"
+    ],
+    "speech": "じむしょさがし"
+  }
+]

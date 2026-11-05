@@ -1,0 +1,977 @@
+[
+  {
+    "name": "Persönlichkeit",
+    "trans": [
+      "个性，性格"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-001",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "个性，性格",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Aussehen",
+    "trans": [
+      "外貌，外表"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-002",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "外貌，外表",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Person",
+    "trans": [
+      "(单个的）人；人物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-003",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "(单个的）人；人物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beschreiben",
+    "trans": [
+      "描述，描写，描绘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-004",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "描述，描写，描绘",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lang",
+    "trans": [
+      "Adj. 长的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-005",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 长的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anzug",
+    "trans": [
+      "西装，西服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-006",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "西装，西服",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dunkel",
+    "trans": [
+      "Adj. 深色的，暗的，黑暗的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-007",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 深色的，暗的，黑暗的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kurz",
+    "trans": [
+      "Adj. 短的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-008",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 短的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "freundlich",
+    "trans": [
+      "Adj. 友好的，亲切的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-009",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 友好的，亲切的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "intelligent",
+    "trans": [
+      "Adj. 有才智的，聪敏的；明智的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-010",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 有才智的，聪敏的；明智的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "grau",
+    "trans": [
+      "Adj. 灰色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-011",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 灰色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "grün",
+    "trans": [
+      "Adj. 绿色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-012",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 绿色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "braun",
+    "trans": [
+      "Adj. 棕色的，褐色的，栗色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-013",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 棕色的，褐色的，栗色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gelb",
+    "trans": [
+      "Adj. 黄色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-014",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 黄色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kleid",
+    "trans": [
+      "连衣裙，女服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-015",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "连衣裙，女服",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wählen",
+    "trans": [
+      "选择，选举"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-016",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "选择，选举",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lieblingslehrer",
+    "trans": [
+      "喜爱的老师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-017",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "喜爱的老师",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geschichte",
+    "trans": [
+      "历史；故事，童话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-018",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "历史；故事，童话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufgeben",
+    "trans": [
+      "布置（作业等）；放弃，舍弃；邮寄，托办"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-019",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "布置（作业等）；放弃，舍弃；邮寄，托办",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hübsch",
+    "trans": [
+      "Adj. 漂亮的，美丽的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-020",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 漂亮的，美丽的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lustig",
+    "trans": [
+      "Adj. 有趣的，有幽默感的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-021",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 有趣的，有幽默感的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "geduldig",
+    "trans": [
+      "Adj. 有耐心的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-022",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 有耐心的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lösen",
+    "trans": [
+      "解决，解答"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-023",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "解决，解答",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zudem",
+    "trans": [
+      "Adv. 此外，除此之外"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-024",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adv. 此外，除此之外",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verlassen",
+    "trans": [
+      "信赖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-025",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "信赖",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hilfe",
+    "trans": [
+      "S. 帮助，救助"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-026",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "S. 帮助，救助",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Note",
+    "trans": [
+      "分数，成绩"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-027",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "分数，成绩",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "reden",
+    "trans": [
+      "谈，说"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-028",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "谈，说",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "glauben",
+    "trans": [
+      "认为，以为；相信"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-029",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "认为，以为；相信",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fach",
+    "trans": [
+      "专业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-030",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "专业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mensch",
+    "trans": [
+      "人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-031",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Witz",
+    "trans": [
+      "玩笑，笑话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-032",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "玩笑，笑话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Thema",
+    "trans": [
+      "题目，主题"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-033",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "题目，主题",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bierbauch",
+    "trans": [
+      "啤酒肚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-034",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "啤酒肚",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Erklärung",
+    "trans": [
+      "S. 解释"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-035",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "S. 解释",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geduld",
+    "trans": [
+      "耐心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-036",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "耐心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "langweilig",
+    "trans": [
+      "Adj. 无聊的，没意思的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-037",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 无聊的，没意思的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gerecht",
+    "trans": [
+      "Adj. 公正的，公平的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-038",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 公正的，公平的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "großzügig",
+    "trans": [
+      "Adj. 大方的，慷慨的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-039",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 大方的，慷慨的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mitbringen",
+    "trans": [
+      "带来，携带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-040",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "带来，携带",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Laune",
+    "trans": [
+      "情绪，心境"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-041",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "情绪，心境",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mehrere",
+    "trans": [
+      "Pron. 几个，多个，若干个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-042",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Pron. 几个，多个，若干个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Chance",
+    "trans": [
+      "机会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-043",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "机会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "attraktiv",
+    "trans": [
+      "Adj. 吸引人的，具有吸引力的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-044",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 吸引人的，具有吸引力的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lächeln",
+    "trans": [
+      "微笑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-045",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "微笑",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "eintragen",
+    "trans": [
+      "填入，记入，登记入册"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-046",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "填入，记入，登记入册",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mantel",
+    "trans": [
+      "大衣，外套"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-047",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "大衣，外套",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bluse",
+    "trans": [
+      "女衬衣，女上衣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-048",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "女衬衣，女上衣",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hose",
+    "trans": [
+      "裤子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-049",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "裤子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Grund",
+    "trans": [
+      "理由，动机，原因；土地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-050",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "理由，动机，原因；土地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Besuch",
+    "trans": [
+      "访问，做客；客人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-051",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "访问，做客；客人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vergessen",
+    "trans": [
+      "忘记"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-052",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "忘记",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schokolade",
+    "trans": [
+      "巧克力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-053",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "巧克力",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Junge",
+    "trans": [
+      "小伙子，男孩，少年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-054",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "小伙子，男孩，少年",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sonnenbrille",
+    "trans": [
+      "太阳镜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-055",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "太阳镜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Typ",
+    "trans": [
+      "(人的）类型；（物的）种类；(青年用语）人，家伙（指男的）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-056",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "(人的）类型；（物的）种类；(青年用语）人，家伙（指男的）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anhaben",
+    "trans": [
+      "穿着，戴着"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-057",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "穿着，戴着",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "T-shirt",
+    "trans": [
+      "T恤衫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-058",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "T恤衫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Klasse",
+    "trans": [
+      "班级"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-059",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "班级",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "blond",
+    "trans": [
+      "Adj. 金黄色的，淡黄色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-060",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 金黄色的，淡黄色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gewicht",
+    "trans": [
+      "重量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-061",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "重量",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wiegen",
+    "trans": [
+      "称...的重量；重量为..."
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-062",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "称...的重量；重量为...",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fröhlich",
+    "trans": [
+      "Adj. 高兴的，愉快的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-063",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 高兴的，愉快的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "offen",
+    "trans": [
+      "Adj. 坦率的，坦诚的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-064",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 坦率的，坦诚的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Figur",
+    "trans": [
+      "身材，身段，体型"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-065",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "身材，身段，体型",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "braunhaarig",
+    "trans": [
+      "Adj. 棕色头发的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-066",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 棕色头发的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "manch-",
+    "trans": [
+      "Pron. 有些，有的人或事物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-067",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Pron. 有些，有的人或事物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wenig",
+    "trans": [
+      "Adv. 少许，少量，不多"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-068",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adv. 少许，少量，不多",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "achten",
+    "trans": [
+      "注意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-069",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "注意",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zunehmen",
+    "trans": [
+      "增加体重；增加"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-070",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "增加体重；增加",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sportlich",
+    "trans": [
+      "Adj. 运动型的，健美的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-071",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "Adj. 运动型的，健美的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Charakter",
+    "trans": [
+      "性格，品性"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-072",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "性格，品性",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Herz",
+    "trans": [
+      "心，心脏，心灵，心肠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-073",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "心，心脏，心灵，心肠",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Alter",
+    "trans": [
+      "年龄；老年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-074",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "年龄；老年",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Größe",
+    "trans": [
+      "身高，大小，尺码，面积"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E1-075",
+    "sourceSheet": "B2E1",
+    "sourceMeaning": "身高，大小，尺码，面积",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

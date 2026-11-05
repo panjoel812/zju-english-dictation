@@ -2,13 +2,13 @@
   {
     "name": "evolution",
     "trans": [
-      "演变，逐步发展"
+      "n. 演变，逐步发展"
     ]
   },
   {
     "name": "netspeak",
     "trans": [
-      "网络语言"
+      "n. 网络语言"
     ]
   },
   {
@@ -20,13 +20,13 @@
   {
     "name": "abbreviation",
     "trans": [
-      "缩略语，缩写形式"
+      "n. 缩略语，缩写形式"
     ]
   },
   {
     "name": "stretch",
     "trans": [
-      "（使）变大；变松；拉长"
+      "v. （使）变大；变松；拉长"
     ]
   },
   {
@@ -38,61 +38,61 @@
   {
     "name": "selfie",
     "trans": [
-      "自拍照片"
+      "n. 自拍照片"
     ]
   },
   {
     "name": "cyberbullying",
     "trans": [
-      "网络欺凌"
+      "n. 网络欺凌"
     ]
   },
   {
     "name": "pre-existing",
     "trans": [
-      "先于…存在的"
+      "adj. 先于…存在的"
     ]
   },
   {
     "name": "engagement",
     "trans": [
-      "婚约；订婚期间"
+      "n. 婚约；订婚期间"
     ]
   },
   {
     "name": "accelerate",
     "trans": [
-      "（使）加快；加速"
+      "v. （使）加快；加速"
     ]
   },
   {
     "name": "lexicon",
     "trans": [
-      "词汇"
+      "n. 词汇"
     ]
   },
   {
     "name": "trace",
     "trans": [
-      "追溯；追查"
+      "v. 追溯；追查"
     ]
   },
   {
     "name": "directory",
     "trans": [
-      "姓名地址录，名录，电话簿"
+      "n. 姓名地址录，名录，电话簿"
     ]
   },
   {
     "name": "assistance",
     "trans": [
-      "帮助，援助"
+      "n. 帮助，援助"
     ]
   },
   {
     "name": "blur",
     "trans": [
-      "（使）难以区分，模糊"
+      "v. （使）难以区分，模糊"
     ]
   },
   {
@@ -110,7 +110,7 @@
   {
     "name": "linguistics",
     "trans": [
-      "语言学"
+      "n. 语言学"
     ]
   },
   {
@@ -122,61 +122,61 @@
   {
     "name": "longevity",
     "trans": [
-      "持续时间"
+      "n. 持续时间"
     ]
   },
   {
     "name": "eligible",
     "trans": [
-      "合格的；有资格的"
+      "adj. 合格的；有资格的"
     ]
   },
   {
     "name": "revisit",
     "trans": [
-      "重新考虑；再次讨论"
+      "v. 重新考虑；再次讨论"
     ]
   },
   {
     "name": "usage",
     "trans": [
-      "使用方法；使用量"
+      "n. 使用方法；使用量"
     ]
   },
   {
     "name": "mainstream",
     "trans": [
-      "主流的；主要的"
+      "adj. 主流的；主要的"
     ]
   },
   {
     "name": "fuzzy",
     "trans": [
-      "糊涂的；不明确的"
+      "adj. 糊涂的；不明确的"
     ]
   },
   {
     "name": "appearance",
     "trans": [
-      "问世，首次出现"
+      "n. 问世，首次出现"
     ]
   },
   {
     "name": "jargon",
     "trans": [
-      "（难懂的）行话，术语"
+      "n. （难懂的）行话，术语"
     ]
   },
   {
     "name": "timeless",
     "trans": [
-      "永不过时的"
+      "adj. 永不过时的"
     ]
   },
   {
     "name": "impose",
     "trans": [
-      "强加"
+      "v. 强加"
     ]
   },
   {
@@ -188,19 +188,19 @@
   {
     "name": "worrisome",
     "trans": [
-      "令人焦虑的"
+      "adj. 令人焦虑的"
     ]
   },
   {
     "name": "fascinating",
     "trans": [
-      "迷人的；非常有趣的"
+      "adj. 迷人的；非常有趣的"
     ]
   },
   {
     "name": "remake",
     "trans": [
-      "重新制作"
+      "v. 重新制作"
     ]
   }
 ]

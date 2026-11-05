@@ -27,11 +27,11 @@ export async function exportDatabase(callback: (exportProgress: ExportProgress) 
   const compressed = pako.gzip(json)
   const compressedBlob = new Blob([compressed])
   const currentDate = getCurrentDate()
-  saveAs(compressedBlob, `Qwerty-Learner-User-Data-${currentDate}.gz`)
+  saveAs(compressedBlob, `ZJU-English-Dictation-Data-${currentDate}.gz`)
   recordDataAction({ type: 'export', size: compressedBlob.size, wordCount, chapterCount })
 }
 
-export async function importDatabase(onStart: () => void, callback: (importProgress: ImportProgress) => boolean) {
+export async function importDatabase(onStart: () => void, callback: (importProgress: ImportProgress) => boolean, onError?: () => void) {
   const [pako] = await Promise.all([import('pako'), import('dexie-export-import')])
 
   const input = document.createElement('input')
@@ -41,26 +41,30 @@ export async function importDatabase(onStart: () => void, callback: (importProgr
     const file = input.files?.[0]
     if (!file) return
 
-    onStart()
+    try {
+      onStart()
 
-    const compressed = await file.arrayBuffer()
-    const json = pako.ungzip(compressed, { to: 'string' })
-    const blob = new Blob([json])
+      const compressed = await file.arrayBuffer()
+      const json = pako.ungzip(compressed, { to: 'string' })
+      const blob = new Blob([json])
 
-    await db.import(blob, {
-      acceptVersionDiff: true,
-      acceptMissingTables: true,
-      acceptNameDiff: false,
-      acceptChangedPrimaryKey: false,
-      overwriteValues: true,
-      clearTablesBeforeImport: true,
-      progressCallback: ({ totalRows, completedRows, done }) => {
-        return callback({ totalRows, completedRows, done })
-      },
-    })
+      await db.import(blob, {
+        acceptVersionDiff: true,
+        acceptMissingTables: true,
+        acceptNameDiff: false,
+        acceptChangedPrimaryKey: false,
+        overwriteValues: true,
+        clearTablesBeforeImport: true,
+        progressCallback: ({ totalRows, completedRows, done }) => {
+          return callback({ totalRows, completedRows, done })
+        },
+      })
 
-    const [wordCount, chapterCount] = await Promise.all([db.wordRecords.count(), db.chapterRecords.count()])
-    recordDataAction({ type: 'import', size: file.size, wordCount, chapterCount })
+      const [wordCount, chapterCount] = await Promise.all([db.wordRecords.count(), db.chapterRecords.count()])
+      recordDataAction({ type: 'import', size: file.size, wordCount, chapterCount })
+    } catch {
+      onError?.()
+    }
   })
 
   input.click()

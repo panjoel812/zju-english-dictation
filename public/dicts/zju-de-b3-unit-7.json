@@ -1,0 +1,1172 @@
+[
+  {
+    "name": "Ernährung",
+    "trans": [
+      "营养供给；营养，食物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-001",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "营养供给；营养，食物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lebensmittel",
+    "trans": [
+      "食物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-002",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "食物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gemüse",
+    "trans": [
+      "蔬菜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-003",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "蔬菜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Olive",
+    "trans": [
+      "橄榄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-004",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "橄榄",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einzig",
+    "trans": [
+      "Adj. 唯一的，仅有的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-005",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 唯一的，仅有的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "empfehlenswert",
+    "trans": [
+      "Adj. 值得推荐的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-006",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 值得推荐的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dreidimensional",
+    "trans": [
+      "Adj. 三维的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-007",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 三维的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pyramide",
+    "trans": [
+      "金字塔；三角椎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-008",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "金字塔；三角椎",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bildlich",
+    "trans": [
+      "Adj. 图示的，图解的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-009",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 图示的，图解的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Menge",
+    "trans": [
+      "量，数量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-010",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "量，数量",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Basis",
+    "trans": [
+      "基础，基地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-011",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "基础，基地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Flüssigkeit",
+    "trans": [
+      "液体"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-012",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "液体",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "derLiter",
+    "trans": [
+      "升"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-013",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "升",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "äußer-",
+    "trans": [
+      "外面的，外部的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-014",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "外面的，外部的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Form",
+    "trans": [
+      "形式，形状"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-015",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "形式，形状",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Getreide",
+    "trans": [
+      "粮食；谷物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-016",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "粮食；谷物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "rund",
+    "trans": [
+      "Adv. 大约，大概"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-017",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adv. 大约，大概",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bestandteil",
+    "trans": [
+      "组成部分"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-018",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "组成部分",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fett",
+    "trans": [
+      "脂肪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-019",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "脂肪",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nährstoff",
+    "trans": [
+      "营养物，养分"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-020",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "营养物，养分",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dichte",
+    "trans": [
+      "密度，浓度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-021",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "密度，浓度",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "liefern",
+    "trans": [
+      "提供，供货"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-022",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "提供，供货",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "enthalten",
+    "trans": [
+      "含有，包含，包括"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-023",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "含有，包含，包括",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sekundär",
+    "trans": [
+      "Adj. 次要的，从属的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-024",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 次要的，从属的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dauerhaft",
+    "trans": [
+      "Adj. 持久的，持续的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-025",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 持久的，持续的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gehalt",
+    "trans": [
+      "含量，成分"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-026",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "含量，成分",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Calcium",
+    "trans": [
+      "钙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-027",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "钙",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vitamin",
+    "trans": [
+      "维生素"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-028",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "维生素",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lachs",
+    "trans": [
+      "鲑鱼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-029",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "鲑鱼",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Thunfisch",
+    "trans": [
+      "金枪鱼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-030",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "金枪鱼",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Herz-Kreislauf-System",
+    "trans": [
+      "心血管系统"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-031",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "心血管系统",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kost",
+    "trans": [
+      "饭食，膳食"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-032",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "饭食，膳食",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wertvoll",
+    "trans": [
+      "Adj. 很有价值的，贵重的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-033",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 很有价值的，贵重的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Raps",
+    "trans": [
+      "油菜籽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-034",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "油菜籽",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Walnuss",
+    "trans": [
+      "核桃，胡桃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-035",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "核桃，胡桃",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fettsäure",
+    "trans": [
+      "脂肪酸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-036",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "脂肪酸",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zusammensetzung",
+    "trans": [
+      "组成，组合"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-037",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "组成，组合",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Auswirkung",
+    "trans": [
+      "作用，影响，后果"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-038",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "作用，影响，后果",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Leistungsfähigkeit",
+    "trans": [
+      "能力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-039",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "能力",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kräutertee",
+    "trans": [
+      "药草茶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-040",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "药草茶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Frucht",
+    "trans": [
+      "水果"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-041",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "水果",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "blinken",
+    "trans": [
+      "闪光；发出灯光信号"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-042",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "闪光；发出灯光信号",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fazit",
+    "trans": [
+      "结论，结果"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-043",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "结论，结果",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verunsichern",
+    "trans": [
+      "使......忐忑不安，犹豫不决"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-044",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "使......忐忑不安，犹豫不决",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kilogramm",
+    "trans": [
+      "千克，公斤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-045",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "千克，公斤",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tafel",
+    "trans": [
+      "（板）块（状商品）黑板"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-046",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "（板）块（状商品）黑板",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pro",
+    "trans": [
+      "每"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-047",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "每",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zucker",
+    "trans": [
+      "糖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-048",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "糖",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kakaomasse",
+    "trans": [
+      "可可块"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-049",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "可可块",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Substanz",
+    "trans": [
+      "物质，材料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-050",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "物质，材料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ganzheitlich",
+    "trans": [
+      "Adj. 整体上的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-051",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 整体上的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wohlbefinden",
+    "trans": [
+      "健康，舒适"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-052",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "健康，舒适",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "elementar",
+    "trans": [
+      "Adj. 基本的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-053",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 基本的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beikommen",
+    "trans": [
+      "对付，克服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-054",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "对付，克服",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sicht",
+    "trans": [
+      "（看问题的）眼光，角度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-055",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "（看问题的）眼光，角度",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "eindeutig",
+    "trans": [
+      "Adj. 明确的，清楚的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-056",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 明确的，清楚的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gelten",
+    "trans": [
+      "被视为，被看做"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-057",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "被视为，被看做",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Therapie",
+    "trans": [
+      "治疗，疗法"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-058",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "治疗，疗法",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aussagen",
+    "trans": [
+      "说明，表明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-059",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "说明，表明",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Organismus",
+    "trans": [
+      "机体"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-060",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "机体",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zielen",
+    "trans": [
+      "目的在于，旨在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-061",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "目的在于，旨在",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "heilsam",
+    "trans": [
+      "Adj. 有益的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-062",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 有益的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sprichwort",
+    "trans": [
+      "谚语，俗语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-063",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "谚语，俗语",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Region",
+    "trans": [
+      "地区，区域"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-064",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "地区，区域",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Grundzug",
+    "trans": [
+      "基本特征"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-065",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "基本特征",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zutat",
+    "trans": [
+      "配料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-066",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "配料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gleichermaßen",
+    "trans": [
+      "Adv. 同样的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-067",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adv. 同样的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausgewogen",
+    "trans": [
+      "Adj. 有节制的，平和的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-068",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 有节制的，平和的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Beilage",
+    "trans": [
+      "配菜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-069",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "配菜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schonen",
+    "trans": [
+      "爱惜，爱护"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-070",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "爱惜，爱护",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zubereitung",
+    "trans": [
+      "烹调"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-071",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "烹调",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kalorie",
+    "trans": [
+      "卡路里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-072",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "卡路里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fall",
+    "trans": [
+      "情况；事例"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-073",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "情况；事例",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geschmack",
+    "trans": [
+      "味道；鉴赏力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-074",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "味道；鉴赏力",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geruch",
+    "trans": [
+      "气味"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-075",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "气味",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Komponente",
+    "trans": [
+      "因素，组成部分"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-076",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "因素，组成部分",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gesellig",
+    "trans": [
+      "Adj. 社交的，爱交际的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-077",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 社交的，爱交际的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Angelegenheit",
+    "trans": [
+      "事情，事务"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-078",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "事情，事务",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anordnen",
+    "trans": [
+      "布置，整理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-079",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "布置，整理",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schüssel",
+    "trans": [
+      "碗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-080",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "碗",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stäbchen",
+    "trans": [
+      "筷子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-081",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "筷子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mahlzeit",
+    "trans": [
+      "一餐，一顿饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-082",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "一餐，一顿饭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zusätzlich",
+    "trans": [
+      "Adj. 附加的，额外的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-083",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 附加的，额外的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verlangsamen",
+    "trans": [
+      "放慢，延缓"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-084",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "放慢，延缓",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sorgen",
+    "trans": [
+      "引起，导致；照料，关心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-085",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "引起，导致；照料，关心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "benötigen",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-086",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "需要",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "satt",
+    "trans": [
+      "Adj. 饱的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-087",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 饱的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überfordern",
+    "trans": [
+      "过高要求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-088",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "过高要求",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verdauung",
+    "trans": [
+      "消化"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-089",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "消化",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "folgerichtig",
+    "trans": [
+      "Adj. 合乎逻辑的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E7-090",
+    "sourceSheet": "B3E7",
+    "sourceMeaning": "Adj. 合乎逻辑的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

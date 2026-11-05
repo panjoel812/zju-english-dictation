@@ -1,0 +1,804 @@
+[
+  {
+    "name": "らいげつ（来月）",
+    "trans": [
+      "名 下个月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-001",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "下个月",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "らいげつ",
+      "来月"
+    ],
+    "speech": "らいげつ"
+  },
+  {
+    "name": "せんげつ（先月）",
+    "trans": [
+      "名 上个月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-002",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "上个月",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せんげつ",
+      "先月"
+    ],
+    "speech": "せんげつ"
+  },
+  {
+    "name": "よなか（夜中）",
+    "trans": [
+      "名 午夜，半夜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-003",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "午夜，半夜",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "よなか",
+      "夜中"
+    ],
+    "speech": "よなか"
+  },
+  {
+    "name": "ゆうべ",
+    "trans": [
+      "名 昨天晚上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-004",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "昨天晚上",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "コンサート",
+    "trans": [
+      "名 音乐会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-005",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "音乐会",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "クリスマス",
+    "trans": [
+      "名 圣诞节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-006",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "圣诞节",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "たんじょうび（誕生日）",
+    "trans": [
+      "名 生日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-007",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "生日",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たんじょうび",
+      "誕生日"
+    ],
+    "speech": "たんじょうび"
+  },
+  {
+    "name": "こどものひ（こどもの日）",
+    "trans": [
+      "名 儿童节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-008",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "儿童节",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こどものひ",
+      "こどもの日"
+    ],
+    "speech": "こどものひ"
+  },
+  {
+    "name": "なつやすみ（夏休み）",
+    "trans": [
+      "名 暑假"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-009",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "暑假",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "なつやすみ",
+      "夏休み"
+    ],
+    "speech": "なつやすみ"
+  },
+  {
+    "name": "こうつうきかん（交通機関）",
+    "trans": [
+      "名 交通工具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-010",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "交通工具",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうつうきかん",
+      "交通機関"
+    ],
+    "speech": "こうつうきかん"
+  },
+  {
+    "name": "しんかんせん（新幹線）",
+    "trans": [
+      "名 新干线"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-011",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "新干线",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しんかんせん",
+      "新幹線"
+    ],
+    "speech": "しんかんせん"
+  },
+  {
+    "name": "ひこうき（飛行機）",
+    "trans": [
+      "名 飞机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-012",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "飞机",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひこうき",
+      "飛行機"
+    ],
+    "speech": "ひこうき"
+  },
+  {
+    "name": "フェリー",
+    "trans": [
+      "名 渡轮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-013",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "渡轮",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "でんしゃ（電車）",
+    "trans": [
+      "名 电车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-014",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "电车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "でんしゃ",
+      "電車"
+    ],
+    "speech": "でんしゃ"
+  },
+  {
+    "name": "バス",
+    "trans": [
+      "名 公共汽车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-015",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "公共汽车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "タクシー",
+    "trans": [
+      "名 出租车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-016",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "出租车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "びじゅつかん（美術館）",
+    "trans": [
+      "名 美术馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-017",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "美术馆",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "びじゅつかん",
+      "美術館"
+    ],
+    "speech": "びじゅつかん"
+  },
+  {
+    "name": "アパート",
+    "trans": [
+      "名 公寓"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-018",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "公寓",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "うち",
+    "trans": [
+      "名 家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-019",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "家",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "プール",
+    "trans": [
+      "名 游泳池"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-020",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "游泳池",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ともだち（友達）",
+    "trans": [
+      "名 朋友"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-021",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "朋友",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ともだち",
+      "友達"
+    ],
+    "speech": "ともだち"
+  },
+  {
+    "name": "おとうと（弟）",
+    "trans": [
+      "名 弟弟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-022",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "弟弟",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おとうと",
+      "弟"
+    ],
+    "speech": "おとうと"
+  },
+  {
+    "name": "いきます（行きます）",
+    "trans": [
+      "动1 去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-023",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "去",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いきます",
+      "行きます"
+    ],
+    "speech": "いきます"
+  },
+  {
+    "name": "かえります（帰ります）",
+    "trans": [
+      "动1 回来，回去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-024",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "回来，回去",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かえります",
+      "帰ります"
+    ],
+    "speech": "かえります"
+  },
+  {
+    "name": "きます（来ます）",
+    "trans": [
+      "动3 来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-025",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "来",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きます",
+      "来ます"
+    ],
+    "speech": "きます"
+  },
+  {
+    "name": "たしか",
+    "trans": [
+      "副 好像是，大概；的确"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-026",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "好像是，大概；的确",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "まっすぐ",
+    "trans": [
+      "副 径直，笔直"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-027",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "径直，笔直",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "いっしょに",
+    "trans": [
+      "副 一起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-028",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "一起",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "さとう（佐藤）",
+    "trans": [
+      "专 佐藤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-029",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "佐藤",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さとう",
+      "佐藤"
+    ],
+    "speech": "さとう"
+  },
+  {
+    "name": "ペキン（北京）",
+    "trans": [
+      "专 北京"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-030",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "北京",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ペキン",
+      "北京"
+    ],
+    "speech": "ペキン"
+  },
+  {
+    "name": "アメリカ",
+    "trans": [
+      "专 美国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-031",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "美国",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かんこく（韓国）",
+    "trans": [
+      "专 韩国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-032",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "韩国",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんこく",
+      "韓国"
+    ],
+    "speech": "かんこく"
+  },
+  {
+    "name": "フランス",
+    "trans": [
+      "专 法国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-033",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "法国",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ひろしま（広島）",
+    "trans": [
+      "专 广岛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-034",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "广岛",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひろしま",
+      "広島"
+    ],
+    "speech": "ひろしま"
+  },
+  {
+    "name": "きょうと（京都）",
+    "trans": [
+      "专 京都"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-035",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "京都",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きょうと",
+      "京都"
+    ],
+    "speech": "きょうと"
+  },
+  {
+    "name": "ほっかいどう（北海道）",
+    "trans": [
+      "专 北海道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-036",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "北海道",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほっかいどう",
+      "北海道"
+    ],
+    "speech": "ほっかいどう"
+  },
+  {
+    "name": "はこね（箱根）",
+    "trans": [
+      "专 箱根"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-037",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "箱根",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はこね",
+      "箱根"
+    ],
+    "speech": "はこね"
+  },
+  {
+    "name": "ぎんざ（銀座）",
+    "trans": [
+      "专 银座"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-038",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "银座",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぎんざ",
+      "銀座"
+    ],
+    "speech": "ぎんざ"
+  },
+  {
+    "name": "しぶや（渋谷）",
+    "trans": [
+      "专 涩谷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-039",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "涩谷",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しぶや",
+      "渋谷"
+    ],
+    "speech": "しぶや"
+  },
+  {
+    "name": "しんじゅく（新宿）",
+    "trans": [
+      "专 新宿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-040",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "新宿",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しんじゅく",
+      "新宿"
+    ],
+    "speech": "しんじゅく"
+  },
+  {
+    "name": "おつかれさまでした（お疲れ様でした）",
+    "trans": [
+      "够累的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-041",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "够累的",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おつかれさまでした",
+      "お疲れ様でした"
+    ],
+    "speech": "おつかれさまでした"
+  },
+  {
+    "name": "おさきにしつれいします（お先に失礼します）",
+    "trans": [
+      "我先走了，我先告辞了"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-042",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "我先走了，我先告辞了",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おさきにしつれいします",
+      "お先に失礼します"
+    ],
+    "speech": "おさきにしつれいします"
+  },
+  {
+    "name": "あるいて（歩いて）",
+    "trans": [
+      "步行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-043",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "步行",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あるいて",
+      "歩いて"
+    ],
+    "speech": "あるいて"
+  },
+  {
+    "name": "たいへんですね（大変ですね）",
+    "trans": [
+      "真不容易，够受的，不得了"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U06-044",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "真不容易，够受的，不得了",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たいへんですね",
+      "大変ですね"
+    ],
+    "speech": "たいへんですね"
+  }
+]

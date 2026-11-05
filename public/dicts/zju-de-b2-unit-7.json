@@ -1,0 +1,1172 @@
+[
+  {
+    "name": "Krankenschwester",
+    "trans": [
+      "女护士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-001",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "女护士",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kfz-Mechaniker",
+    "trans": [
+      "机动车机械师，机动车机械工"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-002",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "机动车机械师，机动车机械工",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Reisegruppe",
+    "trans": [
+      "旅游团"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-003",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "旅游团",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "reparieren",
+    "trans": [
+      "修理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-004",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "修理",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geschäft",
+    "trans": [
+      "生意，买卖；商店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-005",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "生意，买卖；商店",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Spritze",
+    "trans": [
+      "注射，打针"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-006",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "注射，打针",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bürokaufmann",
+    "trans": [
+      "商务人员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-007",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "商务人员",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "leicht",
+    "trans": [
+      "Adj. 轻松的，容易的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-008",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adj. 轻松的，容易的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Werkstatt",
+    "trans": [
+      "车间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-009",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "车间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "übernehmen",
+    "trans": [
+      "接受，接管"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-010",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "接受，接管",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "obwohl",
+    "trans": [
+      "Konj. 虽然，即使"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-011",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Konj. 虽然，即使",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schmutzig",
+    "trans": [
+      "Adj. 脏的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-012",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adj. 脏的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anstrengend",
+    "trans": [
+      "P.I 累的，疲劳的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-013",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "P.I 累的，疲劳的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vorschrift",
+    "trans": [
+      "规定，规章"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-014",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "规定，规章",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "konzentriert",
+    "trans": [
+      "P.II 专心致志的，集中注意力的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-015",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "P.II 专心致志的，集中注意力的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Abitur",
+    "trans": [
+      "文理中学毕业考试"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-016",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "文理中学毕业考试",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Realschule",
+    "trans": [
+      "实科中学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-017",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "实科中学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schichtarbeit",
+    "trans": [
+      "倒班制工作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-018",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "倒班制工作",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dagegen",
+    "trans": [
+      "Adv. 反对"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-019",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adv. 反对",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bestimmen",
+    "trans": [
+      "决定，确定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-020",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "决定，确定",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Glück",
+    "trans": [
+      "幸运，运气；幸福，成功"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-021",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "幸运，运气；幸福，成功",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Berufsschule",
+    "trans": [
+      "职业学校"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-022",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "职业学校",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "theoretisch",
+    "trans": [
+      "Adj. 理论上的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-023",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adj. 理论上的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bewerbung",
+    "trans": [
+      "求职信"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-024",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "求职信",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "glücklicherweise",
+    "trans": [
+      "Adv. 幸运地，幸亏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-025",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adv. 幸运地，幸亏",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Reisebüro",
+    "trans": [
+      "旅行社"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-026",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "旅行社",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Handelsfirma",
+    "trans": [
+      "贸易公司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-027",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "贸易公司",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "trotzdem",
+    "trans": [
+      "Adv. 尽管如此"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-028",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adv. 尽管如此",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geschäftsreise",
+    "trans": [
+      "商务出差"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-029",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "商务出差",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rückkehr",
+    "trans": [
+      "归来，返回"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-030",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "归来，返回",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unternehmen",
+    "trans": [
+      "做，从事"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-031",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "做，从事",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "jetzig",
+    "trans": [
+      "Adj. 现在的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-032",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adj. 现在的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Abschnitt",
+    "trans": [
+      "段落，章节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-033",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "段落，章节",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zufriedenheit",
+    "trans": [
+      "满意度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-034",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "满意度",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Berufswahl",
+    "trans": [
+      "职业选择"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-035",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "职业选择",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dienstreise",
+    "trans": [
+      "公务出差"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-036",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "公务出差",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Überstunde",
+    "trans": [
+      "加班，加点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-037",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "加班，加点",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "selbstständig",
+    "trans": [
+      "Adj. 独立的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-038",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adj. 独立的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Arbeitsklima",
+    "trans": [
+      "工作环境，工作氛围"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-039",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "工作环境，工作氛围",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "glücklich",
+    "trans": [
+      "Adj. 幸福的，开心的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-040",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adj. 幸福的，开心的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "trotz",
+    "trans": [
+      "Präp. 尽管，不顾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-041",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Präp. 尽管，不顾",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "stark",
+    "trans": [
+      "Adj. 厉害的，强大的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-042",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adj. 厉害的，强大的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Strom",
+    "trans": [
+      "电（流）；大河"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-043",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "电（流）；大河",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anmachen",
+    "trans": [
+      "开（灯）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-044",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "开（灯）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Handschuh",
+    "trans": [
+      "手套"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-045",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "手套",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "prüfen",
+    "trans": [
+      "检查，检验"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-046",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "检查，检验",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abstellen",
+    "trans": [
+      "关掉；放下，停放"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-047",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "关掉；放下，停放",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Werkzeug",
+    "trans": [
+      "工具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-048",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "工具",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausmachen",
+    "trans": [
+      "关掉（灯）；总计"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-049",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "关掉（灯）；总计",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abschließen",
+    "trans": [
+      "锁上；结束"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-050",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "锁上；结束",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beschäftigt",
+    "trans": [
+      "Adj. 忙的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-051",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adj. 忙的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Interesse",
+    "trans": [
+      "兴趣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-052",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "兴趣",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mehrmals",
+    "trans": [
+      "Adv. 多次"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-053",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adv. 多次",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Widerspruch",
+    "trans": [
+      "矛盾，异议"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-054",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "矛盾，异议",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "allerdings",
+    "trans": [
+      "Adv. 不过，然而；当然"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-055",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adv. 不过，然而；当然",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Berufswunsch",
+    "trans": [
+      "从业愿望"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-056",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "从业愿望",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rundfunk",
+    "trans": [
+      "广播电台"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-057",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "广播电台",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hörer",
+    "trans": [
+      "听众，听者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-058",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "听众，听者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Moderatorin",
+    "trans": [
+      "女主持人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-059",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "女主持人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sendung",
+    "trans": [
+      "播送，广播"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-060",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "播送，广播",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "willkommen",
+    "trans": [
+      "Adj. 受欢迎的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-061",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adj. 受欢迎的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Studio",
+    "trans": [
+      "播音室，演播室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-062",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "播音室，演播室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gymnasium",
+    "trans": [
+      "德国高级文理中学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-063",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "德国高级文理中学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Medizin",
+    "trans": [
+      "医学；药"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-064",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "医学；药",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Aufgabe",
+    "trans": [
+      "作业，任务"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-065",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "作业，任务",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Abschluss",
+    "trans": [
+      "结束"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-066",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "结束",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lehre",
+    "trans": [
+      "学徒的学习期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-067",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "学徒的学习期",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Industriekaufmann",
+    "trans": [
+      "企业营销人员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-068",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "企业营销人员",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hoffentlich",
+    "trans": [
+      "Adv. 但愿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-069",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adv. 但愿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Aussicht",
+    "trans": [
+      "希望，前途"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-070",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "希望，前途",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wirtschaftszweig",
+    "trans": [
+      "经济部门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-071",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "经济部门",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beibringen",
+    "trans": [
+      "教，教会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-072",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "教，教会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vorstellung",
+    "trans": [
+      "设想，介绍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-073",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "设想，介绍",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dual",
+    "trans": [
+      "Adj. 双元的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-074",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adj. 双元的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unterschreiben",
+    "trans": [
+      "签订"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-075",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "签订",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ausbildungsvertrag",
+    "trans": [
+      "培训合同/协议"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-076",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "培训合同/协议",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Betrieb",
+    "trans": [
+      "企业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-077",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "企业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Auszubildende",
+    "trans": [
+      "d.w. Adj. 接受培训的人，学徒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-078",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "d.w. Adj. 接受培训的人，学徒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Theorie",
+    "trans": [
+      "理论；原理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-079",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "理论；原理",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "durchführen",
+    "trans": [
+      "实行，实施"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-080",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "实行，实施",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Blockunterricht",
+    "trans": [
+      "集中上课"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-081",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "集中上课",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "restlich",
+    "trans": [
+      "Adj. 剩余的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-082",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adj. 剩余的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sozialkunde",
+    "trans": [
+      "社会学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-083",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "社会学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Köchin",
+    "trans": [
+      "厨师（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-084",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "厨师（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Abschlussprüfung",
+    "trans": [
+      "毕业考试"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-085",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "毕业考试",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zeugnis",
+    "trans": [
+      "成绩单，证书，证明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-086",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "成绩单，证书，证明",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausbilden",
+    "trans": [
+      "培养，训练；形成"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-087",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "培养，训练；形成",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kosten",
+    "trans": [
+      "费用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-088",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "费用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "betrieblich",
+    "trans": [
+      "Adj. 企业的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-089",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "Adj. 企业的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "offenbleiben",
+    "trans": [
+      "悬而未决"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E7-090",
+    "sourceSheet": "B2E7",
+    "sourceMeaning": "悬而未决",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

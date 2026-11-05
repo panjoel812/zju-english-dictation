@@ -2,25 +2,25 @@
   {
     "name": "drip",
     "trans": [
-      "滴下，沥下"
+      "v. 滴下，沥下"
     ]
   },
   {
     "name": "breathtaking",
     "trans": [
-      "使人喘不过气来的"
+      "adj. 使人喘不过气来的"
     ]
   },
   {
     "name": "fulfillment",
     "trans": [
-      "成就感；充实感"
+      "n. 成就感；充实感"
     ]
   },
   {
     "name": "joyful",
     "trans": [
-      "欢乐的，令人高兴的"
+      "adj. 欢乐的，令人高兴的"
     ]
   },
   {
@@ -32,13 +32,13 @@
   {
     "name": "unparalleled",
     "trans": [
-      "无比的，无双的，空前的"
+      "adj. 无比的，无双的，空前的"
     ]
   },
   {
     "name": "brutal",
     "trans": [
-      "伤人的；不顾他人感受的"
+      "adj. 伤人的；不顾他人感受的"
     ]
   },
   {
@@ -50,37 +50,37 @@
   {
     "name": "unbearable",
     "trans": [
-      "难以忍受的；无法容忍的"
+      "adj. 难以忍受的；无法容忍的"
     ]
   },
   {
     "name": "tease",
     "trans": [
-      "戏弄；逗弄"
+      "v. 戏弄；逗弄"
     ]
   },
   {
     "name": "taunt",
     "trans": [
-      "嘲弄；（用语言）挑衅，侮辱"
+      "v. 嘲弄；（用语言）挑衅，侮辱"
     ]
   },
   {
     "name": "tempt",
     "trans": [
-      "诱惑，引诱"
+      "v. 诱惑，引诱"
     ]
   },
   {
     "name": "loyal",
     "trans": [
-      "忠实的；忠贞的"
+      "adj. 忠实的；忠贞的"
     ]
   },
   {
     "name": "resist",
     "trans": [
-      "忍住，按捺"
+      "v. 忍住，按捺"
     ]
   },
   {
@@ -92,43 +92,43 @@
   {
     "name": "alongside",
     "trans": [
-      "与…一起，同时"
+      "prep. 与…一起，同时"
     ]
   },
   {
     "name": "addiction",
     "trans": [
-      "上瘾"
+      "n. 上瘾"
     ]
   },
   {
     "name": "distraction",
     "trans": [
-      "娱乐，消遣"
+      "n. 娱乐，消遣"
     ]
   },
   {
     "name": "sunrise",
     "trans": [
-      "日出，晨曦，朝霞"
+      "n. 日出，晨曦，朝霞"
     ]
   },
   {
     "name": "graciously",
     "trans": [
-      "有礼貌地，仁慈地，和蔼地，亲切地（尤其指对较低阶层）"
+      "adv. 有礼貌地，仁慈地，和蔼地，亲切地（尤其指对较低阶层）"
     ]
   },
   {
     "name": "weaken",
     "trans": [
-      "（使）虚弱，变弱"
+      "v. （使）虚弱，变弱"
     ]
   },
   {
     "name": "bump",
     "trans": [
-      "凸起，隆起，鼓包"
+      "n. 凸起，隆起，鼓包"
     ]
   },
   {
@@ -140,13 +140,13 @@
   {
     "name": "sideline",
     "trans": [
-      "（运动场的）场，边"
+      "n. （运动场的）场，边"
     ]
   },
   {
     "name": "permanently",
     "trans": [
-      "永久地，长久地"
+      "adv. 永久地，长久地"
     ]
   },
   {
@@ -158,7 +158,7 @@
   {
     "name": "tackle",
     "trans": [
-      "处理，对付（难题）"
+      "v. 处理，对付（难题）"
     ]
   },
   {
@@ -170,31 +170,31 @@
   {
     "name": "curve",
     "trans": [
-      "弯曲处"
+      "n. 弯曲处"
     ]
   },
   {
     "name": "hurdle",
     "trans": [
-      "栏架"
+      "n. 栏架"
     ]
   },
   {
     "name": "split",
     "trans": [
-      "离婚，分手"
+      "v. 离婚，分手"
     ]
   },
   {
     "name": "crack",
     "trans": [
-      "（使）破裂"
+      "v. （使）破裂"
     ]
   },
   {
     "name": "cracked",
     "trans": [
-      "有裂缝的"
+      "adj. 有裂缝的"
     ]
   }
 ]

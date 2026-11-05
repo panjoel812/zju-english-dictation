@@ -111,9 +111,12 @@ export const wordDictationConfigAtom = atomForConfig('wordDictationConfig-v2', {
   openBy: 'user' as WordDictationOpenBy,
 })
 
-export const hideWordLengthAtom = atomWithStorage('hideWordLength', false)
+export const hideWordLengthAtom = atomWithStorage('hideWordLength', true)
+
+export const showFirstLetterAtom = atomWithStorage('showFirstLetter', false)
 
 export const wholeWordModeAtom = atomWithStorage('wholeWordMode', true)
+export const effectiveWholeWordModeAtom = atom((get) => get(wholeWordModeAtom) || Boolean(get(currentDictInfoAtom).speechLang))
 
 export const dismissStartCardDateAtom = atomWithStorage<Date | null>(DISMISS_START_CARD_DATE_KEY, null)
 

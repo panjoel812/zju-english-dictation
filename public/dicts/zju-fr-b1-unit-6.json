@@ -1,0 +1,1304 @@
+[
+  {
+    "name": "saison",
+    "trans": [
+      "n.f. 季，季节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-001",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "季，季节",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "printemps",
+    "trans": [
+      "n.m. 春季"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-002",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "春季",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "automne",
+    "trans": [
+      "n.m. 秋季"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-003",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "秋季",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hiver",
+    "trans": [
+      "n.m. 冬季"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-004",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "冬季",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "commencer",
+    "trans": [
+      "v.t. / v.i. 开始"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-005",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "开始",
+    "sourceTags": [
+      "v.t. / v.i."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mars",
+    "trans": [
+      "n.m. 三月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-006",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "三月",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "finir",
+    "trans": [
+      "v.t. / v.i. 结束"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-007",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "结束",
+    "sourceTags": [
+      "v.t. / v.i."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "juin",
+    "trans": [
+      "n.m. 六月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-008",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "六月",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ciel",
+    "trans": [
+      "n.m. 天空"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-009",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "天空",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bleu, e",
+    "trans": [
+      "adj. 蓝色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-010",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "蓝色的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bleu",
+    "trans": [
+      "n.m. 蓝色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-011",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "蓝色",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "soleil",
+    "trans": [
+      "n.m. 太阳；阳光"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-012",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "太阳；阳光",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "briller",
+    "trans": [
+      "v.i. 发光，闪耀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-013",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "发光，闪耀",
+    "sourceTags": [
+      "v.i."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beau, bel, belle, beaux, belles",
+    "trans": [
+      "adj. 漂亮的，美丽的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-014",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "漂亮的，美丽的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "arbre",
+    "trans": [
+      "n.m. 树，树木"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-015",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "树，树木",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "feuille",
+    "trans": [
+      "n.f. 叶子；纸张"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-016",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "叶子；纸张",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vert, e",
+    "trans": [
+      "adj. 绿色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-017",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "绿色的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vert",
+    "trans": [
+      "n.m. 绿色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-018",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "绿色",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "oiseau",
+    "trans": [
+      "n.m. 鸟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-019",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "鸟",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chanter",
+    "trans": [
+      "v.t. / v.i. 唱，唱歌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-020",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "唱，唱歌",
+    "sourceTags": [
+      "v.t. / v.i."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fleur",
+    "trans": [
+      "n.f. 花"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-021",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "花",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "partout",
+    "trans": [
+      "adv. 到处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-022",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "到处",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "septembre",
+    "trans": [
+      "n.m. 九月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-023",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "九月",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chaud, e",
+    "trans": [
+      "adj. 热的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-024",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "热的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "souvent",
+    "trans": [
+      "adv. 经常，常常"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-025",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "经常，常常",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pleuvoir",
+    "trans": [
+      "v.impers. 下雨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-026",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "下雨",
+    "sourceTags": [
+      "v.impers."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "parfois",
+    "trans": [
+      "adv. 有时"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-027",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "有时",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "jour",
+    "trans": [
+      "n.m. 天；白天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-028",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "天；白天",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tôt",
+    "trans": [
+      "adv. 早"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-029",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "早",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nuit",
+    "trans": [
+      "n.f. 夜；夜间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-030",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "夜；夜间",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tard",
+    "trans": [
+      "adv. 晚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-031",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "晚",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pour",
+    "trans": [
+      "prép. 为了"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-032",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "为了",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "période",
+    "trans": [
+      "n.f. 期间；时期；年代"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-033",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "期间；时期；年代",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vacances",
+    "trans": [
+      "n.f.pl. 假期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-034",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "假期",
+    "sourceTags": [
+      "n.f.pl."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "français, e",
+    "trans": [
+      "adj. 法国的；法语的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-035",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "法国的；法语的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "français",
+    "trans": [
+      "n.m. 法语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-036",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "法语",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Français, e",
+    "trans": [
+      "n. 法国人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-037",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "法国人",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mois",
+    "trans": [
+      "n.m. 月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-038",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "月",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "août",
+    "trans": [
+      "n.m. 八月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-039",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "八月",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [u(t)]",
+    "phonetic": "[u(t)]"
+  },
+  {
+    "name": "mer",
+    "trans": [
+      "n.f. 海，海洋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-040",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "海，海洋",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "montagne",
+    "trans": [
+      "n.f. 山，山脉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-041",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "山，山脉",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "décembre",
+    "trans": [
+      "n.m. 十二月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-042",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "十二月",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "doux, ce",
+    "trans": [
+      "adj. 温和的；甜的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-043",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "温和的；甜的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gris, e",
+    "trans": [
+      "adj. 灰色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-044",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "灰色的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gris",
+    "trans": [
+      "n.m. 灰色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-045",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "灰色",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vent",
+    "trans": [
+      "n.m. 风"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-046",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "风",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tomber",
+    "trans": [
+      "v.i. 落下，下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-047",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "落下，下",
+    "sourceTags": [
+      "v.i."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "rentrer",
+    "trans": [
+      "v.i. 回；返回"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-048",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "回；返回",
+    "sourceTags": [
+      "v.i."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "monde",
+    "trans": [
+      "n.m. 人，人们；世界"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-049",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "人，人们；世界",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tout le monde",
+    "trans": [
+      "人人，大家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-050",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "人人，大家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "reprendre",
+    "trans": [
+      "v.t. 重新开始；再拿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-051",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "重新开始；再拿",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "travail",
+    "trans": [
+      "n.m. 工作；劳动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-052",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "工作；劳动",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "temps",
+    "trans": [
+      "n.m. 时间；天气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-053",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "时间；天气",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "de temps en temps",
+    "trans": [
+      "有时，时而"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-054",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "有时，时而",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "froid, e",
+    "trans": [
+      "adj. 冷的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-055",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "冷的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "neiger",
+    "trans": [
+      "v.impers. 下雪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-056",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "下雪",
+    "sourceTags": [
+      "v.impers."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "certain, e",
+    "trans": [
+      "adj. 某些；肯定的，确定的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-057",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "某些；肯定的，确定的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "région",
+    "trans": [
+      "n.f. 地区；地带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-058",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "地区；地带",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "allumer",
+    "trans": [
+      "v.t. 点火；点亮；打开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-059",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "点火；点亮；打开",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "feu",
+    "trans": [
+      "n.m. 火"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-060",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "火",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cheminée",
+    "trans": [
+      "n.f. 壁炉；烟囱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-061",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "壁炉；烟囱",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dès",
+    "trans": [
+      "prép. 从……起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-062",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "从……起",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "début",
+    "trans": [
+      "n.m. 开始，开端"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-063",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "开始，开端",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "préparer",
+    "trans": [
+      "v.t. 准备"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-064",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "准备",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "se préparer",
+    "trans": [
+      "v.pr. 准备……；梳洗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-065",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "准备……；梳洗",
+    "sourceTags": [
+      "v.pr."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Noël",
+    "trans": [
+      "n.m. 圣诞节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-066",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "圣诞节",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nouveau, nouvel, nouvelle, nouveaux, nouvelles",
+    "trans": [
+      "adj. 新的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-067",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "新的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mardi",
+    "trans": [
+      "n.m. 星期二"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-068",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "星期二",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "date",
+    "trans": [
+      "n.f. 日期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-069",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "日期",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "octobre",
+    "trans": [
+      "n.m. 十月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-070",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "十月",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anniversaire",
+    "trans": [
+      "n.m. 生日，周年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-071",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "生日，周年",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "quand",
+    "trans": [
+      "adv. 何时，什么时候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-072",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "何时，什么时候",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "quand",
+    "trans": [
+      "conj. 当……时"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-073",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "当……时",
+    "sourceTags": [
+      "conj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pourquoi",
+    "trans": [
+      "adv. 为什么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-074",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "为什么",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "poser",
+    "trans": [
+      "v.t. 提出；放"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-075",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "提出；放",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "question",
+    "trans": [
+      "n.f. 问题"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-076",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "问题",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "parce que",
+    "trans": [
+      "loc.conj. 因为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-077",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "因为",
+    "sourceTags": [
+      "loc.conj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dire",
+    "trans": [
+      "v.t. 说，讲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-078",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "说，讲",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gentil, le",
+    "trans": [
+      "adj. 和蔼可亲的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-079",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "和蔼可亲的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "France",
+    "trans": [
+      "n.f. 法国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-080",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "法国",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "agréable",
+    "trans": [
+      "adj. 舒适的，愉快的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-081",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "舒适的，愉快的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "plage",
+    "trans": [
+      "n.f. 海滩，海滨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-082",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "海滩，海滨",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "magnifique",
+    "trans": [
+      "adj. 极好的；宏伟的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-083",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "极好的；宏伟的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "enfant",
+    "trans": [
+      "n. 儿童，孩子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-084",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "儿童，孩子",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "content, e",
+    "trans": [
+      "adj. 高兴的，满意的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-085",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "高兴的，满意的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "surtout",
+    "trans": [
+      "adv. 特别，尤其"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-086",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "特别，尤其",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "garçon",
+    "trans": [
+      "n.m. 男孩"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U06-087",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "男孩",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  }
+]

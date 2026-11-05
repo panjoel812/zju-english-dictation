@@ -8,13 +8,13 @@
   {
     "name": "pal",
     "trans": [
-      "密友，好友"
+      "n. 密友，好友"
     ]
   },
   {
     "name": "skitter",
     "trans": [
-      "轻快地跑"
+      "v. 轻快地跑"
     ]
   },
   {
@@ -26,19 +26,19 @@
   {
     "name": "windup",
     "trans": [
-      "装有发条的；用手柄操作的"
+      "adj. 装有发条的；用手柄操作的"
     ]
   },
   {
     "name": "spray",
     "trans": [
-      "飞溅；飞散"
+      "v. 飞溅；飞散"
     ]
   },
   {
     "name": "flop",
     "trans": [
-      "沉重地落下"
+      "v. 沉重地落下"
     ]
   },
   {
@@ -50,7 +50,7 @@
   {
     "name": "alas",
     "trans": [
-      "不幸地"
+      "interj. 不幸地"
     ]
   },
   {
@@ -62,43 +62,43 @@
   {
     "name": "exquisitely",
     "trans": [
-      "精美地；精致地"
+      "adv. 精美地；精致地"
     ]
   },
   {
     "name": "rocky",
     "trans": [
-      "岩石覆盖的；由岩石形成的"
+      "adj. 岩石覆盖的；由岩石形成的"
     ]
   },
   {
     "name": "staple",
     "trans": [
-      "基本食物；主食"
+      "n. 基本食物；主食"
     ]
   },
   {
     "name": "spawn",
     "trans": [
-      "大量产卵"
+      "v. 大量产卵"
     ]
   },
   {
     "name": "cod",
     "trans": [
-      "鳕鱼（肉）"
+      "n. 鳕鱼（肉）"
     ]
   },
   {
     "name": "backfire",
     "trans": [
-      "发生意外，产生事与愿违的结果"
+      "v. 发生意外，产生事与愿违的结果"
     ]
   },
   {
     "name": "coastal",
     "trans": [
-      "近海的，沿海的，海岸的"
+      "adj. 近海的，沿海的，海岸的"
     ]
   },
   {
@@ -116,55 +116,55 @@
   {
     "name": "blessing",
     "trans": [
-      "幸事；幸运；福气"
+      "n. 幸事；幸运；福气"
     ]
   },
   {
     "name": "diner",
     "trans": [
-      "用餐者"
+      "n. 用餐者"
     ]
   },
   {
     "name": "fattiness",
     "trans": [
-      "富含脂肪"
+      "n. 富含脂肪"
     ]
   },
   {
     "name": "moist",
     "trans": [
-      "潮湿的；湿润的"
+      "adj. 潮湿的；湿润的"
     ]
   },
   {
     "name": "overcook",
     "trans": [
-      "将（食物）煮的过熟"
+      "v. 将（食物）煮的过熟"
     ]
   },
   {
     "name": "roast",
     "trans": [
-      "炙，烤（肉等）"
+      "v. 炙，烤（肉等）"
     ]
   },
   {
     "name": "surplus",
     "trans": [
-      "剩余，多余"
+      "n. 剩余，多余"
     ]
   },
   {
     "name": "incorporate",
     "trans": [
-      "并入，包含"
+      "v. 并入，包含"
     ]
   },
   {
     "name": "flesh",
     "trans": [
-      "（人或动物的）肉"
+      "n. （人或动物的）肉"
     ]
   },
   {
@@ -182,7 +182,7 @@
   {
     "name": "marketing",
     "trans": [
-      "促销；销售"
+      "n. 促销；销售"
     ]
   },
   {
@@ -200,7 +200,7 @@
   {
     "name": "overtake",
     "trans": [
-      "超越；超过"
+      "v. 超越；超过"
     ]
   },
   {
@@ -218,7 +218,7 @@
   {
     "name": "domesticated",
     "trans": [
-      "驯化的"
+      "adj. 驯化的"
     ]
   },
   {
@@ -230,7 +230,7 @@
   {
     "name": "joyride",
     "trans": [
-      "驾车兜风"
+      "n. 驾车兜风"
     ]
   }
 ]

@@ -1,0 +1,977 @@
+[
+  {
+    "name": "Gedicht",
+    "trans": [
+      "诗，诗歌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-001",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "诗，诗歌",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gewiss",
+    "trans": [
+      "Adj. 肯定的，确凿的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-002",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 肯定的，确凿的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verschließen",
+    "trans": [
+      "把...锁起来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-003",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "把...锁起来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verlieren",
+    "trans": [
+      "遗失；失去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-004",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "遗失；失去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "drinnen",
+    "trans": [
+      "Adv. 在里面，在屋内"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-005",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adv. 在里面，在屋内",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gefühl",
+    "trans": [
+      "感觉，感情"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-006",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "感觉，感情",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wahrscheinlich",
+    "trans": [
+      "Adj. （有极大）可能的，大概的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-007",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. （有极大）可能的，大概的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unbeschreiblich",
+    "trans": [
+      "Adj. 无法描述的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-008",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 无法描述的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wahnsinnig",
+    "trans": [
+      "Adv. 非常"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-009",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adv. 非常",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wunderschön",
+    "trans": [
+      "Adj. 极美的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-010",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 极美的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zärtlich",
+    "trans": [
+      "Adj. 温柔的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-011",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 温柔的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wirken",
+    "trans": [
+      "起作用，产生影响"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-012",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "起作用，产生影响",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beruhigend",
+    "trans": [
+      "Adj. 使人平静的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-013",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 使人平静的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "faszinieren",
+    "trans": [
+      "吸引"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-014",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "吸引",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "total",
+    "trans": [
+      "Adj. 完全的；彻底的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-015",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 完全的；彻底的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geborgenheit",
+    "trans": [
+      "安全"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-016",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "安全",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "definieren",
+    "trans": [
+      "下定义"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-017",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "下定义",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "berühren",
+    "trans": [
+      "触，摸；感动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-018",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "触，摸；感动",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Partner",
+    "trans": [
+      "同伴；合作者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-019",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "同伴；合作者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dasselbe",
+    "trans": [
+      "Pron. 同一的；同样的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-020",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Pron. 同一的；同样的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "jedoch",
+    "trans": [
+      "Adv. 然而，可是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-021",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adv. 然而，可是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einander",
+    "trans": [
+      "Pron. 彼此，相互"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-022",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Pron. 彼此，相互",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vertrauen",
+    "trans": [
+      "信任，信赖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-023",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "信任，信赖",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ehrlichkeit",
+    "trans": [
+      "诚实，真诚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-024",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "诚实，真诚",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gegenseitig",
+    "trans": [
+      "Adj. 相互的，双方的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-025",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 相互的，双方的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mut",
+    "trans": [
+      "勇气，勇敢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-026",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "勇气，勇敢",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufhören",
+    "trans": [
+      "停止，终止"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-027",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "停止，终止",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verletzen",
+    "trans": [
+      "伤害，使受伤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-028",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "伤害，使受伤",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "irgend-",
+    "trans": [
+      "Adv. 任何，随便什么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-029",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adv. 任何，随便什么",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unbedacht",
+    "trans": [
+      "Adj. 欠考虑的，草率的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-030",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 欠考虑的，草率的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vormachen",
+    "trans": [
+      "把......做给人家看，示范"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-031",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "把......做给人家看，示范",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zueinander",
+    "trans": [
+      "Adv. 相互，彼此"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-032",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adv. 相互，彼此",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Situation",
+    "trans": [
+      "形势；处境；场合"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-033",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "形势；处境；场合",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beweisen",
+    "trans": [
+      "证明，证实"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-034",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "证明，证实",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "indem",
+    "trans": [
+      "Konj. 通过......方法"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-035",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Konj. 通过......方法",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schwierigkeit",
+    "trans": [
+      "困难，困境；难度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-036",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "困难，困境；难度",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überwinden",
+    "trans": [
+      "克服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-037",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "克服",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "doppelt",
+    "trans": [
+      "Adj. 双的，双重的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-038",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 双的，双重的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verständnis",
+    "trans": [
+      "理解，领会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-039",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "理解，领会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Harmonie",
+    "trans": [
+      "和谐，和睦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-040",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "和谐，和睦",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Treue",
+    "trans": [
+      "忠实，忠诚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-041",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "忠实，忠诚",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kompromiss",
+    "trans": [
+      "妥协，让步"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-042",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "妥协，让步",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vermutung",
+    "trans": [
+      "猜想，猜测"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-043",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "猜想，猜测",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "romantisch",
+    "trans": [
+      "Adj. 浪漫的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-044",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 浪漫的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "geizig",
+    "trans": [
+      "Adj. 吝啬的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-045",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 吝啬的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zufall",
+    "trans": [
+      "偶然，巧合"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-046",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "偶然，巧合",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dumm",
+    "trans": [
+      "Adj. 笨的，愚蠢的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-047",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 笨的，愚蠢的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dulden",
+    "trans": [
+      "容忍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-048",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "容忍",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "positiv",
+    "trans": [
+      "Adj. 积极的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-049",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 积极的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unendlich",
+    "trans": [
+      "Adv. 极其，异常"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-050",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adv. 极其，异常",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Beziehung",
+    "trans": [
+      "关系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-051",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "关系",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Entfernung",
+    "trans": [
+      "距离"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-052",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "距离",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Eifersucht",
+    "trans": [
+      "嫉妒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-053",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "嫉妒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "jedenfalls",
+    "trans": [
+      "Adv. 无论如何；至少"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-054",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adv. 无论如何；至少",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überzeugt",
+    "trans": [
+      "Adj. 确信的，坚信的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-055",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 确信的，坚信的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "herausfinden",
+    "trans": [
+      "弄清，查明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-056",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "弄清，查明",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "meistern",
+    "trans": [
+      "掌握，克服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-057",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "掌握，克服",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Krise",
+    "trans": [
+      "危机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-058",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "危机",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überstehen",
+    "trans": [
+      "经受住，度过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-059",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "经受住，度过",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sandburg",
+    "trans": [
+      "（海边的）沙堡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-060",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "（海边的）沙堡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "eifersüchtig",
+    "trans": [
+      "Adj. 嫉妒的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-061",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 嫉妒的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verzichten",
+    "trans": [
+      "放弃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-062",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "放弃",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nerven",
+    "trans": [
+      "使心情烦躁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-063",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "使心情烦躁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beleidigt",
+    "trans": [
+      "Adj. 被冒犯的，受伤害的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-064",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 被冒犯的，受伤害的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hauptdarstellerin",
+    "trans": [
+      "女主角"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-065",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "女主角",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schauspielerin",
+    "trans": [
+      "女演员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-066",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "女演员",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schwärmen",
+    "trans": [
+      "痴迷，对......狂热"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-067",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "痴迷，对......狂热",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stellenwert",
+    "trans": [
+      "作用，价值"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-068",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "作用，价值",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abkapseln",
+    "trans": [
+      "隔离，隔绝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-069",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "隔离，隔绝",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "umgekehrt",
+    "trans": [
+      "Adj. 相反的，颠倒的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-070",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 相反的，颠倒的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schlag",
+    "trans": [
+      "打击"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-071",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "打击",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zerbrechen",
+    "trans": [
+      "破碎，破裂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-072",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "破碎，破裂",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tödlich",
+    "trans": [
+      "Adj. 致命的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-073",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adj. 致命的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mittlerweile",
+    "trans": [
+      "Adv. 在这期间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-074",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "Adv. 在这期间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hauptsache",
+    "trans": [
+      "最重要的事，要点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E1-075",
+    "sourceSheet": "B3E1",
+    "sourceMeaning": "最重要的事，要点",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

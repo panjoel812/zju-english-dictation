@@ -1,0 +1,753 @@
+[
+  {
+    "name": "しゅみ（趣味）",
+    "trans": [
+      "名 爱好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-001",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "爱好",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅみ",
+      "趣味"
+    ],
+    "speech": "しゅみ"
+  },
+  {
+    "name": "とくぎ（特技）",
+    "trans": [
+      "名 特长，拿手的技术"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-002",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "特长，拿手的技术",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とくぎ",
+      "特技"
+    ],
+    "speech": "とくぎ"
+  },
+  {
+    "name": "きょうみ（興味）",
+    "trans": [
+      "名 兴趣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-003",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "兴趣",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きょうみ",
+      "興味"
+    ],
+    "speech": "きょうみ"
+  },
+  {
+    "name": "ゆめ（夢）",
+    "trans": [
+      "名 梦，理想"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-004",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "梦，理想",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ゆめ",
+      "夢"
+    ],
+    "speech": "ゆめ"
+  },
+  {
+    "name": "ギター",
+    "trans": [
+      "名 吉他"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-005",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "吉他",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "こきゅう（胡弓）",
+    "trans": [
+      "名 胡琴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-006",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "胡琴",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こきゅう",
+      "胡弓"
+    ],
+    "speech": "こきゅう"
+  },
+  {
+    "name": "しょどう（書道）",
+    "trans": [
+      "名 书法"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-007",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "书法",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょどう",
+      "書道"
+    ],
+    "speech": "しょどう"
+  },
+  {
+    "name": "つり（釣り）",
+    "trans": [
+      "名 钓鱼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-008",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "钓鱼",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つり",
+      "釣り"
+    ],
+    "speech": "つり"
+  },
+  {
+    "name": "ドライブ",
+    "trans": [
+      "名 兜风，开汽车远游"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-009",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "兜风，开汽车远游",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あみもの（編み物）",
+    "trans": [
+      "编制；编织品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-010",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "编制；编织品",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あみもの",
+      "編み物"
+    ],
+    "speech": "あみもの"
+  },
+  {
+    "name": "てづくり（手作り）",
+    "trans": [
+      "名 手工做，自己做，手制"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-011",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "手工做，自己做，手制",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てづくり",
+      "手作り"
+    ],
+    "speech": "てづくり"
+  },
+  {
+    "name": "ちゅうかがい（中華街）",
+    "trans": [
+      "名 中华街"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-012",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "中华街",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちゅうかがい",
+      "中華街"
+    ],
+    "speech": "ちゅうかがい"
+  },
+  {
+    "name": "ちゅうかりょうり（中華料理）",
+    "trans": [
+      "名 中国菜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-013",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "中国菜",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちゅうかりょうり",
+      "中華料理"
+    ],
+    "speech": "ちゅうかりょうり"
+  },
+  {
+    "name": "ギョーザ（餃子）",
+    "trans": [
+      "名 饺子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-014",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "饺子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ギョーザ",
+      "餃子"
+    ],
+    "speech": "ギョーザ"
+  },
+  {
+    "name": "かわ（皮）",
+    "trans": [
+      "名 皮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-015",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "皮",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かわ",
+      "皮"
+    ],
+    "speech": "かわ"
+  },
+  {
+    "name": "しゅんせつ（春節）",
+    "trans": [
+      "名 春节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-016",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "春节",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅんせつ",
+      "春節"
+    ],
+    "speech": "しゅんせつ"
+  },
+  {
+    "name": "ししまい（獅子舞）",
+    "trans": [
+      "名 狮子舞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-017",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "狮子舞",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ししまい",
+      "獅子舞"
+    ],
+    "speech": "ししまい"
+  },
+  {
+    "name": "りょう（寮）",
+    "trans": [
+      "名 宿舍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-018",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "宿舍",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りょう",
+      "寮"
+    ],
+    "speech": "りょう"
+  },
+  {
+    "name": "せんたくき（洗濯機）",
+    "trans": [
+      "名 洗衣机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-019",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "洗衣机",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せんたくき",
+      "洗濯機"
+    ],
+    "speech": "せんたくき"
+  },
+  {
+    "name": "シャワー",
+    "trans": [
+      "名 淋浴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-020",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "淋浴",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おなか",
+    "trans": [
+      "名 肚子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-021",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "肚子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "じゅぎょう（授業）",
+    "trans": [
+      "名 授课，上课"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-022",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "授课，上课",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じゅぎょう",
+      "授業"
+    ],
+    "speech": "じゅぎょう"
+  },
+  {
+    "name": "しりょう（資料）",
+    "trans": [
+      "名 资料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-023",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "资料",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しりょう",
+      "資料"
+    ],
+    "speech": "しりょう"
+  },
+  {
+    "name": "フランスご（フランス語）",
+    "trans": [
+      "名 法语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-024",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "法语",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "フランスご",
+      "フランス語"
+    ],
+    "speech": "フランスご"
+  },
+  {
+    "name": "しょうせつ（小説）",
+    "trans": [
+      "名 小说"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-025",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "小说",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょうせつ",
+      "小説"
+    ],
+    "speech": "しょうせつ"
+  },
+  {
+    "name": "かいがん（海岸）",
+    "trans": [
+      "名 海岸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-026",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "海岸",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいがん",
+      "海岸"
+    ],
+    "speech": "かいがん"
+  },
+  {
+    "name": "ふゆやすみ（冬休み）",
+    "trans": [
+      "名 寒假"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-027",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "寒假",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふゆやすみ",
+      "冬休み"
+    ],
+    "speech": "ふゆやすみ"
+  },
+  {
+    "name": "キャンプ",
+    "trans": [
+      "名 野营"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-028",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "野营",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "みんな",
+    "trans": [
+      "名 大家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-029",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "大家",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "じぶん（自分）",
+    "trans": [
+      "名 自己"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-030",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "自己",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じぶん",
+      "自分"
+    ],
+    "speech": "じぶん"
+  },
+  {
+    "name": "ぜんいん（全員）",
+    "trans": [
+      "名 全员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-031",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "全员",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぜんいん",
+      "全員"
+    ],
+    "speech": "ぜんいん"
+  },
+  {
+    "name": "ひきます（弾きます）",
+    "trans": [
+      "动1 弹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-032",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "弹",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひきます",
+      "弾きます"
+    ],
+    "speech": "ひきます"
+  },
+  {
+    "name": "すきます",
+    "trans": [
+      "动1 （肚子）饿，空"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-033",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "（肚子）饿，空",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "のぼります（登ります）",
+    "trans": [
+      "动1 登，上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-034",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "登，上",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "のぼります",
+      "登ります"
+    ],
+    "speech": "のぼります"
+  },
+  {
+    "name": "あつめます（集めます）",
+    "trans": [
+      "动2 收集"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-035",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "收集",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あつめます",
+      "集めます"
+    ],
+    "speech": "あつめます"
+  },
+  {
+    "name": "あびます（浴びます）",
+    "trans": [
+      "动2 淋；浇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-036",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "淋；浇",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あびます",
+      "浴びます"
+    ],
+    "speech": "あびます"
+  },
+  {
+    "name": "ごちそうします",
+    "trans": [
+      "动3 请客，摆盛宴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-037",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "请客，摆盛宴",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "きこくします（帰国します）",
+    "trans": [
+      "动3 回国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-038",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "回国",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きこくします",
+      "帰国します"
+    ],
+    "speech": "きこくします"
+  },
+  {
+    "name": "とくに（特に）",
+    "trans": [
+      "副 特别"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-039",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "特别",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とくに",
+      "特に"
+    ],
+    "speech": "とくに"
+  },
+  {
+    "name": "おなかがすきます",
+    "trans": [
+      "肚子饿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U20-040",
+    "sourceSheet": "B1U20",
+    "sourceMeaning": "肚子饿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

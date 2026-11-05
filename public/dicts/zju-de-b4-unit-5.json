@@ -1,0 +1,1094 @@
+[
+  {
+    "name": "Internet",
+    "trans": [
+      "互联网"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-001",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "互联网",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Datum",
+    "trans": [
+      "数据"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-002",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "数据",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hässlich",
+    "trans": [
+      "Adj. 丑的，丑陋的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-003",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 丑的，丑陋的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Telearbeiter",
+    "trans": [
+      "远程工作者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-004",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "远程工作者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Arbeitgeber",
+    "trans": [
+      "雇主"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-005",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "雇主",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bildtelefon",
+    "trans": [
+      "可视电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-006",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "可视电话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "räumlich",
+    "trans": [
+      "Adj. 房屋的，空间的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-007",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 房屋的，空间的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "elektronisch",
+    "trans": [
+      "Adj. 电子的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-008",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 电子的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Entfernung",
+    "trans": [
+      "距离"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-009",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "距离",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Technologie",
+    "trans": [
+      "技术，工艺"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-010",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "技术，工艺",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Infobahn",
+    "trans": [
+      "信息公路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-011",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "信息公路",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zugleich",
+    "trans": [
+      "Adv. 同时"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-012",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adv. 同时",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "setzen",
+    "trans": [
+      "寄希望于......"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-013",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "寄希望于......",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "technisch",
+    "trans": [
+      "Adj. 技术的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-014",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 技术的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vernetzen",
+    "trans": [
+      "网络化"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-015",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "网络化",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Globus",
+    "trans": [
+      "地球仪；地球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-016",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "地球仪；地球",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Flug",
+    "trans": [
+      "飞行，空中旅行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-017",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "飞行，空中旅行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überflüssig",
+    "trans": [
+      "Adj. 多余的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-018",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 多余的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Optimist",
+    "trans": [
+      "乐观者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-019",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "乐观者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entfalten",
+    "trans": [
+      "展开，发挥，施展"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-020",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "展开，发挥，施展",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ökonomisch",
+    "trans": [
+      "Adj. 经济的，节俭的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-021",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 经济的，节俭的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zwang",
+    "trans": [
+      "强迫，强制"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-022",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "强迫，强制",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wettbewerb",
+    "trans": [
+      "比赛，竞争"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-023",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "比赛，竞争",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "daheim",
+    "trans": [
+      "Adv. 在家里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-024",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adv. 在家里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vereinsamen",
+    "trans": [
+      "变得孤独"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-025",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "变得孤独",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "realistisch",
+    "trans": [
+      "Adj. 不现实的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-026",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 不现实的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "medial",
+    "trans": [
+      "Adj. 媒体的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-027",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 媒体的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "begeben",
+    "trans": [
+      "前往，到....去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-028",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "前往，到....去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Elite",
+    "trans": [
+      "杰出人物，精英"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-029",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "杰出人物，精英",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fürchten",
+    "trans": [
+      "害怕，担心，恐惧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-030",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "害怕，担心，恐惧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Flut",
+    "trans": [
+      "潮水；洪水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-031",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "潮水；洪水",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anforderung",
+    "trans": [
+      "要求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-032",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "要求",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anpassen",
+    "trans": [
+      "使...适应于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-033",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "使...适应于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mehrere",
+    "trans": [
+      "Pron. 好些，若干，几个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-034",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Pron. 好些，若干，几个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Medium",
+    "trans": [
+      "介质，媒质"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-035",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "介质，媒质",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pessimist",
+    "trans": [
+      "悲观主义者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-036",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "悲观主义者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "populär",
+    "trans": [
+      "Adj. 通俗的，受人欢迎的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-037",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 通俗的，受人欢迎的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Chauffeur",
+    "trans": [
+      "司机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-038",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "司机",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Investor",
+    "trans": [
+      "投资者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-039",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "投资者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "weiterhin",
+    "trans": [
+      "Adv. 即使现在也，将来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-040",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adv. 即使现在也，将来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nettoeinkommen",
+    "trans": [
+      "净收入"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-041",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "净收入",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anschluss",
+    "trans": [
+      "连接，中转车，合并"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-042",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "连接，中转车，合并",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Horizont",
+    "trans": [
+      "地平线，视野"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-043",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "地平线，视野",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Maßstab",
+    "trans": [
+      "比例；标准"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-044",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "比例；标准",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kraft",
+    "trans": [
+      "力量，精力，效力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-045",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "力量，精力，效力",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "durchaus",
+    "trans": [
+      "Adv. 完全，绝对"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-046",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adv. 完全，绝对",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "krankhaft",
+    "trans": [
+      "Adj. 病态的，病变的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-047",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 病态的，病变的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Projekt",
+    "trans": [
+      "项目"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-048",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "项目",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Leiter",
+    "trans": [
+      "领导，负责人，主管人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-049",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "领导，负责人，主管人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Konsequenz",
+    "trans": [
+      "后果，结果"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-050",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "后果，结果",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schuld",
+    "trans": [
+      "罪责；债务"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-051",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "罪责；债务",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entfernen",
+    "trans": [
+      "移开，离去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-052",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "移开，离去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abhängig",
+    "trans": [
+      "Adj. 依赖于...的；取决于...的；对...上瘾的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-053",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 依赖于...的；取决于...的；对...上瘾的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Begriff",
+    "trans": [
+      "见解；概念；词语，术语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-054",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "见解；概念；词语，术语",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rede",
+    "trans": [
+      "演讲，谈话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-055",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "演讲，谈话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "drehen",
+    "trans": [
+      "围绕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-056",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "围绕",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "auftauchen",
+    "trans": [
+      "突然出现，露面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-057",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "突然出现，露面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "optimistisch",
+    "trans": [
+      "Adj. 乐观的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-058",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 乐观的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zeitalter",
+    "trans": [
+      "时代"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-059",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "时代",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausliefern",
+    "trans": [
+      "让...听任...摆布"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-060",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "让...听任...摆布",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Argument",
+    "trans": [
+      "论据"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-061",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "论据",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Forum",
+    "trans": [
+      "论坛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-062",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "论坛",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zugang",
+    "trans": [
+      "入口，通道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-063",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "入口，通道",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überschwemmen",
+    "trans": [
+      "淹没；充斥着"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-064",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "淹没；充斥着",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "blitzschnell",
+    "trans": [
+      "Adj. 闪电般快的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-065",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 闪电般快的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verknüpfen",
+    "trans": [
+      "连接"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-066",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "连接",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Untergang",
+    "trans": [
+      "沉没，灭亡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-067",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "沉没，灭亡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Klang",
+    "trans": [
+      "声音，声调"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-068",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "声音，声调",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "menschlich",
+    "trans": [
+      "Adj. 人的，人类的；有人情味的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-069",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 人的，人类的；有人情味的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chatten",
+    "trans": [
+      "网上聊天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-070",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "网上聊天",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "virtuell",
+    "trans": [
+      "Adj. 虚拟的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-071",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 虚拟的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überschätzen",
+    "trans": [
+      "过高评价"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-072",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "过高评价",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "existieren",
+    "trans": [
+      "生存"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-073",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "生存",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "demokratisch",
+    "trans": [
+      "Adj. 民主的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-074",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 民主的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überprüfen",
+    "trans": [
+      "检查"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-075",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "检查",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "versinken",
+    "trans": [
+      "下沉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-076",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "下沉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bedauern",
+    "trans": [
+      "感到遗憾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-077",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "感到遗憾",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "digital",
+    "trans": [
+      "Adj. 数码的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-078",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 数码的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "versenden",
+    "trans": [
+      "发送"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-079",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "发送",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Botschaft",
+    "trans": [
+      "信息；大使馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-080",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "信息；大使馆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "preiswert",
+    "trans": [
+      "Adj. 价廉物美的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-081",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "Adj. 价廉物美的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "veraltet",
+    "trans": [
+      "P.II. 过时的，老化的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-082",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "P.II. 过时的，老化的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anschaffen",
+    "trans": [
+      "购置"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-083",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "购置",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Droge",
+    "trans": [
+      "毒品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E5-084",
+    "sourceSheet": "B4E5",
+    "sourceMeaning": "毒品",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

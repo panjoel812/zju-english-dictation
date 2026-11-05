@@ -1,0 +1,1055 @@
+[
+  {
+    "name": "Körper",
+    "trans": [
+      "身体，躯体"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-001",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "身体，躯体",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gesundheit",
+    "trans": [
+      "健康"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-002",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "健康",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kopf",
+    "trans": [
+      "头，顶端"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-003",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "头，顶端",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ohr",
+    "trans": [
+      "耳，耳朵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-004",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "耳，耳朵",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "riechen",
+    "trans": [
+      "闻，嗅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-005",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "闻，嗅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bein",
+    "trans": [
+      "腿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-006",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "腿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bauch",
+    "trans": [
+      "腹部，肚子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-007",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "腹部，肚子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zahn",
+    "trans": [
+      "牙，牙齿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-008",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "牙，牙齿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schmerz",
+    "trans": [
+      "疼痛，痛苦（名词）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-009",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "疼痛，痛苦（名词）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gemeinschaftspraxis",
+    "trans": [
+      "联合诊所"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-010",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "联合诊所",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Versichertenkarte",
+    "trans": [
+      "（医疗）保险卡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-011",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "（医疗）保险卡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Magen",
+    "trans": [
+      "胃，胃部"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-012",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "胃，胃部",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sprechstundenhilfe",
+    "trans": [
+      "门诊医生女助理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-013",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "门诊医生女助理",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fühlen",
+    "trans": [
+      "感觉，感到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-014",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "感觉，感到",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wartezimmer",
+    "trans": [
+      "候诊室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-015",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "候诊室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "letzt",
+    "trans": [
+      "Adj. 最后的，最近的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-016",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adj. 最后的，最近的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ansehen",
+    "trans": [
+      "仔细看，观看"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-017",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "仔细看，观看",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "stimmen",
+    "trans": [
+      "对，正确，相符"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-018",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "对，正确，相符",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "damals",
+    "trans": [
+      "Adv. 那时候，那时"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-019",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adv. 那时候，那时",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unterhalten",
+    "trans": [
+      "聊天，谈话，说话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-020",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "聊天，谈话，说话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "blass",
+    "trans": [
+      "Adj. 苍白的，无血色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-021",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adj. 苍白的，无血色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "los",
+    "trans": [
+      "Adj./Adv. 发生，开始"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-022",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adj./Adv. 发生，开始",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gar",
+    "trans": [
+      "Adv. 一点也，根本，完全；甚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-023",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adv. 一点也，根本，完全；甚",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nichts",
+    "trans": [
+      "Pron. 一点也没有，什么也没有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-024",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Pron. 一点也没有，什么也没有",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Meinung",
+    "trans": [
+      "看法，意见，观点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-025",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "看法，意见，观点",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ein paar",
+    "trans": [
+      "Pron. 几个，若干"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-026",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Pron. 几个，若干",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Krankenhaus",
+    "trans": [
+      "医院"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-027",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "医院",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kümmern",
+    "trans": [
+      "关心，照料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-028",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "关心，照料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "waschen",
+    "trans": [
+      "给......洗脸，洗澡，洗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-029",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "给......洗脸，洗澡，洗",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "streiten",
+    "trans": [
+      "争吵，争执"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-030",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "争吵，争执",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sorge",
+    "trans": [
+      "忧虑，担心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-031",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "忧虑，担心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sprechzimmer",
+    "trans": [
+      "诊疗室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-032",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "诊疗室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dran",
+    "trans": [
+      "Adv. 轮到，挨到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-033",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adv. 轮到，挨到",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vielleicht",
+    "trans": [
+      "Adv. 也许"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-034",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adv. 也许",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "treffen",
+    "trans": [
+      "碰面，碰头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-035",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "碰面，碰头",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erkälten",
+    "trans": [
+      "感冒，着凉（动词）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-036",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "感冒，着凉（动词）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hals",
+    "trans": [
+      "脖子，咽喉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-037",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "脖子，咽喉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schrecklich",
+    "trans": [
+      "Adv. 很，相当；可怕的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-038",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adv. 很，相当；可怕的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wehtun",
+    "trans": [
+      "疼痛，痛苦（动词）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-039",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "疼痛，痛苦（动词）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schnupfen",
+    "trans": [
+      "伤风，感冒；流鼻涕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-040",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "伤风，感冒；流鼻涕",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Husten",
+    "trans": [
+      "咳嗽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-041",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "咳嗽",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fieber",
+    "trans": [
+      "发热，发烧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-042",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "发热，发烧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Grad",
+    "trans": [
+      "度，度数，角度；程度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-043",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "度，度数，角度；程度",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Medikament",
+    "trans": [
+      "药，药物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-044",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "药，药物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Apotheke",
+    "trans": [
+      "药房，药店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-045",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "药房，药店",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gegen",
+    "trans": [
+      "Präp. 防，治，反对，违反"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-046",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Präp. 防，治，反对，违反",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Erkältung",
+    "trans": [
+      "感冒，着凉（名词）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-047",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "感冒，着凉（名词）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "untersuchen",
+    "trans": [
+      "检查，调查"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-048",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "检查，调查",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "freuen",
+    "trans": [
+      "感到高兴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-049",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "感到高兴",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sicher",
+    "trans": [
+      "Adv./Adj. 有把握的，肯定的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-050",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adv./Adj. 有把握的，肯定的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ob",
+    "trans": [
+      "Konj. 间接疑问从句的引导词"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-051",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Konj. 间接疑问从句的引导词",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fliegen",
+    "trans": [
+      "飞，飞翔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-052",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "飞，飞翔",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dass",
+    "trans": [
+      "Konj. 叙述从句的引导词"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-053",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Konj. 叙述从句的引导词",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "besser",
+    "trans": [
+      "Adv./Adj. 较好的，更好的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-054",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adv./Adj. 较好的，更好的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Recht",
+    "trans": [
+      "说得对，做得对"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-055",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "说得对，做得对",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausruhen",
+    "trans": [
+      "（劳动后）休息"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-056",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "（劳动后）休息",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Oberkörper",
+    "trans": [
+      "上身"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-057",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "上身",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abhorchen",
+    "trans": [
+      "对......听诊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-058",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "对......听诊",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einatmen",
+    "trans": [
+      "吸气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-059",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "吸气",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tief",
+    "trans": [
+      "Adj. 深的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-060",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adj. 深的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausatmen",
+    "trans": [
+      "呼气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-061",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "呼气",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Grippe",
+    "trans": [
+      "流行性感冒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-062",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "流行性感冒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verschreiben",
+    "trans": [
+      "开（药）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-063",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "开（药）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vorbeikommen",
+    "trans": [
+      "来一下，从......旁边过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-064",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "来一下，从......旁边过",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Arm",
+    "trans": [
+      "（胳）臂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-065",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "（胳）臂",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "müde",
+    "trans": [
+      "Adj. 困倦的，疲倦的，疲劳的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-066",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adj. 困倦的，疲倦的，疲劳的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schlimm",
+    "trans": [
+      "Adj. 严重的，糟糕的，很坏的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-067",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adj. 严重的，糟糕的，很坏的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "selber",
+    "trans": [
+      "Pron. 自己"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-068",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Pron. 自己",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "morgens",
+    "trans": [
+      "Adv. （在）早上，（在）清晨，（在）上午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-069",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adv. （在）早上，（在）清晨，（在）上午",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lieben",
+    "trans": [
+      "爱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-070",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "爱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "krankschreiben",
+    "trans": [
+      "开病假证明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-071",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "开病假证明",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "plötzlich",
+    "trans": [
+      "Adj. 突然的，意外的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-072",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "Adj. 突然的，意外的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zustimmen",
+    "trans": [
+      "同意，赞成"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-073",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "同意，赞成",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Cyberdoktor",
+    "trans": [
+      "虚拟（网上）医生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-074",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "虚拟（网上）医生",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beantworten",
+    "trans": [
+      "回答，答复（动词）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-075",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "回答，答复（动词）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Leser",
+    "trans": [
+      "读者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-076",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "读者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Frage",
+    "trans": [
+      "问题，提问"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-077",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "问题，提问",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Krankheit",
+    "trans": [
+      "病，疾病"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-078",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "病，疾病",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schlaflosigkeit",
+    "trans": [
+      "失眠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-079",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "失眠",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tun",
+    "trans": [
+      "做，干"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-080",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "做，干",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rücken",
+    "trans": [
+      "背"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E9-081",
+    "sourceSheet": "B1E9",
+    "sourceMeaning": "背",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

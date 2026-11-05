@@ -1,0 +1,860 @@
+[
+  {
+    "name": "ropa",
+    "trans": [
+      "衣服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-001",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "衣服",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "comprador, ra",
+    "trans": [
+      "购物者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-002",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "购物者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vendedor, ra",
+    "trans": [
+      "售货员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-003",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "售货员",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ecuador",
+    "trans": [
+      "厄瓜多尔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-004",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "厄瓜多尔",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "invierno",
+    "trans": [
+      "冬天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-005",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "冬天",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "frío, a",
+    "trans": [
+      "冷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-006",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "冷",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Madrid",
+    "trans": [
+      "马德里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-007",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "马德里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "en efecto",
+    "trans": [
+      "确实，的确"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-008",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "确实，的确",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "temperatura",
+    "trans": [
+      "温度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-009",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "温度",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "época",
+    "trans": [
+      "时代，时期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-010",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "时代，时期",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abrigarse",
+    "trans": [
+      "包裹，保暖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-011",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "包裹，保暖",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mostrar",
+    "trans": [
+      "展示，表明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-012",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "展示，表明",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "suéter (Amer.)",
+    "trans": [
+      "毛衣（拉美）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-013",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "毛衣（拉美）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "jersey (Esp.)",
+    "trans": [
+      "毛衣（西班牙）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-014",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "毛衣（西班牙）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "talla",
+    "trans": [
+      "（衣服）尺码"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-015",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "（衣服）尺码",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "quedarle a uno bien (mal)",
+    "trans": [
+      "（某人）穿戴……合适（不合适）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-016",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "（某人）穿戴……合适（不合适）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "oscuro, ra",
+    "trans": [
+      "深暗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-017",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "深暗",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "probarse",
+    "trans": [
+      "试（穿，戴）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-018",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "试（穿，戴）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "detrás",
+    "trans": [
+      "在……后面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-019",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "在……后面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cortina",
+    "trans": [
+      "帘子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-020",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "帘子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "probador",
+    "trans": [
+      "试衣间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-021",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "试衣间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sentarle a uno bien (mal)",
+    "trans": [
+      "（某物）与（某人）相配（不相配）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-022",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "（某物）与（某人）相配（不相配）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "perfecto, ta",
+    "trans": [
+      "完美的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-023",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "完美的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "deber",
+    "trans": [
+      "欠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-024",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "欠",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chaqueta",
+    "trans": [
+      "夹克"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-025",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "夹克",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pantalones",
+    "trans": [
+      "裤子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-026",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "裤子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tela",
+    "trans": [
+      "布料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-027",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "布料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "grueso, sa",
+    "trans": [
+      "粗，厚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-028",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "粗，厚",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "seguir",
+    "trans": [
+      "跟随"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-029",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "跟随",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abrigo",
+    "trans": [
+      "大衣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-030",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "大衣",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "impermeable",
+    "trans": [
+      "防水的；雨衣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-031",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "防水的；雨衣",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lluvia",
+    "trans": [
+      "雨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-032",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "雨",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "caja",
+    "trans": [
+      "收款台；盒子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-033",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "收款台；盒子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "elegir",
+    "trans": [
+      "挑选；选择"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-034",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "挑选；选择",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "a su disposición",
+    "trans": [
+      "支配，吩咐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-035",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "支配，吩咐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cualquier",
+    "trans": [
+      "任何一个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-036",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "任何一个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "amable",
+    "trans": [
+      "和蔼；客气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-037",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "和蔼；客气",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "encargo",
+    "trans": [
+      "委托"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-038",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "委托",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sonar",
+    "trans": [
+      "响"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-039",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "响",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "supermercado",
+    "trans": [
+      "超市"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-040",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "超市",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "par",
+    "trans": [
+      "双，对"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-041",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "双，对",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zapato",
+    "trans": [
+      "鞋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-042",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "鞋",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sección",
+    "trans": [
+      "部门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-043",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "部门",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "alimento",
+    "trans": [
+      "食品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-044",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "食品",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "barra",
+    "trans": [
+      "长条形"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-045",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "长条形",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kilo",
+    "trans": [
+      "公斤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-046",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "公斤",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "arroz",
+    "trans": [
+      "水稻，大米，米饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-047",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "水稻，大米，米饭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aceite",
+    "trans": [
+      "油"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-048",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "油",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "leche",
+    "trans": [
+      "奶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-049",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "奶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "yogur",
+    "trans": [
+      "酸奶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-050",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "酸奶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "queso",
+    "trans": [
+      "奶酪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-051",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "奶酪",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mantequilla",
+    "trans": [
+      "黄油"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-052",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "黄油",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mermelada",
+    "trans": [
+      "果酱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-053",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "果酱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "recordar",
+    "trans": [
+      "记住；提醒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-054",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "记住；提醒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "apuntar",
+    "trans": [
+      "做笔记"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-055",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "做笔记",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ancho, cha",
+    "trans": [
+      "宽的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-056",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "宽的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "barato, ta",
+    "trans": [
+      "便宜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-057",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "便宜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "calcetines",
+    "trans": [
+      "袜子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-058",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "袜子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "calzoncillos",
+    "trans": [
+      "内裤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-059",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "内裤",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "camisa",
+    "trans": [
+      "（男式）衬衣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-060",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "（男式）衬衣",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "caro, ra",
+    "trans": [
+      "贵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-061",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "贵",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "corto, ta",
+    "trans": [
+      "短"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-062",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "短",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "estrecho, cha",
+    "trans": [
+      "窄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-063",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "窄",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gorro",
+    "trans": [
+      "帽子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-064",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "帽子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "largo, ga",
+    "trans": [
+      "长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-065",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "长",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "medias",
+    "trans": [
+      "（女式）长袜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U10-066",
+    "sourceSheet": "B1U10",
+    "sourceMeaning": "（女式）长袜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

@@ -1,0 +1,899 @@
+[
+  {
+    "name": "Fischer",
+    "trans": [
+      "渔夫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-001",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "渔夫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Siedlung",
+    "trans": [
+      "居民点，住宅区"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-002",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "居民点，住宅区",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zusammenschließen",
+    "trans": [
+      "联合，团结"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-003",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "联合，团结",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vergrößern",
+    "trans": [
+      "扩大，增加"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-004",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "扩大，增加",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hanse",
+    "trans": [
+      "汉萨同盟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-005",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "汉萨同盟",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "brandenburgisch",
+    "trans": [
+      "Adj. 勃兰登堡的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-006",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "Adj. 勃兰登堡的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kurfürst",
+    "trans": [
+      "选帝侯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-007",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "选帝侯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "König",
+    "trans": [
+      "国王，君主"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-008",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "国王，君主",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Aufklärung",
+    "trans": [
+      "启蒙运动；宣传教育"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-009",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "启蒙运动；宣传教育",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "repräsentativ",
+    "trans": [
+      "Adj. 有代表性的，典型的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-010",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "Adj. 有代表性的，典型的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Reich",
+    "trans": [
+      "帝国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-011",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "帝国",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausrufen",
+    "trans": [
+      "宣告，宣布"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-012",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "宣告，宣布",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Exil",
+    "trans": [
+      "流亡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-013",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "流亡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nationalsozialist",
+    "trans": [
+      "纳粹分子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-014",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "纳粹分子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "rassistisch",
+    "trans": [
+      "Adj. 种族主义的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-015",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "Adj. 种族主义的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verfolgung",
+    "trans": [
+      "迫害；跟踪，追捕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-016",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "迫害；跟踪，追捕",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Niederlage",
+    "trans": [
+      "失败"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-017",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "失败",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Siegermacht",
+    "trans": [
+      "战胜国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-018",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "战胜国",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sowjetunion",
+    "trans": [
+      "苏联"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-019",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "苏联",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zone",
+    "trans": [
+      "占领区，区域，地区"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-020",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "占领区，区域，地区",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gegensätzlich",
+    "trans": [
+      "Adj. 对立的，相反的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-021",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "Adj. 对立的，相反的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mauer",
+    "trans": [
+      "城墙，墙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-022",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "城墙，墙",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vereinigen",
+    "trans": [
+      "联合，团结"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-023",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "联合，团结",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bundestag",
+    "trans": [
+      "联邦议院"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-024",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "联邦议院",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bundesregierung",
+    "trans": [
+      "联邦政府"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-025",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "联邦政府",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bauwerk",
+    "trans": [
+      "（较大型的）建筑物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-026",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "（较大型的）建筑物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Innenstadt",
+    "trans": [
+      "市中心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-027",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "市中心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "renovieren",
+    "trans": [
+      "修缮，整修"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-028",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "修缮，整修",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Parlament",
+    "trans": [
+      "议会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-029",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "议会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Konkurrent",
+    "trans": [
+      "竞争者，对手"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-030",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "竞争者，对手",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gedenktafel",
+    "trans": [
+      "纪念碑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-031",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "纪念碑",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hütte",
+    "trans": [
+      "茅舍，小屋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-032",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "茅舍，小屋",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Eigenart",
+    "trans": [
+      "特征、特性、特有的风格"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-033",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "特征、特性、特有的风格",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Denkmalschutz",
+    "trans": [
+      "（国家的）文物保护"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-034",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "（国家的）文物保护",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stilmerkmal",
+    "trans": [
+      "风格的特征"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-035",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "风格的特征",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "blühen",
+    "trans": [
+      "繁荣昌盛；开花"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-036",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "繁荣昌盛；开花",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wolkenkratzer",
+    "trans": [
+      "摩天大楼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-037",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "摩天大楼",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zurückreichen",
+    "trans": [
+      "起源于，可追溯到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-038",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "起源于，可追溯到",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Höhle",
+    "trans": [
+      "洞穴、洞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-039",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "洞穴、洞",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Delta",
+    "trans": [
+      "三角洲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-040",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "三角洲",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "grenzen",
+    "trans": [
+      "与......交界，与......毗邻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-041",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "与......交界，与......毗邻",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "münden",
+    "trans": [
+      "流入"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-042",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "流入",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Strecke",
+    "trans": [
+      "路段"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-043",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "路段",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "durchfließen",
+    "trans": [
+      "流经"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-044",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "流经",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bezirk",
+    "trans": [
+      "市辖区，区"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-045",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "市辖区，区",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "feucht",
+    "trans": [
+      "Adj. 潮湿的，湿润的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-046",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "Adj. 潮湿的，湿润的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "subtropisch",
+    "trans": [
+      "Adj. 副热带的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-047",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "Adj. 副热带的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "regierungsunmittelbar",
+    "trans": [
+      "Adj. 直辖的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-048",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "Adj. 直辖的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "archäologisch",
+    "trans": [
+      "Adj. 考古学的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-049",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "Adj. 考古学的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bestätigen",
+    "trans": [
+      "证实，确认"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-050",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "证实，确认",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "allmählich",
+    "trans": [
+      "Adj. 渐渐地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-051",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "Adj. 渐渐地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Festland",
+    "trans": [
+      "大陆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-052",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "大陆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Textilindustrie",
+    "trans": [
+      "纺织工业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-053",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "纺织工业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Handel",
+    "trans": [
+      "贸易，商业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-054",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "贸易，商业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Aufschwung",
+    "trans": [
+      "繁荣；振奋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-055",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "繁荣；振奋",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ereignis",
+    "trans": [
+      "不寻常的事情，事件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-056",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "不寻常的事情，事件",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Opiumkrieg",
+    "trans": [
+      "鸦片战争"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-057",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "鸦片战争",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Abenteuer",
+    "trans": [
+      "冒险"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-058",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "冒险",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kommunistisch",
+    "trans": [
+      "Adj. 共产主义的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-059",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "Adj. 共产主义的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Volksbefreiungsarmee",
+    "trans": [
+      "人民解放军"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-060",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "人民解放军",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Öffnungspolitik",
+    "trans": [
+      "开放政策"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-061",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "开放政策",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tunnel",
+    "trans": [
+      "隧道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-062",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "隧道",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fließend",
+    "trans": [
+      "Adj. 畅通的，流动的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-063",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "Adj. 畅通的，流动的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Partnerschaft",
+    "trans": [
+      "伙伴关系、伴侣关系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-064",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "伙伴关系、伴侣关系",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zickzack-Brücke",
+    "trans": [
+      "弯弯曲曲的桥"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-065",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "弯弯曲曲的桥",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Turm",
+    "trans": [
+      "塔，塔楼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-066",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "塔，塔楼",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Perle",
+    "trans": [
+      "珍珠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-067",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "珍珠",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Finanzen",
+    "trans": [
+      "金融，财政"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-068",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "金融，财政",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Umschlagkapazität",
+    "trans": [
+      "转运能力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E10-069",
+    "sourceSheet": "B3E10",
+    "sourceMeaning": "转运能力",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

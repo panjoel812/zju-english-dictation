@@ -1,0 +1,1094 @@
+[
+  {
+    "name": "Fest",
+    "trans": [
+      "节日，庆祝活动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-001",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "节日，庆祝活动",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Feiertag",
+    "trans": [
+      "节假日，节日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-002",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "节假日，节日",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "äußern",
+    "trans": [
+      "说出，表示"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-003",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "说出，表示",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Karneval",
+    "trans": [
+      "狂欢节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-004",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "狂欢节",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Valentinstag",
+    "trans": [
+      "情人节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-005",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "情人节",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Advent",
+    "trans": [
+      "基督降临节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-006",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "基督降临节",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "heilig",
+    "trans": [
+      "Adj. 神圣的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-007",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "Adj. 神圣的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Weihnachtsfest",
+    "trans": [
+      "圣诞节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-008",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "圣诞节",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "festlich",
+    "trans": [
+      "Adj. 节日的，隆重的，盛大的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-009",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "Adj. 节日的，隆重的，盛大的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schmücken",
+    "trans": [
+      "装饰，点缀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-010",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "装饰，点缀",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Adventskranz",
+    "trans": [
+      "基督降临节枞树花环"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-011",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "基督降临节枞树花环",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kerze",
+    "trans": [
+      "蜡烛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-012",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "蜡烛",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anzünden",
+    "trans": [
+      "点燃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-013",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "点燃",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "jeweils",
+    "trans": [
+      "Adv. 每次"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-014",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "Adv. 每次",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Adventskalender",
+    "trans": [
+      "基督降临节日历"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-015",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "基督降临节日历",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Liebe",
+    "trans": [
+      "爱，爱情"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-016",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "爱，爱情",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Weihnachtsbaum",
+    "trans": [
+      "圣诞树"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-017",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "圣诞树",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tannenbaum",
+    "trans": [
+      "枞树"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-018",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "枞树",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hoffnung",
+    "trans": [
+      "希望，期望"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-019",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "希望，期望",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ende",
+    "trans": [
+      "结束，尽头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-020",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "结束，尽头",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "versammeln",
+    "trans": [
+      "聚集"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-021",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "聚集",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verteilen",
+    "trans": [
+      "分给，分发，分配"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-022",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "分给，分发，分配",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Weihnachtsmann",
+    "trans": [
+      "圣诞老人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-023",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "圣诞老人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "feiern",
+    "trans": [
+      "庆祝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-024",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "庆祝",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Neujahr",
+    "trans": [
+      "新年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-025",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "新年",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Jahreswechsel",
+    "trans": [
+      "两年相交之际"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-026",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "两年相交之际",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Silvester",
+    "trans": [
+      "除夕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-027",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "除夕",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Feuerwerk",
+    "trans": [
+      "烟火，礼花"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-028",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "烟火，礼花",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abbrennen",
+    "trans": [
+      "燃放（烟火）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-029",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "燃放（烟火）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rakete",
+    "trans": [
+      "焰火；火箭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-030",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "焰火；火箭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Knaller",
+    "trans": [
+      "鞭炮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-031",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "鞭炮",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sekt",
+    "trans": [
+      "香槟酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-032",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "香槟酒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Oktoberfest",
+    "trans": [
+      "慕尼黑十月啤酒节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-033",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "慕尼黑十月啤酒节",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Volksfest",
+    "trans": [
+      "民间节日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-034",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "民间节日",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "enden",
+    "trans": [
+      "终止，结束"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-035",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "终止，结束",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "riesig",
+    "trans": [
+      "Adj. 巨大的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-036",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "Adj. 巨大的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Brathähnchen",
+    "trans": [
+      "烤鸡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-037",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "烤鸡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bratwürstchen",
+    "trans": [
+      "烤肠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-038",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "烤肠",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bayerisch",
+    "trans": [
+      "巴伐利亚的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-039",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "巴伐利亚的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Blasmusik",
+    "trans": [
+      "管乐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-040",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "管乐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schunkeln",
+    "trans": [
+      "（众人手挽手随音乐节拍）左右摇晃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-041",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "（众人手挽手随音乐节拍）左右摇晃",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Höhepunkt",
+    "trans": [
+      "顶点，高潮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-042",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "顶点，高潮",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Umzug",
+    "trans": [
+      "游行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-043",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "游行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rheinland",
+    "trans": [
+      "莱茵河地区"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-044",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "莱茵河地区",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fasching",
+    "trans": [
+      "狂欢节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-045",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "狂欢节",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Frühling",
+    "trans": [
+      "春天，春季"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-046",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "春天，春季",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verkleidet",
+    "trans": [
+      "P.II 装扮，化装"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-047",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "P.II 装扮，化装",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verrückt",
+    "trans": [
+      "Adj. 疯癫的，怪诞的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-048",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "Adj. 疯癫的，怪诞的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bunt",
+    "trans": [
+      "Adj. 彩色的，五彩斑斓的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-049",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "Adj. 彩色的，五彩斑斓的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rosenmontag",
+    "trans": [
+      "玫瑰星期一"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-050",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "玫瑰星期一",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zuschauen",
+    "trans": [
+      "观看"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-051",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "观看",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erinnern",
+    "trans": [
+      "回忆，想起，记得"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-052",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "回忆，想起，记得",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aussuchen",
+    "trans": [
+      "挑选，选出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-053",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "挑选，选出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "friedlich",
+    "trans": [
+      "Adj. 宁静的，安静的，和平的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-054",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "Adj. 宁静的，安静的，和平的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lichtlein",
+    "trans": [
+      "（微小的）光，光亮，灯火"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-055",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "（微小的）光，光亮，灯火",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "brennen",
+    "trans": [
+      "（灯）亮着，燃烧；点燃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-056",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "（灯）亮着，燃烧；点燃",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Überraschung",
+    "trans": [
+      "惊喜，意想不到的事"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-057",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "惊喜，意想不到的事",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Süßigkeit",
+    "trans": [
+      "糖果，甜食"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-058",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "糖果，甜食",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "basteln",
+    "trans": [
+      "（业余）做小手工，制作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-059",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "（业余）做小手工，制作",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Erwachsene",
+    "trans": [
+      "d.w. Adj. 成年人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-060",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "d.w. Adj. 成年人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "berechnen",
+    "trans": [
+      "计算，算出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-061",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "计算，算出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mondkalender",
+    "trans": [
+      "月历，农历"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-062",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "月历，农历",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Frühlingsfest",
+    "trans": [
+      "春节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-063",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "春节",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vorabend",
+    "trans": [
+      "前夕，前夜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-064",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "前夕，前夜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Festessen",
+    "trans": [
+      "节日盛宴，（这里指）年夜饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-065",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "节日盛宴，（这里指）年夜饭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kracher",
+    "trans": [
+      "爆竹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-066",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "爆竹",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vertreiben",
+    "trans": [
+      "把......赶走，驱逐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-067",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "把......赶走，驱逐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geist",
+    "trans": [
+      "魔怪，鬼神，精灵；精神"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-068",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "魔怪，鬼神，精灵；精神",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Löwentanz",
+    "trans": [
+      "舞狮子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-069",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "舞狮子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Drachentanz",
+    "trans": [
+      "舞龙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-070",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "舞龙",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Laternenfest",
+    "trans": [
+      "元宵节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-071",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "元宵节",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ausstellung",
+    "trans": [
+      "展览（会）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-072",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "展览（会）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sitte",
+    "trans": [
+      "习俗，风俗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-073",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "习俗，风俗",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "symbolisieren",
+    "trans": [
+      "象征"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-074",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "象征",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Drachenbootfest",
+    "trans": [
+      "端午节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-075",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "端午节",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gedenken",
+    "trans": [
+      "纪念，怀念"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-076",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "纪念，怀念",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "veranstalten",
+    "trans": [
+      "举办，举行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-077",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "举办，举行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rennen",
+    "trans": [
+      "举行（速度）比赛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-078",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "举行（速度）比赛",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Drachenboot",
+    "trans": [
+      "龙船"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-079",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "龙船",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mondfest",
+    "trans": [
+      "中秋节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-080",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "中秋节",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "leuchten",
+    "trans": [
+      "照亮，发光"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-081",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "照亮，发光",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mond",
+    "trans": [
+      "月亮，月球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-082",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "月亮，月球",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Familienangehörige",
+    "trans": [
+      "d.w. Adj. 家庭成员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-083",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "d.w. Adj. 家庭成员",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mondkuchen",
+    "trans": [
+      "月饼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E9-084",
+    "sourceSheet": "B2E9",
+    "sourceMeaning": "月饼",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

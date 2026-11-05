@@ -1,0 +1,808 @@
+[
+  {
+    "name": "recepción",
+    "trans": [
+      "宾馆前台"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-001",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "宾馆前台",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hotel",
+    "trans": [
+      "饭店，宾馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-002",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "饭店，宾馆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "recepcionista",
+    "trans": [
+      "前台服务员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-003",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "前台服务员",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entregar",
+    "trans": [
+      "交出，交给"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-004",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "交出，交给",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "turista",
+    "trans": [
+      "游客"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-005",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "游客",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bienvenido, da",
+    "trans": [
+      "欢迎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-006",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "欢迎",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pendiente",
+    "trans": [
+      "悬着的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-007",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "悬着的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "subir",
+    "trans": [
+      "向上走；送上去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-008",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "向上走；送上去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gritar",
+    "trans": [
+      "喊，叫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-009",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "喊，叫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "carrito",
+    "trans": [
+      "小车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-010",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "小车",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "equipaje",
+    "trans": [
+      "行李"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-011",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "行李",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tuyo, ya",
+    "trans": [
+      "你的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-012",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "你的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "rojo, ja",
+    "trans": [
+      "红色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-013",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "红色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "junto a",
+    "trans": [
+      "在近旁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-014",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "在近旁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mío, a",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-015",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "我的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ahí",
+    "trans": [
+      "那里，那边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-016",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "那里，那边",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "debajo de",
+    "trans": [
+      "在下面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-017",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "在下面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "maletín",
+    "trans": [
+      "手提包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-018",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "手提包",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bolso",
+    "trans": [
+      "包，袋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-019",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "包，袋",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "demás",
+    "trans": [
+      "其他（人、物）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-020",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "其他（人、物）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mostrador",
+    "trans": [
+      "柜台"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-021",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "柜台",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "alguno, na",
+    "trans": [
+      "某位；某个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-022",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "某位；某个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dueño, ña",
+    "trans": [
+      "主人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-023",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "主人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "oír",
+    "trans": [
+      "听见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-024",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "听见",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pasar",
+    "trans": [
+      "传递"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-025",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "传递",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cuál",
+    "trans": [
+      "哪一个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-026",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "哪一个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "número",
+    "trans": [
+      "号码"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-027",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "号码",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "piso",
+    "trans": [
+      "层"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-028",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "层",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mil",
+    "trans": [
+      "千"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-029",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "千",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pena",
+    "trans": [
+      "遗憾；痛苦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-030",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "遗憾；痛苦",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vecino, na",
+    "trans": [
+      "邻居"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-031",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "邻居",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "regalo",
+    "trans": [
+      "礼物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-032",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "礼物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "viaje",
+    "trans": [
+      "旅行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-033",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "旅行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nieto, ta",
+    "trans": [
+      "孙子，孙女；外孙，外孙女"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-034",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "孙子，孙女；外孙，外孙女",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "niño, ña",
+    "trans": [
+      "儿童"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-035",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "儿童",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "saltar",
+    "trans": [
+      "跳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-036",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "跳",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "besar",
+    "trans": [
+      "亲吻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-037",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "亲吻",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abrir",
+    "trans": [
+      "打开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-038",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "打开",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "paquete",
+    "trans": [
+      "包裹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-039",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "包裹",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "camiseta",
+    "trans": [
+      "汗衫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-040",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "汗衫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verde",
+    "trans": [
+      "绿色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-041",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "绿色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "azul",
+    "trans": [
+      "蓝色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-042",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "蓝色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "marrón",
+    "trans": [
+      "棕色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-043",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "棕色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "color",
+    "trans": [
+      "颜色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-044",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "颜色",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "amarillo, lla",
+    "trans": [
+      "黄色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-045",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "黄色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dentro",
+    "trans": [
+      "在里面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-046",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "在里面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cuidado",
+    "trans": [
+      "小心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-047",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "小心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "romper",
+    "trans": [
+      "打破"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-048",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "打破",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "juguete",
+    "trans": [
+      "玩具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-049",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "玩具",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bonito, ta",
+    "trans": [
+      "好看的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-050",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "好看的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dar",
+    "trans": [
+      "给"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-051",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "给",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cariño",
+    "trans": [
+      "喜爱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-052",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "喜爱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beso",
+    "trans": [
+      "吻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-053",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "吻",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "al lado de",
+    "trans": [
+      "在……旁边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-054",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "在……旁边",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bajar",
+    "trans": [
+      "向下走"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-055",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "向下走",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "blanco, ca",
+    "trans": [
+      "白色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-056",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "白色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "café",
+    "trans": [
+      "咖啡色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-057",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "咖啡色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "encima de",
+    "trans": [
+      "在……上面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-058",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "在……上面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "feo, a",
+    "trans": [
+      "难看，丑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-059",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "难看，丑",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gris",
+    "trans": [
+      "灰色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-060",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "灰色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "naranja",
+    "trans": [
+      "橙色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-061",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "橙色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "negro, gra",
+    "trans": [
+      "黑色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U08-062",
+    "sourceSheet": "B1U8",
+    "sourceMeaning": "黑色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

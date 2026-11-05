@@ -1,0 +1,3018 @@
+[
+  {
+    "id": "zju-de-b1-unit-1",
+    "name": "德语 B1 · Unit 1",
+    "description": "德语课程词汇 · B1 · 第 1 单元",
+    "category": "德语 B1",
+    "courseBook": "德语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-de-b1-unit-1.json",
+    "length": 100,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b1-unit-2",
+    "name": "德语 B1 · Unit 2",
+    "description": "德语课程词汇 · B1 · 第 2 单元",
+    "category": "德语 B1",
+    "courseBook": "德语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-de-b1-unit-2.json",
+    "length": 83,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b1-unit-3",
+    "name": "德语 B1 · Unit 3",
+    "description": "德语课程词汇 · B1 · 第 3 单元",
+    "category": "德语 B1",
+    "courseBook": "德语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-de-b1-unit-3.json",
+    "length": 97,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b1-unit-4",
+    "name": "德语 B1 · Unit 4",
+    "description": "德语课程词汇 · B1 · 第 4 单元",
+    "category": "德语 B1",
+    "courseBook": "德语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-de-b1-unit-4.json",
+    "length": 107,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b1-unit-5",
+    "name": "德语 B1 · Unit 5",
+    "description": "德语课程词汇 · B1 · 第 5 单元",
+    "category": "德语 B1",
+    "courseBook": "德语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-de-b1-unit-5.json",
+    "length": 116,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b1-unit-6",
+    "name": "德语 B1 · Unit 6",
+    "description": "德语课程词汇 · B1 · 第 6 单元",
+    "category": "德语 B1",
+    "courseBook": "德语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-de-b1-unit-6.json",
+    "length": 97,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b1-unit-7",
+    "name": "德语 B1 · Unit 7",
+    "description": "德语课程词汇 · B1 · 第 7 单元",
+    "category": "德语 B1",
+    "courseBook": "德语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-de-b1-unit-7.json",
+    "length": 67,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b1-unit-8",
+    "name": "德语 B1 · Unit 8",
+    "description": "德语课程词汇 · B1 · 第 8 单元",
+    "category": "德语 B1",
+    "courseBook": "德语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-de-b1-unit-8.json",
+    "length": 81,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b1-unit-9",
+    "name": "德语 B1 · Unit 9",
+    "description": "德语课程词汇 · B1 · 第 9 单元",
+    "category": "德语 B1",
+    "courseBook": "德语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-de-b1-unit-9.json",
+    "length": 81,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b1-unit-10",
+    "name": "德语 B1 · Unit 10",
+    "description": "德语课程词汇 · B1 · 第 10 单元",
+    "category": "德语 B1",
+    "courseBook": "德语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-de-b1-unit-10.json",
+    "length": 63,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b2-unit-1",
+    "name": "德语 B2 · Unit 1",
+    "description": "德语课程词汇 · B2 · 第 1 单元",
+    "category": "德语 B2",
+    "courseBook": "德语 B2",
+    "tags": [
+      "小语种课程",
+      "B2"
+    ],
+    "url": "/dicts/zju-de-b2-unit-1.json",
+    "length": 75,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b2-unit-2",
+    "name": "德语 B2 · Unit 2",
+    "description": "德语课程词汇 · B2 · 第 2 单元",
+    "category": "德语 B2",
+    "courseBook": "德语 B2",
+    "tags": [
+      "小语种课程",
+      "B2"
+    ],
+    "url": "/dicts/zju-de-b2-unit-2.json",
+    "length": 78,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b2-unit-3",
+    "name": "德语 B2 · Unit 3",
+    "description": "德语课程词汇 · B2 · 第 3 单元",
+    "category": "德语 B2",
+    "courseBook": "德语 B2",
+    "tags": [
+      "小语种课程",
+      "B2"
+    ],
+    "url": "/dicts/zju-de-b2-unit-3.json",
+    "length": 98,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b2-unit-4",
+    "name": "德语 B2 · Unit 4",
+    "description": "德语课程词汇 · B2 · 第 4 单元",
+    "category": "德语 B2",
+    "courseBook": "德语 B2",
+    "tags": [
+      "小语种课程",
+      "B2"
+    ],
+    "url": "/dicts/zju-de-b2-unit-4.json",
+    "length": 110,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b2-unit-5",
+    "name": "德语 B2 · Unit 5",
+    "description": "德语课程词汇 · B2 · 第 5 单元",
+    "category": "德语 B2",
+    "courseBook": "德语 B2",
+    "tags": [
+      "小语种课程",
+      "B2"
+    ],
+    "url": "/dicts/zju-de-b2-unit-5.json",
+    "length": 97,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b2-unit-6",
+    "name": "德语 B2 · Unit 6",
+    "description": "德语课程词汇 · B2 · 第 6 单元",
+    "category": "德语 B2",
+    "courseBook": "德语 B2",
+    "tags": [
+      "小语种课程",
+      "B2"
+    ],
+    "url": "/dicts/zju-de-b2-unit-6.json",
+    "length": 69,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b2-unit-7",
+    "name": "德语 B2 · Unit 7",
+    "description": "德语课程词汇 · B2 · 第 7 单元",
+    "category": "德语 B2",
+    "courseBook": "德语 B2",
+    "tags": [
+      "小语种课程",
+      "B2"
+    ],
+    "url": "/dicts/zju-de-b2-unit-7.json",
+    "length": 90,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b2-unit-8",
+    "name": "德语 B2 · Unit 8",
+    "description": "德语课程词汇 · B2 · 第 8 单元",
+    "category": "德语 B2",
+    "courseBook": "德语 B2",
+    "tags": [
+      "小语种课程",
+      "B2"
+    ],
+    "url": "/dicts/zju-de-b2-unit-8.json",
+    "length": 91,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b2-unit-9",
+    "name": "德语 B2 · Unit 9",
+    "description": "德语课程词汇 · B2 · 第 9 单元",
+    "category": "德语 B2",
+    "courseBook": "德语 B2",
+    "tags": [
+      "小语种课程",
+      "B2"
+    ],
+    "url": "/dicts/zju-de-b2-unit-9.json",
+    "length": 84,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b2-unit-10",
+    "name": "德语 B2 · Unit 10",
+    "description": "德语课程词汇 · B2 · 第 10 单元",
+    "category": "德语 B2",
+    "courseBook": "德语 B2",
+    "tags": [
+      "小语种课程",
+      "B2"
+    ],
+    "url": "/dicts/zju-de-b2-unit-10.json",
+    "length": 61,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b3-unit-1",
+    "name": "德语 B3 · Unit 1",
+    "description": "德语课程词汇 · B3 · 第 1 单元",
+    "category": "德语 B3",
+    "courseBook": "德语 B3",
+    "tags": [
+      "小语种课程",
+      "B3"
+    ],
+    "url": "/dicts/zju-de-b3-unit-1.json",
+    "length": 75,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b3-unit-2",
+    "name": "德语 B3 · Unit 2",
+    "description": "德语课程词汇 · B3 · 第 2 单元",
+    "category": "德语 B3",
+    "courseBook": "德语 B3",
+    "tags": [
+      "小语种课程",
+      "B3"
+    ],
+    "url": "/dicts/zju-de-b3-unit-2.json",
+    "length": 98,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b3-unit-3",
+    "name": "德语 B3 · Unit 3",
+    "description": "德语课程词汇 · B3 · 第 3 单元",
+    "category": "德语 B3",
+    "courseBook": "德语 B3",
+    "tags": [
+      "小语种课程",
+      "B3"
+    ],
+    "url": "/dicts/zju-de-b3-unit-3.json",
+    "length": 71,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b3-unit-4",
+    "name": "德语 B3 · Unit 4",
+    "description": "德语课程词汇 · B3 · 第 4 单元",
+    "category": "德语 B3",
+    "courseBook": "德语 B3",
+    "tags": [
+      "小语种课程",
+      "B3"
+    ],
+    "url": "/dicts/zju-de-b3-unit-4.json",
+    "length": 77,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b3-unit-5",
+    "name": "德语 B3 · Unit 5",
+    "description": "德语课程词汇 · B3 · 第 5 单元",
+    "category": "德语 B3",
+    "courseBook": "德语 B3",
+    "tags": [
+      "小语种课程",
+      "B3"
+    ],
+    "url": "/dicts/zju-de-b3-unit-5.json",
+    "length": 132,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b3-unit-6",
+    "name": "德语 B3 · Unit 6",
+    "description": "德语课程词汇 · B3 · 第 6 单元",
+    "category": "德语 B3",
+    "courseBook": "德语 B3",
+    "tags": [
+      "小语种课程",
+      "B3"
+    ],
+    "url": "/dicts/zju-de-b3-unit-6.json",
+    "length": 97,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b3-unit-7",
+    "name": "德语 B3 · Unit 7",
+    "description": "德语课程词汇 · B3 · 第 7 单元",
+    "category": "德语 B3",
+    "courseBook": "德语 B3",
+    "tags": [
+      "小语种课程",
+      "B3"
+    ],
+    "url": "/dicts/zju-de-b3-unit-7.json",
+    "length": 90,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b3-unit-8",
+    "name": "德语 B3 · Unit 8",
+    "description": "德语课程词汇 · B3 · 第 8 单元",
+    "category": "德语 B3",
+    "courseBook": "德语 B3",
+    "tags": [
+      "小语种课程",
+      "B3"
+    ],
+    "url": "/dicts/zju-de-b3-unit-8.json",
+    "length": 89,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b3-unit-9",
+    "name": "德语 B3 · Unit 9",
+    "description": "德语课程词汇 · B3 · 第 9 单元",
+    "category": "德语 B3",
+    "courseBook": "德语 B3",
+    "tags": [
+      "小语种课程",
+      "B3"
+    ],
+    "url": "/dicts/zju-de-b3-unit-9.json",
+    "length": 73,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b3-unit-10",
+    "name": "德语 B3 · Unit 10",
+    "description": "德语课程词汇 · B3 · 第 10 单元",
+    "category": "德语 B3",
+    "courseBook": "德语 B3",
+    "tags": [
+      "小语种课程",
+      "B3"
+    ],
+    "url": "/dicts/zju-de-b3-unit-10.json",
+    "length": 69,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b4-unit-1",
+    "name": "德语 B4 · Unit 1",
+    "description": "德语课程词汇 · B4 · 第 1 单元",
+    "category": "德语 B4",
+    "courseBook": "德语 B4",
+    "tags": [
+      "小语种课程",
+      "B4"
+    ],
+    "url": "/dicts/zju-de-b4-unit-1.json",
+    "length": 62,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b4-unit-2",
+    "name": "德语 B4 · Unit 2",
+    "description": "德语课程词汇 · B4 · 第 2 单元",
+    "category": "德语 B4",
+    "courseBook": "德语 B4",
+    "tags": [
+      "小语种课程",
+      "B4"
+    ],
+    "url": "/dicts/zju-de-b4-unit-2.json",
+    "length": 57,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b4-unit-3",
+    "name": "德语 B4 · Unit 3",
+    "description": "德语课程词汇 · B4 · 第 3 单元",
+    "category": "德语 B4",
+    "courseBook": "德语 B4",
+    "tags": [
+      "小语种课程",
+      "B4"
+    ],
+    "url": "/dicts/zju-de-b4-unit-3.json",
+    "length": 80,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b4-unit-4",
+    "name": "德语 B4 · Unit 4",
+    "description": "德语课程词汇 · B4 · 第 4 单元",
+    "category": "德语 B4",
+    "courseBook": "德语 B4",
+    "tags": [
+      "小语种课程",
+      "B4"
+    ],
+    "url": "/dicts/zju-de-b4-unit-4.json",
+    "length": 68,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b4-unit-5",
+    "name": "德语 B4 · Unit 5",
+    "description": "德语课程词汇 · B4 · 第 5 单元",
+    "category": "德语 B4",
+    "courseBook": "德语 B4",
+    "tags": [
+      "小语种课程",
+      "B4"
+    ],
+    "url": "/dicts/zju-de-b4-unit-5.json",
+    "length": 84,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b4-unit-6",
+    "name": "德语 B4 · Unit 6",
+    "description": "德语课程词汇 · B4 · 第 6 单元",
+    "category": "德语 B4",
+    "courseBook": "德语 B4",
+    "tags": [
+      "小语种课程",
+      "B4"
+    ],
+    "url": "/dicts/zju-de-b4-unit-6.json",
+    "length": 79,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b4-unit-7",
+    "name": "德语 B4 · Unit 7",
+    "description": "德语课程词汇 · B4 · 第 7 单元",
+    "category": "德语 B4",
+    "courseBook": "德语 B4",
+    "tags": [
+      "小语种课程",
+      "B4"
+    ],
+    "url": "/dicts/zju-de-b4-unit-7.json",
+    "length": 59,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b4-unit-8",
+    "name": "德语 B4 · Unit 8",
+    "description": "德语课程词汇 · B4 · 第 8 单元",
+    "category": "德语 B4",
+    "courseBook": "德语 B4",
+    "tags": [
+      "小语种课程",
+      "B4"
+    ],
+    "url": "/dicts/zju-de-b4-unit-8.json",
+    "length": 52,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b4-unit-9",
+    "name": "德语 B4 · Unit 9",
+    "description": "德语课程词汇 · B4 · 第 9 单元",
+    "category": "德语 B4",
+    "courseBook": "德语 B4",
+    "tags": [
+      "小语种课程",
+      "B4"
+    ],
+    "url": "/dicts/zju-de-b4-unit-9.json",
+    "length": 78,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-de-b4-unit-10",
+    "name": "德语 B4 · Unit 10",
+    "description": "德语课程词汇 · B4 · 第 10 单元",
+    "category": "德语 B4",
+    "courseBook": "德语 B4",
+    "tags": [
+      "小语种课程",
+      "B4"
+    ],
+    "url": "/dicts/zju-de-b4-unit-10.json",
+    "length": 42,
+    "language": "de",
+    "languageCategory": "de",
+    "speechLang": "de-DE",
+    "specialKeys": [
+      "ä",
+      "ö",
+      "ü",
+      "Ä",
+      "Ö",
+      "Ü",
+      "ß"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-es-b1-unit-1",
+    "name": "西班牙语 B1 · Unit 1",
+    "description": "西班牙语课程词汇 · B1 · 第 1 单元",
+    "category": "西班牙语 B1",
+    "courseBook": "西班牙语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-es-b1-unit-1.json",
+    "length": 64,
+    "language": "es",
+    "languageCategory": "es",
+    "speechLang": "es-ES",
+    "specialKeys": [
+      "á",
+      "é",
+      "í",
+      "ó",
+      "ú",
+      "ü",
+      "ñ",
+      "Á",
+      "É",
+      "Í",
+      "Ó",
+      "Ú",
+      "Ü",
+      "Ñ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-es-b1-unit-2",
+    "name": "西班牙语 B1 · Unit 2",
+    "description": "西班牙语课程词汇 · B1 · 第 2 单元",
+    "category": "西班牙语 B1",
+    "courseBook": "西班牙语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-es-b1-unit-2.json",
+    "length": 59,
+    "language": "es",
+    "languageCategory": "es",
+    "speechLang": "es-ES",
+    "specialKeys": [
+      "á",
+      "é",
+      "í",
+      "ó",
+      "ú",
+      "ü",
+      "ñ",
+      "Á",
+      "É",
+      "Í",
+      "Ó",
+      "Ú",
+      "Ü",
+      "Ñ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-es-b1-unit-3",
+    "name": "西班牙语 B1 · Unit 3",
+    "description": "西班牙语课程词汇 · B1 · 第 3 单元",
+    "category": "西班牙语 B1",
+    "courseBook": "西班牙语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-es-b1-unit-3.json",
+    "length": 70,
+    "language": "es",
+    "languageCategory": "es",
+    "speechLang": "es-ES",
+    "specialKeys": [
+      "á",
+      "é",
+      "í",
+      "ó",
+      "ú",
+      "ü",
+      "ñ",
+      "Á",
+      "É",
+      "Í",
+      "Ó",
+      "Ú",
+      "Ü",
+      "Ñ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-es-b1-unit-4",
+    "name": "西班牙语 B1 · Unit 4",
+    "description": "西班牙语课程词汇 · B1 · 第 4 单元",
+    "category": "西班牙语 B1",
+    "courseBook": "西班牙语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-es-b1-unit-4.json",
+    "length": 81,
+    "language": "es",
+    "languageCategory": "es",
+    "speechLang": "es-ES",
+    "specialKeys": [
+      "á",
+      "é",
+      "í",
+      "ó",
+      "ú",
+      "ü",
+      "ñ",
+      "Á",
+      "É",
+      "Í",
+      "Ó",
+      "Ú",
+      "Ü",
+      "Ñ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-es-b1-unit-5",
+    "name": "西班牙语 B1 · Unit 5",
+    "description": "西班牙语课程词汇 · B1 · 第 5 单元",
+    "category": "西班牙语 B1",
+    "courseBook": "西班牙语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-es-b1-unit-5.json",
+    "length": 73,
+    "language": "es",
+    "languageCategory": "es",
+    "speechLang": "es-ES",
+    "specialKeys": [
+      "á",
+      "é",
+      "í",
+      "ó",
+      "ú",
+      "ü",
+      "ñ",
+      "Á",
+      "É",
+      "Í",
+      "Ó",
+      "Ú",
+      "Ü",
+      "Ñ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-es-b1-unit-6",
+    "name": "西班牙语 B1 · Unit 6",
+    "description": "西班牙语课程词汇 · B1 · 第 6 单元",
+    "category": "西班牙语 B1",
+    "courseBook": "西班牙语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-es-b1-unit-6.json",
+    "length": 58,
+    "language": "es",
+    "languageCategory": "es",
+    "speechLang": "es-ES",
+    "specialKeys": [
+      "á",
+      "é",
+      "í",
+      "ó",
+      "ú",
+      "ü",
+      "ñ",
+      "Á",
+      "É",
+      "Í",
+      "Ó",
+      "Ú",
+      "Ü",
+      "Ñ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-es-b1-unit-7",
+    "name": "西班牙语 B1 · Unit 7",
+    "description": "西班牙语课程词汇 · B1 · 第 7 单元",
+    "category": "西班牙语 B1",
+    "courseBook": "西班牙语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-es-b1-unit-7.json",
+    "length": 62,
+    "language": "es",
+    "languageCategory": "es",
+    "speechLang": "es-ES",
+    "specialKeys": [
+      "á",
+      "é",
+      "í",
+      "ó",
+      "ú",
+      "ü",
+      "ñ",
+      "Á",
+      "É",
+      "Í",
+      "Ó",
+      "Ú",
+      "Ü",
+      "Ñ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-es-b1-unit-8",
+    "name": "西班牙语 B1 · Unit 8",
+    "description": "西班牙语课程词汇 · B1 · 第 8 单元",
+    "category": "西班牙语 B1",
+    "courseBook": "西班牙语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-es-b1-unit-8.json",
+    "length": 62,
+    "language": "es",
+    "languageCategory": "es",
+    "speechLang": "es-ES",
+    "specialKeys": [
+      "á",
+      "é",
+      "í",
+      "ó",
+      "ú",
+      "ü",
+      "ñ",
+      "Á",
+      "É",
+      "Í",
+      "Ó",
+      "Ú",
+      "Ü",
+      "Ñ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-es-b1-unit-9",
+    "name": "西班牙语 B1 · Unit 9",
+    "description": "西班牙语课程词汇 · B1 · 第 9 单元",
+    "category": "西班牙语 B1",
+    "courseBook": "西班牙语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-es-b1-unit-9.json",
+    "length": 61,
+    "language": "es",
+    "languageCategory": "es",
+    "speechLang": "es-ES",
+    "specialKeys": [
+      "á",
+      "é",
+      "í",
+      "ó",
+      "ú",
+      "ü",
+      "ñ",
+      "Á",
+      "É",
+      "Í",
+      "Ó",
+      "Ú",
+      "Ü",
+      "Ñ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-es-b1-unit-10",
+    "name": "西班牙语 B1 · Unit 10",
+    "description": "西班牙语课程词汇 · B1 · 第 10 单元",
+    "category": "西班牙语 B1",
+    "courseBook": "西班牙语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-es-b1-unit-10.json",
+    "length": 66,
+    "language": "es",
+    "languageCategory": "es",
+    "speechLang": "es-ES",
+    "specialKeys": [
+      "á",
+      "é",
+      "í",
+      "ó",
+      "ú",
+      "ü",
+      "ñ",
+      "Á",
+      "É",
+      "Í",
+      "Ó",
+      "Ú",
+      "Ü",
+      "Ñ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-fr-b1-unit-1",
+    "name": "法语 B1 · Unit 1",
+    "description": "法语课程词汇 · B1 · 第 1 单元",
+    "category": "法语 B1",
+    "courseBook": "法语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-fr-b1-unit-1.json",
+    "length": 41,
+    "language": "fr",
+    "languageCategory": "fr",
+    "speechLang": "fr-FR",
+    "specialKeys": [
+      "à",
+      "â",
+      "ä",
+      "æ",
+      "ç",
+      "é",
+      "è",
+      "ê",
+      "ë",
+      "î",
+      "ï",
+      "ô",
+      "ö",
+      "œ",
+      "ù",
+      "û",
+      "ü",
+      "ÿ",
+      "À",
+      "Â",
+      "Ä",
+      "Æ",
+      "Ç",
+      "É",
+      "È",
+      "Ê",
+      "Ë",
+      "Î",
+      "Ï",
+      "Ô",
+      "Ö",
+      "Œ",
+      "Ù",
+      "Û",
+      "Ü",
+      "Ÿ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-fr-b1-unit-2",
+    "name": "法语 B1 · Unit 2",
+    "description": "法语课程词汇 · B1 · 第 2 单元",
+    "category": "法语 B1",
+    "courseBook": "法语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-fr-b1-unit-2.json",
+    "length": 36,
+    "language": "fr",
+    "languageCategory": "fr",
+    "speechLang": "fr-FR",
+    "specialKeys": [
+      "à",
+      "â",
+      "ä",
+      "æ",
+      "ç",
+      "é",
+      "è",
+      "ê",
+      "ë",
+      "î",
+      "ï",
+      "ô",
+      "ö",
+      "œ",
+      "ù",
+      "û",
+      "ü",
+      "ÿ",
+      "À",
+      "Â",
+      "Ä",
+      "Æ",
+      "Ç",
+      "É",
+      "È",
+      "Ê",
+      "Ë",
+      "Î",
+      "Ï",
+      "Ô",
+      "Ö",
+      "Œ",
+      "Ù",
+      "Û",
+      "Ü",
+      "Ÿ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-fr-b1-unit-3",
+    "name": "法语 B1 · Unit 3",
+    "description": "法语课程词汇 · B1 · 第 3 单元",
+    "category": "法语 B1",
+    "courseBook": "法语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-fr-b1-unit-3.json",
+    "length": 38,
+    "language": "fr",
+    "languageCategory": "fr",
+    "speechLang": "fr-FR",
+    "specialKeys": [
+      "à",
+      "â",
+      "ä",
+      "æ",
+      "ç",
+      "é",
+      "è",
+      "ê",
+      "ë",
+      "î",
+      "ï",
+      "ô",
+      "ö",
+      "œ",
+      "ù",
+      "û",
+      "ü",
+      "ÿ",
+      "À",
+      "Â",
+      "Ä",
+      "Æ",
+      "Ç",
+      "É",
+      "È",
+      "Ê",
+      "Ë",
+      "Î",
+      "Ï",
+      "Ô",
+      "Ö",
+      "Œ",
+      "Ù",
+      "Û",
+      "Ü",
+      "Ÿ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-fr-b1-unit-4",
+    "name": "法语 B1 · Unit 4",
+    "description": "法语课程词汇 · B1 · 第 4 单元",
+    "category": "法语 B1",
+    "courseBook": "法语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-fr-b1-unit-4.json",
+    "length": 42,
+    "language": "fr",
+    "languageCategory": "fr",
+    "speechLang": "fr-FR",
+    "specialKeys": [
+      "à",
+      "â",
+      "ä",
+      "æ",
+      "ç",
+      "é",
+      "è",
+      "ê",
+      "ë",
+      "î",
+      "ï",
+      "ô",
+      "ö",
+      "œ",
+      "ù",
+      "û",
+      "ü",
+      "ÿ",
+      "À",
+      "Â",
+      "Ä",
+      "Æ",
+      "Ç",
+      "É",
+      "È",
+      "Ê",
+      "Ë",
+      "Î",
+      "Ï",
+      "Ô",
+      "Ö",
+      "Œ",
+      "Ù",
+      "Û",
+      "Ü",
+      "Ÿ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-fr-b1-unit-5",
+    "name": "法语 B1 · Unit 5",
+    "description": "法语课程词汇 · B1 · 第 5 单元",
+    "category": "法语 B1",
+    "courseBook": "法语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-fr-b1-unit-5.json",
+    "length": 51,
+    "language": "fr",
+    "languageCategory": "fr",
+    "speechLang": "fr-FR",
+    "specialKeys": [
+      "à",
+      "â",
+      "ä",
+      "æ",
+      "ç",
+      "é",
+      "è",
+      "ê",
+      "ë",
+      "î",
+      "ï",
+      "ô",
+      "ö",
+      "œ",
+      "ù",
+      "û",
+      "ü",
+      "ÿ",
+      "À",
+      "Â",
+      "Ä",
+      "Æ",
+      "Ç",
+      "É",
+      "È",
+      "Ê",
+      "Ë",
+      "Î",
+      "Ï",
+      "Ô",
+      "Ö",
+      "Œ",
+      "Ù",
+      "Û",
+      "Ü",
+      "Ÿ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-fr-b1-unit-6",
+    "name": "法语 B1 · Unit 6",
+    "description": "法语课程词汇 · B1 · 第 6 单元",
+    "category": "法语 B1",
+    "courseBook": "法语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-fr-b1-unit-6.json",
+    "length": 87,
+    "language": "fr",
+    "languageCategory": "fr",
+    "speechLang": "fr-FR",
+    "specialKeys": [
+      "à",
+      "â",
+      "ä",
+      "æ",
+      "ç",
+      "é",
+      "è",
+      "ê",
+      "ë",
+      "î",
+      "ï",
+      "ô",
+      "ö",
+      "œ",
+      "ù",
+      "û",
+      "ü",
+      "ÿ",
+      "À",
+      "Â",
+      "Ä",
+      "Æ",
+      "Ç",
+      "É",
+      "È",
+      "Ê",
+      "Ë",
+      "Î",
+      "Ï",
+      "Ô",
+      "Ö",
+      "Œ",
+      "Ù",
+      "Û",
+      "Ü",
+      "Ÿ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-fr-b1-unit-7",
+    "name": "法语 B1 · Unit 7",
+    "description": "法语课程词汇 · B1 · 第 7 单元",
+    "category": "法语 B1",
+    "courseBook": "法语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-fr-b1-unit-7.json",
+    "length": 76,
+    "language": "fr",
+    "languageCategory": "fr",
+    "speechLang": "fr-FR",
+    "specialKeys": [
+      "à",
+      "â",
+      "ä",
+      "æ",
+      "ç",
+      "é",
+      "è",
+      "ê",
+      "ë",
+      "î",
+      "ï",
+      "ô",
+      "ö",
+      "œ",
+      "ù",
+      "û",
+      "ü",
+      "ÿ",
+      "À",
+      "Â",
+      "Ä",
+      "Æ",
+      "Ç",
+      "É",
+      "È",
+      "Ê",
+      "Ë",
+      "Î",
+      "Ï",
+      "Ô",
+      "Ö",
+      "Œ",
+      "Ù",
+      "Û",
+      "Ü",
+      "Ÿ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-fr-b1-unit-8",
+    "name": "法语 B1 · Unit 8",
+    "description": "法语课程词汇 · B1 · 第 8 单元",
+    "category": "法语 B1",
+    "courseBook": "法语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-fr-b1-unit-8.json",
+    "length": 62,
+    "language": "fr",
+    "languageCategory": "fr",
+    "speechLang": "fr-FR",
+    "specialKeys": [
+      "à",
+      "â",
+      "ä",
+      "æ",
+      "ç",
+      "é",
+      "è",
+      "ê",
+      "ë",
+      "î",
+      "ï",
+      "ô",
+      "ö",
+      "œ",
+      "ù",
+      "û",
+      "ü",
+      "ÿ",
+      "À",
+      "Â",
+      "Ä",
+      "Æ",
+      "Ç",
+      "É",
+      "È",
+      "Ê",
+      "Ë",
+      "Î",
+      "Ï",
+      "Ô",
+      "Ö",
+      "Œ",
+      "Ù",
+      "Û",
+      "Ü",
+      "Ÿ"
+    ],
+    "inputHint": "可使用系统输入法输入；重音字母需保留。"
+  },
+  {
+    "id": "zju-ja-b1-unit-1",
+    "name": "日语 B1 · Unit 1",
+    "description": "日语课程词汇 · B1 · 第 1 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-1.json",
+    "length": 56,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-2",
+    "name": "日语 B1 · Unit 2",
+    "description": "日语课程词汇 · B1 · 第 2 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-2.json",
+    "length": 54,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-3",
+    "name": "日语 B1 · Unit 3",
+    "description": "日语课程词汇 · B1 · 第 3 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-3.json",
+    "length": 43,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-4",
+    "name": "日语 B1 · Unit 4",
+    "description": "日语课程词汇 · B1 · 第 4 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-4.json",
+    "length": 49,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-5",
+    "name": "日语 B1 · Unit 5",
+    "description": "日语课程词汇 · B1 · 第 5 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-5.json",
+    "length": 51,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-6",
+    "name": "日语 B1 · Unit 6",
+    "description": "日语课程词汇 · B1 · 第 6 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-6.json",
+    "length": 44,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-7",
+    "name": "日语 B1 · Unit 7",
+    "description": "日语课程词汇 · B1 · 第 7 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-7.json",
+    "length": 53,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-8",
+    "name": "日语 B1 · Unit 8",
+    "description": "日语课程词汇 · B1 · 第 8 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-8.json",
+    "length": 53,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-9",
+    "name": "日语 B1 · Unit 9",
+    "description": "日语课程词汇 · B1 · 第 9 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-9.json",
+    "length": 70,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-10",
+    "name": "日语 B1 · Unit 10",
+    "description": "日语课程词汇 · B1 · 第 10 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-10.json",
+    "length": 52,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-11",
+    "name": "日语 B1 · Unit 11",
+    "description": "日语课程词汇 · B1 · 第 11 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-11.json",
+    "length": 53,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-12",
+    "name": "日语 B1 · Unit 12",
+    "description": "日语课程词汇 · B1 · 第 12 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-12.json",
+    "length": 33,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-13",
+    "name": "日语 B1 · Unit 13",
+    "description": "日语课程词汇 · B1 · 第 13 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-13.json",
+    "length": 28,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-14",
+    "name": "日语 B1 · Unit 14",
+    "description": "日语课程词汇 · B1 · 第 14 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-14.json",
+    "length": 53,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-15",
+    "name": "日语 B1 · Unit 15",
+    "description": "日语课程词汇 · B1 · 第 15 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-15.json",
+    "length": 44,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-16",
+    "name": "日语 B1 · Unit 16",
+    "description": "日语课程词汇 · B1 · 第 16 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-16.json",
+    "length": 69,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-17",
+    "name": "日语 B1 · Unit 17",
+    "description": "日语课程词汇 · B1 · 第 17 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-17.json",
+    "length": 30,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-18",
+    "name": "日语 B1 · Unit 18",
+    "description": "日语课程词汇 · B1 · 第 18 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-18.json",
+    "length": 38,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-19",
+    "name": "日语 B1 · Unit 19",
+    "description": "日语课程词汇 · B1 · 第 19 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-19.json",
+    "length": 40,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-20",
+    "name": "日语 B1 · Unit 20",
+    "description": "日语课程词汇 · B1 · 第 20 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-20.json",
+    "length": 40,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-21",
+    "name": "日语 B1 · Unit 21",
+    "description": "日语课程词汇 · B1 · 第 21 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-21.json",
+    "length": 26,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-22",
+    "name": "日语 B1 · Unit 22",
+    "description": "日语课程词汇 · B1 · 第 22 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-22.json",
+    "length": 27,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-23",
+    "name": "日语 B1 · Unit 23",
+    "description": "日语课程词汇 · B1 · 第 23 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-23.json",
+    "length": 20,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-24",
+    "name": "日语 B1 · Unit 24",
+    "description": "日语课程词汇 · B1 · 第 24 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-24.json",
+    "length": 30,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-25",
+    "name": "日语 B1 · Unit 25",
+    "description": "日语课程词汇 · B1 · 第 25 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-25.json",
+    "length": 34,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-26",
+    "name": "日语 B1 · Unit 26",
+    "description": "日语课程词汇 · B1 · 第 26 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-26.json",
+    "length": 46,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-27",
+    "name": "日语 B1 · Unit 27",
+    "description": "日语课程词汇 · B1 · 第 27 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-27.json",
+    "length": 52,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-28",
+    "name": "日语 B1 · Unit 28",
+    "description": "日语课程词汇 · B1 · 第 28 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-28.json",
+    "length": 35,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-29",
+    "name": "日语 B1 · Unit 29",
+    "description": "日语课程词汇 · B1 · 第 29 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-29.json",
+    "length": 50,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-30",
+    "name": "日语 B1 · Unit 30",
+    "description": "日语课程词汇 · B1 · 第 30 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-30.json",
+    "length": 35,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-31",
+    "name": "日语 B1 · Unit 31",
+    "description": "日语课程词汇 · B1 · 第 31 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-31.json",
+    "length": 38,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-32",
+    "name": "日语 B1 · Unit 32",
+    "description": "日语课程词汇 · B1 · 第 32 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-32.json",
+    "length": 42,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-33",
+    "name": "日语 B1 · Unit 33",
+    "description": "日语课程词汇 · B1 · 第 33 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-33.json",
+    "length": 47,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-34",
+    "name": "日语 B1 · Unit 34",
+    "description": "日语课程词汇 · B1 · 第 34 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-34.json",
+    "length": 53,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-35",
+    "name": "日语 B1 · Unit 35",
+    "description": "日语课程词汇 · B1 · 第 35 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-35.json",
+    "length": 43,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-36",
+    "name": "日语 B1 · Unit 36",
+    "description": "日语课程词汇 · B1 · 第 36 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-36.json",
+    "length": 54,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-37",
+    "name": "日语 B1 · Unit 37",
+    "description": "日语课程词汇 · B1 · 第 37 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-37.json",
+    "length": 34,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-38",
+    "name": "日语 B1 · Unit 38",
+    "description": "日语课程词汇 · B1 · 第 38 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-38.json",
+    "length": 37,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-39",
+    "name": "日语 B1 · Unit 39",
+    "description": "日语课程词汇 · B1 · 第 39 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-39.json",
+    "length": 45,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-40",
+    "name": "日语 B1 · Unit 40",
+    "description": "日语课程词汇 · B1 · 第 40 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-40.json",
+    "length": 29,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-41",
+    "name": "日语 B1 · Unit 41",
+    "description": "日语课程词汇 · B1 · 第 41 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-41.json",
+    "length": 68,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-42",
+    "name": "日语 B1 · Unit 42",
+    "description": "日语课程词汇 · B1 · 第 42 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-42.json",
+    "length": 36,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-43",
+    "name": "日语 B1 · Unit 43",
+    "description": "日语课程词汇 · B1 · 第 43 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-43.json",
+    "length": 63,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-44",
+    "name": "日语 B1 · Unit 44",
+    "description": "日语课程词汇 · B1 · 第 44 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-44.json",
+    "length": 64,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-45",
+    "name": "日语 B1 · Unit 45",
+    "description": "日语课程词汇 · B1 · 第 45 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-45.json",
+    "length": 46,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-46",
+    "name": "日语 B1 · Unit 46",
+    "description": "日语课程词汇 · B1 · 第 46 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-46.json",
+    "length": 49,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-47",
+    "name": "日语 B1 · Unit 47",
+    "description": "日语课程词汇 · B1 · 第 47 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-47.json",
+    "length": 17,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ja-b1-unit-48",
+    "name": "日语 B1 · Unit 48",
+    "description": "日语课程词汇 · B1 · 第 48 单元",
+    "category": "日语 B1",
+    "courseBook": "日语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ja-b1-unit-48.json",
+    "length": 39,
+    "language": "ja",
+    "languageCategory": "ja",
+    "speechLang": "ja-JP",
+    "specialKeys": [],
+    "inputHint": "日语包含假名和汉字，建议使用系统日语输入法。"
+  },
+  {
+    "id": "zju-ko-b1-unit-1",
+    "name": "韩语 B1 · Unit 1",
+    "description": "韩语课程词汇 · B1 · 第 1 单元",
+    "category": "韩语 B1",
+    "courseBook": "韩语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ko-b1-unit-1.json",
+    "length": 63,
+    "language": "ko",
+    "languageCategory": "ko",
+    "speechLang": "ko-KR",
+    "specialKeys": [],
+    "inputHint": "韩语需要组合音节，建议使用系统韩语输入法。"
+  },
+  {
+    "id": "zju-ko-b1-unit-2",
+    "name": "韩语 B1 · Unit 2",
+    "description": "韩语课程词汇 · B1 · 第 2 单元",
+    "category": "韩语 B1",
+    "courseBook": "韩语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ko-b1-unit-2.json",
+    "length": 105,
+    "language": "ko",
+    "languageCategory": "ko",
+    "speechLang": "ko-KR",
+    "specialKeys": [],
+    "inputHint": "韩语需要组合音节，建议使用系统韩语输入法。"
+  },
+  {
+    "id": "zju-ko-b1-unit-3",
+    "name": "韩语 B1 · Unit 3",
+    "description": "韩语课程词汇 · B1 · 第 3 单元",
+    "category": "韩语 B1",
+    "courseBook": "韩语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ko-b1-unit-3.json",
+    "length": 115,
+    "language": "ko",
+    "languageCategory": "ko",
+    "speechLang": "ko-KR",
+    "specialKeys": [],
+    "inputHint": "韩语需要组合音节，建议使用系统韩语输入法。"
+  },
+  {
+    "id": "zju-ko-b1-unit-4",
+    "name": "韩语 B1 · Unit 4",
+    "description": "韩语课程词汇 · B1 · 第 4 单元",
+    "category": "韩语 B1",
+    "courseBook": "韩语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ko-b1-unit-4.json",
+    "length": 120,
+    "language": "ko",
+    "languageCategory": "ko",
+    "speechLang": "ko-KR",
+    "specialKeys": [],
+    "inputHint": "韩语需要组合音节，建议使用系统韩语输入法。"
+  },
+  {
+    "id": "zju-ko-b1-unit-5",
+    "name": "韩语 B1 · Unit 5",
+    "description": "韩语课程词汇 · B1 · 第 5 单元",
+    "category": "韩语 B1",
+    "courseBook": "韩语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ko-b1-unit-5.json",
+    "length": 97,
+    "language": "ko",
+    "languageCategory": "ko",
+    "speechLang": "ko-KR",
+    "specialKeys": [],
+    "inputHint": "韩语需要组合音节，建议使用系统韩语输入法。"
+  },
+  {
+    "id": "zju-ko-b1-unit-6",
+    "name": "韩语 B1 · Unit 6",
+    "description": "韩语课程词汇 · B1 · 第 6 单元",
+    "category": "韩语 B1",
+    "courseBook": "韩语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ko-b1-unit-6.json",
+    "length": 112,
+    "language": "ko",
+    "languageCategory": "ko",
+    "speechLang": "ko-KR",
+    "specialKeys": [],
+    "inputHint": "韩语需要组合音节，建议使用系统韩语输入法。"
+  },
+  {
+    "id": "zju-ko-b1-unit-7",
+    "name": "韩语 B1 · Unit 7",
+    "description": "韩语课程词汇 · B1 · 第 7 单元",
+    "category": "韩语 B1",
+    "courseBook": "韩语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ko-b1-unit-7.json",
+    "length": 117,
+    "language": "ko",
+    "languageCategory": "ko",
+    "speechLang": "ko-KR",
+    "specialKeys": [],
+    "inputHint": "韩语需要组合音节，建议使用系统韩语输入法。"
+  },
+  {
+    "id": "zju-ko-b1-unit-8",
+    "name": "韩语 B1 · Unit 8",
+    "description": "韩语课程词汇 · B1 · 第 8 单元",
+    "category": "韩语 B1",
+    "courseBook": "韩语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ko-b1-unit-8.json",
+    "length": 78,
+    "language": "ko",
+    "languageCategory": "ko",
+    "speechLang": "ko-KR",
+    "specialKeys": [],
+    "inputHint": "韩语需要组合音节，建议使用系统韩语输入法。"
+  },
+  {
+    "id": "zju-ko-b1-unit-9",
+    "name": "韩语 B1 · Unit 9",
+    "description": "韩语课程词汇 · B1 · 第 9 单元",
+    "category": "韩语 B1",
+    "courseBook": "韩语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ko-b1-unit-9.json",
+    "length": 118,
+    "language": "ko",
+    "languageCategory": "ko",
+    "speechLang": "ko-KR",
+    "specialKeys": [],
+    "inputHint": "韩语需要组合音节，建议使用系统韩语输入法。"
+  },
+  {
+    "id": "zju-ko-b1-unit-10",
+    "name": "韩语 B1 · Unit 10",
+    "description": "韩语课程词汇 · B1 · 第 10 单元",
+    "category": "韩语 B1",
+    "courseBook": "韩语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ko-b1-unit-10.json",
+    "length": 135,
+    "language": "ko",
+    "languageCategory": "ko",
+    "speechLang": "ko-KR",
+    "specialKeys": [],
+    "inputHint": "韩语需要组合音节，建议使用系统韩语输入法。"
+  },
+  {
+    "id": "zju-ru-b1-unit-2",
+    "name": "俄语 B1 · Unit 2",
+    "description": "俄语课程词汇 · B1 · 第 2 单元",
+    "category": "俄语 B1",
+    "courseBook": "俄语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ru-b1-unit-2.json",
+    "length": 19,
+    "language": "ru",
+    "languageCategory": "ru",
+    "speechLang": "ru-RU",
+    "specialKeys": [],
+    "inputHint": "请切换至俄语输入法输入。"
+  },
+  {
+    "id": "zju-ru-b1-unit-3",
+    "name": "俄语 B1 · Unit 3",
+    "description": "俄语课程词汇 · B1 · 第 3 单元",
+    "category": "俄语 B1",
+    "courseBook": "俄语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ru-b1-unit-3.json",
+    "length": 22,
+    "language": "ru",
+    "languageCategory": "ru",
+    "speechLang": "ru-RU",
+    "specialKeys": [],
+    "inputHint": "请切换至俄语输入法输入。"
+  },
+  {
+    "id": "zju-ru-b1-unit-4",
+    "name": "俄语 B1 · Unit 4",
+    "description": "俄语课程词汇 · B1 · 第 4 单元",
+    "category": "俄语 B1",
+    "courseBook": "俄语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ru-b1-unit-4.json",
+    "length": 32,
+    "language": "ru",
+    "languageCategory": "ru",
+    "speechLang": "ru-RU",
+    "specialKeys": [],
+    "inputHint": "请切换至俄语输入法输入。"
+  },
+  {
+    "id": "zju-ru-b1-unit-5",
+    "name": "俄语 B1 · Unit 5",
+    "description": "俄语课程词汇 · B1 · 第 5 单元",
+    "category": "俄语 B1",
+    "courseBook": "俄语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ru-b1-unit-5.json",
+    "length": 51,
+    "language": "ru",
+    "languageCategory": "ru",
+    "speechLang": "ru-RU",
+    "specialKeys": [],
+    "inputHint": "请切换至俄语输入法输入。"
+  },
+  {
+    "id": "zju-ru-b1-unit-6",
+    "name": "俄语 B1 · Unit 6",
+    "description": "俄语课程词汇 · B1 · 第 6 单元",
+    "category": "俄语 B1",
+    "courseBook": "俄语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ru-b1-unit-6.json",
+    "length": 79,
+    "language": "ru",
+    "languageCategory": "ru",
+    "speechLang": "ru-RU",
+    "specialKeys": [],
+    "inputHint": "请切换至俄语输入法输入。"
+  },
+  {
+    "id": "zju-ru-b1-unit-7",
+    "name": "俄语 B1 · Unit 7",
+    "description": "俄语课程词汇 · B1 · 第 7 单元",
+    "category": "俄语 B1",
+    "courseBook": "俄语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ru-b1-unit-7.json",
+    "length": 31,
+    "language": "ru",
+    "languageCategory": "ru",
+    "speechLang": "ru-RU",
+    "specialKeys": [],
+    "inputHint": "请切换至俄语输入法输入。"
+  },
+  {
+    "id": "zju-ru-b1-unit-9",
+    "name": "俄语 B1 · Unit 9",
+    "description": "俄语课程词汇 · B1 · 第 9 单元",
+    "category": "俄语 B1",
+    "courseBook": "俄语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ru-b1-unit-9.json",
+    "length": 22,
+    "language": "ru",
+    "languageCategory": "ru",
+    "speechLang": "ru-RU",
+    "specialKeys": [],
+    "inputHint": "请切换至俄语输入法输入。"
+  },
+  {
+    "id": "zju-ru-b1-unit-10",
+    "name": "俄语 B1 · Unit 10",
+    "description": "俄语课程词汇 · B1 · 第 10 单元",
+    "category": "俄语 B1",
+    "courseBook": "俄语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ru-b1-unit-10.json",
+    "length": 53,
+    "language": "ru",
+    "languageCategory": "ru",
+    "speechLang": "ru-RU",
+    "specialKeys": [],
+    "inputHint": "请切换至俄语输入法输入。"
+  },
+  {
+    "id": "zju-ru-b1-unit-11",
+    "name": "俄语 B1 · Unit 11",
+    "description": "俄语课程词汇 · B1 · 第 11 单元",
+    "category": "俄语 B1",
+    "courseBook": "俄语 B1",
+    "tags": [
+      "小语种课程",
+      "B1"
+    ],
+    "url": "/dicts/zju-ru-b1-unit-11.json",
+    "length": 67,
+    "language": "ru",
+    "languageCategory": "ru",
+    "speechLang": "ru-RU",
+    "specialKeys": [],
+    "inputHint": "请切换至俄语输入法输入。"
+  }
+]

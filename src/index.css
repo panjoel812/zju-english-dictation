@@ -13,6 +13,14 @@ body {
   user-select: none;
 }
 
+html {
+  color-scheme: light;
+}
+
+html.dark {
+  color-scheme: dark;
+}
+
 html.dark body {
   @apply bg-gray-900;
 }
@@ -56,6 +64,10 @@ body,
 }
 
 @layer components {
+  .toolbar-button {
+    @apply flex h-8 w-8 shrink-0 items-center justify-center rounded-lg text-lg text-indigo-500 transition-colors hover:bg-indigo-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-500 disabled:cursor-wait disabled:opacity-50 dark:hover:bg-gray-700 sm:h-9 sm:w-9;
+  }
+
   .icon {
     @apply h-5.5 w-5.5 focus:outline-none;
   }

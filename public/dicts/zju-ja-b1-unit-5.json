@@ -1,0 +1,980 @@
+[
+  {
+    "name": "いま（今）",
+    "trans": [
+      "名 现在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-001",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "现在",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いま",
+      "今"
+    ],
+    "speech": "いま"
+  },
+  {
+    "name": "せんしゅう（先週）",
+    "trans": [
+      "名 上个星期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-002",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "上个星期",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せんしゅう",
+      "先週"
+    ],
+    "speech": "せんしゅう"
+  },
+  {
+    "name": "らいしゅう（来週）",
+    "trans": [
+      "名 下个星期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-003",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "下个星期",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "らいしゅう",
+      "来週"
+    ],
+    "speech": "らいしゅう"
+  },
+  {
+    "name": "さらいしゅう（さ来週）",
+    "trans": [
+      "名 下下个星期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-004",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "下下个星期",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さらいしゅう",
+      "さ来週"
+    ],
+    "speech": "さらいしゅう"
+  },
+  {
+    "name": "こんしゅう（今週）",
+    "trans": [
+      "名 这个星期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-005",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "这个星期",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こんしゅう",
+      "今週"
+    ],
+    "speech": "こんしゅう"
+  },
+  {
+    "name": "きのう（昨日）",
+    "trans": [
+      "名 昨天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-006",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "昨天",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きのう",
+      "昨日"
+    ],
+    "speech": "きのう"
+  },
+  {
+    "name": "あした（明日）",
+    "trans": [
+      "名 明天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-007",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "明天",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あした",
+      "明日"
+    ],
+    "speech": "あした"
+  },
+  {
+    "name": "あさって",
+    "trans": [
+      "名 后天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-008",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "后天",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おととい",
+    "trans": [
+      "名 前天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-009",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "前天",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "まいにち（毎日）",
+    "trans": [
+      "名 每天，每日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-010",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "每天，每日",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まいにち",
+      "毎日"
+    ],
+    "speech": "まいにち"
+  },
+  {
+    "name": "まいあさ（毎朝）",
+    "trans": [
+      "名 每天早晨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-011",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "每天早晨",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まいあさ",
+      "毎朝"
+    ],
+    "speech": "まいあさ"
+  },
+  {
+    "name": "まいばん（毎晩）",
+    "trans": [
+      "名 每天晚上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-012",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "每天晚上",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まいばん",
+      "毎晩"
+    ],
+    "speech": "まいばん"
+  },
+  {
+    "name": "まいしゅう（毎週）",
+    "trans": [
+      "名 每个星期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-013",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "每个星期",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まいしゅう",
+      "毎週"
+    ],
+    "speech": "まいしゅう"
+  },
+  {
+    "name": "ごぜん（午前）∕エーエム(am)",
+    "trans": [
+      "名 上午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-014",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "上午",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ごご（午後）∕ピーエム(pm)",
+    "trans": [
+      "名 下午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-015",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "下午",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "にちようび（日曜日）",
+    "trans": [
+      "名 星期日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-016",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "星期日",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にちようび",
+      "日曜日"
+    ],
+    "speech": "にちようび"
+  },
+  {
+    "name": "げつようび（月曜日）",
+    "trans": [
+      "名 星期一"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-017",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "星期一",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "げつようび",
+      "月曜日"
+    ],
+    "speech": "げつようび"
+  },
+  {
+    "name": "かようび（火曜日）",
+    "trans": [
+      "名 星期二"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-018",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "星期二",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かようび",
+      "火曜日"
+    ],
+    "speech": "かようび"
+  },
+  {
+    "name": "きんようび（金曜日）",
+    "trans": [
+      "名 星期五"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-019",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "星期五",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きんようび",
+      "金曜日"
+    ],
+    "speech": "きんようび"
+  },
+  {
+    "name": "どようび（土曜日）",
+    "trans": [
+      "名 星期六"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-020",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "星期六",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "どようび",
+      "土曜日"
+    ],
+    "speech": "どようび"
+  },
+  {
+    "name": "けさ（今朝）",
+    "trans": [
+      "名 今天早晨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-021",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "今天早晨",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けさ",
+      "今朝"
+    ],
+    "speech": "けさ"
+  },
+  {
+    "name": "こんばん（今晩）",
+    "trans": [
+      "名 今天晚上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-022",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "今天晚上",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こんばん",
+      "今晩"
+    ],
+    "speech": "こんばん"
+  },
+  {
+    "name": "らいねん（来年）",
+    "trans": [
+      "名 明年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-023",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "明年",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "らいねん",
+      "来年"
+    ],
+    "speech": "らいねん"
+  },
+  {
+    "name": "きょねん（去年）",
+    "trans": [
+      "名 去年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-024",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "去年",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きょねん",
+      "去年"
+    ],
+    "speech": "きょねん"
+  },
+  {
+    "name": "よる（夜）",
+    "trans": [
+      "名 晚上，夜里，夜晚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-025",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "晚上，夜里，夜晚",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "よる",
+      "夜"
+    ],
+    "speech": "よる"
+  },
+  {
+    "name": "ばん（晩）",
+    "trans": [
+      "名 晚上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-026",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "晚上",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ばん",
+      "晩"
+    ],
+    "speech": "ばん"
+  },
+  {
+    "name": "あさ（朝）",
+    "trans": [
+      "名 早晨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-027",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "早晨",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あさ",
+      "朝"
+    ],
+    "speech": "あさ"
+  },
+  {
+    "name": "がっこう（学校）",
+    "trans": [
+      "名 学校"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-028",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "学校",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "がっこう",
+      "学校"
+    ],
+    "speech": "がっこう"
+  },
+  {
+    "name": "しけん（試験）",
+    "trans": [
+      "名 考试"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-029",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "考试",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しけん",
+      "試験"
+    ],
+    "speech": "しけん"
+  },
+  {
+    "name": "しごと（仕事）",
+    "trans": [
+      "名 工作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-030",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "工作",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しごと",
+      "仕事"
+    ],
+    "speech": "しごと"
+  },
+  {
+    "name": "ちこく（遅刻）",
+    "trans": [
+      "名 迟到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-031",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "迟到",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちこく",
+      "遅刻"
+    ],
+    "speech": "ちこく"
+  },
+  {
+    "name": "やすみ（休み）",
+    "trans": [
+      "名 休息"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-032",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "休息",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やすみ",
+      "休み"
+    ],
+    "speech": "やすみ"
+  },
+  {
+    "name": "しゅっちょう（出張）",
+    "trans": [
+      "名 出差"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-033",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "出差",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅっちょう",
+      "出張"
+    ],
+    "speech": "しゅっちょう"
+  },
+  {
+    "name": "けんしゅう（研修）",
+    "trans": [
+      "名 进修"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-034",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "进修",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けんしゅう",
+      "研修"
+    ],
+    "speech": "けんしゅう"
+  },
+  {
+    "name": "りょこう（旅行）",
+    "trans": [
+      "名 旅行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-035",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "旅行",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りょこう",
+      "旅行"
+    ],
+    "speech": "りょこう"
+  },
+  {
+    "name": "てんらんかい（展覧会）",
+    "trans": [
+      "名 展览会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-036",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "展览会",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てんらんかい",
+      "展覧会"
+    ],
+    "speech": "てんらんかい"
+  },
+  {
+    "name": "かんげいかい（歓迎会）",
+    "trans": [
+      "名 欢迎会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-037",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "欢迎会",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんげいかい",
+      "歓迎会"
+    ],
+    "speech": "かんげいかい"
+  },
+  {
+    "name": "パーティー",
+    "trans": [
+      "名 联欢会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-038",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "联欢会",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おたく（お宅）",
+    "trans": [
+      "名 府上，（您）家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-039",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "府上，（您）家",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おたく",
+      "お宅"
+    ],
+    "speech": "おたく"
+  },
+  {
+    "name": "いつ",
+    "trans": [
+      "疑 什么时候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-040",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "什么时候",
+    "sourceTags": [
+      "疑"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "やすみます（休みます）",
+    "trans": [
+      "动1 休息"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-041",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "休息",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やすみます",
+      "休みます"
+    ],
+    "speech": "やすみます"
+  },
+  {
+    "name": "はたらきます（働きます）",
+    "trans": [
+      "动1 工作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-042",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "工作",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はたらきます",
+      "働きます"
+    ],
+    "speech": "はたらきます"
+  },
+  {
+    "name": "はじまります（始まります）",
+    "trans": [
+      "动1 开始"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-043",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "开始",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はじまります",
+      "始まります"
+    ],
+    "speech": "はじまります"
+  },
+  {
+    "name": "おわります（終わります）",
+    "trans": [
+      "动1 结束"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-044",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "结束",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おわります",
+      "終わります"
+    ],
+    "speech": "おわります"
+  },
+  {
+    "name": "おきます（起きます）",
+    "trans": [
+      "动2 起床"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-045",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "起床",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おきます",
+      "起きます"
+    ],
+    "speech": "おきます"
+  },
+  {
+    "name": "ねます（寝ます）",
+    "trans": [
+      "动2 睡觉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-046",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "睡觉",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ねます",
+      "寝ます"
+    ],
+    "speech": "ねます"
+  },
+  {
+    "name": "べんきょうします（勉強します）",
+    "trans": [
+      "动3 学习"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-047",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "学习",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "べんきょうします",
+      "勉強します"
+    ],
+    "speech": "べんきょうします"
+  },
+  {
+    "name": "いつも",
+    "trans": [
+      "副 经常，总是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-048",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "经常，总是",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ペキンししゃ（北京支社）",
+    "trans": [
+      "专 北京分社"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-049",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "北京分社",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ペキンししゃ",
+      "北京支社"
+    ],
+    "speech": "ペキンししゃ"
+  },
+  {
+    "name": "こうべ（神戸）",
+    "trans": [
+      "专 神户"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-050",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "神户",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうべ",
+      "神戸"
+    ],
+    "speech": "こうべ"
+  },
+  {
+    "name": "おはよう",
+    "trans": [
+      "你早"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U05-051",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "你早",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

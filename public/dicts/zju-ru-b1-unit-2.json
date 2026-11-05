@@ -1,0 +1,249 @@
+[
+  {
+    "name": "он",
+    "trans": [
+      "他"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-001",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "他",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ты",
+    "trans": [
+      "你"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-002",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "你",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "им",
+    "trans": [
+      "他 (第五格); 他们 (第三格)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-003",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "他 (第五格); 他们 (第三格)",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "кто",
+    "trans": [
+      "谁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-004",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "谁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "та",
+    "trans": [
+      "那个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-005",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "那个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "то",
+    "trans": [
+      "那个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-006",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "那个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "тот",
+    "trans": [
+      "那个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-007",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "那个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "а",
+    "trans": [
+      "而；那个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-008",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "而；那个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "как",
+    "trans": [
+      "怎样"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-009",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "怎样",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "так",
+    "trans": [
+      "这样"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-010",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "这样",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "там",
+    "trans": [
+      "那里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-011",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "那里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "тут",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-012",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "这里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "у",
+    "trans": [
+      "在……附近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-013",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "在……附近",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "и",
+    "trans": [
+      "和"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-014",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "和",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "но",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-015",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "但是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ну",
+    "trans": [
+      "喂, 嗯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-016",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "喂, 嗯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "кот",
+    "trans": [
+      "猫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-017",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "猫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ум",
+    "trans": [
+      "智慧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-018",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "智慧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "том",
+    "trans": [
+      "卷, 册"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U02-019",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "卷, 册",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

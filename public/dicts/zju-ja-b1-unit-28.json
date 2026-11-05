@@ -1,0 +1,656 @@
+[
+  {
+    "name": "マフラー",
+    "trans": [
+      "名 围巾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-001",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "围巾",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ネックレス",
+    "trans": [
+      "名 项链"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-002",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "项链",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かぐ（家具）",
+    "trans": [
+      "名 家具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-003",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "家具",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かぐ",
+      "家具"
+    ],
+    "speech": "かぐ"
+  },
+  {
+    "name": "ぶんしょう（文章）",
+    "trans": [
+      "名 文章"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-004",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "文章",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぶんしょう",
+      "文章"
+    ],
+    "speech": "ぶんしょう"
+  },
+  {
+    "name": "いみ（意味）",
+    "trans": [
+      "名 意思"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-005",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "意思",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いみ",
+      "意味"
+    ],
+    "speech": "いみ"
+  },
+  {
+    "name": "ふんいき（雰囲気）",
+    "trans": [
+      "名 气氛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-006",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "气氛",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふんいき",
+      "雰囲気"
+    ],
+    "speech": "ふんいき"
+  },
+  {
+    "name": "はつおん（発音）",
+    "trans": [
+      "名 发音"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-007",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "发音",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はつおん",
+      "発音"
+    ],
+    "speech": "はつおん"
+  },
+  {
+    "name": "ふどうさんや（不動産屋）",
+    "trans": [
+      "名 房产公司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-008",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "房产公司",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふどうさんや",
+      "不動産屋"
+    ],
+    "speech": "ふどうさんや"
+  },
+  {
+    "name": "いんしょくてん（飲食店）",
+    "trans": [
+      "名 饮食店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-009",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "饮食店",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いんしょくてん",
+      "飲食店"
+    ],
+    "speech": "いんしょくてん"
+  },
+  {
+    "name": "たいしかん（大使館）",
+    "trans": [
+      "名 大使馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-010",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "大使馆",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たいしかん",
+      "大使館"
+    ],
+    "speech": "たいしかん"
+  },
+  {
+    "name": "しんきょ（新居）",
+    "trans": [
+      "名 新居"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-011",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "新居",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しんきょ",
+      "新居"
+    ],
+    "speech": "しんきょ"
+  },
+  {
+    "name": "ひっこし（引っ越し）",
+    "trans": [
+      "名 搬家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-012",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "搬家",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひっこし",
+      "引っ越し"
+    ],
+    "speech": "ひっこし"
+  },
+  {
+    "name": "きんじょ（近所）",
+    "trans": [
+      "名 附近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-013",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "附近",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きんじょ",
+      "近所"
+    ],
+    "speech": "きんじょ"
+  },
+  {
+    "name": "まご（孫）",
+    "trans": [
+      "名 孙子，孙女"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-014",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "孙子，孙女",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まご",
+      "孫"
+    ],
+    "speech": "まご"
+  },
+  {
+    "name": "かかり（係）",
+    "trans": [
+      "名 工作人员，主管人员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-015",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "工作人员，主管人员",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かかり",
+      "係"
+    ],
+    "speech": "かかり"
+  },
+  {
+    "name": "ししゃちょう（支社長）",
+    "trans": [
+      "名 分公司经理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-016",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "分公司经理",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ししゃちょう",
+      "支社長"
+    ],
+    "speech": "ししゃちょう"
+  },
+  {
+    "name": "しゅうしょく（就職）",
+    "trans": [
+      "名 就业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-017",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "就业",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅうしょく",
+      "就職"
+    ],
+    "speech": "しゅうしょく"
+  },
+  {
+    "name": "インターネット",
+    "trans": [
+      "名 互联网"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-018",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "互联网",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ひろいます（拾います）",
+    "trans": [
+      "动1 捡，拾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-019",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "捡，拾",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひろいます",
+      "拾います"
+    ],
+    "speech": "ひろいます"
+  },
+  {
+    "name": "やくします（訳します）",
+    "trans": [
+      "动1 翻译"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-020",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "翻译",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やくします",
+      "訳します"
+    ],
+    "speech": "やくします"
+  },
+  {
+    "name": "くれます",
+    "trans": [
+      "动2 给"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-021",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "给",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "とどけます（届けます）",
+    "trans": [
+      "动2 送到，送去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-022",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "送到，送去",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とどけます",
+      "届けます"
+    ],
+    "speech": "とどけます"
+  },
+  {
+    "name": "あんないします（案内します）",
+    "trans": [
+      "动3 向导，导游"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-023",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "向导，导游",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あんないします",
+      "案内します"
+    ],
+    "speech": "あんないします"
+  },
+  {
+    "name": "こうかんします（交換します）",
+    "trans": [
+      "动3 换，交换"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-024",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "换，交换",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうかんします",
+      "交換します"
+    ],
+    "speech": "こうかんします"
+  },
+  {
+    "name": "しょうかいします（紹介します）",
+    "trans": [
+      "动3 介绍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-025",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "介绍",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょうかいします",
+      "紹介します"
+    ],
+    "speech": "しょうかいします"
+  },
+  {
+    "name": "すてき",
+    "trans": [
+      "形2 漂亮，极好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-026",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "漂亮，极好",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "とくい（得意）",
+    "trans": [
+      "形2 擅长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-027",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "擅长",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とくい",
+      "得意"
+    ],
+    "speech": "とくい"
+  },
+  {
+    "name": "しんせん（新鮮）",
+    "trans": [
+      "形2 新鲜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-028",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "新鲜",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しんせん",
+      "新鮮"
+    ],
+    "speech": "しんせん"
+  },
+  {
+    "name": "うまく",
+    "trans": [
+      "副 高明地，很好地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-029",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "高明地，很好地",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "それに",
+    "trans": [
+      "连 而且"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-030",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "而且",
+    "sourceTags": [
+      "连"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "なかた（中田）",
+    "trans": [
+      "专 中田"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-031",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "中田",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "なかた",
+      "中田"
+    ],
+    "speech": "なかた"
+  },
+  {
+    "name": "こくさいぼうえきセンター（国際貿易センター）",
+    "trans": [
+      "／国际贸易中心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-032",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "／国际贸易中心",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こくさいぼうえきセンター",
+      "国際貿易センター"
+    ],
+    "speech": "こくさいぼうえきセンター"
+  },
+  {
+    "name": "こくぼう（国貿）",
+    "trans": [
+      "专 国贸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-033",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "国贸",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こくぼう",
+      "国貿"
+    ],
+    "speech": "こくぼう"
+  },
+  {
+    "name": "どういたしまして",
+    "trans": [
+      "没关系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-034",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "没关系",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "どのへん（どの辺）",
+    "trans": [
+      "哪儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U28-035",
+    "sourceSheet": "B1U28",
+    "sourceMeaning": "哪儿",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "どのへん",
+      "どの辺"
+    ],
+    "speech": "どのへん"
+  }
+]

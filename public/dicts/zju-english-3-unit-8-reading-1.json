@@ -2,7 +2,7 @@
   {
     "name": "robotics",
     "trans": [
-      "机器人（制造与应用）学"
+      "n. 机器人（制造与应用）学"
     ]
   },
   {
@@ -14,7 +14,7 @@
   {
     "name": "eliminate",
     "trans": [
-      "消除，根除"
+      "v. 消除，根除"
     ]
   },
   {
@@ -26,13 +26,13 @@
   {
     "name": "routinize",
     "trans": [
-      "使惯例化；成常规"
+      "v. 使惯例化；成常规"
     ]
   },
   {
     "name": "automate",
     "trans": [
-      "使自动化"
+      "v. 使自动化"
     ]
   },
   {
@@ -50,13 +50,13 @@
   {
     "name": "algorithm",
     "trans": [
-      "演算法；计算程序"
+      "n. 演算法；计算程序"
     ]
   },
   {
     "name": "manipulate",
     "trans": [
-      "操纵；控制"
+      "v. 操纵；控制"
     ]
   },
   {
@@ -74,13 +74,13 @@
   {
     "name": "biometric",
     "trans": [
-      "生物特征识别的"
+      "adj. 生物特征识别的"
     ]
   },
   {
     "name": "calculate",
     "trans": [
-      "预测，估计"
+      "v. 预测，估计"
     ]
   },
   {
@@ -92,19 +92,19 @@
   {
     "name": "output",
     "trans": [
-      "输出信息"
+      "n. 输出信息"
     ]
   },
   {
     "name": "tailor",
     "trans": [
-      "定做"
+      "v. 定做"
     ]
   },
   {
     "name": "distress",
     "trans": [
-      "忧虑；烦恼；悲伤"
+      "n. 忧虑；烦恼；悲伤"
     ]
   },
   {
@@ -116,7 +116,7 @@
   {
     "name": "peculiarity",
     "trans": [
-      "特点；独特性"
+      "n. 特点；独特性"
     ]
   },
   {
@@ -128,7 +128,7 @@
   {
     "name": "compose",
     "trans": [
-      "作（曲）"
+      "v. 作（曲）"
     ]
   },
   {
@@ -140,7 +140,7 @@
   {
     "name": "besides",
     "trans": [
-      "除…之外还"
+      "prep. 除…之外还"
     ]
   },
   {
@@ -152,7 +152,7 @@
   {
     "name": "outperform",
     "trans": [
-      "做得比…好"
+      "v. 做得比…好"
     ]
   }
 ]

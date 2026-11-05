@@ -1,0 +1,1367 @@
+[
+  {
+    "name": "점원",
+    "trans": [
+      "(商店)店员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-001",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "(商店)店员",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "이것",
+    "trans": [
+      "这个(东西)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-002",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "这个(东西)",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "교과서",
+    "trans": [
+      "课本"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-003",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "课本",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "그렇다",
+    "trans": [
+      "是的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-004",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "是的",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "저것",
+    "trans": [
+      "那个(东西)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-005",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "那个(东西)",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "사전",
+    "trans": [
+      "词典"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-006",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "词典",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "잡지",
+    "trans": [
+      "杂志"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-007",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "杂志",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "읽기책",
+    "trans": [
+      "读物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-008",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "读物",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "책상",
+    "trans": [
+      "书桌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-009",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "书桌",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "지갑",
+    "trans": [
+      "钱包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-010",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "钱包",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "연필",
+    "trans": [
+      "铅笔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-011",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "铅笔",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "자",
+    "trans": [
+      "尺"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-012",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "尺",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "지우개",
+    "trans": [
+      "橡皮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-013",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "橡皮",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "볼펜",
+    "trans": [
+      "圆珠笔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-014",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "圆珠笔",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "돈",
+    "trans": [
+      "钱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-015",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "钱",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "카드",
+    "trans": [
+      "卡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-016",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "卡",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "여권",
+    "trans": [
+      "护照"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-017",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "护照",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "신분증",
+    "trans": [
+      "身份证"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-018",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "身份证",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "가방",
+    "trans": [
+      "包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-019",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "包",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "손수건",
+    "trans": [
+      "手绢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-020",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "手绢",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "모자",
+    "trans": [
+      "帽子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-021",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "帽子",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "거울",
+    "trans": [
+      "镜子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-022",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "镜子",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "휴지",
+    "trans": [
+      "手纸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-023",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "手纸",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "공책",
+    "trans": [
+      "笔记本"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-024",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "笔记本",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "열쇠",
+    "trans": [
+      "钥匙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-025",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "钥匙",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "과자",
+    "trans": [
+      "饼干"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-026",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "饼干",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "좋이",
+    "trans": [
+      "纸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-027",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "纸",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "필통",
+    "trans": [
+      "笔筒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-028",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "笔筒",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "이",
+    "trans": [
+      "这"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-029",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "这",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "그",
+    "trans": [
+      "那"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-030",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "那",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "저",
+    "trans": [
+      "那"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-031",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "那",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "그것",
+    "trans": [
+      "那个(东西)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-032",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "那个(东西)",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "저건",
+    "trans": [
+      "那个(东西)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-033",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "那个(东西)",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "여기",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-034",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "这里",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "있다",
+    "trans": [
+      "有，在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-035",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "有，在",
+    "sourceTags": [],
+    "sourceNotes": "이것이 교과서입니까?"
+  },
+  {
+    "name": "달력",
+    "trans": [
+      "日历"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-036",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "日历",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "지도",
+    "trans": [
+      "地图"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-037",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "地图",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "없다",
+    "trans": [
+      "没有，不在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-038",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "没有，不在",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "교실",
+    "trans": [
+      "教室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-039",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "教室",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "창문",
+    "trans": [
+      "窗户"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-040",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "窗户",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "분필",
+    "trans": [
+      "粉笔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-041",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "粉笔",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "칠판",
+    "trans": [
+      "黑板"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-042",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "黑板",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "그림",
+    "trans": [
+      "画"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-043",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "画",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "옷걸이",
+    "trans": [
+      "衣挂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-044",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "衣挂",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "문",
+    "trans": [
+      "门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-045",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "门",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "텔레비전",
+    "trans": [
+      "电视"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-046",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "电视",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "의자",
+    "trans": [
+      "椅子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-047",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "椅子",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "많다",
+    "trans": [
+      "多"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-048",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "多",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "적다",
+    "trans": [
+      "少"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-049",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "少",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "크다",
+    "trans": [
+      "大"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-050",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "大",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "작다",
+    "trans": [
+      "小"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-051",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "小",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "날씨",
+    "trans": [
+      "天气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-052",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "天气",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "좋다",
+    "trans": [
+      "好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-053",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "好",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "나쁘다",
+    "trans": [
+      "不好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-054",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "不好",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "주스",
+    "trans": [
+      "果汁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-055",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "果汁",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "도",
+    "trans": [
+      "也"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-056",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "也",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "물건",
+    "trans": [
+      "东西"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-057",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "东西",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "하고",
+    "trans": [
+      "和，跟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-058",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "和，跟",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "주머니",
+    "trans": [
+      "口袋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-059",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "口袋",
+    "sourceTags": [],
+    "sourceNotes": "지도도 있습니까?"
+  },
+  {
+    "name": "은행",
+    "trans": [
+      "银行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-060",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "银行",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "어디",
+    "trans": [
+      "哪里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-061",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "哪里",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "학생회관",
+    "trans": [
+      "学生会馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-062",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "学生会馆",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "도서관",
+    "trans": [
+      "图书馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-063",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "图书馆",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "앞",
+    "trans": [
+      "前面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-064",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "前面",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "화장실",
+    "trans": [
+      "洗手间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-065",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "洗手间",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "식당",
+    "trans": [
+      "食堂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-066",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "食堂",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "서점",
+    "trans": [
+      "书店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-067",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "书店",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "우체국",
+    "trans": [
+      "邮政局"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-068",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "邮政局",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "사무실",
+    "trans": [
+      "办公室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-069",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "办公室",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "뒤",
+    "trans": [
+      "后面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-070",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "后面",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "옆",
+    "trans": [
+      "旁边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-071",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "旁边",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "위",
+    "trans": [
+      "上面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-072",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "上面",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "밑",
+    "trans": [
+      "下面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-073",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "下面",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "아래",
+    "trans": [
+      "下面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-074",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "下面",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "안",
+    "trans": [
+      "里面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-075",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "里面",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "밖",
+    "trans": [
+      "外面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-076",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "外面",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "컴퓨터",
+    "trans": [
+      "电脑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-077",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "电脑",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "컵",
+    "trans": [
+      "杯子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-078",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "杯子",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "우유",
+    "trans": [
+      "牛奶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-079",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "牛奶",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "신문",
+    "trans": [
+      "报纸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-080",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "报纸",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "전화",
+    "trans": [
+      "电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-081",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "电话",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "맥주",
+    "trans": [
+      "啤酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-082",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "啤酒",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "옷",
+    "trans": [
+      "衣服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-083",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "衣服",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "침대",
+    "trans": [
+      "床"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-084",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "床",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "냉장고",
+    "trans": [
+      "冰箱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-085",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "冰箱",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "층",
+    "trans": [
+      "(楼)层"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-086",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "(楼)层",
+    "sourceTags": [],
+    "sourceNotes": "은행이 어디에 있습니까?"
+  },
+  {
+    "name": "집",
+    "trans": [
+      "家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-087",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "家",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "근처",
+    "trans": [
+      "附近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-088",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "附近",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "백화점",
+    "trans": [
+      "百货商店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-089",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "百货商店",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "지하철",
+    "trans": [
+      "地铁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-090",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "地铁",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "역",
+    "trans": [
+      "站台"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-091",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "站台",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "극장",
+    "trans": [
+      "剧场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-092",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "剧场",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "병원",
+    "trans": [
+      "医院"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-093",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "医院",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "약국",
+    "trans": [
+      "药店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-094",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "药店",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "회사",
+    "trans": [
+      "公司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-095",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "公司",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "가게",
+    "trans": [
+      "店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-096",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "店",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "공원",
+    "trans": [
+      "公园"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-097",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "公园",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "시장",
+    "trans": [
+      "市场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-098",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "市场",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "우리",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-099",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "我们",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "버스",
+    "trans": [
+      "公交，巴士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-100",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "公交，巴士",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "정류장",
+    "trans": [
+      "车站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-101",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "车站",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "커피슙",
+    "trans": [
+      "咖啡店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-102",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "咖啡店",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "하고",
+    "trans": [
+      "和，跟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-103",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "和，跟",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "교회",
+    "trans": [
+      "教会，教堂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-104",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "教会，教堂",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  },
+  {
+    "name": "참",
+    "trans": [
+      "真的，真是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U02-105",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "真的，真是",
+    "sourceTags": [],
+    "sourceNotes": "집이 어디입니까?"
+  }
+]

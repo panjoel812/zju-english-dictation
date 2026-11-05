@@ -1,0 +1,392 @@
+[
+  {
+    "name": "しゅうまつ（週末）",
+    "trans": [
+      "名 周末"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-001",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "周末",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅうまつ",
+      "週末"
+    ],
+    "speech": "しゅうまつ"
+  },
+  {
+    "name": "スケート",
+    "trans": [
+      "名 滑冰，溜冰"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-002",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "滑冰，溜冰",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あじ（味）",
+    "trans": [
+      "名 口味，（食物的）味道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-003",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "口味，（食物的）味道",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あじ",
+      "味"
+    ],
+    "speech": "あじ"
+  },
+  {
+    "name": "まいかい（毎回）",
+    "trans": [
+      "名 每次，每回"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-004",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "每次，每回",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まいかい",
+      "毎回"
+    ],
+    "speech": "まいかい"
+  },
+  {
+    "name": "つうきん（通勤）",
+    "trans": [
+      "名 上下班，通勤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-005",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "上下班，通勤",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つうきん",
+      "通勤"
+    ],
+    "speech": "つうきん"
+  },
+  {
+    "name": "ふね（船）",
+    "trans": [
+      "名 船"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-006",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "船",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふね",
+      "船"
+    ],
+    "speech": "ふね"
+  },
+  {
+    "name": "きじ（生地）",
+    "trans": [
+      "名 布料，衣料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-007",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "布料，衣料",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きじ",
+      "生地"
+    ],
+    "speech": "きじ"
+  },
+  {
+    "name": "へいてんじこく（閉店時刻）",
+    "trans": [
+      "名 关门时间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-008",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "关门时间",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "へいてんじこく",
+      "閉店時刻"
+    ],
+    "speech": "へいてんじこく"
+  },
+  {
+    "name": "そつぎょうしき（卒業式）",
+    "trans": [
+      "名 毕业典礼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-009",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "毕业典礼",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "そつぎょうしき",
+      "卒業式"
+    ],
+    "speech": "そつぎょうしき"
+  },
+  {
+    "name": "ちがいます（違います）",
+    "trans": [
+      "动1 不同，不一样"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-010",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "不同，不一样",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちがいます",
+      "違います"
+    ],
+    "speech": "ちがいます"
+  },
+  {
+    "name": "こみます（込みます）",
+    "trans": [
+      "动1 拥挤，混杂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-011",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "拥挤，混杂",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こみます",
+      "込みます"
+    ],
+    "speech": "こみます"
+  },
+  {
+    "name": "きまります（決まります）",
+    "trans": [
+      "动1 定，决定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-012",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "定，决定",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きまります",
+      "決まります"
+    ],
+    "speech": "きまります"
+  },
+  {
+    "name": "しらせます（知らせます）",
+    "trans": [
+      "动2 告诉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-013",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "告诉",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しらせます",
+      "知らせます"
+    ],
+    "speech": "しらせます"
+  },
+  {
+    "name": "たしかめます（確かめます）",
+    "trans": [
+      "动2 查（看），弄清"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-014",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "查（看），弄清",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たしかめます",
+      "確かめます"
+    ],
+    "speech": "たしかめます"
+  },
+  {
+    "name": "こい（濃い）",
+    "trans": [
+      "形1 （口味）重；浓"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-015",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "（口味）重；浓",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こい",
+      "濃い"
+    ],
+    "speech": "こい"
+  },
+  {
+    "name": "うすい（薄い）",
+    "trans": [
+      "形1 （口味）轻；薄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-016",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "（口味）轻；薄",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うすい",
+      "薄い"
+    ],
+    "speech": "うすい"
+  },
+  {
+    "name": "はやい（早い）",
+    "trans": [
+      "形1 早"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-017",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "早",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はやい",
+      "早い"
+    ],
+    "speech": "はやい"
+  },
+  {
+    "name": "おそい（遅い）",
+    "trans": [
+      "形1 晚，慢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-018",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "晚，慢",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おそい",
+      "遅い"
+    ],
+    "speech": "おそい"
+  },
+  {
+    "name": "たぶん",
+    "trans": [
+      "副 可能，大概"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-019",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "可能，大概",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "とうきょうえき（東京駅）",
+    "trans": [
+      "专 东京站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U23-020",
+    "sourceSheet": "B1U23",
+    "sourceMeaning": "东京站",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とうきょうえき",
+      "東京駅"
+    ],
+    "speech": "とうきょうえき"
+  }
+]

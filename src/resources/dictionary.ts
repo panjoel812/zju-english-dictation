@@ -1,3 +1,4 @@
+import minorLanguages from './minorLanguages.json'
 import engineeringVocabulary from './zju-engineering.json'
 import type { Dictionary, DictionaryResource } from '@/typings/index'
 import { calcChapterCount } from '@/utils'
@@ -4446,6 +4447,7 @@ const engineeringDictionaries: DictionaryResource[] = engineeringVocabulary.map(
  * Why arrays? Because it keeps the order across browsers.
  */
 const allDictionaryResources: DictionaryResource[] = [
+  ...(minorLanguages as DictionaryResource[]),
   ...chinaExam,
   ...engineeringDictionaries,
   ...internationalExam,
@@ -4503,6 +4505,7 @@ const preferredDictionaryIds = [
   'zju-english-4-unit-8',
   'zju-english-book1-u1-4',
   ...engineeringDictionaries.map((resource) => resource.id),
+  ...minorLanguages.map((resource) => resource.id),
   'cet4',
   'cet6',
   'ielts',

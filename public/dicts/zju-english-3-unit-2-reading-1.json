@@ -2,13 +2,13 @@
   {
     "name": "roam",
     "trans": [
-      "闲逛，漫步"
+      "v. 闲逛，漫步"
     ]
   },
   {
     "name": "passionate",
     "trans": [
-      "感情强烈的，热情的"
+      "adj. 感情强烈的，热情的"
     ]
   },
   {
@@ -20,19 +20,19 @@
   {
     "name": "reunion",
     "trans": [
-      "团圆，重逢"
+      "n. 团圆，重逢"
     ]
   },
   {
     "name": "stern",
     "trans": [
-      "严厉的，严格的，苛刻的"
+      "adj. 严厉的，严格的，苛刻的"
     ]
   },
   {
     "name": "fretful",
     "trans": [
-      "令人烦恼的"
+      "adj. 令人烦恼的"
     ]
   },
   {
@@ -44,7 +44,7 @@
   {
     "name": "overloaded",
     "trans": [
-      "超负荷的；超载的"
+      "adj. 超负荷的；超载的"
     ]
   },
   {
@@ -56,13 +56,13 @@
   {
     "name": "singular",
     "trans": [
-      "单个的，独一无二的"
+      "adj. 单个的，独一无二的"
     ]
   },
   {
     "name": "double-decker",
     "trans": [
-      "双层公共汽车"
+      "n. 双层公共汽车"
     ]
   },
   {
@@ -80,49 +80,49 @@
   {
     "name": "grasp",
     "trans": [
-      "理解力，领悟力"
+      "n. 理解力，领悟力"
     ]
   },
   {
     "name": "queue",
     "trans": [
-      "排队"
+      "v. 排队"
     ]
   },
   {
     "name": "wherever",
     "trans": [
-      "无论去（在）哪里，无论什么情况下"
+      "conj. 无论去（在）哪里，无论什么情况下"
     ]
   },
   {
     "name": "orderly",
     "trans": [
-      "有条理的，整齐的"
+      "adj. 有条理的，整齐的"
     ]
   },
   {
     "name": "scramble",
     "trans": [
-      "争夺，抢夺"
+      "v. 争夺，抢夺"
     ]
   },
   {
     "name": "aboard",
     "trans": [
-      "在（船、飞机、火车）上"
+      "prep. 在（船、飞机、火车）上"
     ]
   },
   {
     "name": "impulse",
     "trans": [
-      "冲动；突然的欲望"
+      "n. 冲动；突然的欲望"
     ]
   },
   {
     "name": "bounce",
     "trans": [
-      "弹起；弹跳；反弹"
+      "v. 弹起；弹跳；反弹"
     ]
   },
   {
@@ -140,7 +140,7 @@
   {
     "name": "childlike",
     "trans": [
-      "孩子般的；天真无邪的"
+      "adj. 孩子般的；天真无邪的"
     ]
   },
   {
@@ -152,31 +152,31 @@
   {
     "name": "reliably",
     "trans": [
-      "可靠地；可信赖地"
+      "adv. 可靠地；可信赖地"
     ]
   },
   {
     "name": "endanger",
     "trans": [
-      "使处于险境；危及"
+      "v. 使处于险境；危及"
     ]
   },
   {
     "name": "existence",
     "trans": [
-      "生活；生活方式"
+      "n. 生活；生活方式"
     ]
   },
   {
     "name": "chambermaid",
     "trans": [
-      "客房女服务员"
+      "n. 客房女服务员"
     ]
   },
   {
     "name": "packet",
     "trans": [
-      "小包，小袋，小盒"
+      "n. 小包，小袋，小盒"
     ]
   },
   {
@@ -194,7 +194,7 @@
   {
     "name": "charm",
     "trans": [
-      "迷住，吸引…的兴趣"
+      "v. 迷住，吸引…的兴趣"
     ]
   }
 ]

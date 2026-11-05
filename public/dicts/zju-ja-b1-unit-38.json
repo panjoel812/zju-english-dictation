@@ -1,0 +1,708 @@
+[
+  {
+    "name": "しょうひん（商品）",
+    "trans": [
+      "名 商品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-001",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "商品",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょうひん",
+      "商品"
+    ],
+    "speech": "しょうひん"
+  },
+  {
+    "name": "ごみばこ（ごみ箱）",
+    "trans": [
+      "名 垃圾箱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-002",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "垃圾箱",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ごみばこ",
+      "ごみ箱"
+    ],
+    "speech": "ごみばこ"
+  },
+  {
+    "name": "コップ",
+    "trans": [
+      "名 杯子，杯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-003",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "杯子，杯",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ペットボトル",
+    "trans": [
+      "名 塑料瓶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-004",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "塑料瓶",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "エンジン",
+    "trans": [
+      "名 发动机，引擎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-005",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "发动机，引擎",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "タイヤ",
+    "trans": [
+      "名 轮胎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-006",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "轮胎",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "フートン（胡同）",
+    "trans": [
+      "名 胡同"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-007",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "胡同",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "フートン",
+      "胡同"
+    ],
+    "speech": "フートン"
+  },
+  {
+    "name": "ろじ（路地）",
+    "trans": [
+      "名 小巷，弄堂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-008",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "小巷，弄堂",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ろじ",
+      "路地"
+    ],
+    "speech": "ろじ"
+  },
+  {
+    "name": "ヨウテイアオ（油条）",
+    "trans": [
+      "名 油条"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-009",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "油条",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ヨウテイアオ",
+      "油条"
+    ],
+    "speech": "ヨウテイアオ"
+  },
+  {
+    "name": "にほんしょく（日本食）",
+    "trans": [
+      "名 日本食品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-010",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "日本食品",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にほんしょく",
+      "日本食"
+    ],
+    "speech": "にほんしょく"
+  },
+  {
+    "name": "さしみ（刺身）",
+    "trans": [
+      "名 生鲜鱼，贝片"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-011",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "生鲜鱼，贝片",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さしみ",
+      "刺身"
+    ],
+    "speech": "さしみ"
+  },
+  {
+    "name": "たな（棚）",
+    "trans": [
+      "名 橱柜，搁板"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-012",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "橱柜，搁板",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たな",
+      "棚"
+    ],
+    "speech": "たな"
+  },
+  {
+    "name": "たたみ（畳）",
+    "trans": [
+      "名 草席，草垫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-013",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "草席，草垫",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たたみ",
+      "畳"
+    ],
+    "speech": "たたみ"
+  },
+  {
+    "name": "きもの（着物）",
+    "trans": [
+      "名 和服，衣服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-014",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "和服，衣服",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きもの",
+      "着物"
+    ],
+    "speech": "きもの"
+  },
+  {
+    "name": "ぐあい（具合）",
+    "trans": [
+      "名 情况"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-015",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "情况",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぐあい",
+      "具合"
+    ],
+    "speech": "ぐあい"
+  },
+  {
+    "name": "ひらがな（平仮名）",
+    "trans": [
+      "名 平假名"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-016",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "平假名",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひらがな",
+      "平仮名"
+    ],
+    "speech": "ひらがな"
+  },
+  {
+    "name": "あかちゃん（赤ちゃん）",
+    "trans": [
+      "名 婴儿，幼儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-017",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "婴儿，幼儿",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あかちゃん",
+      "赤ちゃん"
+    ],
+    "speech": "あかちゃん"
+  },
+  {
+    "name": "はんぶん（半分）",
+    "trans": [
+      "名 一半"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-018",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "一半",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はんぶん",
+      "半分"
+    ],
+    "speech": "はんぶん"
+  },
+  {
+    "name": "さいしゅう（最終）",
+    "trans": [
+      "名 最终"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-019",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "最终",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さいしゅう",
+      "最終"
+    ],
+    "speech": "さいしゅう"
+  },
+  {
+    "name": "しあい（試合）",
+    "trans": [
+      "名 比赛，竞赛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-020",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "比赛，竞赛",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しあい",
+      "試合"
+    ],
+    "speech": "しあい"
+  },
+  {
+    "name": "えいじしんぶん（英字新聞）",
+    "trans": [
+      "名 英文报纸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-021",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "英文报纸",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "えいじしんぶん",
+      "英字新聞"
+    ],
+    "speech": "えいじしんぶん"
+  },
+  {
+    "name": "えいせいほうそう（衛星放送）",
+    "trans": [
+      "名 卫星广播"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-022",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "卫星广播",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "えいせいほうそう",
+      "衛星放送"
+    ],
+    "speech": "えいせいほうそう"
+  },
+  {
+    "name": "ストレス",
+    "trans": [
+      "名 精神紧张状态"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-023",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "精神紧张状态",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "でんとうてき（伝統的）",
+    "trans": [
+      "名 传统的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-024",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "传统的",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "でんとうてき",
+      "伝統的"
+    ],
+    "speech": "でんとうてき"
+  },
+  {
+    "name": "いりくみます（入り組みます）",
+    "trans": [
+      "动1 错综复杂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-025",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "错综复杂",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いりくみます",
+      "入り組みます"
+    ],
+    "speech": "いりくみます"
+  },
+  {
+    "name": "へります（減ります）",
+    "trans": [
+      "动1 减少"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-026",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "减少",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "へります",
+      "減ります"
+    ],
+    "speech": "へります"
+  },
+  {
+    "name": "うごかします（動かします）",
+    "trans": [
+      "动1 开动，移动，摇动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-027",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "开动，移动，摇动",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うごかします",
+      "動かします"
+    ],
+    "speech": "うごかします"
+  },
+  {
+    "name": "かちます（勝ちます）",
+    "trans": [
+      "动1 取胜，获胜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-028",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "取胜，获胜",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かちます",
+      "勝ちます"
+    ],
+    "speech": "かちます"
+  },
+  {
+    "name": "とおりぬけます（通り抜けます）",
+    "trans": [
+      "动2 走得出去，穿过，通过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-029",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "走得出去，穿过，通过",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とおりぬけます",
+      "通り抜けます"
+    ],
+    "speech": "とおりぬけます"
+  },
+  {
+    "name": "かんじます（感じます）",
+    "trans": [
+      "动2 感觉，觉得"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-030",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "感觉，觉得",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんじます",
+      "感じます"
+    ],
+    "speech": "かんじます"
+  },
+  {
+    "name": "とりかえます（取り替えます）",
+    "trans": [
+      "动2 更换，交换"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-031",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "更换，交换",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とりかえます",
+      "取り替えます"
+    ],
+    "speech": "とりかえます"
+  },
+  {
+    "name": "てつやします（徹夜します）",
+    "trans": [
+      "动3 熬通宵，彻夜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-032",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "熬通宵，彻夜",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てつやします",
+      "徹夜します"
+    ],
+    "speech": "てつやします"
+  },
+  {
+    "name": "やけどします（火傷します）",
+    "trans": [
+      "动3 烫伤，烧伤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-033",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "烫伤，烧伤",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やけどします",
+      "火傷します"
+    ],
+    "speech": "やけどします"
+  },
+  {
+    "name": "なんだか",
+    "trans": [
+      "副 总觉得，总有点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-034",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "总觉得，总有点",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "うえのどうぶつえん（上野動物園）",
+    "trans": [
+      "专 上野动物园"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-035",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "上野动物园",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うえのどうぶつえん",
+      "上野動物園"
+    ],
+    "speech": "うえのどうぶつえん"
+  },
+  {
+    "name": "このへん（この辺）",
+    "trans": [
+      "这一带，这附近，这儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-036",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "这一带，这附近，这儿",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "このへん",
+      "この辺"
+    ],
+    "speech": "このへん"
+  },
+  {
+    "name": "いそいで（急いで）",
+    "trans": [
+      "急急忙忙地，匆忙地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U38-037",
+    "sourceSheet": "B1U38",
+    "sourceMeaning": "急急忙忙地，匆忙地",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いそいで",
+      "急いで"
+    ],
+    "speech": "いそいで"
+  }
+]

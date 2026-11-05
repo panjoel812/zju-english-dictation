@@ -1,0 +1,1016 @@
+[
+  {
+    "name": "이따가",
+    "trans": [
+      "一会儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-001",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "一会儿",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "전화번호",
+    "trans": [
+      "电话号码"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-002",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "电话号码",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "국제전화",
+    "trans": [
+      "国际电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-003",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "国际电话",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "시외전화",
+    "trans": [
+      "长途电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-004",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "长途电话",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "휴대전화",
+    "trans": [
+      "手机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-005",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "手机",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "의",
+    "trans": [
+      "的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-006",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "的",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "범죄",
+    "trans": [
+      "罪，犯罪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-007",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "罪，犯罪",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "화재",
+    "trans": [
+      "火灾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-008",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "火灾",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "신고",
+    "trans": [
+      "举报，申报"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-009",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "举报，申报",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "불이 나다",
+    "trans": [
+      "着火"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-010",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "着火",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "나중",
+    "trans": [
+      "以后，后来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-011",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "以后，后来",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "경주",
+    "trans": [
+      "庆州"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-012",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "庆州",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "주말",
+    "trans": [
+      "周末"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-013",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "周末",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "고속전철",
+    "trans": [
+      "高铁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-014",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "高铁",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "열쇠고리",
+    "trans": [
+      "钥匙链"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-015",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "钥匙链",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "기다리다",
+    "trans": [
+      "等待"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-016",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "等待",
+    "sourceTags": [],
+    "sourceNotes": "전화번호 좀 가르쳐 주세요"
+  },
+  {
+    "name": "여보세요",
+    "trans": [
+      "喂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-017",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "喂",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "여행사",
+    "trans": [
+      "旅行社"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-018",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "旅行社",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "바로",
+    "trans": [
+      "就，马上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-019",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "就，马上",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "괜찮다",
+    "trans": [
+      "没关系，可以"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-020",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "没关系，可以",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "전화를 걸다",
+    "trans": [
+      "打电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-021",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "打电话",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "전화를 받다",
+    "trans": [
+      "接电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-022",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "接电话",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "전화번호를 누르다",
+    "trans": [
+      "按电话号码"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-023",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "按电话号码",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "전화벨이 울리다",
+    "trans": [
+      "电话铃响"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-024",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "电话铃响",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "핸드폰",
+    "trans": [
+      "手机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-025",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "手机",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "신호가 가다",
+    "trans": [
+      "有信号，打通"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-026",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "有信号，打通",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "잘못",
+    "trans": [
+      "错误"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-027",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "错误",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "휴대전화를 켜다",
+    "trans": [
+      "开手机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-028",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "开手机",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "휴대전화를 끄다",
+    "trans": [
+      "关手机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-029",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "关手机",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "핸드폰을 켜다",
+    "trans": [
+      "开手机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-030",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "开手机",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "핸드폰을 끄다",
+    "trans": [
+      "关手机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-031",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "关手机",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "문자메시지를 보내다",
+    "trans": [
+      "发送文字信息"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-032",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "发送文字信息",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "문자메시지를 확인하다",
+    "trans": [
+      "确认(查看)信息"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-033",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "确认(查看)信息",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "음성메시지를 남기다",
+    "trans": [
+      "留言"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-034",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "留言",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "음성메시지를 확인하다",
+    "trans": [
+      "确认(听)留言"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-035",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "确认(听)留言",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "바꾸다",
+    "trans": [
+      "换"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-036",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "换",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "때르릉",
+    "trans": [
+      "丁零零"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-037",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "丁零零",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "주소",
+    "trans": [
+      "地址"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-038",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "地址",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "호",
+    "trans": [
+      "号"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-039",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "号",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "주문하다",
+    "trans": [
+      "预订，预约"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-040",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "预订，预约",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "오래",
+    "trans": [
+      "久，长期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-041",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "久，长期",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "배달",
+    "trans": [
+      "送，投递"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-042",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "送，投递",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "부탁",
+    "trans": [
+      "拜托，请求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-043",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "拜托，请求",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "무역",
+    "trans": [
+      "贸易"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-044",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "贸易",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "아니에요?",
+    "trans": [
+      "不是...吗？"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-045",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "不是...吗？",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "웬일이세요?",
+    "trans": [
+      "有什么事儿？"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-046",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "有什么事儿？",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "잠깐만요",
+    "trans": [
+      "稍等"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-047",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "稍等",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "정말",
+    "trans": [
+      "真的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-048",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "真的",
+    "sourceTags": [],
+    "sourceNotes": "정민철 씨 계세요?"
+  },
+  {
+    "name": "늣다",
+    "trans": [
+      "晚，迟到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-049",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "晚，迟到",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "약속하다",
+    "trans": [
+      "约定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-050",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "约定",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "약속 장소",
+    "trans": [
+      "约定场所"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-051",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "约定场所",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "약속 시간",
+    "trans": [
+      "约定时间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-052",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "约定时间",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "약속 시간을 바꾸다",
+    "trans": [
+      "更改约定时间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-053",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "更改约定时间",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "약속을 어기다",
+    "trans": [
+      "毁约"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-054",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "毁约",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "약속을 지키다",
+    "trans": [
+      "守约"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-055",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "守约",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "눈",
+    "trans": [
+      "雪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-056",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "雪",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "눈사람",
+    "trans": [
+      "雪人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-057",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "雪人",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "세일",
+    "trans": [
+      "降价，甩卖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-058",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "降价，甩卖",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "수영장",
+    "trans": [
+      "游泳馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-059",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "游泳馆",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "왜",
+    "trans": [
+      "为什么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-060",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "为什么",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "출구",
+    "trans": [
+      "出口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-061",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "出口",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "일찍",
+    "trans": [
+      "早"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-062",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "早",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "언제나",
+    "trans": [
+      "总是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-063",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "总是",
+    "sourceTags": [],
+    "sourceNotes": "늣으면 전화할게요"
+  },
+  {
+    "name": "아직",
+    "trans": [
+      "还"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-064",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "还",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  },
+  {
+    "name": "아마",
+    "trans": [
+      "也许，可能"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-065",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "也许，可能",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  },
+  {
+    "name": "통화하다",
+    "trans": [
+      "通话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-066",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "通话",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  },
+  {
+    "name": "전화를 끊다",
+    "trans": [
+      "挂电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-067",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "挂电话",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  },
+  {
+    "name": "바꾸다",
+    "trans": [
+      "换"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-068",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "换",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  },
+  {
+    "name": "통화 중이다",
+    "trans": [
+      "通话中"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-069",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "通话中",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  },
+  {
+    "name": "전화를 받다",
+    "trans": [
+      "接电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-070",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "接电话",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  },
+  {
+    "name": "코미디",
+    "trans": [
+      "喜剧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-071",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "喜剧",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  },
+  {
+    "name": "포도",
+    "trans": [
+      "葡萄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-072",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "葡萄",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  },
+  {
+    "name": "출장",
+    "trans": [
+      "出差"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-073",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "出差",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  },
+  {
+    "name": "다",
+    "trans": [
+      "都"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-074",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "都",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  },
+  {
+    "name": "심심하다",
+    "trans": [
+      "无聊，闲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-075",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "无聊，闲",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  },
+  {
+    "name": "운전하다",
+    "trans": [
+      "开车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-076",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "开车",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  },
+  {
+    "name": "결혼하다",
+    "trans": [
+      "结婚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-077",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "结婚",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  },
+  {
+    "name": "아이",
+    "trans": [
+      "孩子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U08-078",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "孩子",
+    "sourceTags": [],
+    "sourceNotes": "웨이 씨 쫌 바꿔 주세요"
+  }
+]

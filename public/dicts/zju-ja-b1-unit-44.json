@@ -1,0 +1,1213 @@
+[
+  {
+    "name": "しゃいんりょこう（社員旅行）",
+    "trans": [
+      "名 全社旅行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-001",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "全社旅行",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゃいんりょこう",
+      "社員旅行"
+    ],
+    "speech": "しゃいんりょこう"
+  },
+  {
+    "name": "しんにゅうしゃいん（新入社員）",
+    "trans": [
+      "名 新来的职员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-002",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "新来的职员",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しんにゅうしゃいん",
+      "新入社員"
+    ],
+    "speech": "しんにゅうしゃいん"
+  },
+  {
+    "name": "かいぎじょう（会議場）",
+    "trans": [
+      "名 会场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-003",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "会场",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいぎじょう",
+      "会議場"
+    ],
+    "speech": "かいぎじょう"
+  },
+  {
+    "name": "こくさいかいぎ（国際会議）",
+    "trans": [
+      "名 国际会议"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-004",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "国际会议",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こくさいかいぎ",
+      "国際会議"
+    ],
+    "speech": "こくさいかいぎ"
+  },
+  {
+    "name": "ビアガーデン",
+    "trans": [
+      "名 庭院式的啤酒店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-005",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "庭院式的啤酒店",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おおがたスーパー（大型スーパー）",
+    "trans": [
+      "名 大型超市"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-006",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "大型超市",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おおがたスーパー",
+      "大型スーパー"
+    ],
+    "speech": "おおがたスーパー"
+  },
+  {
+    "name": "みずうみ（湖）",
+    "trans": [
+      "名 湖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-007",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "湖",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みずうみ",
+      "湖"
+    ],
+    "speech": "みずうみ"
+  },
+  {
+    "name": "パトカー",
+    "trans": [
+      "名 警车，巡逻车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-008",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "警车，巡逻车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "サイレン",
+    "trans": [
+      "名 警笛，警报器"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-009",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "警笛，警报器",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "アニメ",
+    "trans": [
+      "名 动画片"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-010",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "动画片",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "パワー",
+    "trans": [
+      "名 能力，力量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-011",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "能力，力量",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "こころ（心）",
+    "trans": [
+      "名 心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-012",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "心",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こころ",
+      "心"
+    ],
+    "speech": "こころ"
+  },
+  {
+    "name": "たいど（態度）",
+    "trans": [
+      "名 态度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-013",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "态度",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たいど",
+      "態度"
+    ],
+    "speech": "たいど"
+  },
+  {
+    "name": "せいかく（性格）",
+    "trans": [
+      "名 性格"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-014",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "性格",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せいかく",
+      "性格"
+    ],
+    "speech": "せいかく"
+  },
+  {
+    "name": "ひょうばん（評判）",
+    "trans": [
+      "名 评价，评论"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-015",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "评价，评论",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひょうばん",
+      "評判"
+    ],
+    "speech": "ひょうばん"
+  },
+  {
+    "name": "ぎょうれつ（行列）",
+    "trans": [
+      "名 行列，队伍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-016",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "行列，队伍",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぎょうれつ",
+      "行列"
+    ],
+    "speech": "ぎょうれつ"
+  },
+  {
+    "name": "ようき（容器）",
+    "trans": [
+      "名 容器"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-017",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "容器",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ようき",
+      "容器"
+    ],
+    "speech": "ようき"
+  },
+  {
+    "name": "ないよう（内容）",
+    "trans": [
+      "名 内容"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-018",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "内容",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ないよう",
+      "内容"
+    ],
+    "speech": "ないよう"
+  },
+  {
+    "name": "うれゆき（売れ行き）",
+    "trans": [
+      "名 销路，销售（情况）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-019",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "销路，销售（情况）",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うれゆき",
+      "売れ行き"
+    ],
+    "speech": "うれゆき"
+  },
+  {
+    "name": "のりもの（乗り物）",
+    "trans": [
+      "名 乘坐物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-020",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "乘坐物",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "のりもの",
+      "乗り物"
+    ],
+    "speech": "のりもの"
+  },
+  {
+    "name": "あせ（汗）",
+    "trans": [
+      "名 汗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-021",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "汗",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あせ",
+      "汗"
+    ],
+    "speech": "あせ"
+  },
+  {
+    "name": "ばい（倍）",
+    "trans": [
+      "名 倍，加倍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-022",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "倍，加倍",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ばい",
+      "倍"
+    ],
+    "speech": "ばい"
+  },
+  {
+    "name": "たて（縦）",
+    "trans": [
+      "名 纵，竖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-023",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "纵，竖",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たて",
+      "縦"
+    ],
+    "speech": "たて"
+  },
+  {
+    "name": "ちゅうごくぜんど（中国全土）",
+    "trans": [
+      "名 全中国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-024",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "全中国",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちゅうごくぜんど",
+      "中国全土"
+    ],
+    "speech": "ちゅうごくぜんど"
+  },
+  {
+    "name": "ちょうきよほう（長期予報）",
+    "trans": [
+      "名 长期预报"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-025",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "长期预报",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちょうきよほう",
+      "長期予報"
+    ],
+    "speech": "ちょうきよほう"
+  },
+  {
+    "name": "わらい（笑い）",
+    "trans": [
+      "名 笑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-026",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "笑",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "わらい",
+      "笑い"
+    ],
+    "speech": "わらい"
+  },
+  {
+    "name": "あつさ（暑さ）",
+    "trans": [
+      "名 暑热，暑气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-027",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "暑热，暑气",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あつさ",
+      "暑さ"
+    ],
+    "speech": "あつさ"
+  },
+  {
+    "name": "うつくしさ（美しさ）",
+    "trans": [
+      "名 美好，美丽程度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-028",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "美好，美丽程度",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うつくしさ",
+      "美しさ"
+    ],
+    "speech": "うつくしさ"
+  },
+  {
+    "name": "おもしろさ",
+    "trans": [
+      "名 趣味，有趣程度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-029",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "趣味，有趣程度",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おおきさ（大きさ）",
+    "trans": [
+      "名 大小"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-030",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "大小",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おおきさ",
+      "大きさ"
+    ],
+    "speech": "おおきさ"
+  },
+  {
+    "name": "たかさ（高さ）",
+    "trans": [
+      "名 高度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-031",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "高度",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たかさ",
+      "高さ"
+    ],
+    "speech": "たかさ"
+  },
+  {
+    "name": "ふかさ（深さ）",
+    "trans": [
+      "名 深度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-032",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "深度",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふかさ",
+      "深さ"
+    ],
+    "speech": "ふかさ"
+  },
+  {
+    "name": "ながさ（長さ）",
+    "trans": [
+      "名 长度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-033",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "长度",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ながさ",
+      "長さ"
+    ],
+    "speech": "ながさ"
+  },
+  {
+    "name": "ひろさ（広さ）",
+    "trans": [
+      "名 面积"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-034",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "面积",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひろさ",
+      "広さ"
+    ],
+    "speech": "ひろさ"
+  },
+  {
+    "name": "ふとさ（太さ）",
+    "trans": [
+      "名 粗（度）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-035",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "粗（度）",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふとさ",
+      "太さ"
+    ],
+    "speech": "ふとさ"
+  },
+  {
+    "name": "おもさ（重さ）",
+    "trans": [
+      "名 重量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-036",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "重量",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おもさ",
+      "重さ"
+    ],
+    "speech": "おもさ"
+  },
+  {
+    "name": "あつさ（厚さ）",
+    "trans": [
+      "名 厚度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-037",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "厚度",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あつさ",
+      "厚さ"
+    ],
+    "speech": "あつさ"
+  },
+  {
+    "name": "はやさ（速さ）",
+    "trans": [
+      "名 速度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-038",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "速度",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はやさ",
+      "速さ"
+    ],
+    "speech": "はやさ"
+  },
+  {
+    "name": "べんりさ（便利さ）",
+    "trans": [
+      "名 方便程度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-039",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "方便程度",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "べんりさ",
+      "便利さ"
+    ],
+    "speech": "べんりさ"
+  },
+  {
+    "name": "ふくざつさ（複雑さ）",
+    "trans": [
+      "名 复杂程度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-040",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "复杂程度",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふくざつさ",
+      "複雑さ"
+    ],
+    "speech": "ふくざつさ"
+  },
+  {
+    "name": "おいしさ",
+    "trans": [
+      "名 美味，好吃程度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-041",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "美味，好吃程度",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "じゅうようさ（重要さ）",
+    "trans": [
+      "名 重要性，重要程度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-042",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "重要性，重要程度",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じゅうようさ",
+      "重要さ"
+    ],
+    "speech": "じゅうようさ"
+  },
+  {
+    "name": "あまさ（甘さ）",
+    "trans": [
+      "名 甜度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-043",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "甜度",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あまさ",
+      "甘さ"
+    ],
+    "speech": "あまさ"
+  },
+  {
+    "name": "ひろがります（広がります）",
+    "trans": [
+      "动1 蔓延，拓宽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-044",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "蔓延，拓宽",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひろがります",
+      "広がります"
+    ],
+    "speech": "ひろがります"
+  },
+  {
+    "name": "もどります（戻ります）",
+    "trans": [
+      "动1 返回，回到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-045",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "返回，回到",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "もどります",
+      "戻ります"
+    ],
+    "speech": "もどります"
+  },
+  {
+    "name": "おどろきます（驚きます）",
+    "trans": [
+      "动1 惊讶，吃惊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-046",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "惊讶，吃惊",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おどろきます",
+      "驚きます"
+    ],
+    "speech": "おどろきます"
+  },
+  {
+    "name": "しゃれます",
+    "trans": [
+      "动2 别致，风趣；打扮得漂亮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-047",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "别致，风趣；打扮得漂亮",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "じっかんします（実感します）",
+    "trans": [
+      "动3 切实感受，真切感受"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-048",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "切实感受，真切感受",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じっかんします",
+      "実感します"
+    ],
+    "speech": "じっかんします"
+  },
+  {
+    "name": "ふかい（深い）",
+    "trans": [
+      "形1 深"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-049",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "深",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふかい",
+      "深い"
+    ],
+    "speech": "ふかい"
+  },
+  {
+    "name": "おとなしい",
+    "trans": [
+      "形1 温顺，老实"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-050",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "温顺，老实",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "はずかしい（恥ずかしい）",
+    "trans": [
+      "形1 害羞，难为情"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-051",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "害羞，难为情",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はずかしい",
+      "恥ずかしい"
+    ],
+    "speech": "はずかしい"
+  },
+  {
+    "name": "めずらしい（珍しい）",
+    "trans": [
+      "形1 珍奇，新奇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-052",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "珍奇，新奇",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "めずらしい",
+      "珍しい"
+    ],
+    "speech": "めずらしい"
+  },
+  {
+    "name": "ごうか（豪華）",
+    "trans": [
+      "形2 豪华，奢华"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-053",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "豪华，奢华",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ごうか",
+      "豪華"
+    ],
+    "speech": "ごうか"
+  },
+  {
+    "name": "こうちょう（好調）",
+    "trans": [
+      "形2 顺利，情况良好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-054",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "顺利，情况良好",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうちょう",
+      "好調"
+    ],
+    "speech": "こうちょう"
+  },
+  {
+    "name": "ひかえめ（控えめ）",
+    "trans": [
+      "形2 分量少，节制，控制；拘谨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-055",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "分量少，节制，控制；拘谨",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひかえめ",
+      "控えめ"
+    ],
+    "speech": "ひかえめ"
+  },
+  {
+    "name": "こうひょう（好評）",
+    "trans": [
+      "形2 好评，称赞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-056",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "好评，称赞",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうひょう",
+      "好評"
+    ],
+    "speech": "こうひょう"
+  },
+  {
+    "name": "だいじ（大事）",
+    "trans": [
+      "形2 重要，宝贵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-057",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "重要，宝贵",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "だいじ",
+      "大事"
+    ],
+    "speech": "だいじ"
+  },
+  {
+    "name": "かなり",
+    "trans": [
+      "副 颇，相当"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-058",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "颇，相当",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "けっこう",
+    "trans": [
+      "副 很，相当"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-059",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "很，相当",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ささき（佐々木）",
+    "trans": [
+      "专 佐佐木"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-060",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "佐佐木",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ささき",
+      "佐々木"
+    ],
+    "speech": "ささき"
+  },
+  {
+    "name": "びわこ（琵琶湖）",
+    "trans": [
+      "专 琵琶湖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-061",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "琵琶湖",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "びわこ",
+      "琵琶湖"
+    ],
+    "speech": "びわこ"
+  },
+  {
+    "name": "のぞみ",
+    "trans": [
+      "专 ＂希望号＂［新干线的名称］"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-062",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "＂希望号＂［新干线的名称］",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おかげさまで",
+    "trans": [
+      "托您的福"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-063",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "托您的福",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "なんといっても（何と言っても）",
+    "trans": [
+      "首先是，无论如何"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U44-064",
+    "sourceSheet": "B1U44",
+    "sourceMeaning": "首先是，无论如何",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "なんといっても",
+      "何と言っても"
+    ],
+    "speech": "なんといっても"
+  }
+]

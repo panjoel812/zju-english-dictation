@@ -76,11 +76,7 @@ export default function WordDictationSwitcher() {
         <>
           <Popover.Button
             ref={refs.setReference}
-            className={`flex items-center justify-center rounded p-[2px] text-lg ${
-              wordDictationConfig.isOpen ? 'text-indigo-500' : 'text-gray-500'
-            } outline-none transition-colors duration-300 ease-in-out hover:bg-indigo-400 hover:text-white  ${
-              open ? 'bg-indigo-500 text-white' : ''
-            }`}
+            className={`toolbar-button ${wordDictationConfig.isOpen ? '' : 'text-gray-500'} ${open ? 'bg-indigo-50 dark:bg-gray-700' : ''}`}
             type="button"
             aria-label="开关默写模式"
           >

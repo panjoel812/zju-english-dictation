@@ -12,7 +12,7 @@ export default function ReleaseNotes({ onAcknowledge, fromSettings }: { onAcknow
         ))}
       </ul>
       <p className="mt-6 border-t border-gray-100 pt-4 text-sm leading-6 text-gray-600 dark:border-gray-700 dark:text-gray-300">
-        两个开关都在右上角齿轮的「默写设置」中；本说明可从设置底部的「本次更新」再次打开。
+        练习参数集中在右上角齿轮中；本说明可从设置底部的「本次更新」再次打开。
       </p>
       <div className="mt-5 flex justify-end">
         <button type="button" className="my-btn-primary" onClick={onAcknowledge}>

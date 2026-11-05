@@ -1,0 +1,1263 @@
+[
+  {
+    "name": "Leben",
+    "trans": [
+      "生活，生命"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-001",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "生活，生命",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "an",
+    "trans": [
+      "Präp.在...时候；到...旁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-002",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Präp.在...时候；到...旁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vormittag",
+    "trans": [
+      "上午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-003",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "上午",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mittag",
+    "trans": [
+      "中午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-004",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "中午",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nachmittag",
+    "trans": [
+      "下午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-005",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "下午",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "frühstücken",
+    "trans": [
+      "吃早餐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-006",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "吃早餐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufstehen",
+    "trans": [
+      "起床；起立；站起来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-007",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "起床；起立；站起来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zu",
+    "trans": [
+      "Präp. 在...时候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-008",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Präp. 在...时候",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "essen",
+    "trans": [
+      "吃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-009",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "吃",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sport",
+    "trans": [
+      "体育运动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-010",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "体育运动",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "treiben",
+    "trans": [
+      "从事，进行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-011",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "从事，进行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vorlesung",
+    "trans": [
+      "（大）课，讲座"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-012",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "（大）课，讲座",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "besuchen",
+    "trans": [
+      "访问；探望；上学；参观"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-013",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "访问；探望；上学；参观",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nach",
+    "trans": [
+      "Präp.（目标）向...；到...去（时间）；在...之后"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-014",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Präp.（目标）向...；到...去（时间）；在...之后",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fahren",
+    "trans": [
+      "搭，乘，坐（车）；行驶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-015",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "搭，乘，坐（车）；行驶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "trinken",
+    "trans": [
+      "喝，饮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-016",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "喝，饮",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bett",
+    "trans": [
+      "床"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-017",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "床",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gehen",
+    "trans": [
+      "步行，走，前往"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-018",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "步行，走，前往",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "immer",
+    "trans": [
+      "始终，经常，总是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-019",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "始终，经常，总是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "haben",
+    "trans": [
+      "有，得到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-020",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "有，得到",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pause",
+    "trans": [
+      "休息，停顿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-021",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "休息，停顿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "täglich",
+    "trans": [
+      "Adv. 每天的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-022",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 每天的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "von",
+    "trans": [
+      "Präp. （时间）从...起；（所属关系）的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-023",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Präp. （时间）从...起；（所属关系）的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "acht",
+    "trans": [
+      "Num. 八"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-024",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Num. 八",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Viertel",
+    "trans": [
+      "四分之一，一刻钟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-025",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "四分之一，一刻钟",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vor",
+    "trans": [
+      "Präp. 在...之前"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-026",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Präp. 在...之前",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zwölf",
+    "trans": [
+      "Num. 十二"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-027",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Num. 十二",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "um",
+    "trans": [
+      "Präp. 在...点钟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-028",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Präp. 在...点钟",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schon",
+    "trans": [
+      "Adv. 就，已经"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-029",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 就，已经",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "so",
+    "trans": [
+      "Adv. 这样，如此"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-030",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 这样，如此",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "früh",
+    "trans": [
+      "Adj./Adv. 早的，早上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-031",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adj./Adv. 早的，早上",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wann",
+    "trans": [
+      "Adv. 何时"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-032",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 何时",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "laufen",
+    "trans": [
+      "跑，跑步"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-033",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "跑，跑步",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aktiv",
+    "trans": [
+      "Adj. 积极的，主动的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-034",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adj. 积极的，主动的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nicht",
+    "trans": [
+      "Adv. 不，没有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-035",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 不，没有",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nur",
+    "trans": [
+      "Adv. 只，仅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-036",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 只，仅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bei",
+    "trans": [
+      "Präp. 在...时候/在...情况下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-037",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Präp. 在...时候/在...情况下",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dein",
+    "trans": [
+      "Poss. Pron. 你的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-038",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Poss. Pron. 你的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sehr",
+    "trans": [
+      "Adv.很，非常"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-039",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv.很，非常",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "viel",
+    "trans": [
+      "Adv./Pron./Num. 许多，大量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-040",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv./Pron./Num. 许多，大量",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verstehen",
+    "trans": [
+      "理解，懂得"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-041",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "理解，懂得",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wohin",
+    "trans": [
+      "Adv./Konj. 向哪里，去何处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-042",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv./Konj. 向哪里，去何处",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aber",
+    "trans": [
+      "Adv./Konj. 但是，可是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-043",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv./Konj. 但是，可是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erst",
+    "trans": [
+      "Adv. 刚刚，才"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-044",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 刚刚，才",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "halb",
+    "trans": [
+      "Adj. 一半（的）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-045",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adj. 一半（的）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wie viel",
+    "trans": [
+      "Adv. 多少"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-046",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 多少",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Uhr",
+    "trans": [
+      "钟点；表，钟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-047",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "钟点；表，钟",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "meistens",
+    "trans": [
+      "Adv. 通常，一般，大多数情况下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-048",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 通常，一般，大多数情况下",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mal",
+    "trans": [
+      "Part.（表示语气）啊；Adv. 吧；一次；Konj.（曾经或以后）；乘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-049",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Part.（表示语气）啊；Adv. 吧；一次；Konj.（曾经或以后）；乘",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "heute",
+    "trans": [
+      "Adv. 今天，当今"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-050",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 今天，当今",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zeit",
+    "trans": [
+      "时间，时刻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-051",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "时间，时刻",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "geben",
+    "trans": [
+      "给予"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-052",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "给予",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Party",
+    "trans": [
+      "聚会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-053",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "聚会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kennen",
+    "trans": [
+      "认识，了解"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-054",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "认识，了解",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "neu",
+    "trans": [
+      "Adj. 新来的，新的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-055",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adj. 新来的，新的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "leider",
+    "trans": [
+      "Adv. 可惜，遗憾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-056",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 可惜，遗憾",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kein",
+    "trans": [
+      "Pron. 没有，无"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-057",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Pron. 没有，无",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Donnerstag",
+    "trans": [
+      "星期四"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-058",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "星期四",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Prüfung",
+    "trans": [
+      "考试，检验"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-059",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "考试，检验",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Freitag",
+    "trans": [
+      "星期五"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-060",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "星期五",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zusammen",
+    "trans": [
+      "(z...)Adv. 一起，共计"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-061",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "(z...)Adv. 一起，共计",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hausaufgabe",
+    "trans": [
+      "家庭作业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-062",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "家庭作业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nie",
+    "trans": [
+      "Adv. 从未，永不"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-063",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 从未，永不",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "für",
+    "trans": [
+      "Präp. 为了，对于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-064",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Präp. 为了，对于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schlafen",
+    "trans": [
+      "睡觉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-065",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "睡觉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "eigentlich",
+    "trans": [
+      "Part. 究竟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-066",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Part. 究竟",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "spät",
+    "trans": [
+      "Adj. 迟，晚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-067",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adj. 迟，晚",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beginnen",
+    "trans": [
+      "开始"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-068",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "开始",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "warum",
+    "trans": [
+      "Adv. 为什么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-069",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 为什么",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Montag",
+    "trans": [
+      "星期一"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-070",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "星期一",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Telefonnummer",
+    "trans": [
+      "电话号码"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-071",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "电话号码",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stunde",
+    "trans": [
+      "小时，课时"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-072",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "小时，课时",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tofu",
+    "trans": [
+      "豆腐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-073",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "豆腐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hundert",
+    "trans": [
+      "Num. 百"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-074",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Num. 百",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tausend",
+    "trans": [
+      "Num. 千"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-075",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Num. 千",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Auto",
+    "trans": [
+      "小汽车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-076",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "小汽车",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "endlich",
+    "trans": [
+      "Adv. 总算，终于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-077",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 总算，终于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "E-Mail",
+    "trans": [
+      "电子邮件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-078",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "电子邮件",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "interessant",
+    "trans": [
+      "Adj. 有趣的，令人感兴趣的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-079",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adj. 有趣的，令人感兴趣的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "oft",
+    "trans": [
+      "Adv. 经常，常常"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-080",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 经常，常常",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sehen",
+    "trans": [
+      "看，看见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-081",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "看，看见",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zug",
+    "trans": [
+      "火车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-082",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "火车",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abfahren",
+    "trans": [
+      "开出，开走"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-083",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "开出，开走",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zahl",
+    "trans": [
+      "数字"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-084",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "数字",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Jahr",
+    "trans": [
+      "年，（年）岁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-085",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "年，（年）岁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "alt",
+    "trans": [
+      "老的，旧的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-086",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "老的，旧的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dienstag",
+    "trans": [
+      "星期二"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-087",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "星期二",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mittwoch",
+    "trans": [
+      "星期三"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-088",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "星期三",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Million",
+    "trans": [
+      "百万"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-089",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "百万",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hochschule",
+    "trans": [
+      "高等学校，大学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-090",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "高等学校，大学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kunst",
+    "trans": [
+      "艺术；技巧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-091",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "艺术；技巧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fachhochschule",
+    "trans": [
+      "应用技术大学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-092",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "应用技术大学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "insgesamt",
+    "trans": [
+      "(i...)Adv. 总共，合计"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-093",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "(i...)Adv. 总共，合计",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ausländer",
+    "trans": [
+      "外国人（男）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-094",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "外国人（男）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ausländerin",
+    "trans": [
+      "外国人（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-095",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "外国人（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "etwa",
+    "trans": [
+      "Adv. 大约，将近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-096",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "Adv. 大约，将近",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ausland",
+    "trans": [
+      "外国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E3-097",
+    "sourceSheet": "B1E3",
+    "sourceMeaning": "外国",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

@@ -1,0 +1,1330 @@
+[
+  {
+    "name": "そうさ（操作）",
+    "trans": [
+      "名 操作，操纵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-001",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "操作，操纵",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "そうさ",
+      "操作"
+    ],
+    "speech": "そうさ"
+  },
+  {
+    "name": "きかい（機械）",
+    "trans": [
+      "名 机械，机器"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-002",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "机械，机器",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きかい",
+      "機械"
+    ],
+    "speech": "きかい"
+  },
+  {
+    "name": "りょこうがいしゃ（旅行会社）",
+    "trans": [
+      "名 旅行社"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-003",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "旅行社",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りょこうがいしゃ",
+      "旅行会社"
+    ],
+    "speech": "りょこうがいしゃ"
+  },
+  {
+    "name": "こうくうがいしゃ（航空会社）",
+    "trans": [
+      "名 航空公司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-004",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "航空公司",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうくうがいしゃ",
+      "航空会社"
+    ],
+    "speech": "こうくうがいしゃ"
+  },
+  {
+    "name": "えいぎょうぶ（営業部）",
+    "trans": [
+      "名 营业部"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-005",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "营业部",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "えいぎょうぶ",
+      "営業部"
+    ],
+    "speech": "えいぎょうぶ"
+  },
+  {
+    "name": "アイティーさんぎょう（ＩＴ産業）",
+    "trans": [
+      "名 IT产业，信息技术产业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-006",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "IT产业，信息技术产业",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "アイティーさんぎょう",
+      "ＩＴ産業"
+    ],
+    "speech": "アイティーさんぎょう"
+  },
+  {
+    "name": "せいひん（製品）",
+    "trans": [
+      "名 产品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-007",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "产品",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せいひん",
+      "製品"
+    ],
+    "speech": "せいひん"
+  },
+  {
+    "name": "けんちくか（建築家）",
+    "trans": [
+      "名 建筑师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-008",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "建筑师",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けんちくか",
+      "建築家"
+    ],
+    "speech": "けんちくか"
+  },
+  {
+    "name": "せっけい（設計）",
+    "trans": [
+      "名 设计"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-009",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "设计",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せっけい",
+      "設計"
+    ],
+    "speech": "せっけい"
+  },
+  {
+    "name": "デザイン",
+    "trans": [
+      "名 设计（图），（制作）图案"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-010",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "设计（图），（制作）图案",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かたち（形）",
+    "trans": [
+      "名 造型，形状，形式"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-011",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "造型，形状，形式",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かたち",
+      "形"
+    ],
+    "speech": "かたち"
+  },
+  {
+    "name": "さいしん（最新）",
+    "trans": [
+      "名 最新"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-012",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "最新",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さいしん",
+      "最新"
+    ],
+    "speech": "さいしん"
+  },
+  {
+    "name": "ネクタイ",
+    "trans": [
+      "名 领带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-013",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "领带",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "さいふ（財布）",
+    "trans": [
+      "名 钱包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-014",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "钱包",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さいふ",
+      "財布"
+    ],
+    "speech": "さいふ"
+  },
+  {
+    "name": "かわ（革）",
+    "trans": [
+      "名 革，皮革"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-015",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "革，皮革",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かわ",
+      "革"
+    ],
+    "speech": "かわ"
+  },
+  {
+    "name": "ぬの（布）",
+    "trans": [
+      "名 布，布匹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-016",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "布，布匹",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぬの",
+      "布"
+    ],
+    "speech": "ぬの"
+  },
+  {
+    "name": "すいとう（水筒）",
+    "trans": [
+      "名 水壶，水筒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-017",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "水壶，水筒",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すいとう",
+      "水筒"
+    ],
+    "speech": "すいとう"
+  },
+  {
+    "name": "みどり（緑）",
+    "trans": [
+      "名 绿，绿色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-018",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "绿，绿色",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みどり",
+      "緑"
+    ],
+    "speech": "みどり"
+  },
+  {
+    "name": "あし（足）",
+    "trans": [
+      "名 脚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-019",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "脚",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あし",
+      "足"
+    ],
+    "speech": "あし"
+  },
+  {
+    "name": "ゆび（指）",
+    "trans": [
+      "名 手指，指头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-020",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "手指，指头",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ゆび",
+      "指"
+    ],
+    "speech": "ゆび"
+  },
+  {
+    "name": "め（目）",
+    "trans": [
+      "名 眼，眼睛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-021",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "眼，眼睛",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "め",
+      "目"
+    ],
+    "speech": "め"
+  },
+  {
+    "name": "はな（鼻）",
+    "trans": [
+      "名 鼻，鼻子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-022",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "鼻，鼻子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はな",
+      "鼻"
+    ],
+    "speech": "はな"
+  },
+  {
+    "name": "かお（顔）",
+    "trans": [
+      "名 脸，颜面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-023",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "脸，颜面",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かお",
+      "顔"
+    ],
+    "speech": "かお"
+  },
+  {
+    "name": "あたま（頭）",
+    "trans": [
+      "名 头，头脑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-024",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "头，头脑",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あたま",
+      "頭"
+    ],
+    "speech": "あたま"
+  },
+  {
+    "name": "アイディーカード（ＩＤカード）",
+    "trans": [
+      "名 身份证件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-025",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "身份证件",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "アイディーカード",
+      "ＩＤカード"
+    ],
+    "speech": "アイディーカード"
+  },
+  {
+    "name": "まちがい（間違い）",
+    "trans": [
+      "名 错误，失误"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-026",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "错误，失误",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まちがい",
+      "間違い"
+    ],
+    "speech": "まちがい"
+  },
+  {
+    "name": "もんだい（問題）",
+    "trans": [
+      "名 问题"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-027",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "问题",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "もんだい",
+      "問題"
+    ],
+    "speech": "もんだい"
+  },
+  {
+    "name": "こうこく（広告）",
+    "trans": [
+      "名 广告"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-028",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "广告",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうこく",
+      "広告"
+    ],
+    "speech": "こうこく"
+  },
+  {
+    "name": "かんばん（看板）",
+    "trans": [
+      "名 牌子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-029",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "牌子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんばん",
+      "看板"
+    ],
+    "speech": "かんばん"
+  },
+  {
+    "name": "てんじじょう（展示場）",
+    "trans": [
+      "名 展览会场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-030",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "展览会场",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てんじじょう",
+      "展示場"
+    ],
+    "speech": "てんじじょう"
+  },
+  {
+    "name": "にゅうじょうりょう（入場料）",
+    "trans": [
+      "名 门票，进场费"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-031",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "门票，进场费",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にゅうじょうりょう",
+      "入場料"
+    ],
+    "speech": "にゅうじょうりょう"
+  },
+  {
+    "name": "サービス",
+    "trans": [
+      "名 服务"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-032",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "服务",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "てんじょう（天井）",
+    "trans": [
+      "名 天棚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-033",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "天棚",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てんじょう",
+      "天井"
+    ],
+    "speech": "てんじょう"
+  },
+  {
+    "name": "けいび（警備）",
+    "trans": [
+      "名 戒备，警备"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-034",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "戒备，警备",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けいび",
+      "警備"
+    ],
+    "speech": "けいび"
+  },
+  {
+    "name": "クリスマスシリー",
+    "trans": [
+      "名 圣诞树"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-035",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "圣诞树",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "オーストラリアじん（オーストラリア人）",
+    "trans": [
+      "名 澳大利亚人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-036",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "澳大利亚人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "オーストラリアじん",
+      "オーストラリア人"
+    ],
+    "speech": "オーストラリアじん"
+  },
+  {
+    "name": "みなさん（皆さん）",
+    "trans": [
+      "名 大家，诸位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-037",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "大家，诸位",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みなさん",
+      "皆さん"
+    ],
+    "speech": "みなさん"
+  },
+  {
+    "name": "こ（子）",
+    "trans": [
+      "名 孩子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-038",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "孩子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こ",
+      "子"
+    ],
+    "speech": "こ"
+  },
+  {
+    "name": "よこ（横）",
+    "trans": [
+      "名 旁边，侧面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-039",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "旁边，侧面",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "よこ",
+      "横"
+    ],
+    "speech": "よこ"
+  },
+  {
+    "name": "もちます（持ちます）",
+    "trans": [
+      "动1 有，拥有，持有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-040",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "有，拥有，持有",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "もちます",
+      "持ちます"
+    ],
+    "speech": "もちます"
+  },
+  {
+    "name": "すみます（住みます）",
+    "trans": [
+      "动1 住，居住"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-041",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "住，居住",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すみます",
+      "住みます"
+    ],
+    "speech": "すみます"
+  },
+  {
+    "name": "しります（知ります）",
+    "trans": [
+      "动1 认识，知道，了解"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-042",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "认识，知道，了解",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しります",
+      "知ります"
+    ],
+    "speech": "しります"
+  },
+  {
+    "name": "なおします（直します）",
+    "trans": [
+      "动1 改，修改，改正"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-043",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "改，修改，改正",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "なおします",
+      "直します"
+    ],
+    "speech": "なおします"
+  },
+  {
+    "name": "かたづけます（片づけます）",
+    "trans": [
+      "动2 收拾，整理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-044",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "收拾，整理",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かたづけます",
+      "片づけます"
+    ],
+    "speech": "かたづけます"
+  },
+  {
+    "name": "れんしゅうします（練習します）",
+    "trans": [
+      "动3 练习"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-045",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "练习",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "れんしゅうします",
+      "練習します"
+    ],
+    "speech": "れんしゅうします"
+  },
+  {
+    "name": "けっこんします（結婚します）",
+    "trans": [
+      "动3 结婚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-046",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "结婚",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けっこんします",
+      "結婚します"
+    ],
+    "speech": "けっこんします"
+  },
+  {
+    "name": "あんしんします（安心します）",
+    "trans": [
+      "动3 安心，放心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-047",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "安心，放心",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あんしんします",
+      "安心します"
+    ],
+    "speech": "あんしんします"
+  },
+  {
+    "name": "あかるい（明るい）",
+    "trans": [
+      "形1 明亮，开朗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-048",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "明亮，开朗",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あかるい",
+      "明るい"
+    ],
+    "speech": "あかるい"
+  },
+  {
+    "name": "ながい（長い）",
+    "trans": [
+      "形1 长，长久，长远"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-049",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "长，长久，长远",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ながい",
+      "長い"
+    ],
+    "speech": "ながい"
+  },
+  {
+    "name": "みじかい（短い）",
+    "trans": [
+      "形1 短，短暂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-050",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "短，短暂",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みじかい",
+      "短い"
+    ],
+    "speech": "みじかい"
+  },
+  {
+    "name": "かるい（軽い）",
+    "trans": [
+      "形1 轻巧，轻，轻松，轻微"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-051",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "轻巧，轻，轻松，轻微",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かるい",
+      "軽い"
+    ],
+    "speech": "かるい"
+  },
+  {
+    "name": "やさしい（優しい）",
+    "trans": [
+      "形1 和蔼，温和，体贴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-052",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "和蔼，温和，体贴",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やさしい",
+      "優しい"
+    ],
+    "speech": "やさしい"
+  },
+  {
+    "name": "ほそい（細い）",
+    "trans": [
+      "形1 小，细长，纤细"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-053",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "小，细长，纤细",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほそい",
+      "細い"
+    ],
+    "speech": "ほそい"
+  },
+  {
+    "name": "ふとい（太い）",
+    "trans": [
+      "形1 粗，胖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-054",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "粗，胖",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふとい",
+      "太い"
+    ],
+    "speech": "ふとい"
+  },
+  {
+    "name": "くろい（黒い）",
+    "trans": [
+      "形1 黑，黑色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-055",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "黑，黑色",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "くろい",
+      "黒い"
+    ],
+    "speech": "くろい"
+  },
+  {
+    "name": "ユニーク",
+    "trans": [
+      "形2 独特，唯一"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-056",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "独特，唯一",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あんぜん（安全）",
+    "trans": [
+      "形2 安全"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-057",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "安全",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あんぜん",
+      "安全"
+    ],
+    "speech": "あんぜん"
+  },
+  {
+    "name": "はで（派手）",
+    "trans": [
+      "形2 耀眼，花哨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-058",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "耀眼，花哨",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はで",
+      "派手"
+    ],
+    "speech": "はで"
+  },
+  {
+    "name": "じみ（地味）",
+    "trans": [
+      "形2 朴素，质朴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-059",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "朴素，质朴",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じみ",
+      "地味"
+    ],
+    "speech": "じみ"
+  },
+  {
+    "name": "げんじゅう（厳重）",
+    "trans": [
+      "形2 森严；严格"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-060",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "森严；严格",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "げんじゅう",
+      "厳重"
+    ],
+    "speech": "げんじゅう"
+  },
+  {
+    "name": "まじめ",
+    "trans": [
+      "形2 认真；严肃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-061",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "认真；严肃",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "たいせつ（大切）",
+    "trans": [
+      "形2 重要，珍贵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-062",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "重要，珍贵",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たいせつ",
+      "大切"
+    ],
+    "speech": "たいせつ"
+  },
+  {
+    "name": "ふくざつ（複雑）",
+    "trans": [
+      "形2 复杂，繁杂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-063",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "复杂，繁杂",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふくざつ",
+      "複雑"
+    ],
+    "speech": "ふくざつ"
+  },
+  {
+    "name": "ちゃんと",
+    "trans": [
+      "副 好好地，的确，完全"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-064",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "好好地，的确，完全",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "すぐ",
+    "trans": [
+      "副 马上，立即"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-065",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "马上，立即",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ずいぶん",
+    "trans": [
+      "副 相当，非常，很"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-066",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "相当，非常，很",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ほら",
+    "trans": [
+      "叹 你看，瞧，喂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-067",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "你看，瞧，喂",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "にっちゅうでんき（日中電気）",
+    "trans": [
+      "专 日中电器"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-068",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "日中电器",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にっちゅうでんき",
+      "日中電気"
+    ],
+    "speech": "にっちゅうでんき"
+  },
+  {
+    "name": "あたまがいい（頭がいい）",
+    "trans": [
+      "脑子好，聪明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U16-069",
+    "sourceSheet": "B1U16",
+    "sourceMeaning": "脑子好，聪明",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あたまがいい",
+      "頭がいい"
+    ],
+    "speech": "あたまがいい"
+  }
+]

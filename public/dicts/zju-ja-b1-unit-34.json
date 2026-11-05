@@ -1,0 +1,801 @@
+[
+  {
+    "name": "カレンダー",
+    "trans": [
+      "名 挂历，日历"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-001",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "挂历，日历",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ポスター",
+    "trans": [
+      "名 宣传画，海报"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-002",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "宣传画，海报",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ハードスケジュール",
+    "trans": [
+      "名 紧张的日程"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-003",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "紧张的日程",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "カレーライス",
+    "trans": [
+      "名 咖喱饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-004",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "咖喱饭",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "よっておき",
+    "trans": [
+      "名 珍藏，私藏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-005",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "珍藏，私藏",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ほんば（本場）",
+    "trans": [
+      "名 原产地，发源地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-006",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "原产地，发源地",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほんば",
+      "本場"
+    ],
+    "speech": "ほんば"
+  },
+  {
+    "name": "げんかん（玄関）",
+    "trans": [
+      "名 门口，玄关"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-007",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "门口，玄关",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "げんかん",
+      "玄関"
+    ],
+    "speech": "げんかん"
+  },
+  {
+    "name": "ロッカー",
+    "trans": [
+      "名 橱柜，文件柜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-008",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "橱柜，文件柜",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "バッグ",
+    "trans": [
+      "名 包，手提包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-009",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "包，手提包",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "りょこうしゃ(旅行者)",
+    "trans": [
+      "名 旅行社"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-010",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "旅行社",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しさつだん(視察団)",
+    "trans": [
+      "名 视察团"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-011",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "视察团",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "とうちゃく(到着)",
+    "trans": [
+      "名 到达，抵达"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-012",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "到达，抵达",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かえり(帰り)",
+    "trans": [
+      "名 回程，返回，回家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-013",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "回程，返回，回家",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "もちかえり(持ち帰り)",
+    "trans": [
+      "名 打包，带回"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-014",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "打包，带回",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "じこ(事故)",
+    "trans": [
+      "名 事故"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-015",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "事故",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "はなたば(花束)",
+    "trans": [
+      "名 花束"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-016",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "花束",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "はっぴょうかい(発表会)",
+    "trans": [
+      "名 发布会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-017",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "发布会",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ろんぶん(論文)",
+    "trans": [
+      "名 论文"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-018",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "论文",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ダイエット",
+    "trans": [
+      "名 减肥"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-019",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "减肥",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "オリンピック",
+    "trans": [
+      "名 奥运会，奥林匹克"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-020",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "奥运会，奥林匹克",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あちこち／あっちこっち",
+    "trans": [
+      "代 到处，处处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-021",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "到处，处处",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "やきます(焼きます)",
+    "trans": [
+      "动1 烤，烧，烧毁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-022",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "烤，烧，烧毁",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かせぎます(稼ぎます)",
+    "trans": [
+      "动1 挣钱，赚钱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-023",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "挣钱，赚钱",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "のこります(残ります)",
+    "trans": [
+      "动1 剩余，剩下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-024",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "剩余，剩下",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "つつみます(包みます)",
+    "trans": [
+      "动1 卷，包裹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-025",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "卷，包裹",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "たのみます(頼みます)",
+    "trans": [
+      "动1 点（菜）；请求；托付"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-026",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "点（菜）；请求；托付",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "はります",
+    "trans": [
+      "动1 粘，贴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-027",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "粘，贴",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かざります(飾ります)",
+    "trans": [
+      "动1 装饰"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-028",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "装饰",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しまいます",
+    "trans": [
+      "动1 收拾起来，放到～里边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-029",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "收拾起来，放到～里边",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あいます(合います)",
+    "trans": [
+      "动1 合适，适合"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-030",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "合适，适合",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "もどします(戻します)",
+    "trans": [
+      "动1 放回，返还，返回"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-031",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "放回，返还，返回",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ためます",
+    "trans": [
+      "动2 积攒，储存"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-032",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "积攒，储存",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ならべます(並べます)",
+    "trans": [
+      "动2 排列"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-033",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "排列",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あずけます(預けます)",
+    "trans": [
+      "动2 寄存，托付"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-034",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "寄存，托付",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "つづけます(続けます)",
+    "trans": [
+      "动2 继续，持续"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-035",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "继续，持续",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "やせます",
+    "trans": [
+      "动2 瘦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-036",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "瘦",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ほうもんします(訪問します)",
+    "trans": [
+      "动3 拜访，访问"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-037",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "拜访，访问",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ちょきんします(貯金します)",
+    "trans": [
+      "动3 存钱，储蓄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-038",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "存钱，储蓄",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かんげいします(歓迎します)",
+    "trans": [
+      "动3 欢迎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-039",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "欢迎",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "よういします(用意します)",
+    "trans": [
+      "动3 准备"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-040",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "准备",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おかしい",
+    "trans": [
+      "形1 奇怪，可笑，不正常"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-041",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "奇怪，可笑，不正常",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ひどい",
+    "trans": [
+      "形1 严重，厉害"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-042",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "严重，厉害",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "もったいない",
+    "trans": [
+      "形1 可惜，浪费，过分"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-043",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "可惜，浪费，过分",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ゆうしゅう(優秀)",
+    "trans": [
+      "形2 优秀，优异"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-044",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "优秀，优异",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "さいこう(最高)",
+    "trans": [
+      "形2 最好，最高"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-045",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "最好，最高",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しっかり",
+    "trans": [
+      "副 充分，充足"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-046",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "充分，充足",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ひじょうに(非常に)",
+    "trans": [
+      "副 非常"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-047",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "非常",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "こんなに",
+    "trans": [
+      "副 这么，这样地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-048",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "这么，这样地",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "いっしょうけんめい(一生懸命)",
+    "trans": [
+      "副 拼命地，努力地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-049",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "拼命地，努力地",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "うわあ",
+    "trans": [
+      "叹 哇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-050",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "哇",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "このまま",
+    "trans": [
+      "就这样，照这样，如此"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-051",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "就这样，照这样，如此",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "いただきます",
+    "trans": [
+      "我吃了，（我）开始吃了"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-052",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "我吃了，（我）开始吃了",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "えんりょなく(遠慮なく)",
+    "trans": [
+      "不客气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U34-053",
+    "sourceSheet": "B1U34",
+    "sourceMeaning": "不客气",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

@@ -15,22 +15,26 @@ import { TypingContext, TypingStateActionType } from '@/pages/Typing/store'
 import {
   currentChapterAtom,
   currentDictInfoAtom,
+  effectiveWholeWordModeAtom,
   fontSizeConfigAtom,
   hideWordLengthAtom,
   isIgnoreCaseAtom,
   isShowAnswerOnHoverAtom,
   isTextSelectableAtom,
   pronunciationIsOpenAtom,
-  wholeWordModeAtom,
+  showFirstLetterAtom,
   wordDictationConfigAtom,
 } from '@/store'
 import type { Word } from '@/typings'
 import { CTRL, getUtcStringForMixpanel } from '@/utils'
 import { useSaveWordRecord } from '@/utils/db'
 import { useAtomValue } from 'jotai'
-import { useCallback, useContext, useEffect, useRef, useState } from 'react'
+import { useCallback, useContext, useEffect, useId, useRef, useState } from 'react'
+import type { ReactNode } from 'react'
 import { useHotkeys } from 'react-hotkeys-hook'
 import { useImmer } from 'use-immer'
+import IconEye from '~icons/tabler/eye'
+import IconEyeOff from '~icons/tabler/eye-off'
 
 const vowelLetters = ['A', 'E', 'I', 'O', 'U']
 
@@ -39,11 +43,13 @@ export default function WordComponent({
   onFinish,
   onAnswerComplete,
   resetKey,
+  children,
 }: {
   word: Word
   onFinish: () => void
   onAnswerComplete: () => void
   resetKey: number
+  children?: ReactNode
 }) {
   // eslint-disable-next-line  @typescript-eslint/no-non-null-assertion
   const { state, dispatch } = useContext(TypingContext)!
@@ -51,8 +57,10 @@ export default function WordComponent({
 
   const wordDictationConfig = useAtomValue(wordDictationConfigAtom)
   const hideWordLength = useAtomValue(hideWordLengthAtom)
+  const showFirstLetter = useAtomValue(showFirstLetterAtom)
+  const firstLetterIndex = wordState.displayWord.search(new RegExp('\\p{L}', 'u'))
   const fontSizeConfig = useAtomValue(fontSizeConfigAtom)
-  const wholeWordMode = useAtomValue(wholeWordModeAtom)
+  const wholeWordMode = useAtomValue(effectiveWholeWordModeAtom)
   const isTextSelectable = useAtomValue(isTextSelectableAtom)
   const isIgnoreCase = useAtomValue(isIgnoreCaseAtom)
   const isShowAnswerOnHover = useAtomValue(isShowAnswerOnHoverAtom)
@@ -61,6 +69,8 @@ export default function WordComponent({
   const [playKeySound, playBeepSound, playHintSound] = useKeySounds()
   const pronunciationIsOpen = useAtomValue(pronunciationIsOpenAtom)
   const [isHoveringWord, setIsHoveringWord] = useState(false)
+  const [isAnswerPeekOpen, setIsAnswerPeekOpen] = useState(false)
+  const answerPeekId = useId()
   const currentLanguage = useAtomValue(currentDictInfoAtom).language
   const currentLanguageCategory = useAtomValue(currentDictInfoAtom).languageCategory
   const currentChapter = useAtomValue(currentChapterAtom)
@@ -72,9 +82,10 @@ export default function WordComponent({
 
   useEffect(() => {
     // run only when word changes
+    setIsAnswerPeekOpen(false)
     let headword = ''
     try {
-      headword = word.name.replace(new RegExp(' ', 'g'), EXPLICIT_SPACE)
+      headword = word.name.normalize('NFC').replace(new RegExp(' ', 'g'), EXPLICIT_SPACE)
       headword = headword.replace(new RegExp('…', 'g'), '..')
     } catch (e) {
       console.error('word.name is not a string', word)
@@ -116,9 +127,17 @@ export default function WordComponent({
 
   const submitWord = () => {
     if (!state.isTyping || wordState.isFinished || wordState.hasWrong || !wordState.inputWord.replaceAll(EXPLICIT_SPACE, '').length) return
-    const input = isIgnoreCase ? wordState.inputWord.toLowerCase() : wordState.inputWord
+    const normalizedInput = wordState.inputWord.normalize('NFC')
+    const input = isIgnoreCase ? normalizedInput.toLowerCase() : normalizedInput
     const expected = isIgnoreCase ? wordState.displayWord.toLowerCase() : wordState.displayWord
-    if (input === expected) {
+    const acceptedAnswers = [
+      expected,
+      ...(word.acceptedAnswers ?? []).map((answer) => {
+        const normalized = answer.normalize('NFC').replace(/ /g, EXPLICIT_SPACE)
+        return isIgnoreCase ? normalized.toLowerCase() : normalized
+      }),
+    ]
+    if (acceptedAnswers.includes(input)) {
       setWordState((draft) => {
         draft.letterStates.fill('correct')
         draft.correctCount += expected.length
@@ -219,6 +238,7 @@ export default function WordComponent({
       if (wordState.letterStates[index] === 'correct' || (isShowAnswerOnHover && isHoveringWord)) return true
 
       if (wordDictationConfig.isOpen) {
+        if (showFirstLetter && index === firstLetterIndex) return true
         if (wordDictationConfig.type === 'hideAll') return false
 
         const letter = wordState.displayWord[index]
@@ -239,6 +259,8 @@ export default function WordComponent({
       isShowAnswerOnHover,
       wordDictationConfig.isOpen,
       wordDictationConfig.type,
+      showFirstLetter,
+      firstLetterIndex,
       wordState.displayWord,
       wordState.letterStates,
       wordState.randomLetterVisible,
@@ -376,6 +398,14 @@ export default function WordComponent({
         className="flex flex-col items-center justify-center pb-1 pt-4"
       >
         {['romaji', 'hapin'].includes(currentLanguage) && word.notation && <Notation notation={word.notation} />}
+        {isLengthHidden && showFirstLetter && firstLetterIndex >= 0 && !isAnswerRevealed && (
+          <p aria-label="首字母提示" className="mb-2 flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400">
+            首字母
+            <span className="rounded bg-indigo-50 px-2 py-0.5 font-mono text-base text-indigo-600 dark:bg-gray-800 dark:text-indigo-300">
+              {wordState.displayWord[firstLetterIndex]}
+            </span>
+          </p>
+        )}
         <div
           className="tooltip-info relative w-full max-w-xl whitespace-normal bg-transparent px-12 leading-normal shadow-none dark:bg-transparent"
           data-tip="按 Tab 快捷键显示完整单词"
@@ -408,12 +438,11 @@ export default function WordComponent({
               />
             ) : (
               <div
+                data-guide="practice"
                 aria-label={isLengthHidden ? '单词长度已隐藏' : '字母格输入区'}
                 className={`relative flex min-h-[56px] max-w-full items-center justify-center ${
                   isLengthHidden ? 'flex-nowrap' : 'flex-wrap'
-                } ${
-                  isLengthHidden ? 'w-full max-w-sm border-b-2 border-gray-400 focus-within:border-indigo-500' : ''
-                }`}
+                } ${isLengthHidden ? 'w-full max-w-sm border-b-2 border-gray-400 focus-within:border-indigo-500' : ''}`}
               >
                 {(isLengthHidden && !isAnswerRevealed ? wordState.inputWord : wordState.displayWord).split('').map((letter, index) => (
                   <Letter
@@ -431,6 +460,35 @@ export default function WordComponent({
           </div>
         </div>
       </div>
+      {children}
+      {!wordState.isFinished && (
+        <div className="mt-2 flex w-full flex-col items-center gap-3">
+          <button
+            type="button"
+            data-guide="answer"
+            aria-expanded={isAnswerPeekOpen}
+            aria-controls={answerPeekId}
+            onPointerDown={(event) => {
+              if (event.button === 0) event.preventDefault()
+            }}
+            onClick={() => setIsAnswerPeekOpen((open) => !open)}
+            className="flex min-h-[40px] items-center gap-2 rounded-lg px-4 py-2 text-sm text-gray-500 transition-colors hover:bg-indigo-50 hover:text-indigo-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-500 dark:text-gray-400 dark:hover:bg-gray-800 dark:hover:text-indigo-300"
+          >
+            {isAnswerPeekOpen ? <IconEyeOff aria-hidden="true" /> : <IconEye aria-hidden="true" />}
+            {isAnswerPeekOpen ? '收起答案' : '查看答案'}
+          </button>
+          {isAnswerPeekOpen && (
+            <div
+              id={answerPeekId}
+              role="status"
+              className="w-full max-w-lg rounded-xl border border-indigo-100 bg-indigo-50/60 px-4 py-3 text-center dark:border-gray-700 dark:bg-gray-800"
+            >
+              <p className="break-words font-mono text-xl text-indigo-600 dark:text-indigo-300">{word.name}</p>
+              <p className="mt-1 break-words text-sm leading-relaxed text-gray-600 dark:text-gray-300">{word.trans.join('；')}</p>
+            </div>
+          )}
+        </div>
+      )}
       <TipAlert className="fixed bottom-10 right-3" show={showTipAlert} setShow={setShowTipAlert} />
     </>
   )

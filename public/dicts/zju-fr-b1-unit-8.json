@@ -1,0 +1,928 @@
+[
+  {
+    "name": "calme",
+    "trans": [
+      "adj. 安静的，平静的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-001",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "安静的，平静的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "falloir",
+    "trans": [
+      "v. impers. 需要，应该，必须"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-002",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "需要，应该，必须",
+    "sourceTags": [
+      "v. impers."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "il faut",
+    "trans": [
+      "需要……"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-003",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "需要……",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lever",
+    "trans": [
+      "v.t. 举起，抬起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-004",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "举起，抬起",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "se lever",
+    "trans": [
+      "v.pr. 起床；站起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-005",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "起床；站起",
+    "sourceTags": [
+      "v.pr."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "envie",
+    "trans": [
+      "n.f. 愿望；羡慕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-006",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "愿望；羡慕",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "avoir envie de",
+    "trans": [
+      "渴望……"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-007",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "渴望……",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "rater",
+    "trans": [
+      "v.t. 错过；失败"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-008",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "错过；失败",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "maman",
+    "trans": [
+      "n.f. 妈妈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-009",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "妈妈",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "réveiller",
+    "trans": [
+      "v.t. 叫醒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-010",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "叫醒",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "se réveiller",
+    "trans": [
+      "v.pr. 自己醒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-011",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "自己醒",
+    "sourceTags": [
+      "v.pr."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chauffer",
+    "trans": [
+      "v.i. / v.t. 变热；加热"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-012",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "变热；加热",
+    "sourceTags": [
+      "v.i. / v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "couper",
+    "trans": [
+      "v.t. 切，剪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-013",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "切，剪",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "baguette",
+    "trans": [
+      "n.f. 棍子面包；小棍；筷子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-014",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "棍子面包；小棍；筷子",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "occuper",
+    "trans": [
+      "v.t. 占据；占用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-015",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "占据；占用",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "s’occuper de",
+    "trans": [
+      "v.pr. 负责；照管"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-016",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "负责；照管",
+    "sourceTags": [
+      "v.pr."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "toilette",
+    "trans": [
+      "n.f. 梳洗，打扮；盥洗室，厕所"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-017",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "梳洗，打扮；盥洗室，厕所",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "brosser",
+    "trans": [
+      "v.t. 刷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-018",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "刷",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "se brosser",
+    "trans": [
+      "v.pr. 给自己刷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-019",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "给自己刷",
+    "sourceTags": [
+      "v.pr."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dent",
+    "trans": [
+      "n.f. 牙，牙齿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-020",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "牙，牙齿",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "habiller",
+    "trans": [
+      "v.t. 给……穿衣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-021",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "给……穿衣",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "s’habiller",
+    "trans": [
+      "v.pr. 给自己穿衣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-022",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "给自己穿衣",
+    "sourceTags": [
+      "v.pr."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "même",
+    "trans": [
+      "adj. / adv. 相同的，同样的；甚至，即使"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-023",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "相同的，同样的；甚至，即使",
+    "sourceTags": [
+      "adj. / adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vitesse",
+    "trans": [
+      "n.f. 速度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-024",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "速度",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "morceau",
+    "trans": [
+      "n.m. 块，片，段"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-025",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "块，片，段",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beurre",
+    "trans": [
+      "n.m. 黄油，奶油"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-026",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "黄油，奶油",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "confiture",
+    "trans": [
+      "n.f. 果酱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-027",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "果酱",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bol",
+    "trans": [
+      "n.m. 碗；一碗之量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-028",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "碗；一碗之量",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chocolat",
+    "trans": [
+      "n.m. 巧克力饮料；巧克力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-029",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "巧克力饮料；巧克力",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "après",
+    "trans": [
+      "prép. 在……之后"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-030",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "在……之后",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mettre",
+    "trans": [
+      "v.t. 放；穿，戴；使用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-031",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "放；穿，戴；使用",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "livre",
+    "trans": [
+      "n.m. 书，书籍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-032",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "书，书籍",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cahier",
+    "trans": [
+      "n.m. 本子，簿子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-033",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "本子，簿子",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "crayon",
+    "trans": [
+      "n.m. 铅笔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-034",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "铅笔",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "stylo",
+    "trans": [
+      "n.m. 自来水笔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-035",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "自来水笔",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cartable",
+    "trans": [
+      "n.m. 学生的双肩背包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-036",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "学生的双肩背包",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "embrasser",
+    "trans": [
+      "v.t. 拥抱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-037",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "拥抱",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "attendre",
+    "trans": [
+      "v.t. 等，等候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-038",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "等，等候",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "porte",
+    "trans": [
+      "n.f. 门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-039",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "门",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sous",
+    "trans": [
+      "prép. 在……下面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-040",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "在……下面",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "direction",
+    "trans": [
+      "n.f. 方向"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-041",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "方向",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "arrêt",
+    "trans": [
+      "n.m. 公共汽车站；停"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-042",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "公共汽车站；停",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "marcher",
+    "trans": [
+      "v.i. 走，行走"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-043",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "走，行走",
+    "sourceTags": [
+      "v.i."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "car",
+    "trans": [
+      "conj. 因为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-044",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "因为",
+    "sourceTags": [
+      "conj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "élève",
+    "trans": [
+      "n. 学生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-045",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "学生",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "maître, esse",
+    "trans": [
+      "n. 小学教师；主人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-046",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "小学教师；主人",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "copain, copine",
+    "trans": [
+      "n. 伙伴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-047",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "伙伴",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "classe",
+    "trans": [
+      "n.f. 班级；教室；课"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-048",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "班级；教室；课",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bibliothèque",
+    "trans": [
+      "n.f. 图书馆；书橱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-049",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "图书馆；书橱",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bientôt",
+    "trans": [
+      "adv. 不久，马上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-050",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "不久，马上",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "math(s)",
+    "trans": [
+      "n.f.pl. 数学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-051",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "数学",
+    "sourceTags": [
+      "n.f.pl."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anglais",
+    "trans": [
+      "n.m. 英语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-052",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "英语",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anglais, e",
+    "trans": [
+      "adj. 英格兰的；英国的；英语的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-053",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "英格兰的；英国的；英语的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anglais, e",
+    "trans": [
+      "n. 英格兰人，英国人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-054",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "英格兰人，英国人",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "informatique",
+    "trans": [
+      "n.f. 信息科学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-055",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "信息科学",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "biologie",
+    "trans": [
+      "n.f. 生物学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-056",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "生物学",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "histoire",
+    "trans": [
+      "n.f. 历史；故事"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-057",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "历史；故事",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "musique",
+    "trans": [
+      "n.f. 音乐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-058",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "音乐",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "difficile",
+    "trans": [
+      "adj. 难的，困难的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-059",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "难的，困难的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "apprendre",
+    "trans": [
+      "v.t. 学，学习；教"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-060",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "学，学习；教",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "réussir",
+    "trans": [
+      "v.i. / v.t. / v.t.indir. 有成就；做成功；在……方面取得成功"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-061",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "有成就；做成功；在……方面取得成功",
+    "sourceTags": [
+      "v.i. / v.t. / v.t.indir."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "courage",
+    "trans": [
+      "n.m. 勇气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U08-062",
+    "sourceSheet": "B1U08",
+    "sourceMeaning": "勇气",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  }
+]

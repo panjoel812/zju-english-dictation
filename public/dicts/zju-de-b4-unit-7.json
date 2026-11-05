@@ -1,0 +1,769 @@
+[
+  {
+    "name": "Service",
+    "trans": [
+      "服务"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-001",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "服务",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Design",
+    "trans": [
+      "设计，款式，样式"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-002",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "设计，款式，样式",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Marke",
+    "trans": [
+      "品牌，商标"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-003",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "品牌，商标",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "werben",
+    "trans": [
+      "做广告，宣传"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-004",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "做广告，宣传",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Werbung",
+    "trans": [
+      "广告"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-005",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "广告",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Reklame",
+    "trans": [
+      "广告"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-006",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "广告",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überquellend",
+    "trans": [
+      "PI. 装得太满的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-007",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "PI. 装得太满的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Treibstoff",
+    "trans": [
+      "燃料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-008",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "燃料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zweig",
+    "trans": [
+      "细枝；分支机构，部门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-009",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "细枝；分支机构，部门",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Plakat",
+    "trans": [
+      "招贴，广告画，海报"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-010",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "招贴，广告画，海报",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Haufen",
+    "trans": [
+      "堆，大量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-011",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "堆，大量",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Konsument",
+    "trans": [
+      "消费者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-012",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "消费者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "klassisch",
+    "trans": [
+      "Adj. 古典的，传统的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-013",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj. 古典的，传统的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Printmedium",
+    "trans": [
+      "图书与报刊，书刊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-014",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "图书与报刊，书刊",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Brauche",
+    "trans": [
+      "部门，行业，专业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-015",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "部门，行业，专业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vermarkten",
+    "trans": [
+      "推销"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-016",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "推销",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Budget",
+    "trans": [
+      "预算，收支计划"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-017",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "预算，收支计划",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entbrennen",
+    "trans": [
+      "爆发，激烈地开始"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-018",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "爆发，激烈地开始",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Opfer",
+    "trans": [
+      "牺牲，牺牲品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-019",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "牺牲，牺牲品",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Blatt",
+    "trans": [
+      "叶子，纸张，报刊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-020",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "叶子，纸张，报刊",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einstellen",
+    "trans": [
+      "停止"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-021",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "停止",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überleben",
+    "trans": [
+      "存活下来，幸免于难"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-022",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "存活下来，幸免于难",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zunahme",
+    "trans": [
+      "增加，增长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-023",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "增加，增长",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kräftig",
+    "trans": [
+      "Adj. 有力的，强壮的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-024",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj. 有力的，强壮的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gebildet",
+    "trans": [
+      "Adj. 有教养的，有修养的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-025",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj. 有教养的，有修养的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "konventionell",
+    "trans": [
+      "Adj. 常规的，习惯的，传统的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-026",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj. 常规的，习惯的，传统的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nachhaltig",
+    "trans": [
+      "Adj. 持久的，长远的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-027",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj. 持久的，长远的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "regieren",
+    "trans": [
+      "统治，执政"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-028",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "统治，执政",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sorgfalt",
+    "trans": [
+      "细心，周到，谨慎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-029",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "细心，周到，谨慎",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Spur",
+    "trans": [
+      "痕迹，踪迹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-030",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "痕迹，踪迹",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vernichten",
+    "trans": [
+      "消灭，消除"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-031",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "消灭，消除",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vergangenheit",
+    "trans": [
+      "过去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-032",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "过去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wählerisch",
+    "trans": [
+      "Adj. 挑剔的，吹毛求疵的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-033",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj. 挑剔的，吹毛求疵的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beschleunigen",
+    "trans": [
+      "加快"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-034",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "加快",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erfassen",
+    "trans": [
+      "抓住，领会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-035",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "抓住，领会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "effizient",
+    "trans": [
+      "Adj. 有效率的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-036",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj. 有效率的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Instrument",
+    "trans": [
+      "乐器，工具，仪器，手段"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-037",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "乐器，工具，仪器，手段",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zuständig",
+    "trans": [
+      "Adj. 主管的，对应负责的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-038",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj. 主管的，对应负责的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mode",
+    "trans": [
+      "时尚，时髦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-039",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "时尚，时髦",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kollektiv",
+    "trans": [
+      "Adj. 集体的，共同的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-040",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj. 集体的，共同的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beträchtlich",
+    "trans": [
+      "Adj. 可观的，显著的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-041",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj. 可观的，显著的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ansprechen",
+    "trans": [
+      "攀谈，打招呼，使中意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-042",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "攀谈，打招呼，使中意",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Produzent",
+    "trans": [
+      "生产者，生产企业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-043",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "生产者，生产企业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zuschreien",
+    "trans": [
+      "喊叫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-044",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "喊叫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "neuerdings",
+    "trans": [
+      "Adj. 最近的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-045",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj. 最近的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "regelrecht",
+    "trans": [
+      "Adj./Adv. 真的，确实"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-046",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj./Adv. 真的，确实",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Teilnahmslosigkeit",
+    "trans": [
+      "淡漠，无动于衷，漠不关心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-047",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "淡漠，无动于衷，漠不关心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "herankommen",
+    "trans": [
+      "够得着"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-048",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "够得着",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Agentur",
+    "trans": [
+      "代理处，代表处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-049",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "代理处，代表处",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Übersättigung",
+    "trans": [
+      "吃饱，吃腻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-050",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "吃饱，吃腻",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zeitpunkt",
+    "trans": [
+      "时机，时刻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-051",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "时机，时刻",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufsuchen",
+    "trans": [
+      "探访，寻求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-052",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "探访，寻求",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Manager",
+    "trans": [
+      "经理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-053",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "经理",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schief",
+    "trans": [
+      "Adj. 斜的，歪的，不正确的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-054",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj. 斜的，歪的，不正确的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abwenden",
+    "trans": [
+      "转移；制止；疏远"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-055",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "转移；制止；疏远",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "extrem",
+    "trans": [
+      "Adj. 极端的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-056",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj. 极端的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anstellen",
+    "trans": [
+      "解决，处理，办；雇用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-057",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "解决，处理，办；雇用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Misserfolg",
+    "trans": [
+      "失败，挫折"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-058",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "失败，挫折",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hartnäckig",
+    "trans": [
+      "Adj. 固执的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E7-059",
+    "sourceSheet": "B4E7",
+    "sourceMeaning": "Adj. 固执的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

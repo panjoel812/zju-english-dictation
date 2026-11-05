@@ -1,0 +1,1432 @@
+[
+  {
+    "name": "Wolf",
+    "trans": [
+      "狼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-001",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "狼",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geißlein",
+    "trans": [
+      "小山羊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-002",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "小山羊",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schneewittchen",
+    "trans": [
+      "白雪公主"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-003",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "白雪公主",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kaiser",
+    "trans": [
+      "皇帝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-004",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "皇帝",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rotkäppchen",
+    "trans": [
+      "小红帽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-005",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "小红帽",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Märchen",
+    "trans": [
+      "童话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-006",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "童话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geiß",
+    "trans": [
+      "（雌）山羊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-007",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "（雌）山羊",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Holz",
+    "trans": [
+      "木头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-008",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "木头",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sammeln",
+    "trans": [
+      "搜集，收集"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-009",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "搜集，收集",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wald",
+    "trans": [
+      "森林"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-010",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "森林",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "klopfen",
+    "trans": [
+      "敲门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-011",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "敲门",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stimme",
+    "trans": [
+      "声音"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-012",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "声音",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erkennen",
+    "trans": [
+      "认出，辨认出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-013",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "认出，辨认出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "grob",
+    "trans": [
+      "粗的，粗野的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-014",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "粗的，粗野的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Weile",
+    "trans": [
+      "短时间，片刻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-015",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "短时间，片刻",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fressen",
+    "trans": [
+      "（动物）吃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-016",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "（动物）吃",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kreide",
+    "trans": [
+      "粉笔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-017",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "粉笔",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verfeinern",
+    "trans": [
+      "使优美，使精美"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-018",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "使优美，使精美",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Türspalt",
+    "trans": [
+      "门缝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-019",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "门缝",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mühle",
+    "trans": [
+      "磨坊厂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-020",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "磨坊厂",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mehl",
+    "trans": [
+      "面粉，米粉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-021",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "面粉，米粉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hereinspringen",
+    "trans": [
+      "跳进来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-022",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "跳进来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "arm",
+    "trans": [
+      "Adj. 可怜的，贫穷的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-023",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "Adj. 可怜的，贫穷的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verstecken",
+    "trans": [
+      "藏，躲藏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-024",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "藏，躲藏",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Milchtopf",
+    "trans": [
+      "奶锅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-025",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "奶锅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kasten",
+    "trans": [
+      "盒子，箱子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-026",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "盒子，箱子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einschlafen",
+    "trans": [
+      "睡着，入睡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-027",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "睡着，入睡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "rufen",
+    "trans": [
+      "喊，叫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-028",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "喊，叫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überall",
+    "trans": [
+      "Adv. 到处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-029",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "Adv. 到处",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "herauskommen",
+    "trans": [
+      "走出来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-030",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "走出来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "geschehen",
+    "trans": [
+      "(g..)发生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-031",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "(g..)发生",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bewegen",
+    "trans": [
+      "移动，活动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-032",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "移动，活动",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schere",
+    "trans": [
+      "剪刀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-033",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "剪刀",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufschneiden",
+    "trans": [
+      "剪，裁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-034",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "剪，裁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nacheinander",
+    "trans": [
+      "Adv. 一个接一个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-035",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "Adv. 一个接一个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lebendig",
+    "trans": [
+      "Adj. 活着的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-036",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "Adj. 活着的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stein",
+    "trans": [
+      "石头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-037",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "石头",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zunähen",
+    "trans": [
+      "缝上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-038",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "缝上",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausschlafen",
+    "trans": [
+      "睡醒，睡足"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-039",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "睡醒，睡足",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Durst",
+    "trans": [
+      "口渴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-040",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "口渴",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Brunnen",
+    "trans": [
+      "井"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-041",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "井",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zusammenschlagen",
+    "trans": [
+      "拍，击"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-042",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "拍，击",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schritt",
+    "trans": [
+      "步，步伐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-043",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "步，步伐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beugen",
+    "trans": [
+      "弯，屈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-044",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "弯，屈",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hinunterziehen",
+    "trans": [
+      "把......来下去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-045",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "把......来下去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ertrinken",
+    "trans": [
+      "淹死"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-046",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "淹死",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "herumtanzen",
+    "trans": [
+      "跳来跳去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-047",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "跳来跳去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ziel",
+    "trans": [
+      "目标，目的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-048",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "目标，目的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "passieren",
+    "trans": [
+      "(p..)发生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-049",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "(p..)发生",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nennen",
+    "trans": [
+      "把......叫作；给......取名"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-050",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "把......叫作；给......取名",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Korb",
+    "trans": [
+      "篮子，筐子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-051",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "篮子，筐子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "voll",
+    "trans": [
+      "Adj. 满的，装得满满的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-052",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "Adj. 满的，装得满满的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "begegnen",
+    "trans": [
+      "遇到，碰见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-053",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "遇到，碰见",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "böse",
+    "trans": [
+      "Adj. 坏的，生气的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-054",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "Adj. 坏的，生气的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "listig",
+    "trans": [
+      "Adj. 狡猾的，奸诈的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-055",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "Adj. 狡猾的，奸诈的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pflücken",
+    "trans": [
+      "采，摘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-056",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "采，摘",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "eilig",
+    "trans": [
+      "Adj. 匆忙的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-057",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "Adj. 匆忙的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vortrag",
+    "trans": [
+      "报告，演讲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-058",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "报告，演讲",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "niemand",
+    "trans": [
+      "Pron. 没有人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-059",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "Pron. 没有人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufsetzen",
+    "trans": [
+      "戴上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-060",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "戴上",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "reagieren",
+    "trans": [
+      "对......作出反应"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-061",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "对......作出反应",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überrascht",
+    "trans": [
+      "P.II 惊异的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-062",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "P.II 惊异的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lassen",
+    "trans": [
+      "让，使，容许"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-063",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "让，使，容许",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kindergarten",
+    "trans": [
+      "幼儿园"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-064",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "幼儿园",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mittelschule",
+    "trans": [
+      "中学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-065",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "中学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beenden",
+    "trans": [
+      "结束"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-066",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "结束",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Flughafen",
+    "trans": [
+      "飞机场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-067",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "飞机场",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mitnehmen",
+    "trans": [
+      "随身携带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-068",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "随身携带",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Regenschirm",
+    "trans": [
+      "雨伞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-069",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "雨伞",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Buchhandlung",
+    "trans": [
+      "书店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-070",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "书店",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wäsche",
+    "trans": [
+      "洗涤物（指床上用品、衣物等）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-071",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "洗涤物（指床上用品、衣物等）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufräumen",
+    "trans": [
+      "整理，收拾干净"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-072",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "整理，收拾干净",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abschicken",
+    "trans": [
+      "寄走，寄出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-073",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "寄走，寄出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "befehlen",
+    "trans": [
+      "命令，指令；吩咐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-074",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "命令，指令；吩咐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anekdote",
+    "trans": [
+      "（名人）轶事"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-075",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "（名人）轶事",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "loben",
+    "trans": [
+      "表扬，称赞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-076",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "表扬，称赞",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anbieten",
+    "trans": [
+      "敬（烟、酒、茶），提供供应"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-077",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "敬（烟、酒、茶），提供供应",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einstecken",
+    "trans": [
+      "把......放进衣袋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-078",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "把......放进衣袋",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "behalten",
+    "trans": [
+      "留下，保存；保持；记住"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-079",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "留下，保存；保持；记住",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Erinnerung",
+    "trans": [
+      "纪念；回忆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-080",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "纪念；回忆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "genügen",
+    "trans": [
+      "V. 足够，满足"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-081",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "V. 足够，满足",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bedeutend",
+    "trans": [
+      "P.I 终于要的；著名的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-082",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "P.I 终于要的；著名的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kaum",
+    "trans": [
+      "Adv. 几乎不"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-083",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "Adv. 几乎不",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Saal",
+    "trans": [
+      "礼堂，大厅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-084",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "礼堂，大厅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wenden",
+    "trans": [
+      "转向"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-085",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "转向",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zuschauer",
+    "trans": [
+      "观众"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-086",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "观众",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Franc",
+    "trans": [
+      "法国法郎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-087",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "法国法郎",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überfüllt",
+    "trans": [
+      "P.II 满的，拥挤的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-088",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "P.II 满的，拥挤的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Jäger",
+    "trans": [
+      "猎人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-089",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "猎人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mongolisch",
+    "trans": [
+      "Adj. 蒙古的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-090",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "Adj. 蒙古的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Volkssage",
+    "trans": [
+      "民间传说"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-091",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "民间传说",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "jagen",
+    "trans": [
+      "打猎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-092",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "打猎",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nachbarschaft",
+    "trans": [
+      "邻里关系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-093",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "邻里关系",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schlange",
+    "trans": [
+      "蛇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-094",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "蛇",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Umweg",
+    "trans": [
+      "绕道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-095",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "绕道",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Augenblick",
+    "trans": [
+      "瞬间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-096",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "瞬间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hinwegfliegen",
+    "trans": [
+      "(h..)飞走，飞开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-097",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "(h..)飞走，飞开",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kranich",
+    "trans": [
+      "鹤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-098",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "鹤",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ergreifen",
+    "trans": [
+      "抓住，捉住"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-099",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "抓住，捉住",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schießen",
+    "trans": [
+      "射击，射伤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-100",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "射击，射伤",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "davonfliegen",
+    "trans": [
+      "(d..)飞走"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-101",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "(d..)飞走",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Drachenkönig",
+    "trans": [
+      "龙王"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-102",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "龙王",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Edelstein",
+    "trans": [
+      "宝石"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-103",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "宝石",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufbewahren",
+    "trans": [
+      "保存，收藏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-104",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "保存，收藏",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verwandeln",
+    "trans": [
+      "变成"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-105",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "变成",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Abschied",
+    "trans": [
+      "N. 告别，离别"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-106",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "N. 告别，离别",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erfolgreich",
+    "trans": [
+      "Adj. 有成就的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-107",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "Adj. 有成就的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hochwasser",
+    "trans": [
+      "洪水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-108",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "洪水",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "retten",
+    "trans": [
+      "拯救"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-109",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "拯救",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Berggipfel",
+    "trans": [
+      "山巅，山顶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E4-110",
+    "sourceSheet": "B2E4",
+    "sourceMeaning": "山巅，山顶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

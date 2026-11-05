@@ -1,0 +1,665 @@
+[
+  {
+    "name": "герой",
+    "trans": [
+      "英雄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-001",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "英雄",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "родители",
+    "trans": [
+      "父母"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-002",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "父母",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "дядя",
+    "trans": [
+      "叔叔, 伯伯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-003",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "叔叔, 伯伯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "тётя",
+    "trans": [
+      "婶婶, 阿姨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-004",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "婶婶, 阿姨",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "люди",
+    "trans": [
+      "人们"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-005",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "人们",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ему",
+    "trans": [
+      "他 (第三格)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-006",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "他 (第三格)",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "меня",
+    "trans": [
+      "我 (第二、四格)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-007",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "我 (第二、四格)",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Пекин",
+    "trans": [
+      "北京"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-008",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "北京",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Китай",
+    "trans": [
+      "中国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-009",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "中国",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Санкт-Петербург",
+    "trans": [
+      "圣彼得堡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-010",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "圣彼得堡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Россия",
+    "trans": [
+      "俄罗斯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-011",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "俄罗斯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "вокзал",
+    "trans": [
+      "火车站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-012",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "火车站",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "станция",
+    "trans": [
+      "车站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-013",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "车站",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "школа",
+    "trans": [
+      "(中小) 学校"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-014",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "(中小) 学校",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "метро",
+    "trans": [
+      "地铁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-015",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "地铁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "троллейбус",
+    "trans": [
+      "无轨电车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-016",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "无轨电车",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "поле",
+    "trans": [
+      "田野"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-017",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "田野",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "море",
+    "trans": [
+      "大海"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-018",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "大海",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "земля",
+    "trans": [
+      "土地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-019",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "土地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "луна",
+    "trans": [
+      "月亮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-020",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "月亮",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "лето",
+    "trans": [
+      "夏天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-021",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "夏天",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "осень",
+    "trans": [
+      "秋天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-022",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "秋天",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "май",
+    "trans": [
+      "五月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-023",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "五月",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "время",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-024",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "时间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "молоко",
+    "trans": [
+      "牛奶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-025",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "牛奶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "мясо",
+    "trans": [
+      "肉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-026",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "肉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "картофель",
+    "trans": [
+      "土豆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-027",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "土豆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "колбаса",
+    "trans": [
+      "香肠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-028",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "香肠",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "яблоко",
+    "trans": [
+      "苹果"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-029",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "苹果",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "яйцо",
+    "trans": [
+      "(禽类等的) 蛋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-030",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "(禽类等的) 蛋",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "масло",
+    "trans": [
+      "油"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-031",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "油",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "билет",
+    "trans": [
+      "票"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-032",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "票",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "журнал",
+    "trans": [
+      "杂志"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-033",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "杂志",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "лампа",
+    "trans": [
+      "灯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-034",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "灯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "номер",
+    "trans": [
+      "号码; 房间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-035",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "号码; 房间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "стол",
+    "trans": [
+      "桌子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-036",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "桌子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "стул",
+    "trans": [
+      "椅子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-037",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "椅子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "телефон",
+    "trans": [
+      "电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-038",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "电话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "глаза",
+    "trans": [
+      "眼睛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-039",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "眼睛",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "голова",
+    "trans": [
+      "头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-040",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "头",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "имя",
+    "trans": [
+      "名字"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-041",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "名字",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "слово",
+    "trans": [
+      "词"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-042",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "词",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "язык",
+    "trans": [
+      "语言"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-043",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "语言",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "пяти",
+    "trans": [
+      "五 (第二、三、六格)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-044",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "五 (第二、三、六格)",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "волейбол",
+    "trans": [
+      "排球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-045",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "排球",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "балет",
+    "trans": [
+      "芭蕾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-046",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "芭蕾",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "даю",
+    "trans": [
+      "(我) 给"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-047",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "(我) 给",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "еду",
+    "trans": [
+      "(我) 乘车行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-048",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "(我) 乘车行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "знает",
+    "trans": [
+      "(他) 知道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-049",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "(他) 知道",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "знают",
+    "trans": [
+      "(他们) 知道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-050",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "(他们) 知道",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "привет",
+    "trans": [
+      "问候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U05-051",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "问候",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

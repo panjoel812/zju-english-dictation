@@ -1,0 +1,288 @@
+[
+  {
+    "name": "мать",
+    "trans": [
+      "母亲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-001",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "母亲",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "инженер",
+    "trans": [
+      "工程师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-002",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "工程师",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "мой",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-003",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "我的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "зовут",
+    "trans": [
+      "(他们) 叫……"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-004",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "(他们) 叫……",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "университет",
+    "trans": [
+      "大学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-005",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "大学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "московский",
+    "trans": [
+      "莫斯科的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-006",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "莫斯科的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "филологический",
+    "trans": [
+      "语言的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-007",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "语言的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "государственный",
+    "trans": [
+      "国立的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-008",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "国立的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "музыка",
+    "trans": [
+      "音乐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-009",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "音乐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "жить",
+    "trans": [
+      "居住, 生活"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-010",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "居住, 生活",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "работать",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-011",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "工作",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "любить",
+    "trans": [
+      "喜欢, 爱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-012",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "喜欢, 爱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "слушать",
+    "trans": [
+      "听"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-013",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "听",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "гулять",
+    "trans": [
+      "散步"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-014",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "散步",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "выходной",
+    "trans": [
+      "休息日的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-015",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "休息日的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "пенсия",
+    "trans": [
+      "退休"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-016",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "退休",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "в",
+    "trans": [
+      "在……里面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-017",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "在……里面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "на",
+    "trans": [
+      "在……上面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-018",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "在……上面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "или",
+    "trans": [
+      "或者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-019",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "或者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "не",
+    "trans": [
+      "不"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-020",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "不",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "небольшой",
+    "trans": [
+      "不大"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-021",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "不大",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "уже",
+    "trans": [
+      "已经"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U09-022",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "已经",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

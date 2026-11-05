@@ -1,0 +1,1010 @@
+[
+  {
+    "name": "ふなびん（船便）",
+    "trans": [
+      "名 海运"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-001",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "海运",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふなびん",
+      "船便"
+    ],
+    "speech": "ふなびん"
+  },
+  {
+    "name": "しょるい（書類）",
+    "trans": [
+      "名 文件，文稿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-002",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "文件，文稿",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょるい",
+      "書類"
+    ],
+    "speech": "しょるい"
+  },
+  {
+    "name": "げんこう（原稿）",
+    "trans": [
+      "名 稿子，原稿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-003",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "稿子，原稿",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "げんこう",
+      "原稿"
+    ],
+    "speech": "げんこう"
+  },
+  {
+    "name": "きじ（記事）",
+    "trans": [
+      "名 报道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-004",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "报道",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きじ",
+      "記事"
+    ],
+    "speech": "きじ"
+  },
+  {
+    "name": "メモ",
+    "trans": [
+      "名 记录"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-005",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "记录",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "えきまえ（駅前）",
+    "trans": [
+      "名 车站一带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-006",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "车站一带",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "えきまえ",
+      "駅前"
+    ],
+    "speech": "えきまえ"
+  },
+  {
+    "name": "はし（橋）",
+    "trans": [
+      "名 桥，桥梁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-007",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "桥，桥梁",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はし",
+      "橋"
+    ],
+    "speech": "はし"
+  },
+  {
+    "name": "かど（角）",
+    "trans": [
+      "名 拐角"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-008",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "拐角",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かど",
+      "角"
+    ],
+    "speech": "かど"
+  },
+  {
+    "name": "おうだんほどう（横断歩道）",
+    "trans": [
+      "名 人行横道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-009",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "人行横道",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おうだんほどう",
+      "横断歩道"
+    ],
+    "speech": "おうだんほどう"
+  },
+  {
+    "name": "みぎ（右）",
+    "trans": [
+      "名 右，右边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-010",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "右，右边",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みぎ",
+      "右"
+    ],
+    "speech": "みぎ"
+  },
+  {
+    "name": "ひだり（左）",
+    "trans": [
+      "名 左，左边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-011",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "左，左边",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひだり",
+      "左"
+    ],
+    "speech": "ひだり"
+  },
+  {
+    "name": "こうさてん（交差点）",
+    "trans": [
+      "名 十字路口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-012",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "十字路口",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうさてん",
+      "交差点"
+    ],
+    "speech": "こうさてん"
+  },
+  {
+    "name": "みち（道）",
+    "trans": [
+      "名 路，道路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-013",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "路，道路",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みち",
+      "道"
+    ],
+    "speech": "みち"
+  },
+  {
+    "name": "ドア",
+    "trans": [
+      "名 门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-014",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "门",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "でんき（電気）",
+    "trans": [
+      "名 电，电力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-015",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "电，电力",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "でんき",
+      "電気"
+    ],
+    "speech": "でんき"
+  },
+  {
+    "name": "たいきょくけん（太極拳）",
+    "trans": [
+      "名 太极拳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-016",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "太极拳",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たいきょくけん",
+      "太極拳"
+    ],
+    "speech": "たいきょくけん"
+  },
+  {
+    "name": "あさごはん（朝ご飯）",
+    "trans": [
+      "名 早饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-017",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "早饭",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あさごはん",
+      "朝ご飯"
+    ],
+    "speech": "あさごはん"
+  },
+  {
+    "name": "ばんごはん（晩ご飯）",
+    "trans": [
+      "名 晚饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-018",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "晚饭",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ばんごはん",
+      "晩ご飯"
+    ],
+    "speech": "ばんごはん"
+  },
+  {
+    "name": "バーベキュー",
+    "trans": [
+      "名 户外烧烤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-019",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "户外烧烤",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "とおります（通ります）",
+    "trans": [
+      "动1 通过，经过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-020",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "通过，经过",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とおります",
+      "通ります"
+    ],
+    "speech": "とおります"
+  },
+  {
+    "name": "いそぎます（急ぎます）",
+    "trans": [
+      "动1 急，急忙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-021",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "急，急忙",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いそぎます",
+      "急ぎます"
+    ],
+    "speech": "いそぎます"
+  },
+  {
+    "name": "とびます（飛びます）",
+    "trans": [
+      "动1 飞，飞行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-022",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "飞，飞行",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とびます",
+      "飛びます"
+    ],
+    "speech": "とびます"
+  },
+  {
+    "name": "しにます（死にます）",
+    "trans": [
+      "动1 死，死亡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-023",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "死，死亡",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しにます",
+      "死にます"
+    ],
+    "speech": "しにます"
+  },
+  {
+    "name": "まちます（待ちます）",
+    "trans": [
+      "动1 等待，等候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-024",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "等待，等候",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まちます",
+      "待ちます"
+    ],
+    "speech": "まちます"
+  },
+  {
+    "name": "うります（売ります）",
+    "trans": [
+      "动1 卖，销售"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-025",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "卖，销售",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うります",
+      "売ります"
+    ],
+    "speech": "うります"
+  },
+  {
+    "name": "はなします（話します）",
+    "trans": [
+      "动1 说话，说"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-026",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "说话，说",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はなします",
+      "話します"
+    ],
+    "speech": "はなします"
+  },
+  {
+    "name": "わたります（渡ります）",
+    "trans": [
+      "动1 过（桥，河），穿过（马路）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-027",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "过（桥，河），穿过（马路）",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "わたります",
+      "渡ります"
+    ],
+    "speech": "わたります"
+  },
+  {
+    "name": "おろします（下ろします）",
+    "trans": [
+      "动1 取，卸货"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-028",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "取，卸货",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おろします",
+      "下ろします"
+    ],
+    "speech": "おろします"
+  },
+  {
+    "name": "えらびます（選びます）",
+    "trans": [
+      "动1 挑选，选择"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-029",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "挑选，选择",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "えらびます",
+      "選びます"
+    ],
+    "speech": "えらびます"
+  },
+  {
+    "name": "けします（消します）",
+    "trans": [
+      "动1 关（灯），消除，去除"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-030",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "关（灯），消除，去除",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けします",
+      "消します"
+    ],
+    "speech": "けします"
+  },
+  {
+    "name": "あるきます（歩きます）",
+    "trans": [
+      "动1 步行，行走"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-031",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "步行，行走",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あるきます",
+      "歩きます"
+    ],
+    "speech": "あるきます"
+  },
+  {
+    "name": "まがります（曲がります）",
+    "trans": [
+      "动1 拐弯，曲折"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-032",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "拐弯，曲折",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まがります",
+      "曲がります"
+    ],
+    "speech": "まがります"
+  },
+  {
+    "name": "あらいます（洗います）",
+    "trans": [
+      "动1 洗，洗涤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-033",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "洗，洗涤",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あらいます",
+      "洗います"
+    ],
+    "speech": "あらいます"
+  },
+  {
+    "name": "でます（出ます）",
+    "trans": [
+      "动2 离开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-034",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "离开",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "でます",
+      "出ます"
+    ],
+    "speech": "でます"
+  },
+  {
+    "name": "でかけます（出かけます）",
+    "trans": [
+      "动2 外出，出门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-035",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "外出，出门",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "でかけます",
+      "出かけます"
+    ],
+    "speech": "でかけます"
+  },
+  {
+    "name": "あけます（開けます）",
+    "trans": [
+      "动2 开，打开，开启"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-036",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "开，打开，开启",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あけます",
+      "開けます"
+    ],
+    "speech": "あけます"
+  },
+  {
+    "name": "すぎます（過ぎます）",
+    "trans": [
+      "动2 过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-037",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "过",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すぎます",
+      "過ぎます"
+    ],
+    "speech": "すぎます"
+  },
+  {
+    "name": "みせます（見せます）",
+    "trans": [
+      "动2 给～看；出示"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-038",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "给～看；出示",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みせます",
+      "見せます"
+    ],
+    "speech": "みせます"
+  },
+  {
+    "name": "つけます",
+    "trans": [
+      "动2 开（灯）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-039",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "开（灯）",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おります（降ります）",
+    "trans": [
+      "动2 下（车，山）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-040",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "下（车，山）",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おります",
+      "降ります"
+    ],
+    "speech": "おります"
+  },
+  {
+    "name": "かいものします（買い物します）",
+    "trans": [
+      "动3 买东西"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-041",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "买东西",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいものします",
+      "買い物します"
+    ],
+    "speech": "かいものします"
+  },
+  {
+    "name": "そつぎょうします（卒業します）",
+    "trans": [
+      "动3 毕业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-042",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "毕业",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "そつぎょうします",
+      "卒業します"
+    ],
+    "speech": "そつぎょうします"
+  },
+  {
+    "name": "しょくじします（食事します）",
+    "trans": [
+      "动3 吃饭，用餐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-043",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "吃饭，用餐",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょくじします",
+      "食事します"
+    ],
+    "speech": "しょくじします"
+  },
+  {
+    "name": "せいりします（整理します）",
+    "trans": [
+      "动3 整理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-044",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "整理",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せいりします",
+      "整理します"
+    ],
+    "speech": "せいりします"
+  },
+  {
+    "name": "コピーします",
+    "trans": [
+      "动3 复印"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-045",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "复印",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "くらい（暗い）",
+    "trans": [
+      "形1 黑暗，昏暗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-046",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "黑暗，昏暗",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "くらい",
+      "暗い"
+    ],
+    "speech": "くらい"
+  },
+  {
+    "name": "たいへん（大変）",
+    "trans": [
+      "形2 够受的，不得了"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-047",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "够受的，不得了",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たいへん",
+      "大変"
+    ],
+    "speech": "たいへん"
+  },
+  {
+    "name": "なかなか",
+    "trans": [
+      "副 相当，很，非常"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-048",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "相当，很，非常",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "こう",
+    "trans": [
+      "副 这样，如此"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-049",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "这样，如此",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "そう∕ああ",
+    "trans": [
+      "副 那样"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-050",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "那样",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あとで（後で）",
+    "trans": [
+      "副 过会儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-051",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "过会儿",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あとで",
+      "後で"
+    ],
+    "speech": "あとで"
+  },
+  {
+    "name": "それから",
+    "trans": [
+      "连 然后"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-052",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "然后",
+    "sourceTags": [
+      "连"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "すみませんが",
+    "trans": [
+      "对不起……，劳驾……"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U14-053",
+    "sourceSheet": "B1U14",
+    "sourceMeaning": "对不起……，劳驾……",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

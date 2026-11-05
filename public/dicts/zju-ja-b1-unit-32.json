@@ -1,0 +1,803 @@
+[
+  {
+    "name": "れっしゃ（列車）",
+    "trans": [
+      "名 火车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-001",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "火车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "れっしゃ",
+      "列車"
+    ],
+    "speech": "れっしゃ"
+  },
+  {
+    "name": "こうそくバス（高速バス）",
+    "trans": [
+      "名 高速公共汽车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-002",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "高速公共汽车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうそくバス",
+      "高速バス"
+    ],
+    "speech": "こうそくバス"
+  },
+  {
+    "name": "しゅっぱつじこく（出発時刻）",
+    "trans": [
+      "名 出发时间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-003",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "出发时间",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅっぱつじこく",
+      "出発時刻"
+    ],
+    "speech": "しゅっぱつじこく"
+  },
+  {
+    "name": "りょこうよてい（旅行予定）",
+    "trans": [
+      "名 旅行计划"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-004",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "旅行计划",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りょこうよてい",
+      "旅行予定"
+    ],
+    "speech": "りょこうよてい"
+  },
+  {
+    "name": "てんきよほう（天気予報）",
+    "trans": [
+      "名 天气预报"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-005",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "天气预报",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てんきよほう",
+      "天気予報"
+    ],
+    "speech": "てんきよほう"
+  },
+  {
+    "name": "たいふう（台風）",
+    "trans": [
+      "名 台风"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-006",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "台风",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たいふう",
+      "台風"
+    ],
+    "speech": "たいふう"
+  },
+  {
+    "name": "うわさ",
+    "trans": [
+      "名 传说，风言风语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-007",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "传说，风言风语",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "せんでん（宣伝）",
+    "trans": [
+      "名 宣传"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-008",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "宣传",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せんでん",
+      "宣伝"
+    ],
+    "speech": "せんでん"
+  },
+  {
+    "name": "ばんぐみ（番組）",
+    "trans": [
+      "名 节目"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-009",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "节目",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ばんぐみ",
+      "番組"
+    ],
+    "speech": "ばんぐみ"
+  },
+  {
+    "name": "しんがた（新型）",
+    "trans": [
+      "名 新型"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-010",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "新型",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しんがた",
+      "新型"
+    ],
+    "speech": "しんがた"
+  },
+  {
+    "name": "ボーナス",
+    "trans": [
+      "名 奖金"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-011",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "奖金",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ラーメン",
+    "trans": [
+      "名 面条"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-012",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "面条",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ぎゅうにゅう（牛乳）",
+    "trans": [
+      "名 牛奶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-013",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "牛奶",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぎゅうにゅう",
+      "牛乳"
+    ],
+    "speech": "ぎゅうにゅう"
+  },
+  {
+    "name": "ギョーザパーテイー（饺子パーテイー）",
+    "trans": [
+      "名 饺子宴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-014",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "饺子宴",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ギョーザパーテイー",
+      "饺子パーテイー"
+    ],
+    "speech": "ギョーザパーテイー"
+  },
+  {
+    "name": "しょうがつやすみ（正月休み）",
+    "trans": [
+      "名 新年假日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-015",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "新年假日",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょうがつやすみ",
+      "正月休み"
+    ],
+    "speech": "しょうがつやすみ"
+  },
+  {
+    "name": "スポーツようひん（スポーツ用品）",
+    "trans": [
+      "名 体育用品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-016",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "体育用品",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "スポーツようひん",
+      "スポーツ用品"
+    ],
+    "speech": "スポーツようひん"
+  },
+  {
+    "name": "インフルエンザ",
+    "trans": [
+      "名 流感，流行性感冒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-017",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "流感，流行性感冒",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "してん（支店）",
+    "trans": [
+      "名 分店，分公司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-018",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "分店，分公司",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "してん",
+      "支店"
+    ],
+    "speech": "してん"
+  },
+  {
+    "name": "しょうがっこう（小学校）",
+    "trans": [
+      "名 小学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-019",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "小学",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょうがっこう",
+      "小学校"
+    ],
+    "speech": "しょうがっこう"
+  },
+  {
+    "name": "ゆうえんち（遊園地）",
+    "trans": [
+      "名 游乐园"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-020",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "游乐园",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ゆうえんち",
+      "遊園地"
+    ],
+    "speech": "ゆうえんち"
+  },
+  {
+    "name": "しゅしょう（首相）",
+    "trans": [
+      "名 首相"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-021",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "首相",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅしょう",
+      "首相"
+    ],
+    "speech": "しゅしょう"
+  },
+  {
+    "name": "れきし（歴史）",
+    "trans": [
+      "名 历史"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-022",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "历史",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "れきし",
+      "歴史"
+    ],
+    "speech": "れきし"
+  },
+  {
+    "name": "かのじょ（彼女）",
+    "trans": [
+      "代 她"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-023",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "她",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かのじょ",
+      "彼女"
+    ],
+    "speech": "かのじょ"
+  },
+  {
+    "name": "おこないます（行います）",
+    "trans": [
+      "动1 开，举行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-024",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "开，举行",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おこないます",
+      "行います"
+    ],
+    "speech": "おこないます"
+  },
+  {
+    "name": "あがります（上がります）",
+    "trans": [
+      "动1 提高，涨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-025",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "提高，涨",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あがります",
+      "上がります"
+    ],
+    "speech": "あがります"
+  },
+  {
+    "name": "のりかえます（乗り換えます）",
+    "trans": [
+      "动2 换乘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-026",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "换乘",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "のりかえます",
+      "乗り換えます"
+    ],
+    "speech": "のりかえます"
+  },
+  {
+    "name": "やめます（辞めます）",
+    "trans": [
+      "动2 辞去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-027",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "辞去",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やめます",
+      "辞めます"
+    ],
+    "speech": "やめます"
+  },
+  {
+    "name": "りゅうがくします（留学します）",
+    "trans": [
+      "动3 留学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-028",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "留学",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りゅうがくします",
+      "留学します"
+    ],
+    "speech": "りゅうがくします"
+  },
+  {
+    "name": "にゅうがくします（入学します）",
+    "trans": [
+      "动3 入学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-029",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "入学",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にゅうがくします",
+      "入学します"
+    ],
+    "speech": "にゅうがくします"
+  },
+  {
+    "name": "りゅうこうします（流行します）",
+    "trans": [
+      "动3 流行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-030",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "流行",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りゅうこうします",
+      "流行します"
+    ],
+    "speech": "りゅうこうします"
+  },
+  {
+    "name": "にゅういんします（入院します）",
+    "trans": [
+      "动3 住院"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-031",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "住院",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にゅういんします",
+      "入院します"
+    ],
+    "speech": "にゅういんします"
+  },
+  {
+    "name": "おじゃまします（お邪魔します）",
+    "trans": [
+      "动3 打扰，拜访"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-032",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "打扰，拜访",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おじゃまします",
+      "お邪魔します"
+    ],
+    "speech": "おじゃまします"
+  },
+  {
+    "name": "たんとうします（担当します）",
+    "trans": [
+      "动3 承担"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-033",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "承担",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たんとうします",
+      "担当します"
+    ],
+    "speech": "たんとうします"
+  },
+  {
+    "name": "つよい（強い）",
+    "trans": [
+      "形1 强，坚强"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-034",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "强，坚强",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つよい",
+      "強い"
+    ],
+    "speech": "つよい"
+  },
+  {
+    "name": "きさく（気さく）",
+    "trans": [
+      "形2 爽快，坦率"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-035",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "爽快，坦率",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きさく",
+      "気さく"
+    ],
+    "speech": "きさく"
+  },
+  {
+    "name": "いろんな",
+    "trans": [
+      "连体 各种各样的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-036",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "各种各样的",
+    "sourceTags": [
+      "连体"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ずっと",
+    "trans": [
+      "副 一直，始终"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-037",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "一直，始终",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "りゅうえい（劉英）",
+    "trans": [
+      "专 刘英"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-038",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "刘英",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りゅうえい",
+      "劉英"
+    ],
+    "speech": "りゅうえい"
+  },
+  {
+    "name": "タイ",
+    "trans": [
+      "专 泰国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-039",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "泰国",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "きょうとホテル（京都ホテル）",
+    "trans": [
+      "专 京都宾馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-040",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "京都宾馆",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きょうとホテル",
+      "京都ホテル"
+    ],
+    "speech": "きょうとホテル"
+  },
+  {
+    "name": "おじゃましました（お邪魔しました）",
+    "trans": [
+      "打扰了"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-041",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "打扰了",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おじゃましました",
+      "お邪魔しました"
+    ],
+    "speech": "おじゃましました"
+  },
+  {
+    "name": "かぜがつよい（風が強い）",
+    "trans": [
+      "风大"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U32-042",
+    "sourceSheet": "B1U32",
+    "sourceMeaning": "风大",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かぜがつよい",
+      "風が強い"
+    ],
+    "speech": "かぜがつよい"
+  }
+]

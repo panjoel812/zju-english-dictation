@@ -1,0 +1,821 @@
+[
+  {
+    "name": "Orientierung",
+    "trans": [
+      "辨认方向"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-001",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "辨认方向",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stadt",
+    "trans": [
+      "城市"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-002",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "城市",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Brücke",
+    "trans": [
+      "桥"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-003",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "桥",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "U-Bahn",
+    "trans": [
+      "地铁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-004",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "地铁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rathaus",
+    "trans": [
+      "市政厅，市议会，市政府"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-005",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "市政厅，市议会，市政府",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Station",
+    "trans": [
+      "（车）车站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-006",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "（车）车站",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kirche",
+    "trans": [
+      "教堂，教会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-007",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "教堂，教会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hauptpost",
+    "trans": [
+      "邮政总局"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-008",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "邮政总局",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kreuzung",
+    "trans": [
+      "十字路口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-009",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "十字路口",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Straße",
+    "trans": [
+      "街道，道路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-010",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "街道，道路",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fluss",
+    "trans": [
+      "河流"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-011",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "河流",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fernmeldeamt",
+    "trans": [
+      "电信局"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-012",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "电信局",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Auskunft",
+    "trans": [
+      "告知情况，问讯处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-013",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "告知情况，问讯处",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bibliothek",
+    "trans": [
+      "图书馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-014",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "图书馆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Passant",
+    "trans": [
+      "行人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-015",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "行人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fremd",
+    "trans": [
+      "Adj. 陌生的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-016",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "Adj. 陌生的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verzeihung",
+    "trans": [
+      "抱歉，对不起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-017",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "抱歉，对不起",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Staat",
+    "trans": [
+      "国家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-018",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "国家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "weit",
+    "trans": [
+      "Adj. 远的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-019",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "Adj. 远的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kompliziert",
+    "trans": [
+      "Adj. 复杂的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-020",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "Adj. 复杂的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Linie",
+    "trans": [
+      "线路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-021",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "线路",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erklären",
+    "trans": [
+      "解释，说明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-022",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "解释，说明",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Richtung",
+    "trans": [
+      "方向"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-023",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "方向",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einsteigen",
+    "trans": [
+      "上(车、船等)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-024",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "上(车、船等)",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "umsteigen",
+    "trans": [
+      "（火）车（小）站换车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-025",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "（火）车（小）站换车",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bahnhof",
+    "trans": [
+      "火车站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-026",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "火车站",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Meter",
+    "trans": [
+      "米，公尺"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-027",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "米，公尺",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "geradeaus",
+    "trans": [
+      "Adv. 一直，径直"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-028",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "Adv. 一直，径直",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "danach",
+    "trans": [
+      "Adv. 之后"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-029",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "Adv. 之后",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Haltestelle",
+    "trans": [
+      "（公共汽车、电车）停靠站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-030",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "（公共汽车、电车）停靠站",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abbiegen",
+    "trans": [
+      "拐弯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-031",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "拐弯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entlang",
+    "trans": [
+      "Präp. 沿着......，顺着......"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-032",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "Präp. 沿着......，顺着......",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "über",
+    "trans": [
+      "Präp. 横穿，途径"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-033",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "Präp. 横穿，途径",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "durch",
+    "trans": [
+      "Präp. 通过，穿过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-034",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "Präp. 通过，穿过",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tor",
+    "trans": [
+      "大门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-035",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "大门",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vorbei",
+    "trans": [
+      "Adv. 经过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-036",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "Adv. 经过",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schließlich",
+    "trans": [
+      "Adv. 最后，终于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-037",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "Adv. 最后，终于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "begleiten",
+    "trans": [
+      "伴随，陪同"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-038",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "伴随，陪同",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sowieso",
+    "trans": [
+      "Adv. 反正"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-039",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "Adv. 反正",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beeilen",
+    "trans": [
+      "赶快"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-040",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "赶快",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ampel",
+    "trans": [
+      "交通信号灯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-041",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "交通信号灯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "S-Bahn",
+    "trans": [
+      "（大城市内和通往郊区的）高速铁路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-042",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "（大城市内和通往郊区的）高速铁路",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Westen",
+    "trans": [
+      "西方"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-043",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "西方",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Osten",
+    "trans": [
+      "东方，东部，东面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-044",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "东方，东部，东面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Führerschein",
+    "trans": [
+      "驾驶执照"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-045",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "驾驶执照",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bemerken",
+    "trans": [
+      "看到，察觉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-046",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "看到，察觉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Reiseleiterin",
+    "trans": [
+      "女导游"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-047",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "女导游",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rundfahrt",
+    "trans": [
+      "（乘车）周游，环行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-048",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "（乘车）周游，环行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erzählen",
+    "trans": [
+      "叙述，讲述"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-049",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "叙述，讲述",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tempel",
+    "trans": [
+      "庙宇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-050",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "庙宇",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hauptstadt",
+    "trans": [
+      "首都，首府"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-051",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "首都，首府",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Provinz",
+    "trans": [
+      "省"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-052",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "省",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Landschaft",
+    "trans": [
+      "风光，风景"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-053",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "风光，风景",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bekannt",
+    "trans": [
+      "Adj. 著名的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-054",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "Adj. 著名的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Paradies",
+    "trans": [
+      "天堂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-055",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "天堂",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "jährlich",
+    "trans": [
+      "Adj. 每年的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-056",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "Adj. 每年的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tourist",
+    "trans": [
+      "旅游者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-057",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "旅游者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "See",
+    "trans": [
+      "湖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-058",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "湖",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rolle",
+    "trans": [
+      "角色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-059",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "角色",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ufer",
+    "trans": [
+      "(u..)岸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-060",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "(u..)岸",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "steigen",
+    "trans": [
+      "登上，攀登"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-061",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "登上，攀登",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bank",
+    "trans": [
+      "长凳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-062",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "长凳",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dorf",
+    "trans": [
+      "村庄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E10-063",
+    "sourceSheet": "B1E10",
+    "sourceMeaning": "村庄",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

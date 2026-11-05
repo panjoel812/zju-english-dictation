@@ -1,0 +1,821 @@
+[
+  {
+    "name": "안녕하십니까",
+    "trans": [
+      "你好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-001",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "你好",
+    "sourceTags": [],
+    "sourceNotes": "안녕하십니까?"
+  },
+  {
+    "name": "네",
+    "trans": [
+      "是的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-002",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "是的",
+    "sourceTags": [],
+    "sourceNotes": "안녕하십니까?"
+  },
+  {
+    "name": "저",
+    "trans": [
+      "我"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-003",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "我",
+    "sourceTags": [],
+    "sourceNotes": "안녕하십니까?"
+  },
+  {
+    "name": "이름",
+    "trans": [
+      "姓名"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-004",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "姓名",
+    "sourceTags": [],
+    "sourceNotes": "안녕하십니까?"
+  },
+  {
+    "name": "선생님",
+    "trans": [
+      "老师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-005",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "老师",
+    "sourceTags": [],
+    "sourceNotes": "안녕하십니까?"
+  },
+  {
+    "name": "씨",
+    "trans": [
+      "小姐，先生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-006",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "小姐，先生",
+    "sourceTags": [],
+    "sourceNotes": "안녕하십니까?"
+  },
+  {
+    "name": "성",
+    "trans": [
+      "姓"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-007",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "姓",
+    "sourceTags": [],
+    "sourceNotes": "안녕하십니까?"
+  },
+  {
+    "name": "중국",
+    "trans": [
+      "中国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-008",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "中国",
+    "sourceTags": [],
+    "sourceNotes": "안녕하십니까?"
+  },
+  {
+    "name": "제",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-009",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "我的",
+    "sourceTags": [],
+    "sourceNotes": "안녕하십니까?"
+  },
+  {
+    "name": "그리고",
+    "trans": [
+      "和"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-010",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "和",
+    "sourceTags": [],
+    "sourceNotes": "안녕하십니까?"
+  },
+  {
+    "name": "친구",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-011",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "朋友",
+    "sourceTags": [],
+    "sourceNotes": "안녕하십니까?"
+  },
+  {
+    "name": "어느",
+    "trans": [
+      "哪个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-012",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "哪个",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "나라",
+    "trans": [
+      "国家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-013",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "国家",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "사람",
+    "trans": [
+      "人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-014",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "人",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "미국",
+    "trans": [
+      "美国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-015",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "美国",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "중국",
+    "trans": [
+      "中国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-016",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "中国",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "아니요",
+    "trans": [
+      "不"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-017",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "不",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "일본",
+    "trans": [
+      "日本"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-018",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "日本",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "그렇습니까",
+    "trans": [
+      "是吗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-019",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "是吗",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "영국",
+    "trans": [
+      "英国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-020",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "英国",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "독일",
+    "trans": [
+      "德国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-021",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "德国",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "러시아",
+    "trans": [
+      "俄罗斯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-022",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "俄罗斯",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "몽골",
+    "trans": [
+      "蒙古"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-023",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "蒙古",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "인도",
+    "trans": [
+      "印度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-024",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "印度",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "태국",
+    "trans": [
+      "泰国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-025",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "泰国",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "한국",
+    "trans": [
+      "韩国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-026",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "韩国",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "호주",
+    "trans": [
+      "澳大利亚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-027",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "澳大利亚",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "국적",
+    "trans": [
+      "国籍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-028",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "国籍",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "캐나다",
+    "trans": [
+      "加拿大"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-029",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "加拿大",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "에서",
+    "trans": [
+      "从，来自"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-030",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "从，来自",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "왔습니다",
+    "trans": [
+      "来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-031",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "来",
+    "sourceTags": [],
+    "sourceNotes": "어느 나라 사람입니까?"
+  },
+  {
+    "name": "회사원",
+    "trans": [
+      "公司职员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-032",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "公司职员",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "그럼",
+    "trans": [
+      "那么[그러면]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-033",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "那么[그러면]",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "학생",
+    "trans": [
+      "学生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-034",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "学生",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "대학생",
+    "trans": [
+      "大学生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-035",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "大学生",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "직업",
+    "trans": [
+      "职业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-036",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "职业",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "경찰",
+    "trans": [
+      "警察"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-037",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "警察",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "가수",
+    "trans": [
+      "歌手"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-038",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "歌手",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "의사",
+    "trans": [
+      "医生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-039",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "医生",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "간호사",
+    "trans": [
+      "护士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-040",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "护士",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "은행원",
+    "trans": [
+      "银行职员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-041",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "银行职员",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "비서",
+    "trans": [
+      "秘书"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-042",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "秘书",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "기자",
+    "trans": [
+      "记者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-043",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "记者",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "변호사",
+    "trans": [
+      "律师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-044",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "律师",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "아니다",
+    "trans": [
+      "不是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-045",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "不是",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "그렌데",
+    "trans": [
+      "可...，那...[表转折]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-046",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "可...，那...[表转折]",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "무엇",
+    "trans": [
+      "什么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-047",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "什么",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "교수",
+    "trans": [
+      "教授"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-048",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "教授",
+    "sourceTags": [],
+    "sourceNotes": "회사원이 아닙니다"
+  },
+  {
+    "name": "누구",
+    "trans": [
+      "谁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-049",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "谁",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  },
+  {
+    "name": "처음 뵙겠습니다",
+    "trans": [
+      "初次见面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-050",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "初次见面",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  },
+  {
+    "name": "반갑다",
+    "trans": [
+      "认识你很高兴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-051",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "认识你很高兴",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  },
+  {
+    "name": "가다",
+    "trans": [
+      "去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-052",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "去",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  },
+  {
+    "name": "오다",
+    "trans": [
+      "来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-053",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "来",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  },
+  {
+    "name": "만나다",
+    "trans": [
+      "见面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-054",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "见面",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  },
+  {
+    "name": "인사하다",
+    "trans": [
+      "打招呼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-055",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "打招呼",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  },
+  {
+    "name": "자다",
+    "trans": [
+      "睡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-056",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "睡",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  },
+  {
+    "name": "먹다",
+    "trans": [
+      "吃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-057",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "吃",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  },
+  {
+    "name": "입다",
+    "trans": [
+      "穿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-058",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "穿",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  },
+  {
+    "name": "듣다",
+    "trans": [
+      "听"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-059",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "听",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  },
+  {
+    "name": "읽다",
+    "trans": [
+      "读"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-060",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "读",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  },
+  {
+    "name": "쓰다",
+    "trans": [
+      "写"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-061",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "写",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  },
+  {
+    "name": "학교",
+    "trans": [
+      "学校"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-062",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "学校",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  },
+  {
+    "name": "에",
+    "trans": [
+      "在[表时间或地点]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U01-063",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "在[表时间或地点]",
+    "sourceTags": [],
+    "sourceNotes": "반갑습니다"
+  }
+]

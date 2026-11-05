@@ -1,0 +1,1510 @@
+[
+  {
+    "name": "Käse",
+    "trans": [
+      "奶酪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-001",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "奶酪",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bier",
+    "trans": [
+      "啤酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-002",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "啤酒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wurst",
+    "trans": [
+      "香肠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-003",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "香肠",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Reis",
+    "trans": [
+      "米饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-004",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "米饭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kartoffel",
+    "trans": [
+      "土豆，马铃薯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-005",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "土豆，马铃薯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Milch",
+    "trans": [
+      "奶，牛奶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-006",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "奶，牛奶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Brot",
+    "trans": [
+      "面包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-007",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "面包",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Brötchen",
+    "trans": [
+      "小面包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-008",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "小面包",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fleisch",
+    "trans": [
+      "肉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-009",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "肉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fisch",
+    "trans": [
+      "鱼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-010",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "鱼",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ei",
+    "trans": [
+      "鸡蛋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-011",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "鸡蛋",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Restaurant",
+    "trans": [
+      "餐厅，餐馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-012",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "餐厅，餐馆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Speisekarte",
+    "trans": [
+      "菜单"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-013",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "菜单",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hineinschauen",
+    "trans": [
+      "向里看，向里瞧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-014",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "向里看，向里瞧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schnitzel",
+    "trans": [
+      "肉排，煎猪排"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-015",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "肉排，煎猪排",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pommes Frites",
+    "trans": [
+      "油炸土豆条"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-016",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "油炸土豆条",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schweinebraten",
+    "trans": [
+      "煎猪肉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-017",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "煎猪肉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Klößchen",
+    "trans": [
+      "小丸子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-018",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "小丸子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rindersteak",
+    "trans": [
+      "牛排"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-019",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "牛排",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bratkartoffeln",
+    "trans": [
+      "油煎土豆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-020",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "油煎土豆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Salat",
+    "trans": [
+      "色拉，生菜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-021",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "色拉，生菜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zwiebel",
+    "trans": [
+      "洋葱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-022",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "洋葱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Suppe",
+    "trans": [
+      "汤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-023",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "汤",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vorspeise",
+    "trans": [
+      "头盘，冷盘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-024",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "头盘，冷盘",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bestellen",
+    "trans": [
+      "点菜；订购"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-025",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "点菜；订购",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kellner",
+    "trans": [
+      "（餐厅）服务员（男）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-026",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "（餐厅）服务员（男）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kellnerin",
+    "trans": [
+      "（餐厅）服务员（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-027",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "（餐厅）服务员（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Saft",
+    "trans": [
+      "汁，果汁，菜汁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-028",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "汁，果汁，菜汁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einfach",
+    "trans": [
+      "Adv. 干脆，简直；Adj. 根本，简单"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-029",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adv. 干脆，简直；Adj. 根本，简单",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wünschen",
+    "trans": [
+      "想要；祝愿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-030",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "想要；祝愿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sonst",
+    "trans": [
+      "Adv. 此外，另外"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-031",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adv. 此外，另外",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Appetit",
+    "trans": [
+      "食欲，胃口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-032",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "食欲，胃口",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Prost",
+    "trans": [
+      "Int. 干杯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-033",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Int. 干杯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gleichfalls",
+    "trans": [
+      "Adv. 同样地（用于应答对方的祝贺语）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-034",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adv. 同样地（用于应答对方的祝贺语）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schmecken",
+    "trans": [
+      "有滋味，有（好）味道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-035",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "有滋味，有（好）味道",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lecker",
+    "trans": [
+      "Adj. 好吃的，美味的，可口的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-036",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 好吃的，美味的，可口的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "später",
+    "trans": [
+      "Adv. 以后，后来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-037",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adv. 以后，后来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "probieren",
+    "trans": [
+      "尝味，尝试，试穿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-038",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "尝味，尝试，试穿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "oft",
+    "trans": [
+      "Adv. 有时，常常"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-039",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adv. 有时，常常",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hierherkommen",
+    "trans": [
+      "到这儿来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-040",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "到这儿来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Atmosphäre",
+    "trans": [
+      "气氛，环境，大气(层)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-041",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "气氛，环境，大气(层)",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gefallen",
+    "trans": [
+      "使......喜欢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-042",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "使......喜欢",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nämlich",
+    "trans": [
+      "Adv. 因为，即，也就是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-043",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adv. 因为，即，也就是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nachtisch",
+    "trans": [
+      "饭后甜点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-044",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "饭后甜点",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ruhig",
+    "trans": [
+      "Adv. 尽管，只管，放心地；Adj. 安静的，清净的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-045",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adv. 尽管，只管，放心地；Adj. 安静的，清净的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zahlen",
+    "trans": [
+      "付钱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-046",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "付钱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "getrennt",
+    "trans": [
+      "Adj. 分开的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-047",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 分开的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "machen",
+    "trans": [
+      "总计；干，做"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-048",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "总计；干，做",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Euro",
+    "trans": [
+      "欧元"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-049",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "欧元",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "danken",
+    "trans": [
+      "感谢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-050",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "感谢",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Getränk",
+    "trans": [
+      "饮料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-051",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "饮料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hauptgericht",
+    "trans": [
+      "正餐，主食"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-052",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "正餐，主食",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sprite",
+    "trans": [
+      "雪碧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-053",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "雪碧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fanta",
+    "trans": [
+      "芬达"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-054",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "芬达",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tee",
+    "trans": [
+      "茶，茶叶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-055",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "茶，茶叶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wein",
+    "trans": [
+      "葡萄酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-056",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "葡萄酒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pudding",
+    "trans": [
+      "布丁（甜点心）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-057",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "布丁（甜点心）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sofort",
+    "trans": [
+      "Adv. 立刻，马上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-058",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adv. 立刻，马上",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Cent",
+    "trans": [
+      "欧分"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-059",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "欧分",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Blume",
+    "trans": [
+      "花，花朵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-060",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "花，花朵",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kamera",
+    "trans": [
+      "摄影机，照相机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-061",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "摄影机，照相机",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "helfen",
+    "trans": [
+      "帮助"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-062",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "帮助",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gehören",
+    "trans": [
+      "属于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-063",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "属于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Flasche",
+    "trans": [
+      "瓶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-064",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "瓶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Spiegel",
+    "trans": [
+      "镜子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-065",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "镜子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tasse",
+    "trans": [
+      "（有柄的）瓷杯子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-066",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "（有柄的）瓷杯子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kühlschrank",
+    "trans": [
+      "冰箱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-067",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "冰箱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kuchen",
+    "trans": [
+      "糕点，糕饼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-068",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "糕点，糕饼",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schlüssel",
+    "trans": [
+      "钥匙；答案"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-069",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "钥匙；答案",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stern",
+    "trans": [
+      "星星；明星"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-070",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "星星；明星",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Himmel",
+    "trans": [
+      "天空"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-071",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "天空",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kalt",
+    "trans": [
+      "Adj. 冷的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-072",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 冷的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zumachen",
+    "trans": [
+      "关闭，封闭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-073",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "关闭，封闭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kaufen",
+    "trans": [
+      "买，购买"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-074",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "买，购买",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Arzt",
+    "trans": [
+      "医生，大夫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-075",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "医生，大夫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vergessen",
+    "trans": [
+      "忘掉，忘记"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-076",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "忘掉，忘记",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Orange",
+    "trans": [
+      "橙子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-077",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "橙子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Cappuccino",
+    "trans": [
+      "卡布奇诺咖啡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-078",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "卡布奇诺咖啡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zitrone",
+    "trans": [
+      "柠檬"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-079",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "柠檬",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "empfehlen",
+    "trans": [
+      "推荐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-080",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "推荐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kosten",
+    "trans": [
+      "花费，值"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-081",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "花费，值",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vielfältig",
+    "trans": [
+      "Adj. 多样的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-082",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 多样的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verschieden",
+    "trans": [
+      "(v..)Adj. 不一样的，另一种的，不同的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-083",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "(v..)Adj. 不一样的，另一种的，不同的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "regional",
+    "trans": [
+      "Adj. 地方性的，区域性的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-084",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 地方性的，区域性的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Küche",
+    "trans": [
+      "菜肴，饭菜；烹调术；厨房"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-085",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "菜肴，饭菜；烹调术；厨房",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unterschiedlich",
+    "trans": [
+      "(u..)Adj. 不同的，有区别的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-086",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "(u..)Adj. 不同的，有区别的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Spezialität",
+    "trans": [
+      "特色菜，特产"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-087",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "特色菜，特产",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Norden",
+    "trans": [
+      "北方"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-088",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "北方",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "frisch",
+    "trans": [
+      "Adj. 新鲜的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-089",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 新鲜的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bayern",
+    "trans": [
+      "（德国）巴伐利亚（州）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-090",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "（德国）巴伐利亚（州）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "weiß",
+    "trans": [
+      "Adj. 白色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-091",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 白色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beliebt",
+    "trans": [
+      "Adj. 受欢迎的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-092",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 受欢迎的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "während",
+    "trans": [
+      "Konj. 然而"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-093",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Konj. 然而",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Käsespätzle",
+    "trans": [
+      "奶酪面疙瘩"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-094",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "奶酪面疙瘩",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Maultasche",
+    "trans": [
+      "饺子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-095",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "饺子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rostbratwurst",
+    "trans": [
+      "烤香肠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-096",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "烤香肠",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bekannt",
+    "trans": [
+      "Adj. 熟悉的，有名的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-097",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 熟悉的，有名的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "berühmt",
+    "trans": [
+      "Adj. 著名的，出名的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-098",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 著名的，出名的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sorte",
+    "trans": [
+      "种类，品种"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-099",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "种类，品种",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fast",
+    "trans": [
+      "Adv. 几乎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-100",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adv. 几乎",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "international",
+    "trans": [
+      "Adj. 国际的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-101",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 国际的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "italienisch",
+    "trans": [
+      "Adj. 意大利的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-102",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 意大利的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "griechisch",
+    "trans": [
+      "Adj. 希腊的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-103",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 希腊的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "spanisch",
+    "trans": [
+      "Adj. 西班牙的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-104",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 西班牙的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schnellimbiss",
+    "trans": [
+      "小吃店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-105",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "小吃店",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Snackbar",
+    "trans": [
+      "快餐店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-106",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "快餐店",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ketchup",
+    "trans": [
+      "番茄酱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-107",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "番茄酱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pizza",
+    "trans": [
+      "比萨饼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-108",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "比萨饼",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Frühstück",
+    "trans": [
+      "早餐，早点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-109",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "早餐，早点",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Müsli",
+    "trans": [
+      "混合麦片"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-110",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "混合麦片",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Marmelade",
+    "trans": [
+      "果酱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-111",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "果酱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Honig",
+    "trans": [
+      "蜂蜜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-112",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "蜂蜜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kantine",
+    "trans": [
+      "（企业、兵营等的）公共食堂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-113",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "（企业、兵营等的）公共食堂",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Cafeteria",
+    "trans": [
+      "自助餐馆（或咖啡馆）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-114",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "自助餐馆（或咖啡馆）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "recht",
+    "trans": [
+      "Adv. 相当，等于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-115",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adv. 相当，等于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "teuer",
+    "trans": [
+      "Adj. 贵的，昂贵的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E5-116",
+    "sourceSheet": "B1E5",
+    "sourceMeaning": "Adj. 贵的，昂贵的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

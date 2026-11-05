@@ -1,15 +1,13 @@
 import { TypingContext, TypingStateActionType } from '../../store'
 import AnalysisButton from '../AnalysisButton'
 import ErrorBookButton from '../ErrorBookButton'
+import ExportDataButton from '../ExportDataButton'
 import HandPositionIllustration from '../HandPositionIllustration'
-import LoopWordSwitcher from '../LoopWordSwitcher'
-import SoundSwitcher from '../SoundSwitcher'
-import WordDictationSwitcher from '../WordDictationSwitcher'
 import WordList from '../WordList'
 import Tooltip from '@/components/Tooltip'
-import { isOpenDarkModeAtom } from '@/store'
+import { effectiveWholeWordModeAtom, isOpenDarkModeAtom, wordDictationConfigAtom } from '@/store'
 import { CTRL } from '@/utils'
-import { useAtom } from 'jotai'
+import { useAtom, useAtomValue } from 'jotai'
 import { useContext } from 'react'
 import { useHotkeys } from 'react-hotkeys-hook'
 import IconMoon from '~icons/heroicons/moon-solid'
@@ -19,6 +17,14 @@ import IconLanguageOff from '~icons/tabler/language-off'
 
 export default function Switcher() {
   const [isOpenDarkMode, setIsOpenDarkMode] = useAtom(isOpenDarkModeAtom)
+  const [, setDictationConfig] = useAtom(wordDictationConfigAtom)
+  const wholeWordMode = useAtomValue(effectiveWholeWordModeAtom)
+  useHotkeys(
+    'ctrl+v',
+    () => setDictationConfig((old) => ({ ...old, isOpen: !old.isOpen, openBy: 'user' })),
+    { enableOnFormTags: !wholeWordMode, preventDefault: true },
+    [setDictationConfig],
+  )
   const { state, dispatch } = useContext(TypingContext) ?? {}
 
   const changeDarkModeState = () => {
@@ -41,57 +47,44 @@ export default function Switcher() {
   )
 
   return (
-    <div className="flex max-w-full flex-wrap items-center justify-center gap-1 sm:gap-2">
-      <Tooltip content="音效设置">
-        <SoundSwitcher />
-      </Tooltip>
-
-      <Tooltip className="h-7 w-7" content="设置单个单词循环">
-        <LoopWordSwitcher />
-      </Tooltip>
-
-      <Tooltip className="h-7 w-7" content={`开关默写模式（${CTRL} + V）`}>
-        <WordDictationSwitcher />
-      </Tooltip>
-      <Tooltip className="h-7 w-7" content={`开关释义显示（${CTRL} + Shift + V）`}>
+    <div className="flex flex-wrap items-center justify-center gap-0.5 sm:gap-1" aria-label="练习工具">
+      <Tooltip content={`开关释义显示（${CTRL} + Shift + V）`}>
         <button
-          className={`p-[2px] ${state?.isTransVisible ? 'text-indigo-500' : 'text-gray-500'} text-lg focus:outline-none`}
+          data-guide="translation"
+          className={`toolbar-button ${state?.isTransVisible ? 'bg-indigo-50 dark:bg-gray-700' : 'text-gray-500'}`}
           type="button"
-          onClick={(e) => {
-            changeTransVisibleState()
-            e.currentTarget.blur()
-          }}
+          onClick={changeTransVisibleState}
           aria-label={`开关释义显示（${CTRL} + Shift + V）`}
+          aria-pressed={state?.isTransVisible ?? false}
         >
           {state?.isTransVisible ? <IconLanguage /> : <IconLanguageOff />}
         </button>
       </Tooltip>
-
+      <WordList />
       <Tooltip content="错题本">
         <ErrorBookButton />
       </Tooltip>
-
-      <Tooltip className="h-7 w-7" content="查看数据统计">
+      <Tooltip content="查看数据统计">
         <AnalysisButton />
       </Tooltip>
-
-      <Tooltip className="h-7 w-7" content="开关深色模式">
+      <Tooltip content="导出数据">
+        <ExportDataButton />
+      </Tooltip>
+      <Tooltip content="开关深色模式">
         <button
-          className={`p-[2px] text-lg text-indigo-500 focus:outline-none`}
+          data-guide="theme"
+          className="toolbar-button"
           type="button"
-          onClick={(e) => {
-            changeDarkModeState()
-            e.currentTarget.blur()
-          }}
+          onClick={changeDarkModeState}
           aria-label="开关深色模式"
+          aria-pressed={isOpenDarkMode}
         >
           {isOpenDarkMode ? <IconMoon className="icon" /> : <IconSun className="icon" />}
         </button>
       </Tooltip>
-      <Tooltip className="h-7 w-7" content="指法图示">
-        <HandPositionIllustration></HandPositionIllustration>
+      <Tooltip content="指法图示">
+        <HandPositionIllustration />
       </Tooltip>
-      <WordList />
     </div>
   )
 }

@@ -1,0 +1,763 @@
+[
+  {
+    "name": "photo",
+    "trans": [
+      "n.f. 照片"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-001",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "照片",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "famille",
+    "trans": [
+      "n.f. 家庭，家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-002",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "家庭，家",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "père",
+    "trans": [
+      "n.m. 父亲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-003",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "父亲",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fils",
+    "trans": [
+      "n.m. 儿子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-004",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "儿子",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "instituteur, trice",
+    "trans": [
+      "n. 小学教师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-005",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "小学教师",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aîné, e",
+    "trans": [
+      "adj. 年长的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-006",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "年长的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tante",
+    "trans": [
+      "n.f. 姑母，姨母"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-007",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "姑母，姨母",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mari",
+    "trans": [
+      "n.m. 丈夫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-008",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "丈夫",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "homme",
+    "trans": [
+      "n.m. 男人；人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-009",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "男人；人",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "derrière",
+    "trans": [
+      "prép. 在……后面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-010",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "在……后面",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "côté",
+    "trans": [
+      "n.m. 边，旁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-011",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "边，旁",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "à côté de",
+    "trans": [
+      "在……旁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-012",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "在……旁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cousin, e",
+    "trans": [
+      "n. 堂/表兄弟，堂/表姐妹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-013",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "堂/表兄弟，堂/表姐妹",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "marié, e",
+    "trans": [
+      "adj. 已婚的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-014",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "已婚的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "personnage",
+    "trans": [
+      "n.m. 人物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-015",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "人物",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "journaliste",
+    "trans": [
+      "n. 记者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-016",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "记者",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mère",
+    "trans": [
+      "n.f. 母亲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-017",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "母亲",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fille",
+    "trans": [
+      "n.f. 女儿；姑娘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-018",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "女儿；姑娘",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "grand, e",
+    "trans": [
+      "adj. 年长的；大的；高大的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-019",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "年长的；大的；高大的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "grand-père",
+    "trans": [
+      "n.m. （外）祖父"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-020",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "（外）祖父",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "grand-mère",
+    "trans": [
+      "n.f. （外）祖母"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-021",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "（外）祖母",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ouvrier, ère",
+    "trans": [
+      "n. 工人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-022",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "工人",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "frère",
+    "trans": [
+      "n.m. 兄弟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-023",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "兄弟",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "oncle",
+    "trans": [
+      "n.m. 伯父，叔父；舅父，姑父"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-024",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "伯父，叔父；舅父，姑父",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "femme",
+    "trans": [
+      "n.f. 妻子；妇女"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-025",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "妻子；妇女",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entre",
+    "trans": [
+      "prép. 在……之间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-026",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "在……之间",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "âge",
+    "trans": [
+      "n.m. 年龄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-027",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "年龄",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "secret",
+    "trans": [
+      "n.m. 秘密"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-028",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "秘密",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "employé, e",
+    "trans": [
+      "n. 职员，雇员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-029",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "职员，雇员",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "connaître",
+    "trans": [
+      "v.t. 认识，知道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-030",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "认识，知道",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "non",
+    "trans": [
+      "adv. 不，不是，没有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-031",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "不，不是，没有",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "il y a",
+    "trans": [
+      "有，存在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-032",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "有，存在",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "encore",
+    "trans": [
+      "adv. 还；再"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-033",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "还；再",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chien, ne",
+    "trans": [
+      "n. 狗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-034",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "狗",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "grands-parents",
+    "trans": [
+      "n.m.pl. （外）祖父母"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-035",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "（外）祖父母",
+    "sourceTags": [
+      "n.m.pl."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sur",
+    "trans": [
+      "prép. 在……上面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-036",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "在……上面",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mariage",
+    "trans": [
+      "n.m. 结婚，婚礼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-037",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "结婚，婚礼",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "parent, e",
+    "trans": [
+      "n. 亲戚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-038",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "亲戚",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "parents",
+    "trans": [
+      "n.m.pl. 父母亲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-039",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "父母亲",
+    "sourceTags": [
+      "n.m.pl."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "prêt, e",
+    "trans": [
+      "adj. 准备好的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-040",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "准备好的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chambre",
+    "trans": [
+      "n.f. 房间；卧室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-041",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "房间；卧室",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "regarder",
+    "trans": [
+      "v.t. 看；注视"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-042",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "看；注视",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "télé",
+    "trans": [
+      "n.f. 电视"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-043",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "电视",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vélo",
+    "trans": [
+      "n.m. 自行车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-044",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "自行车",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "combien",
+    "trans": [
+      "adv. 多少"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-045",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "多少",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "petit, e",
+    "trans": [
+      "adj. 年幼的；小的；矮小的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-046",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "年幼的；小的；矮小的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lycée",
+    "trans": [
+      "n.m. 高中"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-047",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "高中",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "médecin",
+    "trans": [
+      "n.m. 医生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-048",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "医生",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unique",
+    "trans": [
+      "adj. 唯一的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-049",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "唯一的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "université",
+    "trans": [
+      "n.f. 大学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-050",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "大学",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "infirmier, ère",
+    "trans": [
+      "n. 护士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U05-051",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "护士",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  }
+]

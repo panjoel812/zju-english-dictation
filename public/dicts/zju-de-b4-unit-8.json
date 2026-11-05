@@ -1,0 +1,678 @@
+[
+  {
+    "name": "Qualifikation",
+    "trans": [
+      "资格，技能，专门训练"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-001",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "资格，技能，专门训练",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Flexibilität",
+    "trans": [
+      "灵活性"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-002",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "灵活性",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Teamgeist",
+    "trans": [
+      "团队精神，集体精神"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-003",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "团队精神，集体精神",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "belastbar",
+    "trans": [
+      "Adj. 有负重能力的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-004",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "Adj. 有负重能力的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einig sein",
+    "trans": [
+      "意见一致"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-005",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "意见一致",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "radikal",
+    "trans": [
+      "Adj. 极端的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-006",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "Adj. 极端的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dominieren",
+    "trans": [
+      "占主导地位，重要"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-007",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "占主导地位，重要",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Beamer",
+    "trans": [
+      "投影仪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-008",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "投影仪",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anwesenheit",
+    "trans": [
+      "在场，出席"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-009",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "在场，出席",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "These",
+    "trans": [
+      "观点，论点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-010",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "观点，论点",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gelegentlich",
+    "trans": [
+      "Adv. 有时，偶尔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-011",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "Adv. 有时，偶尔",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "produktiv",
+    "trans": [
+      "Adj. 多产的，高效的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-012",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "Adj. 多产的，高效的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einteilen",
+    "trans": [
+      "把......分为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-013",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "把......分为",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verantwortlich",
+    "trans": [
+      "Adj. 负责的，有责任的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-014",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "Adj. 负责的，有责任的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erwarten",
+    "trans": [
+      "期待，预料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-015",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "期待，预料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Karriere",
+    "trans": [
+      "事业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-016",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "事业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "herausfordern",
+    "trans": [
+      "挑战"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-017",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "挑战",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Spezialist",
+    "trans": [
+      "专家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-018",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "专家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erziehen",
+    "trans": [
+      "教育"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-019",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "教育",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sektor",
+    "trans": [
+      "分支，部门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-020",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "分支，部门",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Motoer",
+    "trans": [
+      "马达，动力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-021",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "马达，动力",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Leidenschaft",
+    "trans": [
+      "热情，激情"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-022",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "热情，激情",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gemäß",
+    "trans": [
+      "Präp. 根据"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-023",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "Präp. 根据",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kern",
+    "trans": [
+      "核；核心，中心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-024",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "核；核心，中心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verwerten",
+    "trans": [
+      "使用，利用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-025",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "使用，利用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "engagieren",
+    "trans": [
+      "聘请"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-026",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "聘请",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Innovation",
+    "trans": [
+      "革新，改革"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-027",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "革新，改革",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einströmen",
+    "trans": [
+      "涌向"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-028",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "涌向",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Personalchef",
+    "trans": [
+      "人事部经理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-029",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "人事部经理",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stamm",
+    "trans": [
+      "树干；部族；骨干；词干"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-030",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "树干；部族；骨干；词干",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zusammenhang",
+    "trans": [
+      "关系，关联"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-031",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "关系，关联",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "befördern",
+    "trans": [
+      "提升，提拔；运送"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-032",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "提升，提拔；运送",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Eigenschaft",
+    "trans": [
+      "性质，品质；性格"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-033",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "性质，品质；性格",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nahezu",
+    "trans": [
+      "Adv. 几乎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-034",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "Adv. 几乎",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Redakteur",
+    "trans": [
+      "编辑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-035",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "编辑",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Auftritt",
+    "trans": [
+      "出场，登场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-036",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "出场，登场",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aktualisieren",
+    "trans": [
+      "更新"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-037",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "更新",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Konzeption",
+    "trans": [
+      "设想，构想"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-038",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "设想，构想",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "paaren",
+    "trans": [
+      "伴随，一起出现"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-039",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "伴随，一起出现",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gehalt",
+    "trans": [
+      "工资"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-040",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "工资",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Exemplar",
+    "trans": [
+      "份，册，样品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-041",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "份，册，样品",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Volontär",
+    "trans": [
+      "实习生，志愿者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-042",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "实习生，志愿者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "juristisch",
+    "trans": [
+      "Adj. 法学的，法律的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-043",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "Adj. 法学的，法律的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Redaktion",
+    "trans": [
+      "编辑部"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-044",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "编辑部",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lokal",
+    "trans": [
+      "Adj. 地方的，当地的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-045",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "Adj. 地方的，当地的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zuschrift",
+    "trans": [
+      "信件，信函"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-046",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "信件，信函",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entwerfen",
+    "trans": [
+      "拟定，起草"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-047",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "拟定，起草",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "integrieren",
+    "trans": [
+      "整合，结合"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-048",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "整合，结合",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "relevant",
+    "trans": [
+      "Adj. 重要的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-049",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "Adj. 重要的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mobilität",
+    "trans": [
+      "灵活，可变"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-050",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "灵活，可变",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Profil",
+    "trans": [
+      "性格，特征，特色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-051",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "性格，特征，特色",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Absolvent",
+    "trans": [
+      "毕业生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E8-052",
+    "sourceSheet": "B4E8",
+    "sourceMeaning": "毕业生",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

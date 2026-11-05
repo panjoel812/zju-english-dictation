@@ -1,6 +1,6 @@
 {
-  "short_name": "Qwerty Learner",
-  "name": "Qwerty Learner",
+  "short_name": "Lexi",
+  "name": "Lexi",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#818CF8",
   "background_color": "#ffffff"
 }

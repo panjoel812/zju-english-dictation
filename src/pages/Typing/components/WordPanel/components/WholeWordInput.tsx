@@ -1,10 +1,10 @@
 import style from './Word/index.module.css'
 import { TypingContext, TypingStateActionType } from '@/pages/Typing/store'
-import { fontSizeConfigAtom } from '@/store'
+import { currentDictInfoAtom, fontSizeConfigAtom } from '@/store'
 import classNames from 'classnames'
 import { useAtomValue } from 'jotai'
 import type { CSSProperties, ReactNode } from 'react'
-import { useContext, useEffect, useRef } from 'react'
+import { useContext, useEffect, useRef, useState } from 'react'
 import IconCheck from '~icons/tabler/check'
 
 export default function WholeWordInput({
@@ -33,11 +33,11 @@ export default function WholeWordInput({
   const inputRef = useRef<HTMLInputElement | HTMLTextAreaElement | null>(null)
   const isComposing = useRef(false)
   const fontSizeConfig = useAtomValue(fontSizeConfigAtom)
+  const dictionary = useAtomValue(currentDictInfoAtom)
+  const [showSpecialKeys, setShowSpecialKeys] = useState(false)
   const isLengthHidden = prompt === undefined
   const AnswerField = isLengthHidden ? 'input' : 'textarea'
-  const hiddenLineStyle = hiddenLineFontSize
-    ? ({ fontSize: `${hiddenLineFontSize}px`, lineHeight: '1.25' } as CSSProperties)
-    : undefined
+  const hiddenLineStyle = hiddenLineFontSize ? ({ fontSize: `${hiddenLineFontSize}px`, lineHeight: '1.25' } as CSSProperties) : undefined
 
   useEffect(() => {
     inputRef.current?.setAttribute('enterkeyhint', 'done')
@@ -56,6 +56,7 @@ export default function WholeWordInput({
       }}
     >
       <div
+        data-guide="practice"
         className={classNames('relative mx-auto max-w-full font-mono', isLengthHidden ? 'w-full max-w-sm' : style.letter)}
         style={
           isLengthHidden
@@ -95,7 +96,7 @@ export default function WholeWordInput({
               if (!state.isTyping) dispatch({ type: TypingStateActionType.SET_IS_TYPING, payload: true })
             }}
             readOnly={isFinished || revealedAnswer !== undefined}
-            aria-label="英文默写输入"
+            aria-label={dictionary.speechLang ? '单词默写输入' : '英文默写输入'}
             aria-invalid={hasWrong}
             aria-describedby={hasWrong ? 'word-answer-status' : undefined}
             inputMode="text"
@@ -103,11 +104,7 @@ export default function WholeWordInput({
             autoCorrect="off"
             autoComplete="off"
             spellCheck={false}
-            style={
-              revealedAnswer !== undefined
-                ? { ...hiddenLineStyle, color: 'transparent', caretColor: 'transparent' }
-                : hiddenLineStyle
-            }
+            style={revealedAnswer !== undefined ? { ...hiddenLineStyle, color: 'transparent', caretColor: 'transparent' } : hiddenLineStyle}
             className={classNames(
               'absolute inset-0 z-20 block h-full w-full min-w-0 rounded-none border-0 bg-transparent px-1 py-2 font-mono leading-normal shadow-none outline-none focus:ring-0',
               isLengthHidden
@@ -178,6 +175,47 @@ export default function WholeWordInput({
       <p id="word-answer-status" role="status" className="min-h-[24px] pt-1 text-center text-sm text-red-600 dark:text-red-400">
         {hasWrong ? '拼写不正确，请修改后重试' : ''}
       </p>
+      {dictionary.speechLang && (
+        <div className="mx-auto flex max-w-md flex-col items-center gap-2 text-center text-xs text-gray-500 dark:text-gray-400">
+          {dictionary.specialKeys?.length ? (
+            <>
+              <button
+                type="button"
+                aria-expanded={showSpecialKeys}
+                onClick={() => setShowSpecialKeys((open) => !open)}
+                className="rounded-lg px-3 py-2 hover:bg-indigo-50 hover:text-indigo-600 dark:hover:bg-gray-800 dark:hover:text-indigo-300"
+              >
+                特殊字符
+              </button>
+              {showSpecialKeys && (
+                <div className="flex flex-wrap justify-center gap-1" aria-label="特殊字符键盘">
+                  {dictionary.specialKeys.map((letter) => (
+                    <button
+                      key={letter}
+                      type="button"
+                      disabled={!state.isTyping || isFinished}
+                      onPointerDown={(event) => event.preventDefault()}
+                      onClick={() => {
+                        const input = inputRef.current
+                        const start = input?.selectionStart ?? value.length
+                        const end = input?.selectionEnd ?? start
+                        onChange(value.slice(0, start) + letter + value.slice(end))
+                        input?.focus()
+                        requestAnimationFrame(() => input?.setSelectionRange(start + letter.length, start + letter.length))
+                      }}
+                      className="min-h-[36px] min-w-[36px] rounded-lg border border-gray-200 bg-white px-2 text-base text-gray-700 hover:border-indigo-400 dark:border-gray-600 dark:bg-gray-800 dark:text-gray-200"
+                    >
+                      {letter}
+                    </button>
+                  ))}
+                </div>
+              )}
+            </>
+          ) : (
+            <p className="px-2 leading-5">{dictionary.inputHint}</p>
+          )}
+        </div>
+      )}
     </form>
   )
 }

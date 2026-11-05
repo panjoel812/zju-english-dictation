@@ -1,0 +1,1718 @@
+[
+  {
+    "name": "E-Mail",
+    "trans": [
+      "电子邮件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-001",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "电子邮件",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bewerben",
+    "trans": [
+      "谋求，申请"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-002",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "谋求，申请",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Studienplatz",
+    "trans": [
+      "大学学习名额"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-003",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "大学学习名额",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Betreff",
+    "trans": [
+      "事由"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-004",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "事由",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Grundstufe",
+    "trans": [
+      "初级"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-005",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "初级",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mittelstufe",
+    "trans": [
+      "中级"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-006",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "中级",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verfügen",
+    "trans": [
+      "拥有，使用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-007",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "拥有，使用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kenntnis",
+    "trans": [
+      "知识；认识，了解"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-008",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "知识；认识，了解",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zertifikat",
+    "trans": [
+      "（官方出具的）证书"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-009",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "（官方出具的）证书",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Frist",
+    "trans": [
+      "期限"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-010",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "期限",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Winter",
+    "trans": [
+      "冬天，冬季"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-011",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "冬天，冬季",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Unterlagen",
+    "trans": [
+      "书面材料，证明资料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-012",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "书面材料，证明资料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bescheinigung",
+    "trans": [
+      "证明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-013",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "证明",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beilegen",
+    "trans": [
+      "附入"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-014",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "附入",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zulassung",
+    "trans": [
+      "录取；许可"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-015",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "录取；许可",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beherrschen",
+    "trans": [
+      "掌握；控制"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-016",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "掌握；控制",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "statt",
+    "trans": [
+      "Konj./Präp. 不......而......；代替"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-017",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Konj./Präp. 不......而......；代替",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "direkt",
+    "trans": [
+      "Adj. 直接的，直达的；紧接着"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-018",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 直接的，直达的；紧接着",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kurs",
+    "trans": [
+      "训练班，课程；汇率；航向"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-019",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "训练班，课程；汇率；航向",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Oberstufe",
+    "trans": [
+      "高级班"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-020",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "高级班",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bemühung",
+    "trans": [
+      "付出的劳动，努力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-021",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "付出的劳动，努力",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anlage",
+    "trans": [
+      "附件；设备"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-022",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "附件；设备",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lebenslauf",
+    "trans": [
+      "简历"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-023",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "简历",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Immatrikulation",
+    "trans": [
+      "（在高校）注册入学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-024",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "（在高校）注册入学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nachweisen",
+    "trans": [
+      "证实，证明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-025",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "证实，证明",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nachreichen",
+    "trans": [
+      "补交（文件，材料）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-026",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "补交（文件，材料）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "betreffen",
+    "trans": [
+      "涉及，关系到......"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-027",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "涉及，关系到......",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einstufungstest",
+    "trans": [
+      "分级考试"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-028",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "分级考试",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schwer",
+    "trans": [
+      "Adj./Adv. 困难的；严重的；重的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-029",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj./Adv. 困难的；严重的；重的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vorlegen",
+    "trans": [
+      "递交，提交"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-030",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "递交，提交",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Studiengang",
+    "trans": [
+      "大学课程"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-031",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "大学课程",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entweder oder",
+    "trans": [
+      "Konj. 或者......或者；非......即"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-032",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Konj. 或者......或者；非......即",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kostenpflichtig",
+    "trans": [
+      "Adj. 必须承担费用的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-033",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 必须承担费用的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geschlecht",
+    "trans": [
+      "性别"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-034",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "性别",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "männlich",
+    "trans": [
+      "Adj. 男的，雄的，阳性的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-035",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 男的，雄的，阳性的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geburt",
+    "trans": [
+      "出生，诞生；分娩"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-036",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "出生，诞生；分娩",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ort",
+    "trans": [
+      "地点，地方"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-037",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "地点，地方",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Familienstand",
+    "trans": [
+      "家庭状况"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-038",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "家庭状况",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Staatsangehörigkeit",
+    "trans": [
+      "国籍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-039",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "国籍",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Oberschule",
+    "trans": [
+      "高中"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-040",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "高中",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Aufnahmeprüfung",
+    "trans": [
+      "入学考试"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-041",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "入学考试",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Intensivkurs",
+    "trans": [
+      "强化班"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-042",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "强化班",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Außendienst",
+    "trans": [
+      "外勤工作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-043",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "外勤工作",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anwendung",
+    "trans": [
+      "使用，应用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-044",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "使用，应用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Papier",
+    "trans": [
+      "纸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-045",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "纸",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Umschlag",
+    "trans": [
+      "信封，封面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-046",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "信封，封面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "folgen",
+    "trans": [
+      "跟随；学的样；......随之而来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-047",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "跟随；学的样；......随之而来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "technisch",
+    "trans": [
+      "Adj. 技术的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-048",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 技术的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Absender",
+    "trans": [
+      "寄信人，寄件人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-049",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "寄信人，寄件人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Empfänger",
+    "trans": [
+      "收信人，收件人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-050",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "收信人，收件人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zweck",
+    "trans": [
+      "目的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-051",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "目的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fachrichtung",
+    "trans": [
+      "专业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-052",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "专业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anschließend",
+    "trans": [
+      "P.I. 连接，加入，同意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-053",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "P.I. 连接，加入，同意",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Antrag",
+    "trans": [
+      "申请，提案"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-054",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "申请，提案",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nebenfach",
+    "trans": [
+      "副科"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-055",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "副科",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Promotion",
+    "trans": [
+      "授予博士学位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-056",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "授予博士学位",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aktuell",
+    "trans": [
+      "Adj. 最新的，当前关注的，跟上时代的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-057",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 最新的，当前关注的，跟上时代的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anschrift",
+    "trans": [
+      "通信地址，住址"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-058",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "通信地址，住址",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anrede",
+    "trans": [
+      "称呼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-059",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "称呼",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Angabe",
+    "trans": [
+      "说明，陈述"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-060",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "说明，陈述",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "weiter-",
+    "trans": [
+      "Adj. 进一步的，其他的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-061",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 进一步的，其他的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "allgemein",
+    "trans": [
+      "Adj. 一般的，普通的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-062",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 一般的，普通的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Grußformel",
+    "trans": [
+      "问候语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-063",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "问候语",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Unterschrift",
+    "trans": [
+      "签名，签字"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-064",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "签名，签字",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Messe",
+    "trans": [
+      "博览会，商品交易会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-065",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "博览会，商品交易会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Erlebnis",
+    "trans": [
+      "经历，事件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-066",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "经历，事件",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stadion",
+    "trans": [
+      "体育场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-067",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "体育场",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vorher",
+    "trans": [
+      "Adv. 事先，以前"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-068",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adv. 事先，以前",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mitteilen",
+    "trans": [
+      "通知，告诉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-069",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "通知，告诉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Betrag",
+    "trans": [
+      "金额，款项"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-070",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "金额，款项",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überweisen",
+    "trans": [
+      "汇款，转诊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-071",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "汇款，转诊",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Knopf",
+    "trans": [
+      "按钮，纽扣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-072",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "按钮，纽扣",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "drücken",
+    "trans": [
+      "按；压"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-073",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "按；压",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Münze",
+    "trans": [
+      "硬币，钱币"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-074",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "硬币，钱币",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "werfen",
+    "trans": [
+      "投；扔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-075",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "投；扔",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nachsehen",
+    "trans": [
+      "查阅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-076",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "查阅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Automat",
+    "trans": [
+      "自动售货机，自动装置"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-077",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "自动售货机，自动装置",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "funktionieren",
+    "trans": [
+      "正常运转，起作用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-078",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "正常运转，起作用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erkundigen",
+    "trans": [
+      "打听，探询；了解"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-079",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "打听，探询；了解",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "geschieden",
+    "trans": [
+      "P.II. 离婚的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-080",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "P.II. 离婚的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ledig",
+    "trans": [
+      "Adj. 未婚的，独身的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-081",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 未婚的，独身的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Soziologie",
+    "trans": [
+      "社会学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-082",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "社会学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Architektur",
+    "trans": [
+      "建筑学；建筑风格"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-083",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "建筑学；建筑风格",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Intiative",
+    "trans": [
+      "倡议，发起；主动性，积极性"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-084",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "倡议，发起；主动性，积极性",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "also",
+    "trans": [
+      "Konj. 因此，那么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-085",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Konj. 因此，那么",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verlängern",
+    "trans": [
+      "延长，延长......期限"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-086",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "延长，延长......期限",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Integration",
+    "trans": [
+      "融入，接纳为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-087",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "融入，接纳为",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "praxisorientiert",
+    "trans": [
+      "Adj. 面向实践的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-088",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 面向实践的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Büro",
+    "trans": [
+      "办公室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-089",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "办公室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Auftrag",
+    "trans": [
+      "委托，任务"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-090",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "委托，任务",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "politisch",
+    "trans": [
+      "Adj. 政治的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-091",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 政治的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wissenschaftlich",
+    "trans": [
+      "Adj. 科学的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-092",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 科学的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Reflexionskompetenz",
+    "trans": [
+      "反省能力，思考能力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-093",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "反省能力，思考能力",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "stärken",
+    "trans": [
+      "加强，使强壮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-094",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "加强，使强壮",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "System",
+    "trans": [
+      "体系，系统；制度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-095",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "体系，系统；制度",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ideal",
+    "trans": [
+      "Adj. 理想的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-096",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 理想的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gewohnt",
+    "trans": [
+      "Adj. 习惯的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-097",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 习惯的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anleitung",
+    "trans": [
+      "指导，引导；说明，指南"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-098",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "指导，引导；说明，指南",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kulturell",
+    "trans": [
+      "Adj. 文化的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-099",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 文化的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pädagogik",
+    "trans": [
+      "教育学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-100",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "教育学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "analysieren",
+    "trans": [
+      "分析"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-101",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "分析",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "methodisch",
+    "trans": [
+      "Adj. 有条理的，方法上的，教学法的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-102",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 有条理的，方法上的，教学法的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vorgehen",
+    "trans": [
+      "行动；发生；（钟表）走得快"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-103",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "行动；发生；（钟表）走得快",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Entwurf",
+    "trans": [
+      "设计；草稿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-104",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "设计；草稿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "umsetzen",
+    "trans": [
+      "使转化；移植"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-105",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "使转化；移植",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kontext",
+    "trans": [
+      "上下文，语境；前后关系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-106",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "上下文，语境；前后关系",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nation",
+    "trans": [
+      "国家，民族"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-107",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "国家，民族",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "klären",
+    "trans": [
+      "把......搞清楚；澄清"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-108",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "把......搞清楚；澄清",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "optimal",
+    "trans": [
+      "Adj. 最佳的，最理想的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-109",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 最佳的，最理想的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vollständig",
+    "trans": [
+      "Adj. 完整的，完全的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-110",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 完整的，完全的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erwerben",
+    "trans": [
+      "获得；学会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-111",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "获得；学会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anerkennen",
+    "trans": [
+      "认可，承认；肯定，赞赏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-112",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "认可，承认；肯定，赞赏",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "qualifizieren",
+    "trans": [
+      "使......具有专门知识，使......有资格"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-113",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "使......具有专门知识，使......有资格",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausrichten",
+    "trans": [
+      "举办；转达"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-114",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "举办；转达",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gebiet",
+    "trans": [
+      "领域，方面；区域"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-115",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "领域，方面；区域",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "spezialisieren",
+    "trans": [
+      "专门从事，专攻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-116",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "专门从事，专攻",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Politik",
+    "trans": [
+      "政治；政策"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-117",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "政治；政策",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verwaltung",
+    "trans": [
+      "管理；行政机关，管理部门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-118",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "管理；行政机关，管理部门",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wirtschaft",
+    "trans": [
+      "经济"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-119",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "经济",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "-bezogen",
+    "trans": [
+      "Adj. 涉及......的，与......有关的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-120",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 涉及......的，与......有关的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anforderung",
+    "trans": [
+      "（对效率、能力等的）要求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-121",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "（对效率、能力等的）要求",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Regel",
+    "trans": [
+      "规则，规定，定律；常规"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-122",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "规则，规定，定律；常规",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Angebot",
+    "trans": [
+      "提供，供应；报价"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-123",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "提供，供应；报价",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "umfassen",
+    "trans": [
+      "包括；抱住"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-124",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "包括；抱住",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pflege",
+    "trans": [
+      "护理，照料；保养"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-125",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "护理，照料；保养",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bühnenbild",
+    "trans": [
+      "舞台布景"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-126",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "舞台布景",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Grafik",
+    "trans": [
+      "图表"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-127",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "图表",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Voraussetzung",
+    "trans": [
+      "前提，先决条件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-128",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "前提，先决条件",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "künstlerisch",
+    "trans": [
+      "Adj. 艺术的，艺术家的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-129",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "Adj. 艺术的，艺术家的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Talent",
+    "trans": [
+      "才能，人才"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-130",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "才能，人才",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Auswahl",
+    "trans": [
+      "挑选，选择；（供选择的）花色品种"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-131",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "挑选，选择；（供选择的）花色品种",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gebühr",
+    "trans": [
+      "支付（公用事业的）费用；会费"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E5-132",
+    "sourceSheet": "B3E5",
+    "sourceMeaning": "支付（公用事业的）费用；会费",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

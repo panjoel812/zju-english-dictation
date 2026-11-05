@@ -1,0 +1,753 @@
+[
+  {
+    "name": "みょうにち（明日）",
+    "trans": [
+      "名 明天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-001",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "明天",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みょうにち",
+      "明日"
+    ],
+    "speech": "みょうにち"
+  },
+  {
+    "name": "あす（明日）",
+    "trans": [
+      "名 明天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-002",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "明天",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あす",
+      "明日"
+    ],
+    "speech": "あす"
+  },
+  {
+    "name": "さくじつ（昨日）",
+    "trans": [
+      "名 昨天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-003",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "昨天",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さくじつ",
+      "昨日"
+    ],
+    "speech": "さくじつ"
+  },
+  {
+    "name": "このたび（この度）",
+    "trans": [
+      "名 这次，这回"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-004",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "这次，这回",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "このたび",
+      "この度"
+    ],
+    "speech": "このたび"
+  },
+  {
+    "name": "わたくし（私）",
+    "trans": [
+      "代 我"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-005",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "我",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "わたくし",
+      "私"
+    ],
+    "speech": "わたくし"
+  },
+  {
+    "name": "わたくしども（私ども）",
+    "trans": [
+      "代 我们"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-006",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "我们",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "わたくしども",
+      "私ども"
+    ],
+    "speech": "わたくしども"
+  },
+  {
+    "name": "しゃ（社）",
+    "trans": [
+      "名 公司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-007",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "公司",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゃ",
+      "社"
+    ],
+    "speech": "しゃ"
+  },
+  {
+    "name": "もの（者）",
+    "trans": [
+      "名 人，～的人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-008",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "人，～的人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "もの",
+      "者"
+    ],
+    "speech": "もの"
+  },
+  {
+    "name": "へいしゃ（弊社）",
+    "trans": [
+      "名 敝公司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-009",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "敝公司",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "へいしゃ",
+      "弊社"
+    ],
+    "speech": "へいしゃ"
+  },
+  {
+    "name": "しんしゃ（新車）",
+    "trans": [
+      "名 新车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-010",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "新车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しんしゃ",
+      "新車"
+    ],
+    "speech": "しんしゃ"
+  },
+  {
+    "name": "きず（傷）",
+    "trans": [
+      "名 瑕疵；创伤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-011",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "瑕疵；创伤",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きず",
+      "傷"
+    ],
+    "speech": "きず"
+  },
+  {
+    "name": "しどう（指導）",
+    "trans": [
+      "名 指教，指导"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-012",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "指教，指导",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しどう",
+      "指導"
+    ],
+    "speech": "しどう"
+  },
+  {
+    "name": "おつり",
+    "trans": [
+      "名 找的零钱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-013",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "找的零钱",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おうせつしつ（応接室）",
+    "trans": [
+      "名 会客室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-014",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "会客室",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おうせつしつ",
+      "応接室"
+    ],
+    "speech": "おうせつしつ"
+  },
+  {
+    "name": "あんないじょう（案内状）",
+    "trans": [
+      "名 通知，请帖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-015",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "通知，请帖",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あんないじょう",
+      "案内状"
+    ],
+    "speech": "あんないじょう"
+  },
+  {
+    "name": "にゅうがくあんない（入学案内）",
+    "trans": [
+      "名 入学指南"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-016",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "入学指南",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にゅうがくあんない",
+      "入学案内"
+    ],
+    "speech": "にゅうがくあんない"
+  },
+  {
+    "name": "うかがいます（伺います）",
+    "trans": [
+      "动1 （自谦）去；来；问；拜访；请教"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-017",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "（自谦）去；来；问；拜访；请教",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うかがいます",
+      "伺います"
+    ],
+    "speech": "うかがいます"
+  },
+  {
+    "name": "いたします",
+    "trans": [
+      "动1 （自谦）做，干"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-018",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "（自谦）做，干",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "まいります（参ります）",
+    "trans": [
+      "动1 （自谦）来，去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-019",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "（自谦）来，去",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まいります",
+      "参ります"
+    ],
+    "speech": "まいります"
+  },
+  {
+    "name": "いただきます",
+    "trans": [
+      "动1 （自谦）吃，喝；得到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-020",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "（自谦）吃，喝；得到",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おります",
+    "trans": [
+      "动1 在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-021",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "在",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ございます",
+    "trans": [
+      "动1 在，有，是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-022",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "在，有，是",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "さしあげます（差し上げます）",
+    "trans": [
+      "动2 （自谦）给"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-023",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "（自谦）给",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さしあげます",
+      "差し上げます"
+    ],
+    "speech": "さしあげます"
+  },
+  {
+    "name": "ぞんじています（存じています）",
+    "trans": [
+      "动2 （自谦）知道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-024",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "（自谦）知道",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぞんじています",
+      "存じています"
+    ],
+    "speech": "ぞんじています"
+  },
+  {
+    "name": "すすめます（進めます）",
+    "trans": [
+      "动2 推进，使前进"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-025",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "推进，使前进",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すすめます",
+      "進めます"
+    ],
+    "speech": "すすめます"
+  },
+  {
+    "name": "はいけんします（拝見します）",
+    "trans": [
+      "动3 （自谦）看"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-026",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "（自谦）看",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はいけんします",
+      "拝見します"
+    ],
+    "speech": "はいけんします"
+  },
+  {
+    "name": "しょうちします（承知します）",
+    "trans": [
+      "动3 知道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-027",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "知道",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょうちします",
+      "承知します"
+    ],
+    "speech": "しょうちします"
+  },
+  {
+    "name": "きたいします（期待します）",
+    "trans": [
+      "动3 希望，期待"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-028",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "希望，期待",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きたいします",
+      "期待します"
+    ],
+    "speech": "きたいします"
+  },
+  {
+    "name": "せわします（世話します）",
+    "trans": [
+      "动3 帮助；照顾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-029",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "帮助；照顾",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せわします",
+      "世話します"
+    ],
+    "speech": "せわします"
+  },
+  {
+    "name": "きちょう（貴重）",
+    "trans": [
+      "形2 贵重"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-030",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "贵重",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きちょう",
+      "貴重"
+    ],
+    "speech": "きちょう"
+  },
+  {
+    "name": "しょうしょう（少々）",
+    "trans": [
+      "副 稍稍，一点儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-031",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "稍稍，一点儿",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょうしょう",
+      "少々"
+    ],
+    "speech": "しょうしょう"
+  },
+  {
+    "name": "ただいま（ただ今）",
+    "trans": [
+      "副 这会儿，方才；马上，立刻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-032",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "这会儿，方才；马上，立刻",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ただいま",
+      "ただ今"
+    ],
+    "speech": "ただいま"
+  },
+  {
+    "name": "とつぜん（突然）",
+    "trans": [
+      "副 突然"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-033",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "突然",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とつぜん",
+      "突然"
+    ],
+    "speech": "とつぜん"
+  },
+  {
+    "name": "じつは（実は）",
+    "trans": [
+      "副 其实，实际上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-034",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "其实，实际上",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じつは",
+      "実は"
+    ],
+    "speech": "じつは"
+  },
+  {
+    "name": "とうきょうりょうりスクール（東京料理スクール）",
+    "trans": [
+      "专 东京厨师学校"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-035",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "东京厨师学校",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とうきょうりょうりスクール",
+      "東京料理スクール"
+    ],
+    "speech": "とうきょうりょうりスクール"
+  },
+  {
+    "name": "ペキンにほんごがっこう（北京日本語学校）",
+    "trans": [
+      "专 北京日语学校"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-036",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "北京日语学校",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ペキンにほんごがっこう",
+      "北京日本語学校"
+    ],
+    "speech": "ペキンにほんごがっこう"
+  },
+  {
+    "name": "ジェーシーじどうしゃ（JC自動車）",
+    "trans": [
+      "专 JC汽车公司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-037",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "JC汽车公司",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ジェーシーじどうしゃ",
+      "JC自動車"
+    ],
+    "speech": "ジェーシーじどうしゃ"
+  },
+  {
+    "name": "なんのおかまいもしませんで （何のお構いもしませんで）",
+    "trans": [
+      "招待不周"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-038",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "招待不周",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "なんのおかまいもしませんで ",
+      "何のお構いもしませんで"
+    ],
+    "speech": "なんのおかまいもしませんで "
+  },
+  {
+    "name": "もうしわけございません（申し訳ございません）",
+    "trans": [
+      "非常抱歉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U48-039",
+    "sourceSheet": "B1U48",
+    "sourceMeaning": "非常抱歉",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "もうしわけございません",
+      "申し訳ございません"
+    ],
+    "speech": "もうしわけございません"
+  }
+]

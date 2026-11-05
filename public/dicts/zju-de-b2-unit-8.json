@@ -1,0 +1,1185 @@
+[
+  {
+    "name": "Seminar",
+    "trans": [
+      "(大学）讨论课"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-001",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "(大学）讨论课",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Unterrichtsraum",
+    "trans": [
+      "教室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-002",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "教室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hörsaal",
+    "trans": [
+      "(大学里的）阶梯教室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-003",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "(大学里的）阶梯教室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Umwandlung",
+    "trans": [
+      "转变，转换"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-004",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "转变，转换",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Magisterstudiengang",
+    "trans": [
+      "研究生学习"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-005",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "研究生学习",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bachelor",
+    "trans": [
+      "本科学位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-006",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "本科学位",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Master",
+    "trans": [
+      "硕士学位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-007",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "硕士学位",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Veränderung",
+    "trans": [
+      "变化"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-008",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "变化",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "betreuen",
+    "trans": [
+      "照管，照顾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-009",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "照管，照顾",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verkürzen",
+    "trans": [
+      "缩短"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-010",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "缩短",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vergleichbarkeit",
+    "trans": [
+      "可比性"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-011",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "可比性",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anerkennung",
+    "trans": [
+      "认可，承认"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-012",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "认可，承认",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Maßstab",
+    "trans": [
+      "标准，准则"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-013",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "标准，准则",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Semester",
+    "trans": [
+      "学期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-014",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "学期",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erfordern",
+    "trans": [
+      "需要，要求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-015",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "需要，要求",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Eigenständigkeit",
+    "trans": [
+      "独立性"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-016",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "独立性",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Diskussionsfreudigkeit",
+    "trans": [
+      "积极讨论"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-017",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "积极讨论",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Argumentationsstärke",
+    "trans": [
+      "陈述理由的能力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-018",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "陈述理由的能力",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gestaltung",
+    "trans": [
+      "组织，设置"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-019",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "组织，设置",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Studienplan",
+    "trans": [
+      "学习计划"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-020",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "学习计划",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zusammenstellen",
+    "trans": [
+      "制订"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-021",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "制订",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Studienjahr",
+    "trans": [
+      "学年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-022",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "学年",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vorlesungszeit",
+    "trans": [
+      "上课时间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-023",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "上课时间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vorlesungsfrei",
+    "trans": [
+      "Adj. 没有课的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-024",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "Adj. 没有课的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Forschung",
+    "trans": [
+      "研究"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-025",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "研究",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Studiengebühr",
+    "trans": [
+      "学费"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-026",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "学费",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Entscheidungshoheit",
+    "trans": [
+      "决定权"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-027",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "决定权",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bildungsfrage",
+    "trans": [
+      "教育问题"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-028",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "教育问题",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "maximal",
+    "trans": [
+      "Adj. 最大的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-029",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "Adj. 最大的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verlangen",
+    "trans": [
+      "要求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-030",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "要求",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hinzu",
+    "trans": [
+      "Adv. 此外"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-031",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "Adv. 此外",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Semesterbeitrag",
+    "trans": [
+      "学期杂费"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-032",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "学期杂费",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dozent",
+    "trans": [
+      "讲师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-033",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "讲师",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schaffen",
+    "trans": [
+      "完成，使实现"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-034",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "完成，使实现",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausstatten",
+    "trans": [
+      "配置，布置"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-035",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "配置，布置",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bevorzugen",
+    "trans": [
+      "（更）喜欢，偏爱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-036",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "（更）喜欢，偏爱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vermittlung",
+    "trans": [
+      "介绍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-037",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "介绍",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Studentenwerk",
+    "trans": [
+      "学生会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-038",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "学生会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "reichen",
+    "trans": [
+      "足够；递（给）；够得着"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-039",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "足够；递（给）；够得着",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anzahl",
+    "trans": [
+      "数目，数量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-040",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "数目，数量",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "angespannt",
+    "trans": [
+      "Adj. 紧张的，危急的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-041",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "Adj. 紧张的，危急的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nachteil",
+    "trans": [
+      "缺点，短处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-042",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "缺点，短处",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tipp",
+    "trans": [
+      "忠告，好建议"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-043",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "忠告，好建议",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kassette",
+    "trans": [
+      "盒式录音带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-044",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "盒式录音带",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Notiz",
+    "trans": [
+      "笔记"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-045",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "笔记",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "festlegen",
+    "trans": [
+      "确定，规定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-046",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "确定，规定",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Regen",
+    "trans": [
+      "下雨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-047",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "下雨",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Germanistik",
+    "trans": [
+      "日耳曼语言文学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-048",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "日耳曼语言文学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "leihen",
+    "trans": [
+      "借，借给"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-049",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "借，借给",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "träumen",
+    "trans": [
+      "梦想，梦见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-050",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "梦想，梦见",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Folge",
+    "trans": [
+      "结果，后果"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-051",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "结果，后果",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schildern",
+    "trans": [
+      "描绘，描述"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-052",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "描绘，描述",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "deswegen",
+    "trans": [
+      "Adv. 因此"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-053",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "Adv. 因此",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wohnungsnot",
+    "trans": [
+      "住房紧张，住房缺乏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-054",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "住房紧张，住房缺乏",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bewerber",
+    "trans": [
+      "申请人，求职者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-055",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "申请人，求职者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Teilnehmer",
+    "trans": [
+      "参加者，参与者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-056",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "参加者，参与者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Literatur",
+    "trans": [
+      "文献，文学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-057",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "文献，文学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausgezeichnet",
+    "trans": [
+      "Adj. 极好的，优秀的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-058",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "Adj. 极好的，优秀的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Chinesin",
+    "trans": [
+      "中国人（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-059",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "中国人（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "monatlich",
+    "trans": [
+      "Adj. 每月的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-060",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "Adj. 每月的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bewohner",
+    "trans": [
+      "住户"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-061",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "住户",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "teilen",
+    "trans": [
+      "共有，分享；把......分开，平分"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-062",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "共有，分享；把......分开，平分",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einsam",
+    "trans": [
+      "Adj. 孤独的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-063",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "Adj. 孤独的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "problematisch",
+    "trans": [
+      "Adj. 成问题的，有问题的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-064",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "Adj. 成问题的，有问题的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Heimweh",
+    "trans": [
+      "想家，思乡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-065",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "想家，思乡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "telefonieren",
+    "trans": [
+      "打电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-066",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "打电话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anfangs",
+    "trans": [
+      "Adv. 刚开始，起初"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-067",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "Adv. 刚开始，起初",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gewöhnen",
+    "trans": [
+      "习惯于，适应于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-068",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "习惯于，适应于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Niederländerin",
+    "trans": [
+      "荷兰人（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-069",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "荷兰人（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Betriebswirtschaftslehre",
+    "trans": [
+      "企业经济管理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-070",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "企业经济管理",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fachbereich",
+    "trans": [
+      "专业领域，专业范围"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-071",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "专业领域，专业范围",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gegenbesuch",
+    "trans": [
+      "回访"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-072",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "回访",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beschließen",
+    "trans": [
+      "决定，下决心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-073",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "决定，下决心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einschreibegebühr",
+    "trans": [
+      "注册费"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-074",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "注册费",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "akademisch",
+    "trans": [
+      "Adj. 学术的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-075",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "Adj. 学术的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Auslandsamt",
+    "trans": [
+      "外事局，外事处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-076",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "外事局，外事处",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Austausch",
+    "trans": [
+      "交换"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-077",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "交换",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "klappen",
+    "trans": [
+      "成功，顺利"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-078",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "成功，顺利",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Unterkunft",
+    "trans": [
+      "住处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-079",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "住处",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einschreibung",
+    "trans": [
+      "注册"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-080",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "注册",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anmeldung",
+    "trans": [
+      "登记，报名（处）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-081",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "登记，报名（处）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mitbewohnerin",
+    "trans": [
+      "同屋（或同室）居住者（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-082",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "同屋（或同室）居住者（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Unterschied",
+    "trans": [
+      "区别"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-083",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "区别",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "normalerweise",
+    "trans": [
+      "Adv. 正常情况下，通常情况下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-084",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "Adv. 正常情况下，通常情况下",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "niederländisch",
+    "trans": [
+      "Adj. 荷兰的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-085",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "Adj. 荷兰的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "spezialisieren",
+    "trans": [
+      "以......为专业，专门从事"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-086",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "以......为专业，专门从事",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Klausur",
+    "trans": [
+      "笔试"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-087",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "笔试",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einzeln",
+    "trans": [
+      "Adj. 各个的，逐个的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-088",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "Adj. 各个的，逐个的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kölsch",
+    "trans": [
+      "科隆啤酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-089",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "科隆啤酒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bereuen",
+    "trans": [
+      "后悔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-090",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "后悔",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lohnen",
+    "trans": [
+      "值得"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E8-091",
+    "sourceSheet": "B2E8",
+    "sourceMeaning": "值得",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

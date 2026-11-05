@@ -38,14 +38,9 @@ export default function WordList() {
 
   return (
     <>
-      <Tooltip content="单词列表" placement="top" className="sm:fixed sm:left-0 sm:top-1/2 sm:z-20">
-        <button
-          type="button"
-          aria-label="单词列表"
-          onClick={openModal}
-          className="flex h-7 w-7 items-center justify-center rounded text-lg text-indigo-500 hover:bg-indigo-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-indigo-500 dark:hover:bg-gray-700 sm:h-auto sm:w-auto sm:rounded-l-none sm:bg-indigo-50 sm:p-2 sm:py-3 dark:sm:bg-indigo-900"
-        >
-          <ListIcon className="h-5 w-5 text-indigo-500 dark:text-white sm:h-6 sm:w-6" />
+      <Tooltip content="单词列表">
+        <button type="button" data-guide="word-list" aria-label="单词列表" onClick={openModal} className="toolbar-button">
+          <ListIcon className="icon" />
         </button>
       </Tooltip>
 

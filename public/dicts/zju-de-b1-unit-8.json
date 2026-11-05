@@ -1,0 +1,1055 @@
+[
+  {
+    "name": "Freizeit",
+    "trans": [
+      "空闲时间，业余时间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-001",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "空闲时间，业余时间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ferien",
+    "trans": [
+      "假期（仅供回学校使用）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-002",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "假期（仅供回学校使用）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "springen",
+    "trans": [
+      "跳，跳跃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-003",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "跳，跳跃",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Meer",
+    "trans": [
+      "海，大海，公海"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-004",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "海，大海，公海",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wiese",
+    "trans": [
+      "草地，草坪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-005",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "草地，草坪",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wandern",
+    "trans": [
+      "徒步旅行，漫游"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-006",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "徒步旅行，漫游",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "See",
+    "trans": [
+      "海"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-007",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "海",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ausflug",
+    "trans": [
+      "郊游，短途旅行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-008",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "郊游，短途旅行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rügen",
+    "trans": [
+      "吕根岛（波罗的海中一岛屿）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-009",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "吕根岛（波罗的海中一岛屿）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Insel",
+    "trans": [
+      "岛，岛屿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-010",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "岛，岛屿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kreidefelsen",
+    "trans": [
+      "白垩岩"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-011",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "白垩岩",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nähe",
+    "trans": [
+      "附近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-012",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "附近",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "herrlich",
+    "trans": [
+      "Adj. 美妙的，精彩的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-013",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "Adj. 美妙的，精彩的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Luft",
+    "trans": [
+      "风，空气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-014",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "风，空气",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Welle",
+    "trans": [
+      "波浪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-015",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "波浪",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Strand",
+    "trans": [
+      "海滩，沙滩"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-016",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "海滩，沙滩",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "baden",
+    "trans": [
+      "洗澡，游泳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-017",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "洗澡，游泳",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "phantastisch",
+    "trans": [
+      "Adj. 梦幻般的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-018",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "Adj. 梦幻般的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unbedingt",
+    "trans": [
+      "Adv. 无条件的，一定地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-019",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "Adv. 无条件的，一定地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "selbstverständlich",
+    "trans": [
+      "Adj. 不言而喻的，当然的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-020",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "Adj. 不言而喻的，当然的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fotografieren",
+    "trans": [
+      "拍照，摄影"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-021",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "拍照，摄影",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "während",
+    "trans": [
+      "Prap. 在......期间；在......时候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-022",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "Prap. 在......期间；在......时候",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dauern",
+    "trans": [
+      "持续，延续"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-023",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "持续，延续",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bericht",
+    "trans": [
+      "报道，报告"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-024",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "报道，报告",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "berichten",
+    "trans": [
+      "报告，告知"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-025",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "报告，告知",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verbringen",
+    "trans": [
+      "度过（时间/假期）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-026",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "度过（时间/假期）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erleben",
+    "trans": [
+      "体验，经历"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-027",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "体验，经历",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Garten",
+    "trans": [
+      "园子，花园"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-028",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "园子，花园",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verdienen",
+    "trans": [
+      "挣得，赚得"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-029",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "挣得，赚得",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Praktikum",
+    "trans": [
+      "经验实习，实习课程；实践"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-030",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "经验实习，实习课程；实践",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "absolvieren",
+    "trans": [
+      "完成，结束"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-031",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "完成，结束",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Prospekt",
+    "trans": [
+      "广告，说明书"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-032",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "广告，说明书",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "übersetzen",
+    "trans": [
+      "翻译，笔译"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-033",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "翻译，笔译",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Abteilung",
+    "trans": [
+      "部门，处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-034",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "部门，处",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Qualität",
+    "trans": [
+      "质量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-035",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "质量",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Management",
+    "trans": [
+      "管理，经营"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-036",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "管理，经营",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nüzlich",
+    "trans": [
+      "Adj. 有用的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-037",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "Adj. 有用的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Abschlussarbeit",
+    "trans": [
+      "毕业论文"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-038",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "毕业论文",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "jobben",
+    "trans": [
+      "（做临时性）工作,打工"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-039",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "（做临时性）工作,打工",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "finanzieren",
+    "trans": [
+      "支付......费用，提供......资金"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-040",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "支付......费用，提供......资金",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Programmieren",
+    "trans": [
+      "编程序"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-041",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "编程序",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "super",
+    "trans": [
+      "Adv. 非常,特别地；最,极"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-042",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "Adv. 非常,特别地；最,极",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gelegenheit",
+    "trans": [
+      "机会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-043",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "机会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wichtig",
+    "trans": [
+      "Adj. 重要的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-044",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "Adj. 重要的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Berufsleben",
+    "trans": [
+      "职业生活"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-045",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "职业生活",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bleiben",
+    "trans": [
+      "待，停留"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-046",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "待，停留",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mailen",
+    "trans": [
+      "发电子邮件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-047",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "发电子邮件",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bummel",
+    "trans": [
+      "闲逛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-048",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "闲逛",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "klasse",
+    "trans": [
+      "Adj. 真棒的，非常好的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-049",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "Adj. 真棒的，非常好的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gedächtniskirche",
+    "trans": [
+      "纪念大教堂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-050",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "纪念大教堂",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Alexanderplatz",
+    "trans": [
+      "亚历山大广场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-051",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "亚历山大广场",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Markt",
+    "trans": [
+      "市场，集市"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-052",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "市场，集市",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Glühwein",
+    "trans": [
+      "（烫热的）甜葡萄酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-053",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "（烫热的）甜葡萄酒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lebkuchen",
+    "trans": [
+      "胡椒蜂蜜饼（茴香饼）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-054",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "胡椒蜂蜜饼（茴香饼）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bekommen",
+    "trans": [
+      "得到，获得"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-055",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "得到，获得",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Weltmeisterschaft",
+    "trans": [
+      "世界杯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-056",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "世界杯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Jugend",
+    "trans": [
+      "青年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-057",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "青年",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zentrum",
+    "trans": [
+      "中心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-058",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "中心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kurs",
+    "trans": [
+      "培训班"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-059",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "培训班",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zeichen",
+    "trans": [
+      "素描，画画，画图"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-060",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "素描，画画，画图",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "freilich",
+    "trans": [
+      "Adv. 当然，无疑，的确"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-061",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "Adv. 当然，无疑，的确",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cool",
+    "trans": [
+      "Adj. 酷的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-062",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "Adj. 酷的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Preis",
+    "trans": [
+      "价格，价钱，奖励"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-063",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "价格，价钱，奖励",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "niedrig",
+    "trans": [
+      "Adj. 低的，矮的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-064",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "Adj. 低的，矮的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nachhilfestunde",
+    "trans": [
+      "补习课"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-065",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "补习课",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sprache",
+    "trans": [
+      "语言"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-066",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "语言",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Campingplatz",
+    "trans": [
+      "宿营地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-067",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "宿营地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Heidelberg",
+    "trans": [
+      "海德堡（德国地名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-068",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "海德堡（德国地名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Neckar",
+    "trans": [
+      "内卡河"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-069",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "内卡河",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "genießen",
+    "trans": [
+      "享受"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-070",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "享受",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zelt",
+    "trans": [
+      "帐篷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-071",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "帐篷",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Adresse",
+    "trans": [
+      "地址"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-072",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "地址",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tauschen",
+    "trans": [
+      "交换"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-073",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "交换",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Südfrankreich",
+    "trans": [
+      "法国南部"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-074",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "法国南部",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schwarzwald",
+    "trans": [
+      "黑森林（德国地名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-075",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "黑森林（德国地名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Jugendherberge",
+    "trans": [
+      "青年旅店，客栈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-076",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "青年旅店，客栈",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "streng",
+    "trans": [
+      "Adj. 严肃，严格，严厉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-077",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "Adj. 严肃，严格，严厉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mitfahrgelegenheit",
+    "trans": [
+      "搭车机会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-078",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "搭车机会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Benzin",
+    "trans": [
+      "汽油"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-079",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "汽油",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Freiburg",
+    "trans": [
+      "弗莱堡（德国地名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-080",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "弗莱堡（德国地名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Feldberg",
+    "trans": [
+      "弗尔特贝格山（德国地名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E8-081",
+    "sourceSheet": "B1E8",
+    "sourceMeaning": "弗尔特贝格山（德国地名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

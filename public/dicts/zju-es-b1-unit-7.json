@@ -1,0 +1,808 @@
+[
+  {
+    "name": "molestar",
+    "trans": [
+      "打扰，麻烦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-001",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "打扰，麻烦",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "en absoluto",
+    "trans": [
+      "绝不"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-002",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "绝不",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pensar",
+    "trans": [
+      "想"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-003",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "想",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "trabajo",
+    "trans": [
+      "作业，文章，小论文"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-004",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "作业，文章，小论文",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sobre",
+    "trans": [
+      "关于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-005",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "关于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "América Latina",
+    "trans": [
+      "拉丁美洲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-006",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "拉丁美洲",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "prestar",
+    "trans": [
+      "给予，借出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-007",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "给予，借出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "interesante",
+    "trans": [
+      "令人感兴趣的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-008",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "令人感兴趣的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tema",
+    "trans": [
+      "题材，主题"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-009",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "题材，主题",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "escribir",
+    "trans": [
+      "写"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-010",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "写",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "papel",
+    "trans": [
+      "纸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-011",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "纸",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "título",
+    "trans": [
+      "题目"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-012",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "题目",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "necesitar",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-013",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "需要",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lista",
+    "trans": [
+      "单子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-014",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "单子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "estudio",
+    "trans": [
+      "书房"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-015",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "书房",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "¡Oh!",
+    "trans": [
+      "噢！"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-016",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "噢！",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "¡Qué maravilla!",
+    "trans": [
+      "太棒了！"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-017",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "太棒了！",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cuántos, tas",
+    "trans": [
+      "这么，如此"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-018",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "这么，如此",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lleno, na",
+    "trans": [
+      "装满的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-019",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "装满的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "surtido, da",
+    "trans": [
+      "丰富的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-020",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "丰富的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "porque",
+    "trans": [
+      "因为，原因是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-021",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "因为，原因是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hábito",
+    "trans": [
+      "习惯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-022",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "习惯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sobre todo",
+    "trans": [
+      "特别，尤其"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-023",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "特别，尤其",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "obra",
+    "trans": [
+      "著作，作品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-024",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "著作，作品",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "literario, ria",
+    "trans": [
+      "文学的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-025",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "文学的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "librería",
+    "trans": [
+      "书店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-026",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "书店",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vez",
+    "trans": [
+      "次数"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-027",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "次数",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Internet",
+    "trans": [
+      "因特网"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-028",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "因特网",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sistema",
+    "trans": [
+      "制度，方法"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-029",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "制度，方法",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "así",
+    "trans": [
+      "这样"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-030",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "这样",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ganar",
+    "trans": [
+      "赢得"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-031",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "赢得",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ventaja",
+    "trans": [
+      "优势，好处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-032",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "优势，好处",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "perdón",
+    "trans": [
+      "对不起，抱歉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-033",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "对不起，抱歉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "traer",
+    "trans": [
+      "带来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-034",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "带来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "encargar",
+    "trans": [
+      "订购；委托"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-035",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "订购；委托",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "medio",
+    "trans": [
+      "方法，手段"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-036",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "方法，手段",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "esperar",
+    "trans": [
+      "等待；希望"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-037",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "等待；希望",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "rato",
+    "trans": [
+      "一会儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-038",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "一会儿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pagar",
+    "trans": [
+      "付款"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-039",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "付款",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "servicio",
+    "trans": [
+      "服务"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-040",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "服务",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hoy en día",
+    "trans": [
+      "如今"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-041",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "如今",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "común",
+    "trans": [
+      "普通的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-042",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "普通的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hacer compras",
+    "trans": [
+      "购物，买东西"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-043",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "购物，买东西",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "en especial",
+    "trans": [
+      "特别，尤其"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-044",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "特别，尤其",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sin embargo",
+    "trans": [
+      "然而，不过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-045",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "然而，不过",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "persona",
+    "trans": [
+      "人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-046",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "resistirse",
+    "trans": [
+      "抗拒，抵触"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-047",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "抗拒，抵触",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "usar",
+    "trans": [
+      "使用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-048",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "使用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "estafar",
+    "trans": [
+      "欺诈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-049",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "欺诈",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ofrecer",
+    "trans": [
+      "提供"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-050",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "提供",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "servir",
+    "trans": [
+      "服务；用于……"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-051",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "服务；用于……",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "acaso",
+    "trans": [
+      "难道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-052",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "难道",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "al mismo tiempo",
+    "trans": [
+      "同时"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-053",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "同时",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "adquirir",
+    "trans": [
+      "获得，购得"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-054",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "获得，购得",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "teclear",
+    "trans": [
+      "敲击（键盘）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-055",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "敲击（键盘）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ordenador (Esp.)",
+    "trans": [
+      "电脑（西班牙）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-056",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "电脑（西班牙）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "computadora (Amer.)",
+    "trans": [
+      "电脑（拉美）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-057",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "电脑（拉美）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "soler",
+    "trans": [
+      "习惯做……"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-058",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "习惯做……",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bibliotecario, ria",
+    "trans": [
+      "图书管理员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-059",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "图书管理员",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "desventaja",
+    "trans": [
+      "劣势，坏处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-060",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "劣势，坏处",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "devolver",
+    "trans": [
+      "归还"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-061",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "归还",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "perder",
+    "trans": [
+      "丢失"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U07-062",
+    "sourceSheet": "B1U7",
+    "sourceMeaning": "丢失",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

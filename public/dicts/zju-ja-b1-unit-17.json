@@ -1,0 +1,547 @@
+[
+  {
+    "name": "ようふく（洋服）",
+    "trans": [
+      "名 西服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-001",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "西服",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ようふく",
+      "洋服"
+    ],
+    "speech": "ようふく"
+  },
+  {
+    "name": "セーター",
+    "trans": [
+      "名 毛衣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-002",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "毛衣",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ノートパソコン",
+    "trans": [
+      "名 笔记本电脑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-003",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "笔记本电脑",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "バイク",
+    "trans": [
+      "名 摩托车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-004",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "摩托车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おしるこ（お汁粉）",
+    "trans": [
+      "名 年糕小豆汤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-005",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "年糕小豆汤",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おしるこ",
+      "お汁粉"
+    ],
+    "speech": "おしるこ"
+  },
+  {
+    "name": "てんぷら（天ぷら）",
+    "trans": [
+      "名 天麸罗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-006",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "天麸罗",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てんぷら",
+      "天ぷら"
+    ],
+    "speech": "てんぷら"
+  },
+  {
+    "name": "はつもうで（初詣）",
+    "trans": [
+      "名 新年后首次参拜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-007",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "新年后首次参拜",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はつもうで",
+      "初詣"
+    ],
+    "speech": "はつもうで"
+  },
+  {
+    "name": "けんこう（健康）",
+    "trans": [
+      "名 健康"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-008",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "健康",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けんこう",
+      "健康"
+    ],
+    "speech": "けんこう"
+  },
+  {
+    "name": "れんあい（恋愛）",
+    "trans": [
+      "名 恋爱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-009",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "恋爱",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "れんあい",
+      "恋愛"
+    ],
+    "speech": "れんあい"
+  },
+  {
+    "name": "ドラマ",
+    "trans": [
+      "名 连续剧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-010",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "连续剧",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あいて（相手）",
+    "trans": [
+      "名 对象，对方"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-011",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "对象，对方",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あいて",
+      "相手"
+    ],
+    "speech": "あいて"
+  },
+  {
+    "name": "こいびと（恋人）",
+    "trans": [
+      "名 恋人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-012",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "恋人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こいびと",
+      "恋人"
+    ],
+    "speech": "こいびと"
+  },
+  {
+    "name": "せんぱい（先輩）",
+    "trans": [
+      "名 前辈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-013",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "前辈",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せんぱい",
+      "先輩"
+    ],
+    "speech": "せんぱい"
+  },
+  {
+    "name": "だんせい（男性）",
+    "trans": [
+      "名 男性"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-014",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "男性",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "だんせい",
+      "男性"
+    ],
+    "speech": "だんせい"
+  },
+  {
+    "name": "がいこくじん（外国人）",
+    "trans": [
+      "名 外国人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-015",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "外国人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "がいこくじん",
+      "外国人"
+    ],
+    "speech": "がいこくじん"
+  },
+  {
+    "name": "なつ（夏）",
+    "trans": [
+      "名 夏天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-016",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "夏天",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "なつ",
+      "夏"
+    ],
+    "speech": "なつ"
+  },
+  {
+    "name": "はじめます（始めます）",
+    "trans": [
+      "动2 开始"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-017",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "开始",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はじめます",
+      "始めます"
+    ],
+    "speech": "はじめます"
+  },
+  {
+    "name": "れんらくします（連絡します）",
+    "trans": [
+      "动3 联系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-018",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "联系",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "れんらくします",
+      "連絡します"
+    ],
+    "speech": "れんらくします"
+  },
+  {
+    "name": "ほしい（欲しい）",
+    "trans": [
+      "形1 想要"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-019",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "想要",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほしい",
+      "欲しい"
+    ],
+    "speech": "ほしい"
+  },
+  {
+    "name": "りっぱ（立派）",
+    "trans": [
+      "形1 美观，杰出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-020",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "美观，杰出",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りっぱ",
+      "立派"
+    ],
+    "speech": "りっぱ"
+  },
+  {
+    "name": "こんど（今度）",
+    "trans": [
+      "副 下次；这回"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-021",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "下次；这回",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こんど",
+      "今度"
+    ],
+    "speech": "こんど"
+  },
+  {
+    "name": "ぜひ",
+    "trans": [
+      "副 一定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-022",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "一定",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "そろそろ",
+    "trans": [
+      "副 快要"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-023",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "快要",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "まず",
+    "trans": [
+      "副 先，首先"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-024",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "先，首先",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ベートーベン",
+    "trans": [
+      "专 贝多芬"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-025",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "贝多芬",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ショパン",
+    "trans": [
+      "专 肖邦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-026",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "肖邦",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "こきゅう（故宮）",
+    "trans": [
+      "专 故宫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-027",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "故宫",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こきゅう",
+      "故宮"
+    ],
+    "speech": "こきゅう"
+  },
+  {
+    "name": "ヨーロッパ",
+    "trans": [
+      "专 欧洲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-028",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "欧洲",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ホンコン（香港）",
+    "trans": [
+      "专 香港"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-029",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "香港",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ホンコン",
+      "香港"
+    ],
+    "speech": "ホンコン"
+  },
+  {
+    "name": "スイス",
+    "trans": [
+      "专 瑞士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U17-030",
+    "sourceSheet": "B1U17",
+    "sourceMeaning": "瑞士",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  }
+]

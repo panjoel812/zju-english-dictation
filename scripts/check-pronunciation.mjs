@@ -33,7 +33,10 @@ async function check(name, test, { mobile = false, delayed = false, storage = {}
     }
     await page.route('**/dicts/zju-english-3-unit-1-reading-1.json', (route) => route.fulfill({ json: words }))
     await page.addInitScript((settings) => {
-      localStorage.setItem('lastSeenRelease', JSON.stringify('0.3.2'))
+      localStorage.setItem('zju-practice-guide-seen-v1', 'true')
+      localStorage.setItem('lastSeenRelease', JSON.stringify('0.4.0'))
+      document.cookie = 'zju-translation-visible=false; Path=/; SameSite=Lax'
+      localStorage.setItem('hideWordLength', 'false')
       localStorage.setItem('phoneticConfig', JSON.stringify({ isOpen: false }))
       for (const [key, value] of Object.entries(settings)) localStorage.setItem(key, JSON.stringify(value))
       window.pronunciationEvents = []
@@ -216,11 +219,15 @@ try {
   )
 
   await check(
-    'enabling pronunciation during practice plays the current word',
+    'enabling pronunciation in settings then resuming plays the current word',
     async (page) => {
       await page.getByRole('button', { name: '开始', exact: true }).click()
-      await page.getByRole('button', { name: '关闭', exact: true }).click()
-      await page.getByRole('switch').nth(1).check()
+      await page.getByRole('button', { name: '打开设置对话框', exact: true }).click()
+      await page.getByRole('tab', { name: '发音音效', exact: true }).click()
+      await page.getByRole('switch', { name: '单词发音', exact: true }).check()
+      assert.deepEqual(await playedWords(page), [], 'Settings keeps practice paused')
+      await page.getByRole('button', { name: '关闭设置', exact: true }).click()
+      await page.getByRole('button', { name: '开始', exact: true }).click()
       await expect.poll(() => endedWords(page)).toEqual(['entrepreneur'])
       assert.deepEqual(await playedWords(page), ['entrepreneur'])
     },

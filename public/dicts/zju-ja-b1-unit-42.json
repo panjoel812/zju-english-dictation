@@ -1,0 +1,700 @@
+[
+  {
+    "name": "せきにんしゃ（責任者）",
+    "trans": [
+      "名 负责人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-001",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "负责人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せきにんしゃ",
+      "責任者"
+    ],
+    "speech": "せきにんしゃ"
+  },
+  {
+    "name": "どうりょう（同僚）",
+    "trans": [
+      "名 同事"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-002",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "同事",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "どうりょう",
+      "同僚"
+    ],
+    "speech": "どうりょう"
+  },
+  {
+    "name": "かんきゃく（観客）",
+    "trans": [
+      "名 观众"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-003",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "观众",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんきゃく",
+      "観客"
+    ],
+    "speech": "かんきゃく"
+  },
+  {
+    "name": "くうふく（空腹）",
+    "trans": [
+      "名 空肚子，空腹，饿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-004",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "空肚子，空腹，饿",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "くうふく",
+      "空腹"
+    ],
+    "speech": "くうふく"
+  },
+  {
+    "name": "かんき（換気）",
+    "trans": [
+      "名 换气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-005",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "换气",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんき",
+      "換気"
+    ],
+    "speech": "かんき"
+  },
+  {
+    "name": "るす（留守）",
+    "trans": [
+      "名 不在家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-006",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "不在家",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "るす",
+      "留守"
+    ],
+    "speech": "るす"
+  },
+  {
+    "name": "こうどう（講堂）",
+    "trans": [
+      "名 讲堂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-007",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "讲堂",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうどう",
+      "講堂"
+    ],
+    "speech": "こうどう"
+  },
+  {
+    "name": "ひるま（昼間）",
+    "trans": [
+      "名 白天，白日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-008",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "白天，白日",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひるま",
+      "昼間"
+    ],
+    "speech": "ひるま"
+  },
+  {
+    "name": "にってい（日程）",
+    "trans": [
+      "名 日程"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-009",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "日程",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にってい",
+      "日程"
+    ],
+    "speech": "にってい"
+  },
+  {
+    "name": "じかい（次回）",
+    "trans": [
+      "名 下次，下回"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-010",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "下次，下回",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じかい",
+      "次回"
+    ],
+    "speech": "じかい"
+  },
+  {
+    "name": "めざまし（目覚まし）",
+    "trans": [
+      "名 闹钟；叫醒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-011",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "闹钟；叫醒",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "めざまし",
+      "目覚まし"
+    ],
+    "speech": "めざまし"
+  },
+  {
+    "name": "アラーム",
+    "trans": [
+      "名 闹钟，闹铃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-012",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "闹钟，闹铃",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "きかくあん（企画案）",
+    "trans": [
+      "名 策划方案"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-013",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "策划方案",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きかくあん",
+      "企画案"
+    ],
+    "speech": "きかくあん"
+  },
+  {
+    "name": "おへんじ（お返事）",
+    "trans": [
+      "名 回信"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-014",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "回信",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おへんじ",
+      "お返事"
+    ],
+    "speech": "おへんじ"
+  },
+  {
+    "name": "いきさき（行き先）",
+    "trans": [
+      "名 去的地方，目的地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-015",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "去的地方，目的地",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いきさき",
+      "行き先"
+    ],
+    "speech": "いきさき"
+  },
+  {
+    "name": "あずかります（預かります）",
+    "trans": [
+      "动1 保管，收存"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-016",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "保管，收存",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あずかります",
+      "預かります"
+    ],
+    "speech": "あずかります"
+  },
+  {
+    "name": "きづきます（気づきます）",
+    "trans": [
+      "动1 发觉，发现"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-017",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "发觉，发现",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きづきます",
+      "気づきます"
+    ],
+    "speech": "きづきます"
+  },
+  {
+    "name": "ひやします（冷やします）",
+    "trans": [
+      "动1 冰镇，冷却"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-018",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "冰镇，冷却",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひやします",
+      "冷やします"
+    ],
+    "speech": "ひやします"
+  },
+  {
+    "name": "おもいだします（思い出します）",
+    "trans": [
+      "动1 想起，想出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-019",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "想起，想出",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おもいだします",
+      "思い出します"
+    ],
+    "speech": "おもいだします"
+  },
+  {
+    "name": "つげます（告げます）",
+    "trans": [
+      "动2 说，告诉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-020",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "说，告诉",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つげます",
+      "告げます"
+    ],
+    "speech": "つげます"
+  },
+  {
+    "name": "ひえます（冷えます）",
+    "trans": [
+      "动2 变冷；感觉凉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-021",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "变冷；感觉凉",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひえます",
+      "冷えます"
+    ],
+    "speech": "ひえます"
+  },
+  {
+    "name": "しんじます（信じます）",
+    "trans": [
+      "动2 相信，信任"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-022",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "相信，信任",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しんじます",
+      "信じます"
+    ],
+    "speech": "しんじます"
+  },
+  {
+    "name": "おれます（折れます）",
+    "trans": [
+      "动2 折，断；拐弯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-023",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "折，断；拐弯",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おれます",
+      "折れます"
+    ],
+    "speech": "おれます"
+  },
+  {
+    "name": "しゅっきんします（出勤します）",
+    "trans": [
+      "动3 上班，出勤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-024",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "上班，出勤",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅっきんします",
+      "出勤します"
+    ],
+    "speech": "しゅっきんします"
+  },
+  {
+    "name": "セットします",
+    "trans": [
+      "动3 设定，设置"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-025",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "设定，设置",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "けんとうします（検討します）",
+    "trans": [
+      "动3 讨论"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-026",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "讨论",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けんとうします",
+      "検討します"
+    ],
+    "speech": "けんとうします"
+  },
+  {
+    "name": "ただしい（正しい）",
+    "trans": [
+      "形1 正确的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-027",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "正确的",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ただしい",
+      "正しい"
+    ],
+    "speech": "ただしい"
+  },
+  {
+    "name": "とうぜん（当然）",
+    "trans": [
+      "形2 当然，应当"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-028",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "当然，应当",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とうぜん",
+      "当然"
+    ],
+    "speech": "とうぜん"
+  },
+  {
+    "name": "たしか（確か）",
+    "trans": [
+      "形2 确实，确切；大概"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-029",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "确实，确切；大概",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たしか",
+      "確か"
+    ],
+    "speech": "たしか"
+  },
+  {
+    "name": "じょうぶ（丈夫）",
+    "trans": [
+      "形2 牢固，结实"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-030",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "牢固，结实",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じょうぶ",
+      "丈夫"
+    ],
+    "speech": "じょうぶ"
+  },
+  {
+    "name": "さっそく（早速）",
+    "trans": [
+      "副 马上，立即"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-031",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "马上，立即",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さっそく",
+      "早速"
+    ],
+    "speech": "さっそく"
+  },
+  {
+    "name": "ちょくせつ（直接）",
+    "trans": [
+      "副 直接"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-032",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "直接",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちょくせつ",
+      "直接"
+    ],
+    "speech": "ちょくせつ"
+  },
+  {
+    "name": "きっと",
+    "trans": [
+      "副 一定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-033",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "一定",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "だって",
+    "trans": [
+      "连 可是，但是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-034",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "可是，但是",
+    "sourceTags": [
+      "连"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "にしちょうあんがい（西長安街）",
+    "trans": [
+      "专 西长安街"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-035",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "西长安街",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にしちょうあんがい",
+      "西長安街"
+    ],
+    "speech": "にしちょうあんがい"
+  },
+  {
+    "name": "るすにします（留守にします）",
+    "trans": [
+      "不在家，无人在家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U42-036",
+    "sourceSheet": "B1U42",
+    "sourceMeaning": "不在家，无人在家",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "るすにします",
+      "留守にします"
+    ],
+    "speech": "るすにします"
+  }
+]

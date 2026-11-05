@@ -1,0 +1,925 @@
+[
+  {
+    "name": "pragmatisch",
+    "trans": [
+      "Adj. 务实的，重实效的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-001",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 务实的，重实效的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Druck",
+    "trans": [
+      "压力，负担；压"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-002",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "压力，负担；压",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sozialwissenschaften",
+    "trans": [
+      "社会科学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-003",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "社会科学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Forscher",
+    "trans": [
+      "研究者，学者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-004",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "研究者，学者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "leiten",
+    "trans": [
+      "领导，主持；传导；引入"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-005",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "领导，主持；传导；引入",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Studie",
+    "trans": [
+      "（科学）研究，论文"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-006",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "（科学）研究，论文",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überlegen",
+    "trans": [
+      "考虑，思考"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-007",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "考虑，思考",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Perspektive",
+    "trans": [
+      "前景，前途；观点，看法"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-008",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "前景，前途；观点，看法",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "reizvoll",
+    "trans": [
+      "Adj. 吸引人的，诱人的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-009",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 吸引人的，诱人的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verantwortung",
+    "trans": [
+      "责任，责任心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-010",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "责任，责任心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "scheitern",
+    "trans": [
+      "失败，落空"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-011",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "失败，落空",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beziehungsweise",
+    "trans": [
+      "Konj. 或者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-012",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Konj. 或者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Beschäftigung",
+    "trans": [
+      "工作，职业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-013",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "工作，职业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pessimistisch",
+    "trans": [
+      "Adj. 悲观的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-014",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 悲观的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verschlechtern",
+    "trans": [
+      "变坏，恶化"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-015",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "变坏，恶化",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ökonomisch",
+    "trans": [
+      "Adj. 经济的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-016",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 经济的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ahnen",
+    "trans": [
+      "预感，预料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-017",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "预感，预料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bedingung",
+    "trans": [
+      "条件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-018",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "条件",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schlüsselfaktor",
+    "trans": [
+      "关键因素"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-019",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "关键因素",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "blicken",
+    "trans": [
+      "看，望"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-020",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "看，望",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "eher",
+    "trans": [
+      "Adv. 宁愿，宁可"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-021",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adv. 宁愿，宁可",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "optimistisch",
+    "trans": [
+      "Adj. 乐观的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-022",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 乐观的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zukunft",
+    "trans": [
+      "未来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-023",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "未来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Konsequenz",
+    "trans": [
+      "结果，后果"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-024",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "结果，后果",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Haltung",
+    "trans": [
+      "态度，立场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-025",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "态度，立场",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ehrgeiz",
+    "trans": [
+      "抱负，雄心；野心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-026",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "抱负，雄心；野心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "konkret",
+    "trans": [
+      "Adj. 具体的，明确的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-027",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 具体的，明确的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "persönlich",
+    "trans": [
+      "Adj. 本人的，私人的，亲自的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-028",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 本人的，私人的，亲自的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "investieren",
+    "trans": [
+      "投入（时间，精力等）；投资"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-029",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "投入（时间，精力等）；投资",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überwiegend",
+    "trans": [
+      "Adj. 主要的，大多数的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-030",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 主要的，大多数的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schulabschluss",
+    "trans": [
+      "中学学历"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-031",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "中学学历",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ventil",
+    "trans": [
+      "阀门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-032",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "阀门",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Herausforderung",
+    "trans": [
+      "挑战"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-033",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "挑战",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bewältigen",
+    "trans": [
+      "克服；完成，解决"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-034",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "克服；完成，解决",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "psychisch",
+    "trans": [
+      "Adj. 心理上的，精神的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-035",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 心理上的，精神的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "greifen",
+    "trans": [
+      "使用，动用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-036",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "使用，动用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Droge",
+    "trans": [
+      "毒品；药物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-037",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "毒品；药物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gewalttätig",
+    "trans": [
+      "Adj. 粗暴的，残暴的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-038",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 粗暴的，残暴的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "angesichts",
+    "trans": [
+      "Präp. 由于，鉴于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-039",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Präp. 由于，鉴于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "drohen",
+    "trans": [
+      "面临......；威胁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-040",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "面临......；威胁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Überalterung",
+    "trans": [
+      "人口老化"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-041",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "人口老化",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entdecken",
+    "trans": [
+      "发现，发觉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-042",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "发现，发觉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gegenteil",
+    "trans": [
+      "相反，反面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-043",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "相反，反面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zwang",
+    "trans": [
+      "束缚，约束；强迫，迫使"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-044",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "束缚，约束；强迫，迫使",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abhalten",
+    "trans": [
+      "妨碍，挡住"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-045",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "妨碍，挡住",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überholen",
+    "trans": [
+      "赶过，超过，胜过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-046",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "赶过，超过，胜过",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bewusst",
+    "trans": [
+      "Adj. 清楚的，意识到的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-047",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 清楚的，意识到的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vereinbaren",
+    "trans": [
+      "使协调一致；约定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-048",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "使协调一致；约定",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bereit",
+    "trans": [
+      "Adj. 愿意的，乐意的；准备好的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-049",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 愿意的，乐意的；准备好的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Förderung",
+    "trans": [
+      "支持，促进，推动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-050",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "支持，促进，推动",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "flexibel",
+    "trans": [
+      "Adj. 灵活的，可变通的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-051",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 灵活的，可变通的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vermitteln",
+    "trans": [
+      "使获得，介绍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-052",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "使获得，介绍",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zuhören",
+    "trans": [
+      "仔细听，倾听"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-053",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "仔细听，倾听",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verbieten",
+    "trans": [
+      "禁止，不准"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-054",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "禁止，不准",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bestrafen",
+    "trans": [
+      "惩罚，处罚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-055",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "惩罚，处罚",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schreien",
+    "trans": [
+      "叫，喊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-056",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "叫，喊",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ideal",
+    "trans": [
+      "理想"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-057",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "理想",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nachdenken",
+    "trans": [
+      "思考，考虑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-058",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "思考，考虑",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vielseitig",
+    "trans": [
+      "Adj. 多方面的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-059",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 多方面的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kommunikationsmittel",
+    "trans": [
+      "通讯手段，交际工具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-060",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "通讯手段，交际工具",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ständig",
+    "trans": [
+      "Adj. 不断的；经常"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-061",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 不断的；经常",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "betonen",
+    "trans": [
+      "使.......突出；强调"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-062",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "使.......突出；强调",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Leiter",
+    "trans": [
+      "梯子，阶梯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-063",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "梯子，阶梯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verpassen",
+    "trans": [
+      "错过，耽误"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-064",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "错过，耽误",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stand",
+    "trans": [
+      "状况；水平"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-065",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "状况；水平",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "flüchtig",
+    "trans": [
+      "Adj. 短促的，匆匆的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-066",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 短促的，匆匆的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Selbstdarstellung",
+    "trans": [
+      "自我表现，自我描述"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-067",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "自我表现，自我描述",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Identität",
+    "trans": [
+      "认同；一致"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-068",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "认同；一致",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "individuell",
+    "trans": [
+      "Adj. 个体的；与众不同的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-069",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "Adj. 个体的；与众不同的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Klingelton",
+    "trans": [
+      "铃声"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-070",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "铃声",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "präsentieren",
+    "trans": [
+      "展现，呈现"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E3-071",
+    "sourceSheet": "B3E3",
+    "sourceMeaning": "展现，呈现",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

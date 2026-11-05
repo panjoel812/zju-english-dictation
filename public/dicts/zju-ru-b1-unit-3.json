@@ -1,0 +1,288 @@
+[
+  {
+    "name": "папа",
+    "trans": [
+      "爸爸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-001",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "爸爸",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "сын",
+    "trans": [
+      "儿子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-002",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "儿子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "наш, наша",
+    "trans": [
+      "我们的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-003",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "我们的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "сам, сама",
+    "trans": [
+      "自己"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-004",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "自己",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "поэт",
+    "trans": [
+      "诗人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-005",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "诗人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "машина",
+    "trans": [
+      "机器; 轿车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-006",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "机器; 轿车",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "каток",
+    "trans": [
+      "滑冰场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-007",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "滑冰场",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "мост",
+    "trans": [
+      "桥"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-008",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "桥",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "сок",
+    "trans": [
+      "果汁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-009",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "果汁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "суп",
+    "trans": [
+      "汤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-010",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "汤",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "томат",
+    "trans": [
+      "西红柿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-011",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "西红柿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "стакан",
+    "trans": [
+      "杯子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-012",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "杯子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "сумка",
+    "trans": [
+      "包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-013",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "包",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "шапка",
+    "trans": [
+      "帽子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-014",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "帽子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "шкаф",
+    "trans": [
+      "柜子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-015",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "柜子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "фото",
+    "trans": [
+      "照片"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-016",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "照片",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "туман",
+    "trans": [
+      "雾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-017",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "雾",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "опасно",
+    "trans": [
+      "危险"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-018",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "危险",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "пока",
+    "trans": [
+      "暂时; 当……时"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-019",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "暂时; 当……时",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "потом",
+    "trans": [
+      "然后"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-020",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "然后",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "потому",
+    "trans": [
+      "因此, 所以"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-021",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "因此, 所以",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "сто",
+    "trans": [
+      "一百"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U03-022",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "一百",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

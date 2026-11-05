@@ -1,0 +1,951 @@
+[
+  {
+    "name": "Senior",
+    "trans": [
+      "老年人，退休老人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-001",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "老年人，退休老人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lebensabschnitt",
+    "trans": [
+      "生命的阶段"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-002",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "生命的阶段",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gestalten",
+    "trans": [
+      "安排，布置；塑造"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-003",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "安排，布置；塑造",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "teilnehmen",
+    "trans": [
+      "参加"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-004",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "参加",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "auffrischen",
+    "trans": [
+      "重温，复习"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-005",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "重温，复习",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einschreiben",
+    "trans": [
+      "注册，报名"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-006",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "注册，报名",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Apothekerin",
+    "trans": [
+      "女药剂师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-007",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "女药剂师",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tätig",
+    "trans": [
+      "Adj. 在......工作，任职"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-008",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adj. 在......工作，任职",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zulassen",
+    "trans": [
+      "允许；准许，录取"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-009",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "允许；准许，录取",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schein",
+    "trans": [
+      "证明；假币；假象"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-010",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "证明；假币；假象",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "voraussetzen",
+    "trans": [
+      "以......为先决条件，假设"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-011",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "以......为先决条件，假设",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ermöglichen",
+    "trans": [
+      "使......有可能"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-012",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "使......有可能",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Studienführer",
+    "trans": [
+      "大学学习指南"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-013",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "大学学习指南",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "belegen",
+    "trans": [
+      "选课；占据"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-014",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "选课；占据",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Theologie",
+    "trans": [
+      "神学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-015",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "神学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Biologie",
+    "trans": [
+      "生物学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-016",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "生物学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "detailliert",
+    "trans": [
+      "Adj. 详细的，详尽的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-017",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adj. 详细的，详尽的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vielmehr",
+    "trans": [
+      "Adv. 相反的，更"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-018",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adv. 相反的，更",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "misstrauisch",
+    "trans": [
+      "Adj. 猜疑的，不信任的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-019",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adj. 猜疑的，不信任的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gegenüberstehen",
+    "trans": [
+      "对......持......态度，面对"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-020",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "对......持......态度，面对",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ellenbogenmentalität",
+    "trans": [
+      "肆无忌惮的心态"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-021",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "肆无忌惮的心态",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bestätigen",
+    "trans": [
+      "证明，证实，确认"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-022",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "证明，证实，确认",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "prinzipiell",
+    "trans": [
+      "Adj. 原则上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-023",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adj. 原则上",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "reservieren",
+    "trans": [
+      "预订，保留"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-024",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "预订，保留",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "belegbar",
+    "trans": [
+      "Adj. 可选学的，可报名的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-025",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adj. 可选学的，可报名的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "begrenzen",
+    "trans": [
+      "限制；邻接"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-026",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "限制；邻接",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einnehmen",
+    "trans": [
+      "服用；占据"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-027",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "服用；占据",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anweisung",
+    "trans": [
+      "指示；指南，说明书"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-028",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "指示；指南，说明书",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Knie",
+    "trans": [
+      "膝盖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-029",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "膝盖",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zittern",
+    "trans": [
+      "发抖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-030",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "发抖",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vergießen",
+    "trans": [
+      "洒出，泼出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-031",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "洒出，泼出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ekeln",
+    "trans": [
+      "对......感到恶心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-032",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "对......感到恶心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hinübersehen",
+    "trans": [
+      "向......看去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-033",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "向......看去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Träne",
+    "trans": [
+      "眼泪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-034",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "眼泪",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "festhalten",
+    "trans": [
+      "紧抓住；坚持；保留下来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-035",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "紧抓住；坚持；保留下来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schimpfen",
+    "trans": [
+      "骂，责备，数落"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-036",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "骂，责备，数落",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Teller",
+    "trans": [
+      "盘子，碟子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-037",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "盘子，碟子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Boden",
+    "trans": [
+      "地面；土地；（容器的）底部"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-038",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "地面；土地；（容器的）底部",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Heim",
+    "trans": [
+      "家，住宅；......之家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-039",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "家，住宅；......之家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Regierung",
+    "trans": [
+      "政府"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-040",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "政府",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verfügung",
+    "trans": [
+      "使用，利用，支配"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-041",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "使用，利用，支配",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufführen",
+    "trans": [
+      "列出，举出；演出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-042",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "列出，举出；演出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "landsweit",
+    "trans": [
+      "Adj. 全国范围的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-043",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adj. 全国范围的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einrichtung",
+    "trans": [
+      "设置，装置，设施"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-044",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "设置，装置，设施",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wohlfahrtsanstalt",
+    "trans": [
+      "福利院"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-045",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "福利院",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Apartment",
+    "trans": [
+      "套房，公寓住房"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-046",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "套房，公寓住房",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "staatlich",
+    "trans": [
+      "Adj. 国家的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-047",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adj. 国家的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "betreiben",
+    "trans": [
+      "经办，经营；从事进行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-048",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "经办，经营；从事进行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "meist",
+    "trans": [
+      "Adj. 大多数的，大部分的；通常，一般"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-049",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adj. 大多数的，大部分的；通常，一般",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Alternative",
+    "trans": [
+      "其他可能性，不同方案；二者择一"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-050",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "其他可能性，不同方案；二者择一",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mangel",
+    "trans": [
+      "缺少，缺乏某物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-051",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "缺少，缺乏某物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Personal",
+    "trans": [
+      "人员，职工"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-052",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "人员，职工",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zurzeit",
+    "trans": [
+      "Adv. 目前，现在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-053",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adv. 目前，现在",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Leiterin",
+    "trans": [
+      "女领导人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-054",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "女领导人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Komitee",
+    "trans": [
+      "委员会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-055",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "委员会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dienstleistung",
+    "trans": [
+      "服务性行业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-056",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "服务性行业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Modell",
+    "trans": [
+      "模式；模型；模特儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-057",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "模式；模型；模特儿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unterstützen",
+    "trans": [
+      "支持"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-058",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "支持",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "freiwillig",
+    "trans": [
+      "Adj. 志愿的，自动的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-059",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adj. 志愿的，自动的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einbeziehen",
+    "trans": [
+      "考虑进去，吸收参加"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-060",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "考虑进去，吸收参加",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "allein",
+    "trans": [
+      "Adj. 单独，独自；仅仅，只"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-061",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adj. 单独，独自；仅仅，只",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Argument",
+    "trans": [
+      "论据"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-062",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "论据",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gebäude",
+    "trans": [
+      "楼房，大厦，建筑物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-063",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "楼房，大厦，建筑物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stammtisch",
+    "trans": [
+      "常客的固定桌位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-064",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "常客的固定桌位",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mitarbeiter",
+    "trans": [
+      "同事，合作者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-065",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "同事，合作者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bescheid",
+    "trans": [
+      "通知、告知、答复"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-066",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "通知、告知、答复",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sorgfältig",
+    "trans": [
+      "Adj. 细心的、谨慎的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-067",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adj. 细心的、谨慎的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Freiheit",
+    "trans": [
+      "自由；自由的权利（复数）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-068",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "自由；自由的权利（复数）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gegenwärtig",
+    "trans": [
+      "Adj. 现在的、目前的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-069",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adj. 现在的、目前的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Projekt",
+    "trans": [
+      "项目、方案；草案"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-070",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "项目、方案；草案",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ungenügend",
+    "trans": [
+      "Adj. 不够"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-071",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adj. 不够",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausgehen",
+    "trans": [
+      "从......出发、起因于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-072",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "从......出发、起因于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "medizinisch",
+    "trans": [
+      "Adj. 医药的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E9-073",
+    "sourceSheet": "B3E9",
+    "sourceMeaning": "Adj. 医药的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

@@ -1,0 +1,951 @@
+[
+  {
+    "name": "invitar",
+    "trans": [
+      "邀请"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-001",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "邀请",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cenar",
+    "trans": [
+      "吃晚饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-002",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "吃晚饭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "adónde",
+    "trans": [
+      "（到，去）哪里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-003",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "（到，去）哪里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tanto, ta",
+    "trans": [
+      "如此的，那么的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-004",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "如此的，那么的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "prisa",
+    "trans": [
+      "急忙，匆忙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-005",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "急忙，匆忙",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "comprar",
+    "trans": [
+      "购买"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-006",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "购买",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "temer",
+    "trans": [
+      "担心，害怕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-007",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "担心，害怕",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "llegar",
+    "trans": [
+      "到达"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-008",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "到达",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tienda",
+    "trans": [
+      "商店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-009",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "商店",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cerrar",
+    "trans": [
+      "关闭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-010",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "关闭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "poder",
+    "trans": [
+      "能够"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-011",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "能够",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mañana",
+    "trans": [
+      "明天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-012",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "明天",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hoy",
+    "trans": [
+      "今天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-013",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "今天",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cumpleaños",
+    "trans": [
+      "生日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-014",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "生日",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "querer",
+    "trans": [
+      "喜欢，喜爱，爱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-015",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "喜欢，喜爱，爱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "felicitación",
+    "trans": [
+      "祝贺"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-016",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "祝贺",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "alegrar (se)",
+    "trans": [
+      "使高兴，高兴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-017",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "使高兴，高兴",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "celebrar",
+    "trans": [
+      "举办，庆祝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-018",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "举办，庆祝",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dieciocho",
+    "trans": [
+      "十八"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-019",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "十八",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "diecinueve",
+    "trans": [
+      "十九"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-020",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "十九",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "como",
+    "trans": [
+      "正如，正像；由于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-021",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "正如，正像；由于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "un poco",
+    "trans": [
+      "一点儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-022",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "一点儿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "casi",
+    "trans": [
+      "几乎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-023",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "几乎",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "edad",
+    "trans": [
+      "年龄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-024",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "年龄",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "restaurante",
+    "trans": [
+      "饭馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-025",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "饭馆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entrar",
+    "trans": [
+      "进入"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-026",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "进入",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "allá",
+    "trans": [
+      "那边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-027",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "那边",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mesa",
+    "trans": [
+      "桌子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-028",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "桌子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "libre",
+    "trans": [
+      "空闲的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-029",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "空闲的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sentarse",
+    "trans": [
+      "坐下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-030",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "坐下",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "parecer",
+    "trans": [
+      "觉得，认为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-031",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "觉得，认为",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "eh",
+    "trans": [
+      "喂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-032",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "喂",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "camarero, ra",
+    "trans": [
+      "餐厅服务员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-033",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "餐厅服务员",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "carta",
+    "trans": [
+      "菜单"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-034",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "菜单",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "por favor",
+    "trans": [
+      "请，劳驾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-035",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "请，劳驾",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "recomendar",
+    "trans": [
+      "推荐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-036",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "推荐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sopa de marisco",
+    "trans": [
+      "海鲜汤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-037",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "海鲜汤",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pedir",
+    "trans": [
+      "要，要求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-038",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "要，要求",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "de segundo",
+    "trans": [
+      "第二道（菜）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-039",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "第二道（菜）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "carne",
+    "trans": [
+      "肉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-040",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "肉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pescado",
+    "trans": [
+      "鱼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-041",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "鱼",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ensalada",
+    "trans": [
+      "沙拉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-042",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "沙拉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verdura",
+    "trans": [
+      "蔬菜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-043",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "蔬菜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "idea",
+    "trans": [
+      "主意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-044",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "主意",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beber",
+    "trans": [
+      "喝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-045",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "喝",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vino",
+    "trans": [
+      "葡萄酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-046",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "葡萄酒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "botella",
+    "trans": [
+      "瓶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-047",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "瓶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cómo no",
+    "trans": [
+      "当然可以"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-048",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "当然可以",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tinto, ta",
+    "trans": [
+      "深红色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-049",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "深红色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "agua mineral",
+    "trans": [
+      "矿泉水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-050",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "矿泉水",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "postre",
+    "trans": [
+      "甜点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-051",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "甜点",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "o",
+    "trans": [
+      "或者，还是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-052",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "或者，还是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "invitación",
+    "trans": [
+      "邀请"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-053",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "邀请",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "de nada",
+    "trans": [
+      "不客气，不用谢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-054",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "不客气，不用谢",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "placer",
+    "trans": [
+      "荣幸，高兴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-055",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "荣幸，高兴",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cumplir",
+    "trans": [
+      "满（…… 岁）；履行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-056",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "满（…… 岁）；履行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "compañero, ra",
+    "trans": [
+      "同学，同伴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-057",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "同学，同伴",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "empezar",
+    "trans": [
+      "开始"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-058",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "开始",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ayudar",
+    "trans": [
+      "帮助"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-059",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "帮助",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cuarto",
+    "trans": [
+      "一刻钟，十五分钟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-060",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "一刻钟，十五分钟",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "primero, ra",
+    "trans": [
+      "第一批的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-061",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "第一批的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "invitado, da",
+    "trans": [
+      "客人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-062",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "客人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "recibir",
+    "trans": [
+      "迎接，接待"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-063",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "迎接，接待",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "felicitar",
+    "trans": [
+      "祝贺"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-064",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "祝贺",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "feliz",
+    "trans": [
+      "幸福"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-065",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "幸福",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pronto",
+    "trans": [
+      "过早，很快"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-066",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "过早，很快",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ponerse a + inf.",
+    "trans": [
+      "开始做……"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-067",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "开始做……",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "charlar",
+    "trans": [
+      "交谈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-068",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "交谈",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "plato",
+    "trans": [
+      "菜，盘子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-069",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "菜，盘子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sabroso, sa",
+    "trans": [
+      "好吃的，有滋味的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-070",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "好吃的，有滋味的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "todo el mundo",
+    "trans": [
+      "所有人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-071",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "所有人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "copa",
+    "trans": [
+      "酒杯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-072",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "酒杯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "brindar",
+    "trans": [
+      "祝酒，敬酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U05-073",
+    "sourceSheet": "B1U5",
+    "sourceMeaning": "祝酒，敬酒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

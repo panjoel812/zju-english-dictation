@@ -1,0 +1,650 @@
+[
+  {
+    "name": "すうがく（数学）",
+    "trans": [
+      "名 数学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-001",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "数学",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すうがく",
+      "数学"
+    ],
+    "speech": "すうがく"
+  },
+  {
+    "name": "せんもん（専門）",
+    "trans": [
+      "名 专门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-002",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "专门",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せんもん",
+      "専門"
+    ],
+    "speech": "せんもん"
+  },
+  {
+    "name": "じょゆう（女優）",
+    "trans": [
+      "名 女演员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-003",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "女演员",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じょゆう",
+      "女優"
+    ],
+    "speech": "じょゆう"
+  },
+  {
+    "name": "えいぎょうか（営業課）",
+    "trans": [
+      "名 营业科"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-004",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "营业科",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "えいぎょうか",
+      "営業課"
+    ],
+    "speech": "えいぎょうか"
+  },
+  {
+    "name": "しがい（市街）",
+    "trans": [
+      "名 市内，市街，繁华街道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-005",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "市内，市街，繁华街道",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しがい",
+      "市街"
+    ],
+    "speech": "しがい"
+  },
+  {
+    "name": "どうろ（道路）",
+    "trans": [
+      "名 道路，马路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-006",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "道路，马路",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "どうろ",
+      "道路"
+    ],
+    "speech": "どうろ"
+  },
+  {
+    "name": "こうつうりょう（交通量）",
+    "trans": [
+      "名 交通流量，通行量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-007",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "交通流量，通行量",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうつうりょう",
+      "交通量"
+    ],
+    "speech": "こうつうりょう"
+  },
+  {
+    "name": "くうこう（空港）",
+    "trans": [
+      "名 机场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-008",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "机场",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "くうこう",
+      "空港"
+    ],
+    "speech": "くうこう"
+  },
+  {
+    "name": "こうそくどうろ（高速道路）",
+    "trans": [
+      "名 高速公路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-009",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "高速公路",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうそくどうろ",
+      "高速道路"
+    ],
+    "speech": "こうそくどうろ"
+  },
+  {
+    "name": "ぶひんこうじょう（部品工場）",
+    "trans": [
+      "名 零件制造厂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-010",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "零件制造厂",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぶひんこうじょう",
+      "部品工場"
+    ],
+    "speech": "ぶひんこうじょう"
+  },
+  {
+    "name": "エレベーター",
+    "trans": [
+      "名 电梯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-011",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "电梯",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "えほん（絵本）",
+    "trans": [
+      "名 图画书，连环画"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-012",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "图画书，连环画",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "えほん",
+      "絵本"
+    ],
+    "speech": "えほん"
+  },
+  {
+    "name": "しぜん（自然）",
+    "trans": [
+      "名 大自然"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-013",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "大自然",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しぜん",
+      "自然"
+    ],
+    "speech": "しぜん"
+  },
+  {
+    "name": "きゅうりょう（給料）",
+    "trans": [
+      "名 工资"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-014",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "工资",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きゅうりょう",
+      "給料"
+    ],
+    "speech": "きゅうりょう"
+  },
+  {
+    "name": "こんや（今夜）",
+    "trans": [
+      "名 今天晚上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-015",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "今天晚上",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こんや",
+      "今夜"
+    ],
+    "speech": "こんや"
+  },
+  {
+    "name": "けが",
+    "trans": [
+      "名 伤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-016",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "伤",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "とまります(泊まります)",
+    "trans": [
+      "动1 住，过夜，住宿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-017",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "住，过夜，住宿",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "むすびます(結びます)",
+    "trans": [
+      "动1 连接，系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-018",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "连接，系",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "とります（取ります）",
+    "trans": [
+      "动1 印，记下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-019",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "印，记下",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とります",
+      "取ります"
+    ],
+    "speech": "とります"
+  },
+  {
+    "name": "うまれます（生まれます）",
+    "trans": [
+      "动2 出生，诞生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-020",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "出生，诞生",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うまれます",
+      "生まれます"
+    ],
+    "speech": "うまれます"
+  },
+  {
+    "name": "とうさんします（倒産します）",
+    "trans": [
+      "动3 倒闭，破产"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-021",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "倒闭，破产",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とうさんします",
+      "倒産します"
+    ],
+    "speech": "とうさんします"
+  },
+  {
+    "name": "じゅうたいします（渋滞します）",
+    "trans": [
+      "动3 堵车，停滞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-022",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "堵车，停滞",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じゅうたいします",
+      "渋滞します"
+    ],
+    "speech": "じゅうたいします"
+  },
+  {
+    "name": "チエックします",
+    "trans": [
+      "动3 确认"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-023",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "确认",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ゆたか（豊か）",
+    "trans": [
+      "形2 充裕，丰富"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-024",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "充裕，丰富",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ゆたか",
+      "豊か"
+    ],
+    "speech": "ゆたか"
+  },
+  {
+    "name": "おおきな（大きな）",
+    "trans": [
+      "连体 大的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-025",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "大的",
+    "sourceTags": [
+      "连体"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おおきな",
+      "大きな"
+    ],
+    "speech": "おおきな"
+  },
+  {
+    "name": "ちいさな（小さな）",
+    "trans": [
+      "连体 小的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-026",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "小的",
+    "sourceTags": [
+      "连体"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちいさな",
+      "小さな"
+    ],
+    "speech": "ちいさな"
+  },
+  {
+    "name": "べつに（別に）",
+    "trans": [
+      "副 并不"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-027",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "并不",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "べつに",
+      "別に"
+    ],
+    "speech": "べつに"
+  },
+  {
+    "name": "たい（戴）",
+    "trans": [
+      "专 戴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-028",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "戴",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たい",
+      "戴"
+    ],
+    "speech": "たい"
+  },
+  {
+    "name": "しゅう（周）",
+    "trans": [
+      "专 周"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-029",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "周",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅう",
+      "周"
+    ],
+    "speech": "しゅう"
+  },
+  {
+    "name": "とう（唐）",
+    "trans": [
+      "专 唐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-030",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "唐",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とう",
+      "唐"
+    ],
+    "speech": "とう"
+  },
+  {
+    "name": "ちゅうごくこうくう（中国航空）",
+    "trans": [
+      "专 中国航空"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-031",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "中国航空",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちゅうごくこうくう",
+      "中国航空"
+    ],
+    "speech": "ちゅうごくこうくう"
+  },
+  {
+    "name": "てんあんはんてん（天安飯店）",
+    "trans": [
+      "专 天安饭店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-032",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "天安饭店",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てんあんはんてん",
+      "天安飯店"
+    ],
+    "speech": "てんあんはんてん"
+  },
+  {
+    "name": "さんかんろ（三環路）",
+    "trans": [
+      "专 三环路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-033",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "三环路",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さんかんろ",
+      "三環路"
+    ],
+    "speech": "さんかんろ"
+  },
+  {
+    "name": "このあたり",
+    "trans": [
+      "这一带，这附近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U25-034",
+    "sourceSheet": "B1U25",
+    "sourceMeaning": "这一带，这附近",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

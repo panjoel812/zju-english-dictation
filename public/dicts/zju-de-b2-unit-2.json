@@ -1,0 +1,1016 @@
+[
+  {
+    "name": "Europa",
+    "trans": [
+      "欧洲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-001",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "欧洲",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bundesrepublik",
+    "trans": [
+      "联邦共和国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-002",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "联邦共和国",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fläche",
+    "trans": [
+      "面积"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-003",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "面积",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Quadratkilometer",
+    "trans": [
+      "平方公里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-004",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "平方公里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einwohner",
+    "trans": [
+      "居民"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-005",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "居民",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ausdehnung",
+    "trans": [
+      "延伸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-006",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "延伸",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bevölkerungsdichte",
+    "trans": [
+      "人口密集度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-007",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "人口密集度",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nachbarland",
+    "trans": [
+      "邻国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-008",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "邻国",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mitte",
+    "trans": [
+      "中间，中部"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-009",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "中间，中部",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bundesstaat",
+    "trans": [
+      "联邦制国家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-010",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "联邦制国家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bundesland",
+    "trans": [
+      "联邦州"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-011",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "联邦州",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bestehen",
+    "trans": [
+      "由......组成；坚持"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-012",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "由......组成；坚持",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dänemark",
+    "trans": [
+      "丹麦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-013",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "丹麦",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Niederlande",
+    "trans": [
+      "荷兰"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-014",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "荷兰",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Belgien",
+    "trans": [
+      "比利时"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-015",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "比利时",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Luxemburg",
+    "trans": [
+      "卢森堡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-016",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "卢森堡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Frankreich",
+    "trans": [
+      "法国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-017",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "法国",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tschechisch",
+    "trans": [
+      "Adj. 捷克的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-018",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "Adj. 捷克的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "betragen",
+    "trans": [
+      "总数为，共计"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-019",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "总数为，共计",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vergleich",
+    "trans": [
+      "S. 比较"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-020",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "S. 比较",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Alpen",
+    "trans": [
+      "阿尔卑斯山脉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-021",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "阿尔卑斯山脉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tiefland",
+    "trans": [
+      "低地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-022",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "低地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "flach",
+    "trans": [
+      "Adj. 平坦的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-023",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "Adj. 平坦的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "südlich",
+    "trans": [
+      "Adj. 南方的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-024",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "Adj. 南方的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hannover",
+    "trans": [
+      "汉诺威"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-025",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "汉诺威",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Donau",
+    "trans": [
+      "多瑙河"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-026",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "多瑙河",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gebirge",
+    "trans": [
+      "山脉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-027",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "山脉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zugspitze",
+    "trans": [
+      "楚格峰"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-028",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "楚格峰",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bodensee",
+    "trans": [
+      "博登湖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-029",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "博登湖",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Grenze",
+    "trans": [
+      "边界，界限；限度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-030",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "边界，界限；限度",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rhein",
+    "trans": [
+      "莱茵河"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-031",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "莱茵河",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Elbe",
+    "trans": [
+      "易北河"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-032",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "易北河",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fließen",
+    "trans": [
+      "流，流淌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-033",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "流，流淌",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Klima",
+    "trans": [
+      "气候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-034",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "气候",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "durchschnittlich",
+    "trans": [
+      "Adj. 平均的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-035",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "Adj. 平均的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Temperatur",
+    "trans": [
+      "温度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-036",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "温度",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Grad",
+    "trans": [
+      "度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-037",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "度",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Celsius",
+    "trans": [
+      "摄氏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-038",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "摄氏",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Durchschnitt",
+    "trans": [
+      "S. 平均"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-039",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "S. 平均",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "regnen",
+    "trans": [
+      "下雨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-040",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "下雨",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "scheinen",
+    "trans": [
+      "照耀；似乎，看来，觉得"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-041",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "照耀；似乎，看来，觉得",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schnee",
+    "trans": [
+      "雪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-042",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "雪",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Industriegebiet",
+    "trans": [
+      "工业区"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-043",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "工业区",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dicht",
+    "trans": [
+      "Adj. 密集的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-044",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "Adj. 密集的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gering",
+    "trans": [
+      "Adj. 微小的；很少的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-045",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "Adj. 微小的；很少的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "europäisch",
+    "trans": [
+      "Adj. 欧洲的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-046",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "Adj. 欧洲的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "heiraten",
+    "trans": [
+      "结婚，嫁，娶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-047",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "结婚，嫁，娶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ungefähr",
+    "trans": [
+      "Adv. 大约"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-048",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "Adv. 大约",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vergleichen",
+    "trans": [
+      "比较"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-049",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "比较",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Muttersprache",
+    "trans": [
+      "母语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-050",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "母语",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Liechtenstein",
+    "trans": [
+      "列支敦士登"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-051",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "列支敦士登",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Teil",
+    "trans": [
+      "部分"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-052",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "部分",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schweizer",
+    "trans": [
+      "瑞士人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-053",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "瑞士人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Grenzgebiet",
+    "trans": [
+      "边境地区"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-054",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "边境地区",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "deutschsprachig",
+    "trans": [
+      "Adj. 说德语的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-055",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "Adj. 说德语的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Minderheit",
+    "trans": [
+      "S. 少数"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-056",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "S. 少数",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rumänien",
+    "trans": [
+      "罗马尼亚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-057",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "罗马尼亚",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zentral",
+    "trans": [
+      "Adj. 中心的，中央的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-058",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "Adj. 中心的，中央的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Transitland",
+    "trans": [
+      "中转国家，过境国家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-059",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "中转国家，过境国家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kreuzen",
+    "trans": [
+      "相交错，相遇；交叉而过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-060",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "相交错，相遇；交叉而过",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "offiziell",
+    "trans": [
+      "Adj. 官方的，正式的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-061",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "Adj. 官方的，正式的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wechseln",
+    "trans": [
+      "变换，更换"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-062",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "变换，更换",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zumindest",
+    "trans": [
+      "Adv. 至少，最低"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-063",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "Adv. 至少，最低",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Produkt",
+    "trans": [
+      "产品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-064",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "产品",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dokument",
+    "trans": [
+      "文件，文献，证书"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-065",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "文件，文献，证书",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausgeben",
+    "trans": [
+      "支出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-066",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "支出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bern",
+    "trans": [
+      "伯尔尼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-067",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "伯尔尼",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zürich",
+    "trans": [
+      "苏黎世"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-068",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "苏黎世",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Genf",
+    "trans": [
+      "日内瓦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-069",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "日内瓦",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Erholungsort",
+    "trans": [
+      "休养之地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-070",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "休养之地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sportanlage",
+    "trans": [
+      "体育设施"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-071",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "体育设施",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bauen",
+    "trans": [
+      "建筑，制造"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-072",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "建筑，制造",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "stolz",
+    "trans": [
+      "Adj. 骄傲的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-073",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "Adj. 骄傲的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bergbahn",
+    "trans": [
+      "登山铁道，登山缆车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-074",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "登山铁道，登山缆车",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vorliebe",
+    "trans": [
+      "偏爱，爱好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-075",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "偏爱，爱好",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "TV-Programm",
+    "trans": [
+      "电视节目"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-076",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "电视节目",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entspringen",
+    "trans": [
+      "发源于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-077",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "发源于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Information",
+    "trans": [
+      "信息，资料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E2-078",
+    "sourceSheet": "B2E2",
+    "sourceMeaning": "信息，资料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

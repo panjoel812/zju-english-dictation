@@ -1,4 +1,4 @@
-name: 大学英语默写器 CI
+name: Lexi CI
 
 on:
   workflow_dispatch:

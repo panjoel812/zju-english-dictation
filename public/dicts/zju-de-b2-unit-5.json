@@ -1,0 +1,1263 @@
+[
+  {
+    "name": "Finanzzentrum",
+    "trans": [
+      "金融中心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-001",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "金融中心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Komponist",
+    "trans": [
+      "作曲家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-002",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "作曲家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ehemalig",
+    "trans": [
+      "Adj. 从前的，以前的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-003",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adj. 从前的，以前的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Automobilpionier",
+    "trans": [
+      "汽车工业的先驱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-004",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "汽车工业的先驱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Automobilstadt",
+    "trans": [
+      "汽车城"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-005",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "汽车城",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "berühmt",
+    "trans": [
+      "Adj. 著名的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-006",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adj. 著名的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Leipzig",
+    "trans": [
+      "莱比锡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-007",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "莱比锡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unterbrechen",
+    "trans": [
+      "中断，暂时停止"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-008",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "中断，暂时停止",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Straßburg",
+    "trans": [
+      "斯特拉斯堡（法）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-009",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "斯特拉斯堡（法）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fortsetzen",
+    "trans": [
+      "继续"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-010",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "继续",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ab",
+    "trans": [
+      "从......起，从......开始"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-011",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "从......起，从......开始",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Beamte",
+    "trans": [
+      "d.w. Adj. 官员，公务员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-012",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "d.w. Adj. 官员，公务员",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Werk",
+    "trans": [
+      "著作，杰作，巨著；工厂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-013",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "著作，杰作，巨著；工厂",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "weltberühmt",
+    "trans": [
+      "Adj. 世界著名的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-014",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adj. 世界著名的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geburtsstadt",
+    "trans": [
+      "出生的城市"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-015",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "出生的城市",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bundesbank",
+    "trans": [
+      "联邦银行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-016",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "联邦银行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zentralbank",
+    "trans": [
+      "中央银行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-017",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "中央银行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sitz",
+    "trans": [
+      "所在地，驻地，座位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-018",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "所在地，驻地，座位",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Börse",
+    "trans": [
+      "证券交易所"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-019",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "证券交易所",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geschäftsbank",
+    "trans": [
+      "商业银行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-020",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "商业银行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "stammen",
+    "trans": [
+      "出生（出身）于，源自"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-021",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "出生（出身）于，源自",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Musikerfamilie",
+    "trans": [
+      "音乐之家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-022",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "音乐之家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wunderkind",
+    "trans": [
+      "神童"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-023",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "神童",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erhalten",
+    "trans": [
+      "获得，受到，得到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-024",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "获得，受到，得到",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "auftreten",
+    "trans": [
+      "登台，出场（表演）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-025",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "登台，出场（表演）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "veröffentlichen",
+    "trans": [
+      "出版，发表"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-026",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "出版，发表",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Komposition",
+    "trans": [
+      "作曲，谱曲，乐曲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-027",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "作曲，谱曲，乐曲",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "öffentlich",
+    "trans": [
+      "Adj. 公开的，公共的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-028",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adj. 公开的，公共的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ansehen",
+    "trans": [
+      "声望，声益，尊重"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-029",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "声望，声益，尊重",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gewinnen",
+    "trans": [
+      "获得，赢得"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-030",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "获得，赢得",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "leiden",
+    "trans": [
+      "患病；忍受，受煎熬"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-031",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "患病；忍受，受煎熬",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hörschwäche",
+    "trans": [
+      "听力衰弱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-032",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "听力衰弱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "taub",
+    "trans": [
+      "聋的，听不见的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-033",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "聋的，听不见的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hinterlassen",
+    "trans": [
+      "（死后）留下，遗留"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-034",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "（死后）留下，遗留",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sinfonie",
+    "trans": [
+      "交响乐，交响曲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-035",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "交响乐，交响曲",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vereinigung",
+    "trans": [
+      "统一，联合，结合"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-036",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "统一，联合，结合",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bedeutung",
+    "trans": [
+      "重要性，意义"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-037",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "重要性，意义",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dienstleistungszentrum",
+    "trans": [
+      "服务性行业中心，第三产业中心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-038",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "服务性行业中心，第三产业中心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wissenschaftszentrum",
+    "trans": [
+      "科学中心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-039",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "科学中心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "naturwissenschaftlich",
+    "trans": [
+      "Adj. 自然科学的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-040",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adj. 自然科学的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Erfahrung",
+    "trans": [
+      "经验"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-041",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "经验",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Maschinenbauindustrie",
+    "trans": [
+      "机器制造业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-042",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "机器制造业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gründen",
+    "trans": [
+      "建立，创立"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-043",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "建立，创立",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Unternehmen",
+    "trans": [
+      "企业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-044",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "企业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "widmen",
+    "trans": [
+      "奉献"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-045",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "奉献",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fahrzeug",
+    "trans": [
+      "车辆，交通工具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-046",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "车辆，交通工具",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pferd",
+    "trans": [
+      "马"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-047",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "马",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Benzinauto",
+    "trans": [
+      "用汽油作燃料的汽车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-048",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "用汽油作燃料的汽车",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dreirädrig",
+    "trans": [
+      "Adj. 三轮的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-049",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adj. 三轮的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erstmals",
+    "trans": [
+      "Adv. 第一次，初次"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-050",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adv. 第一次，初次",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Erfindung",
+    "trans": [
+      "发明，创造"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-051",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "发明，创造",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verändern",
+    "trans": [
+      "改变，更改"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-052",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "改变，更改",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hersteller",
+    "trans": [
+      "制造者，生产者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-053",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "制造者，生产者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "eng",
+    "trans": [
+      "Adj. 紧密的，窄小的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-054",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adj. 紧密的，窄小的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "andererseits",
+    "trans": [
+      "Adv. 另一方面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-055",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adv. 另一方面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zählen",
+    "trans": [
+      "属于，算作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-056",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "属于，算作",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "inmitten",
+    "trans": [
+      "Adv. 在......中间，在......当中"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-057",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adv. 在......中间，在......当中",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Weinberg",
+    "trans": [
+      "葡萄园"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-058",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "葡萄园",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Grünanlage",
+    "trans": [
+      "绿化地带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-059",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "绿化地带",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ruhe",
+    "trans": [
+      "安宁，安静"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-060",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "安宁，安静",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Erholung",
+    "trans": [
+      "休养，休息，复元"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-061",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "休养，休息，复元",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entwickeln",
+    "trans": [
+      "V. 发展，发挥；研发"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-062",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "V. 发展，发挥；研发",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mitternacht",
+    "trans": [
+      "午夜，子夜，半夜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-063",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "午夜，子夜，半夜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Angabe",
+    "trans": [
+      "S. 说明，陈述"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-064",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "S. 说明，陈述",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hafen",
+    "trans": [
+      "港口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-065",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "港口",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "privat",
+    "trans": [
+      "Adj. 私人的，个人的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-066",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adj. 私人的，个人的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dreitausendjährig",
+    "trans": [
+      "Adj. 三千年的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-067",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adj. 三千年的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufgrund",
+    "trans": [
+      "Präp. 根据，基于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-068",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Präp. 根据，基于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kulturschatz",
+    "trans": [
+      "文化宝藏，文化遗产"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-069",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "文化宝藏，文化遗产",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sehenswürdigkeit",
+    "trans": [
+      "名胜，古迹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-070",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "名胜，古迹",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Residenz",
+    "trans": [
+      "官邸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-071",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "官邸",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dienen",
+    "trans": [
+      "用作，用于，作......用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-072",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "用作，用于，作......用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kaiserlich",
+    "trans": [
+      "皇帝的，帝王的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-073",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "皇帝的，帝王的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kultur",
+    "trans": [
+      "文化"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-074",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "文化",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Metropole",
+    "trans": [
+      "大都市，......中心，......枢纽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-075",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "大都市，......中心，......枢纽",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Umgebung",
+    "trans": [
+      "周围（地区），环境"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-076",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "周围（地区），环境",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Oper",
+    "trans": [
+      "歌剧院；歌剧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-077",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "歌剧院；歌剧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bewundern",
+    "trans": [
+      "赞赏，惊叹，钦佩"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-078",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "赞赏，惊叹，钦佩",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "historisch",
+    "trans": [
+      "Adj. 历史的，历史性的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-079",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adj. 历史的，历史性的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "traditionell",
+    "trans": [
+      "Adj. 传统的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-080",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adj. 传统的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gasse",
+    "trans": [
+      "胡同，巷子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-081",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "胡同，巷子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Innenhof",
+    "trans": [
+      "内院，内庭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-082",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "内院，内庭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gegend",
+    "trans": [
+      "地区，地带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-083",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "地区，地带",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lamatempel",
+    "trans": [
+      "藏传佛教寺庙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-084",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "藏传佛教寺庙",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rikscha",
+    "trans": [
+      "人力车，黄包车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-085",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "人力车，黄包车",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ehefrau",
+    "trans": [
+      "妻子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-086",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "妻子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Autor",
+    "trans": [
+      "作者，作家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-087",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "作者，作家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Jahrhundert",
+    "trans": [
+      "一百年，世纪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-088",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "一百年，世纪",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Austragungsort",
+    "trans": [
+      "举办地，承办地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-089",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "举办地，承办地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nationalstadion",
+    "trans": [
+      "国家体育场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-090",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "国家体育场",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sogenannt",
+    "trans": [
+      "Adj. 所谓的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-091",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adj. 所谓的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "originell",
+    "trans": [
+      "Adj. 新颖的，独特的，不同凡响的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-092",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adj. 新颖的，独特的，不同凡响的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bauweise",
+    "trans": [
+      "建筑方式"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-093",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "建筑方式",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Architekturdenkmal",
+    "trans": [
+      "建筑丰碑，建筑瑰宝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-094",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "建筑丰碑，建筑瑰宝",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anziehen",
+    "trans": [
+      "吸引"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-095",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "吸引",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "faszinierend",
+    "trans": [
+      "Adj. 令人着迷的，令人神往的，吸引人的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-096",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "Adj. 令人着迷的，令人神往的，吸引人的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wachstum",
+    "trans": [
+      "生长，增长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E5-097",
+    "sourceSheet": "B2E5",
+    "sourceMeaning": "生长，增长",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

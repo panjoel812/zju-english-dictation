@@ -5,9 +5,9 @@ import { chromium } from 'playwright'
 const browser = await chromium.launch({ channel: process.env.BROWSER_CHANNEL || 'chrome', headless: true })
 const baseURL = process.env.TEST_URL || 'http://127.0.0.1:5174'
 const failures = []
-const releaseTitle = '0.3.2 更新说明'
+const releaseTitle = '0.4.0 更新说明'
 
-async function check(name, fn, { width = 1440, height = 1000, seen = '0.3.2', blockedStorage = false } = {}) {
+async function check(name, fn, { width = 1440, height = 1000, seen = '0.4.0', blockedStorage = false } = {}) {
   if (process.env.TEST_MATCH && !name.includes(process.env.TEST_MATCH)) return
   const context = await browser.newContext({ viewport: { width, height }, isMobile: width < 768, hasTouch: width < 768 })
   const page = await context.newPage()
@@ -25,6 +25,8 @@ async function check(name, fn, { width = 1440, height = 1000, seen = '0.3.2', bl
     await page.addInitScript(
       ({ seen, blockedStorage }) => {
         if (!sessionStorage.getItem('release-test-seeded')) {
+          localStorage.setItem('zju-practice-guide-seen-v1', 'true')
+          document.cookie = 'zju-translation-visible=false; Path=/; SameSite=Lax'
           localStorage.setItem('phoneticConfig', JSON.stringify({ isOpen: false }))
           localStorage.setItem('hideWordLength', 'false')
           localStorage.setItem('wholeWordMode', 'true')
@@ -98,7 +100,7 @@ try {
         )
         await gear(page).click()
         await expect(settings(page)).toBeVisible()
-        for (const title of ['默写设置', '音效设置', '高级设置', '显示设置', '数据设置']) {
+        for (const title of ['默写设置', '发音音效', '显示设置', '数据管理']) {
           await settings(page).getByRole('tab', { name: title, exact: true }).click()
           await expectFits(settings(page).getByRole('tabpanel', { name: title, exact: true }), width, height)
           assert.ok(
@@ -110,7 +112,18 @@ try {
           assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), 'Page overflows')
         }
         await settings(page).getByRole('tab', { name: '默写设置', exact: true }).click()
-        await expectFits(settings(page).getByRole('switch', { name: '隐藏字母数', exact: true }), width, height)
+        for (const name of ['显示首字母', '隐藏字母数']) {
+          const control = settings(page).getByRole('switch', { name, exact: true })
+          await control.scrollIntoViewIfNeeded()
+          await expectFits(control, width, height)
+          assert.ok(
+            await control.evaluate((el) => {
+              const rect = el.getBoundingClientRect()
+              return el.contains(document.elementFromPoint(rect.x + rect.width / 2, rect.y + rect.height / 2))
+            }),
+            `${name} is clipped or covered after scrolling`,
+          )
+        }
         await page.screenshot({ path: `/private/tmp/zju-release-settings-${width}.png`, fullPage: true })
       },
       { width, height },
@@ -154,7 +167,7 @@ try {
             .getByRole('button', { name: dismissal === 'close' ? '关闭更新说明' : '知道了', exact: true })
             .click()
         await expect(release(page)).toHaveCount(0)
-        assert.equal(await page.evaluate(() => localStorage.getItem('lastSeenRelease')), '"0.3.2"')
+        assert.equal(await page.evaluate(() => localStorage.getItem('lastSeenRelease')), '"0.4.0"')
         await page.reload({ waitUntil: 'domcontentloaded' })
         await page.locator('.tooltip-info').waitFor()
         await expect(release(page)).toHaveCount(0)

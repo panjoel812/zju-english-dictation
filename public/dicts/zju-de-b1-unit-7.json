@@ -1,0 +1,873 @@
+[
+  {
+    "name": "Stock",
+    "trans": [
+      "楼层"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-001",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "楼层",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kaufhaus",
+    "trans": [
+      "百货大楼，百货商店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-002",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "百货大楼，百货商店",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kaufen",
+    "trans": [
+      "购买"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-003",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "购买",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sportbekleidung",
+    "trans": [
+      "运动服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-004",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "运动服",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gerät",
+    "trans": [
+      "器具，器械，用具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-005",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "器具，器械，用具",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dame",
+    "trans": [
+      "女士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-006",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "女士",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Toilette",
+    "trans": [
+      "厕所，洗手间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-007",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "厕所，洗手间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schreibware",
+    "trans": [
+      "文具，办公用品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-008",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "文具，办公用品",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zeitschrift",
+    "trans": [
+      "杂志，期刊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-009",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "杂志，期刊",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Haushalt",
+    "trans": [
+      "家政，家务"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-010",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "家政，家务",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "grüßen",
+    "trans": [
+      "问候，打招呼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-011",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "问候，打招呼",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geschenk",
+    "trans": [
+      "礼物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-012",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "礼物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wollen",
+    "trans": [
+      "愿意，打算，希望"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-013",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "愿意，打算，希望",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schenken",
+    "trans": [
+      "赠送"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-014",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "赠送",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "können",
+    "trans": [
+      "能够，会，可能"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-015",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "能够，会，可能",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bloß",
+    "trans": [
+      "Part. （加强命令句或疑问句语气）千万，究竟，到底"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-016",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "Part. （加强命令句或疑问句语气）千万，究竟，到底",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wissen",
+    "trans": [
+      "知道，了解"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-017",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "知道，了解",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mütze",
+    "trans": [
+      "（无帽檐的）帽子，便帽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-018",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "（无帽檐的）帽子，便帽",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mädchen",
+    "trans": [
+      "少女，姑娘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-019",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "少女，姑娘",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tragen",
+    "trans": [
+      "穿，戴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-020",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "穿，戴",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "alle",
+    "trans": [
+      "Pron. 所有的人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-021",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "Pron. 所有的人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Etage",
+    "trans": [
+      "楼层"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-022",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "楼层",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hingehen",
+    "trans": [
+      "去（某处或某人处）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-023",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "去（某处或某人处）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gucken",
+    "trans": [
+      "瞧；张望"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-024",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "瞧；张望",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "welcher",
+    "trans": [
+      "Pron. （疑问代词）哪个；哪些"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-025",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "Pron. （疑问代词）哪个；哪些",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "rot",
+    "trans": [
+      "Adj. 红色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-026",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "Adj. 红色",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Farbe",
+    "trans": [
+      "颜色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-027",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "颜色",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "stehen",
+    "trans": [
+      "适合于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-028",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "适合于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "halten",
+    "trans": [
+      "认为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-029",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "认为",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "meinen",
+    "trans": [
+      "认为，觉得，指"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-030",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "认为，觉得，指",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "blau",
+    "trans": [
+      "Adj. 蓝色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-031",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "Adj. 蓝色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schwarz",
+    "trans": [
+      "Adj. 黑色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-032",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "Adj. 黑色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nachsehen",
+    "trans": [
+      "查看，审阅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-033",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "查看，审阅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "billig",
+    "trans": [
+      "Adj. 便宜的，廉价的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-034",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "Adj. 便宜的，廉价的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kasse",
+    "trans": [
+      "付款处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-035",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "付款处",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "September",
+    "trans": [
+      "九月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-036",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "九月",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Glückwunsch",
+    "trans": [
+      "庆祝，祝贺"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-037",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "庆祝，祝贺",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wünschen",
+    "trans": [
+      "希望，祝愿，想要"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-038",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "希望，祝愿，想要",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pullover",
+    "trans": [
+      "套头毛衣，套衫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-039",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "套头毛衣，套衫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kaputt",
+    "trans": [
+      "Adj. 坏的，破碎的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-040",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "Adj. 坏的，破碎的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Leute",
+    "trans": [
+      "人们"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-041",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "人们",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Spaziergang",
+    "trans": [
+      "散步"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-042",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "散步",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fahrstuhl",
+    "trans": [
+      "电梯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-043",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "电梯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ander",
+    "trans": [
+      "Pron.其他的（人或物）；别的，另外的，其他的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-044",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "Pron.其他的（人或物）；别的，另外的，其他的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "praktisch",
+    "trans": [
+      "Adj. 实际的，实用的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-045",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "Adj. 实际的，实用的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nebenan",
+    "trans": [
+      "Adv. 在隔壁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-046",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "Adv. 在隔壁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Couch",
+    "trans": [
+      "长沙发椅，睡椅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-047",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "长沙发椅，睡椅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Weihnachten",
+    "trans": [
+      "圣诞节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-048",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "圣诞节",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gratulieren",
+    "trans": [
+      "祝贺，庆贺"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-049",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "祝贺，庆贺",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hochzeit",
+    "trans": [
+      "婚礼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-050",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "婚礼",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Erflog",
+    "trans": [
+      "成功，成就"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-051",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "成功，成就",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Reise",
+    "trans": [
+      "旅行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-052",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "旅行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fahrt",
+    "trans": [
+      "旅行，行程"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-053",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "旅行，行程",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Besserung",
+    "trans": [
+      "好转，改变，变好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-054",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "好转，改变，变好",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vergnügen",
+    "trans": [
+      "愉快，高兴；娱乐，消遣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-055",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "愉快，高兴；娱乐，消遣",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wochenende",
+    "trans": [
+      "周末"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-056",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "周末",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wörterbuch",
+    "trans": [
+      "字典"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-057",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "字典",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unterwegs",
+    "trans": [
+      "Adv. 途中"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-058",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "Adv. 途中",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Theater",
+    "trans": [
+      "剧院"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-059",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "剧院",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "grundsätzlich",
+    "trans": [
+      "Adj. 原则性的，基本的，一般的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-060",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "Adj. 原则性的，基本的，一般的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Übergabe",
+    "trans": [
+      "递交，交出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-061",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "递交，交出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gastgeber",
+    "trans": [
+      "主人（男）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-062",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "主人（男）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gastgeberin",
+    "trans": [
+      "主人（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-063",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "主人（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Begrüßung",
+    "trans": [
+      "迎接，问候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-064",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "迎接，问候",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "typisch",
+    "trans": [
+      "Adj. 典型的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-065",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "Adj. 典型的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Freude",
+    "trans": [
+      "愉快，高兴，快乐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-066",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "愉快，高兴，快乐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "auspacken",
+    "trans": [
+      "打开（包装），取出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E7-067",
+    "sourceSheet": "B1E7",
+    "sourceMeaning": "打开（包装），取出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

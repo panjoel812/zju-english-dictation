@@ -1,0 +1,575 @@
+[
+  {
+    "name": "dimanche",
+    "trans": [
+      "n.m. 星期日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-001",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "星期日",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [dimɑ̃ʃ]",
+    "phonetic": "[dimɑ̃ʃ]"
+  },
+  {
+    "name": "allô",
+    "trans": [
+      "interj. 喂（电话用语）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-002",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "喂（电话用语）",
+    "sourceTags": [
+      "interj."
+    ],
+    "sourceNotes": "音标: [alo]",
+    "phonetic": "[alo]"
+  },
+  {
+    "name": "être",
+    "trans": [
+      "v.i. 是；在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-003",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "是；在",
+    "sourceTags": [
+      "v.i."
+    ],
+    "sourceNotes": "音标: [ɛtr]",
+    "phonetic": "[ɛtr]"
+  },
+  {
+    "name": "on",
+    "trans": [
+      "pron.indéf. 人们"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-004",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "人们",
+    "sourceTags": [
+      "pron.indéf."
+    ],
+    "sourceNotes": "音标: [ɔ̃]",
+    "phonetic": "[ɔ̃]"
+  },
+  {
+    "name": "cinéma",
+    "trans": [
+      "n.m. 电影院"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-005",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "电影院",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [sinema]",
+    "phonetic": "[sinema]"
+  },
+  {
+    "name": "alors",
+    "trans": [
+      "adv. 那么；当时"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-006",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "那么；当时",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [alɔr]",
+    "phonetic": "[alɔr]"
+  },
+  {
+    "name": "heure",
+    "trans": [
+      "n.f. 小时，钟点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-007",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "小时，钟点",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": "音标: [œr]",
+    "phonetic": "[œr]"
+  },
+  {
+    "name": "devant",
+    "trans": [
+      "prép. 在……前面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-008",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "在……前面",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": "音标: [dəvɑ̃]",
+    "phonetic": "[dəvɑ̃]"
+  },
+  {
+    "name": "d’accord",
+    "trans": [
+      "loc.adv. 同意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-009",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "同意",
+    "sourceTags": [
+      "loc.adv."
+    ],
+    "sourceNotes": "音标: [dakɔr]",
+    "phonetic": "[dakɔr]"
+  },
+  {
+    "name": "ah",
+    "trans": [
+      "interj. 啊！唉！"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-010",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "啊！唉！",
+    "sourceTags": [
+      "interj."
+    ],
+    "sourceNotes": "音标: [a]",
+    "phonetic": "[a]"
+  },
+  {
+    "name": "midi",
+    "trans": [
+      "n.m. 中午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-011",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "中午",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [midi]",
+    "phonetic": "[midi]"
+  },
+  {
+    "name": "manger",
+    "trans": [
+      "v.t. / v.i. 吃；吃饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-012",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "吃；吃饭",
+    "sourceTags": [
+      "v.t. / v.i."
+    ],
+    "sourceNotes": "音标: [mɑ̃ʒe]",
+    "phonetic": "[mɑ̃ʒe]"
+  },
+  {
+    "name": "avec",
+    "trans": [
+      "prép. 和……一起；和，与"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-013",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "和……一起；和，与",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": "音标: [avɛk]",
+    "phonetic": "[avɛk]"
+  },
+  {
+    "name": "mais",
+    "trans": [
+      "conj. 可是，但是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-014",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "可是，但是",
+    "sourceTags": [
+      "conj."
+    ],
+    "sourceNotes": "音标: [mɛ]",
+    "phonetic": "[mɛ]"
+  },
+  {
+    "name": "cours",
+    "trans": [
+      "n.m. 课，课程"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-015",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "课，课程",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [kur]",
+    "phonetic": "[kur]"
+  },
+  {
+    "name": "bon, bonne",
+    "trans": [
+      "adj. 好的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-016",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "好的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": "音标: [bɔ̃, bɔn]",
+    "phonetic": "[bɔ̃, bɔn]"
+  },
+  {
+    "name": "autre",
+    "trans": [
+      "adj.indéf. / pron.indéf. 另外的，其他的；其他人，其他事物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-017",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "另外的，其他的；其他人，其他事物",
+    "sourceTags": [
+      "adj.indéf. / pron.indéf."
+    ],
+    "sourceNotes": "音标: [otr]",
+    "phonetic": "[otr]"
+  },
+  {
+    "name": "fois",
+    "trans": [
+      "n.f. 次，回"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-018",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "次，回",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": "音标: [fwa]",
+    "phonetic": "[fwa]"
+  },
+  {
+    "name": "peut-être",
+    "trans": [
+      "adv. 可能，也许"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-019",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "可能，也许",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [pøtɛtr]",
+    "phonetic": "[pøtɛtr]"
+  },
+  {
+    "name": "espérer",
+    "trans": [
+      "v.t. 希望，期望"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-020",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "希望，期望",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": "音标: [ɛspere]",
+    "phonetic": "[ɛspere]"
+  },
+  {
+    "name": "quel, le",
+    "trans": [
+      "adj.interr. 什么样的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-021",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "什么样的",
+    "sourceTags": [
+      "adj.interr."
+    ],
+    "sourceNotes": "音标: [kɛl]",
+    "phonetic": "[kɛl]"
+  },
+  {
+    "name": "il",
+    "trans": [
+      "pron.pers. 他，它"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-022",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "他，它",
+    "sourceTags": [
+      "pron.pers."
+    ],
+    "sourceNotes": "音标: [il]",
+    "phonetic": "[il]"
+  },
+  {
+    "name": "en",
+    "trans": [
+      "prép. 在……（指地点、时间、状态）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-023",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "在……（指地点、时间、状态）",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": "音标: [ɑ̃]",
+    "phonetic": "[ɑ̃]"
+  },
+  {
+    "name": "retard",
+    "trans": [
+      "n.m. 迟到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-024",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "迟到",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [rətar]",
+    "phonetic": "[rətar]"
+  },
+  {
+    "name": "peu",
+    "trans": [
+      "adv. 少，不多"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-025",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "少，不多",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [pø]",
+    "phonetic": "[pø]"
+  },
+  {
+    "name": "un peu",
+    "trans": [
+      "一点儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-026",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "一点儿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "demi, e",
+    "trans": [
+      "adj. 一半的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-027",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "一半的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": "音标: [dəmi]",
+    "phonetic": "[dəmi]"
+  },
+  {
+    "name": "désolé, e",
+    "trans": [
+      "adj. 抱歉的，遗憾的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-028",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "抱歉的，遗憾的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": "音标: [dezɔle]",
+    "phonetic": "[dezɔle]"
+  },
+  {
+    "name": "ne... pas",
+    "trans": [
+      "adv. 不，没有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-029",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "不，没有",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [nə-pa]",
+    "phonetic": "[nə-pa]"
+  },
+  {
+    "name": "grave",
+    "trans": [
+      "adj. 严重的；严肃的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-030",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "严重的；严肃的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": "音标: [grav]",
+    "phonetic": "[grav]"
+  },
+  {
+    "name": "pardon",
+    "trans": [
+      "n.m. 请原谅，对不起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-031",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "请原谅，对不起",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [pardɔ̃]",
+    "phonetic": "[pardɔ̃]"
+  },
+  {
+    "name": "moins",
+    "trans": [
+      "prép. 差，缺"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-032",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "差，缺",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": "音标: [mwɛ̃]",
+    "phonetic": "[mwɛ̃]"
+  },
+  {
+    "name": "vite",
+    "trans": [
+      "adv. 快，立刻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-033",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "快，立刻",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [vit]",
+    "phonetic": "[vit]"
+  },
+  {
+    "name": "au revoir",
+    "trans": [
+      "n.m. 再见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-034",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "再见",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [o(r)vwar]",
+    "phonetic": "[o(r)vwar]"
+  },
+  {
+    "name": "attention",
+    "trans": [
+      "n.f. 注意，小心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-035",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "注意，小心",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": "音标: [atɑ̃sjɔ̃]",
+    "phonetic": "[atɑ̃sjɔ̃]"
+  },
+  {
+    "name": "voiture",
+    "trans": [
+      "n.f. 汽车，轿车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U02-036",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "汽车，轿车",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": "音标: [vwaty:r]",
+    "phonetic": "[vwaty:r]"
+  }
+]

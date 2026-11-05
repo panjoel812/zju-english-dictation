@@ -1,27 +1,20 @@
 import { TypingContext, TypingStateActionType } from '../../store'
 import { focusMobileTypingInput } from '../WordPanel/components/TextAreaHandler'
-import Tooltip from '@/components/Tooltip'
-import { randomConfigAtom, wholeWordModeAtom } from '@/store'
-import { autoUpdate, offset, useFloating, useHover, useInteractions } from '@floating-ui/react'
+import { effectiveWholeWordModeAtom } from '@/store'
 import { useAtomValue } from 'jotai'
-import { useCallback, useContext, useState } from 'react'
+import { useCallback, useContext } from 'react'
 import { useHotkeys } from 'react-hotkeys-hook'
 
 export default function StartButton({ isLoading }: { isLoading: boolean }) {
-  // eslint-disable-next-line  @typescript-eslint/no-non-null-assertion
+  // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
   const { state, dispatch } = useContext(TypingContext)!
-  const randomConfig = useAtomValue(randomConfigAtom)
-  const wholeWordMode = useAtomValue(wholeWordModeAtom)
+  const wholeWordMode = useAtomValue(effectiveWholeWordModeAtom)
 
   const onToggleIsTyping = useCallback(() => {
     if (isLoading) return
     if (!state.isTyping) focusMobileTypingInput()
     dispatch({ type: TypingStateActionType.SET_IS_TYPING, payload: !state.isTyping })
   }, [isLoading, dispatch, state.isTyping])
-
-  const onClickRestart = useCallback(() => {
-    dispatch({ type: TypingStateActionType.REPEAT_CHAPTER, shouldShuffle: randomConfig.isOpen })
-  }, [dispatch, randomConfig.isOpen])
 
   useHotkeys(
     'enter',
@@ -34,57 +27,20 @@ export default function StartButton({ isLoading }: { isLoading: boolean }) {
     [onToggleIsTyping],
   )
 
-  const [isShowReStartButton, setIsShowReStartButton] = useState(false)
-  const { refs, context } = useFloating({
-    open: isShowReStartButton,
-    onOpenChange: setIsShowReStartButton,
-    whileElementsMounted: autoUpdate,
-    middleware: [offset(5)],
-  })
-  const hoverButton = useHover(context)
-  const { getReferenceProps, getFloatingProps } = useInteractions([hoverButton])
-
   return (
-    <Tooltip
-      content={`${state.isTyping ? '暂停' : '开始'}${wholeWordMode && state.isTyping ? '' : ' （Enter）'}`}
-      className="box-content h-7 w-8 px-6 py-1"
+    <button
+      type="button"
+      data-guide="start"
+      onClick={onToggleIsTyping}
+      aria-label={state.isTyping ? '暂停' : '开始'}
+      disabled={isLoading}
+      className={`flex h-8 min-w-[56px] items-center justify-center rounded-lg px-4 text-sm font-medium transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500 disabled:opacity-50 sm:h-9 sm:min-w-[64px] ${
+        state.isTyping
+          ? 'bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-200 dark:hover:bg-gray-600'
+          : 'bg-indigo-500 text-white hover:bg-indigo-600'
+      }`}
     >
-      <div
-        ref={refs.setReference}
-        {...getReferenceProps()}
-        className={`${
-          state.isTyping
-            ? 'bg-gray-400 shadow-gray-200 dark:bg-gray-600  dark:shadow-none'
-            : 'bg-indigo-500 shadow-indigo-300 dark:shadow-indigo-500/60'
-        } ${
-          isShowReStartButton ? 'h-20' : 'h-auto'
-        } flex-column absolute left-0 top-0 w-16 rounded-lg shadow-lg transition-colors duration-200 sm:w-20`}
-      >
-        <button
-          className={`${
-            state.isTyping ? 'bg-gray-400  dark:bg-gray-700 dark:hover:bg-gray-500' : 'bg-indigo-500'
-          } my-btn-primary w-16 px-2 text-sm shadow sm:w-20 sm:px-6 sm:text-lg`}
-          type="button"
-          onClick={onToggleIsTyping}
-          aria-label={state.isTyping ? '暂停' : '开始'}
-        >
-          <span className="font-medium">{state.isTyping ? 'Pause' : 'Start'}</span>
-        </button>
-        {isShowReStartButton && (
-          <div className="absolute bottom-0 flex w-20 justify-center" ref={refs.setFloating} {...getFloatingProps()}>
-            <button
-              className={`${
-                state.isTyping ? 'bg-gray-500 dark:bg-gray-700 dark:hover:bg-gray-500 ' : 'bg-indigo-400 '
-              } my-btn-primary mb-1 mt-1 w-18  transition-colors duration-200`}
-              type="button"
-              onClick={onClickRestart}
-              aria-label={'重新开始'}
-            >
-              Restart
-            </button>
-          </div>
-        )}
-      </div>
-    </Tooltip>
+      {state.isTyping ? '暂停' : '开始'}
+    </button>
   )
 }

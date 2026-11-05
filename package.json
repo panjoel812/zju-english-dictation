@@ -1,6 +1,6 @@
 {
   "name": "zju-english-dictation",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "private": true,
   "homepage": ".",
   "dependencies": {
@@ -66,6 +66,9 @@
     "test:dictation": "node scripts/check-dictation.mjs",
     "test:pronunciation": "node scripts/check-pronunciation.mjs",
     "test:answer-settings": "node scripts/check-answer-settings.mjs",
+    "test:practice-updates": "node scripts/check-practice-updates.mjs",
+    "test:practice-guide": "node scripts/check-practice-guide.mjs",
+    "test:theme-defaults": "node scripts/check-theme-defaults.mjs",
     "test:release-settings": "node scripts/check-release-settings.mjs",
     "test:gallery": "node scripts/check-gallery.mjs",
     "test:book1": "node scripts/check-book1.mjs",
@@ -73,7 +76,8 @@
     "screenshots:readme": "node scripts/capture-readme.mjs",
     "lint": "eslint .",
     "prettier": "prettier --write .",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "test:languages": "node scripts/check-minor-languages.mjs"
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [

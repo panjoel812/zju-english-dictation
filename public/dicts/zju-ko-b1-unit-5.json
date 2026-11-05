@@ -1,0 +1,1263 @@
+[
+  {
+    "name": "지금",
+    "trans": [
+      "现在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-001",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "现在",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "시",
+    "trans": [
+      "点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-002",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "点",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "분",
+    "trans": [
+      "分"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-003",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "分",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "십",
+    "trans": [
+      "十"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-004",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "十",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "이십",
+    "trans": [
+      "二十"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-005",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "二十",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "삼십",
+    "trans": [
+      "三十"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-006",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "三十",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "사십",
+    "trans": [
+      "四十"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-007",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "四十",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "오십",
+    "trans": [
+      "五十"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-008",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "五十",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "욕십",
+    "trans": [
+      "六十"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-009",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "六十",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "칠십",
+    "trans": [
+      "七十"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-010",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "七十",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "팔십",
+    "trans": [
+      "八十"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-011",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "八十",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "구십",
+    "trans": [
+      "九十"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-012",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "九十",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "백",
+    "trans": [
+      "百"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-013",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "百",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "천",
+    "trans": [
+      "千"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-014",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "千",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "만",
+    "trans": [
+      "万"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-015",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "万",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "원",
+    "trans": [
+      "元"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-016",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "元",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "시간",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-017",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "时间",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "시계",
+    "trans": [
+      "表"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-018",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "表",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "오전",
+    "trans": [
+      "上午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-019",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "上午",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "오후",
+    "trans": [
+      "下午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-020",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "下午",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "까지",
+    "trans": [
+      "到..."
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-021",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "到...",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "쯤",
+    "trans": [
+      "左右"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-022",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "左右",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "회의",
+    "trans": [
+      "会议"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-023",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "会议",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "잠깐",
+    "trans": [
+      "一会儿，稍微"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-024",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "一会儿，稍微",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "과/와",
+    "trans": [
+      "跟，和"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-025",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "跟，和",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "이야기하다",
+    "trans": [
+      "说话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-026",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "说话",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "고맙다",
+    "trans": [
+      "谢谢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-027",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "谢谢",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "싶어하다",
+    "trans": [
+      "想(第三人称)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-028",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "想(第三人称)",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "반",
+    "trans": [
+      "半"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-029",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "半",
+    "sourceTags": [],
+    "sourceNotes": "지금 몇 시예요?"
+  },
+  {
+    "name": "월",
+    "trans": [
+      "月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-030",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "月",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "며칠",
+    "trans": [
+      "几号，几天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-031",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "几号，几天",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "일",
+    "trans": [
+      "日，天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-032",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "日，天",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "내일",
+    "trans": [
+      "明天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-033",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "明天",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "뭐",
+    "trans": [
+      "什么("
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-034",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "什么(",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "글쎄요 무+엇)",
+    "trans": [
+      "嗯（表不确定语气）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-035",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "嗯（表不确定语气）",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "쉬다",
+    "trans": [
+      "休息"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-036",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "休息",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "요일",
+    "trans": [
+      "星期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-037",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "星期",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "월요일",
+    "trans": [
+      "星期一"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-038",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "星期一",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "화요일",
+    "trans": [
+      "星期二"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-039",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "星期二",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "수요일",
+    "trans": [
+      "星期三"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-040",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "星期三",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "목요일",
+    "trans": [
+      "星期四"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-041",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "星期四",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "금요일",
+    "trans": [
+      "星期五"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-042",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "星期五",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "토요일",
+    "trans": [
+      "星期六"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-043",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "星期六",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "일요일",
+    "trans": [
+      "星期日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-044",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "星期日",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "하숙집",
+    "trans": [
+      "寄宿房"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-045",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "寄宿房",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "어서",
+    "trans": [
+      "快"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-046",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "快",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "이번",
+    "trans": [
+      "这次"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-047",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "这次",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "여행",
+    "trans": [
+      "旅行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-048",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "旅行",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "거기",
+    "trans": [
+      "那里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-049",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "那里",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "제주도",
+    "trans": [
+      "济州岛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-050",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "济州岛",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "방학",
+    "trans": [
+      "(学校的)假期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-051",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "(学校的)假期",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "언제",
+    "trans": [
+      "什么时候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-052",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "什么时候",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "날",
+    "trans": [
+      "天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-053",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "天",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "시험",
+    "trans": [
+      "考试"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-054",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "考试",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "졸업식",
+    "trans": [
+      "毕业典礼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-055",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "毕业典礼",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "파티",
+    "trans": [
+      "聚会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-056",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "聚会",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "부터",
+    "trans": [
+      "从"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-057",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "从",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "때",
+    "trans": [
+      "时"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-058",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "时",
+    "sourceTags": [],
+    "sourceNotes": "오늘이 몇 월 며칠이에요?"
+  },
+  {
+    "name": "아침",
+    "trans": [
+      "早上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-059",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "早上",
+    "sourceTags": [],
+    "sourceNotes": "일곱 시 반에 일어나요"
+  },
+  {
+    "name": "일어나다",
+    "trans": [
+      "起床"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-060",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "起床",
+    "sourceTags": [],
+    "sourceNotes": "일곱 시 반에 일어나요"
+  },
+  {
+    "name": "수업",
+    "trans": [
+      "课"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-061",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "课",
+    "sourceTags": [],
+    "sourceNotes": "일곱 시 반에 일어나요"
+  },
+  {
+    "name": "술",
+    "trans": [
+      "酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-062",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "酒",
+    "sourceTags": [],
+    "sourceNotes": "일곱 시 반에 일어나요"
+  },
+  {
+    "name": "마시다",
+    "trans": [
+      "喝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-063",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "喝",
+    "sourceTags": [],
+    "sourceNotes": "일곱 시 반에 일어나요"
+  },
+  {
+    "name": "세수하다",
+    "trans": [
+      "洗脸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-064",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "洗脸",
+    "sourceTags": [],
+    "sourceNotes": "일곱 시 반에 일어나요"
+  },
+  {
+    "name": "닦다",
+    "trans": [
+      "刷，擦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-065",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "刷，擦",
+    "sourceTags": [],
+    "sourceNotes": "일곱 시 반에 일어나요"
+  },
+  {
+    "name": "이를 닦다",
+    "trans": [
+      "刷牙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-066",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "刷牙",
+    "sourceTags": [],
+    "sourceNotes": "일곱 시 반에 일어나요"
+  },
+  {
+    "name": "타다",
+    "trans": [
+      "乘坐，搭乘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-067",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "乘坐，搭乘",
+    "sourceTags": [],
+    "sourceNotes": "일곱 시 반에 일어나요"
+  },
+  {
+    "name": "내리다",
+    "trans": [
+      "下来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-068",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "下来",
+    "sourceTags": [],
+    "sourceNotes": "일곱 시 반에 일어나요"
+  },
+  {
+    "name": "잠",
+    "trans": [
+      "(睡)觉，睡眠"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-069",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "(睡)觉，睡眠",
+    "sourceTags": [],
+    "sourceNotes": "일곱 시 반에 일어나요"
+  },
+  {
+    "name": "저녁",
+    "trans": [
+      "晚上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-070",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "晚上",
+    "sourceTags": [],
+    "sourceNotes": "일곱 시 반에 일어나요"
+  },
+  {
+    "name": "점심",
+    "trans": [
+      "中午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-071",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "中午",
+    "sourceTags": [],
+    "sourceNotes": "일곱 시 반에 일어나요"
+  },
+  {
+    "name": "식사",
+    "trans": [
+      "吃饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-072",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "吃饭",
+    "sourceTags": [],
+    "sourceNotes": "일곱 시 반에 일어나요"
+  },
+  {
+    "name": "어제",
+    "trans": [
+      "昨天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-073",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "昨天",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "아름답다",
+    "trans": [
+      "漂亮，好看"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-074",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "漂亮，好看",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "그제",
+    "trans": [
+      "前天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-075",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "前天",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "그저께",
+    "trans": [
+      "前天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-076",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "前天",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "이저께",
+    "trans": [
+      "昨天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-077",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "昨天",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "모레",
+    "trans": [
+      "后天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-078",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "后天",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "지난",
+    "trans": [
+      "上一个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-079",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "上一个",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "지난 주",
+    "trans": [
+      "上周"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-080",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "上周",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "이번",
+    "trans": [
+      "这个，这次"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-081",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "这个，这次",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "이번 주",
+    "trans": [
+      "这周"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-082",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "这周",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "다음",
+    "trans": [
+      "下次，下个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-083",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "下次，下个",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "다음 주",
+    "trans": [
+      "下周"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-084",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "下周",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "지난 달",
+    "trans": [
+      "上个月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-085",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "上个月",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "이번 달",
+    "trans": [
+      "这个月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-086",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "这个月",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "다음 달",
+    "trans": [
+      "下个月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-087",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "下个月",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "작년",
+    "trans": [
+      "去年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-088",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "去年",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "올해",
+    "trans": [
+      "今年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-089",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "今年",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "내년",
+    "trans": [
+      "明年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-090",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "明年",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "가다리다",
+    "trans": [
+      "等待"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-091",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "等待",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "운동장",
+    "trans": [
+      "运动场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-092",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "运动场",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "구두",
+    "trans": [
+      "皮鞋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-093",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "皮鞋",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "쉽다",
+    "trans": [
+      "简单"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-094",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "简单",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "어렵다",
+    "trans": [
+      "难"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-095",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "难",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "쇼핑",
+    "trans": [
+      "购物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-096",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "购物",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  },
+  {
+    "name": "기분",
+    "trans": [
+      "心情"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U05-097",
+    "sourceSheet": "B1U05",
+    "sourceMeaning": "心情",
+    "sourceTags": [],
+    "sourceNotes": "친구하고 무엇을 했어요?"
+  }
+]

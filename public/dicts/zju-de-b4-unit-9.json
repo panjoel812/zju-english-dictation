@@ -1,0 +1,1016 @@
+[
+  {
+    "name": "Verkehr",
+    "trans": [
+      "交通，交往"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-001",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "交通，交往",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verkünden",
+    "trans": [
+      "宣布，公布"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-002",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "宣布，公布",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vorstand",
+    "trans": [
+      "董事会，理事会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-003",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "董事会，理事会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fleck",
+    "trans": [
+      "污渍，斑点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-004",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "污渍，斑点",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abgehen",
+    "trans": [
+      "离开，（车）开走"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-005",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "离开，（车）开走",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zwingen",
+    "trans": [
+      "强迫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-006",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "强迫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bummeln",
+    "trans": [
+      "闲逛，溜达"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-007",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "闲逛，溜达",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überholen",
+    "trans": [
+      "超过，胜过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-008",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "超过，胜过",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "streichen",
+    "trans": [
+      "删去，划掉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-009",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "删去，划掉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tarif",
+    "trans": [
+      "价目表"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-010",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "价目表",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wirrwarr",
+    "trans": [
+      "混乱，杂乱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-011",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "混乱，杂乱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Panne",
+    "trans": [
+      "故障，损坏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-012",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "故障，损坏",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wochenlang",
+    "trans": [
+      "Adv. 数周之久"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-013",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "Adv. 数周之久",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "umrüsten",
+    "trans": [
+      "改换装备"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-014",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "改换装备",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Funk",
+    "trans": [
+      "无线电（广播），无线电台"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-015",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "无线电（广播），无线电台",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einsatz",
+    "trans": [
+      "使用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-016",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "使用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schalter",
+    "trans": [
+      "开关，（营业）窗口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-017",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "开关，（营业）窗口",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Personal",
+    "trans": [
+      "（全体）职工，（全体）职员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-018",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "（全体）职工，（全体）职员",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einsparung",
+    "trans": [
+      "节省，精简"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-019",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "节省，精简",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kiosk",
+    "trans": [
+      "书报亭，小卖部"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-020",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "书报亭，小卖部",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schlange",
+    "trans": [
+      "蛇，长队"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-021",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "蛇，长队",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "befürchten",
+    "trans": [
+      "担心，担忧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-022",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "担心，担忧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gewerkschaft",
+    "trans": [
+      "工会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-023",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "工会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kompetent",
+    "trans": [
+      "Adj. 有权威的，内行的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-024",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "Adj. 有权威的，内行的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "auskennen",
+    "trans": [
+      "熟悉，精通"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-025",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "熟悉，精通",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geburtswehen",
+    "trans": [
+      "（分娩时的）阵痛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-026",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "（分娩时的）阵痛",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Galgenhumor",
+    "trans": [
+      "痛苦的幽默"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-027",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "痛苦的幽默",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ironisch",
+    "trans": [
+      "Adj. 讽刺的，嘲弄的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-028",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "Adj. 讽刺的，嘲弄的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pendler",
+    "trans": [
+      "（在固定路线上）乘车上下班的人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-029",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "（在固定路线上）乘车上下班的人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Symptom",
+    "trans": [
+      "症状，征兆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-030",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "症状，征兆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "modernisieren",
+    "trans": [
+      "使现代化"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-031",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "使现代化",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "senken",
+    "trans": [
+      "使下沉，降低"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-032",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "使下沉，降低",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "buchen",
+    "trans": [
+      "预定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-033",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "预定",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schmutzig",
+    "trans": [
+      "Adj. 肮脏的；下流的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-034",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "Adj. 肮脏的；下流的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "leisten",
+    "trans": [
+      "做成，给予，提供"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-035",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "做成，给予，提供",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bremse",
+    "trans": [
+      "刹车，制动器"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-036",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "刹车，制动器",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Visum",
+    "trans": [
+      "签证"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-037",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "签证",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tempo",
+    "trans": [
+      "速度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-038",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "速度",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zurückführen",
+    "trans": [
+      "追溯，把......归因于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-039",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "追溯，把......归因于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Durchsage",
+    "trans": [
+      "广播通知"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-040",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "广播通知",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "voraussichtlich",
+    "trans": [
+      "Adj. 可能的，推测的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-041",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "Adj. 可能的，推测的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "planmäßig",
+    "trans": [
+      "Adj. 有计划的，按计划的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-042",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "Adj. 有计划的，按计划的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gleis",
+    "trans": [
+      "轨道，站台"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-043",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "轨道，站台",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hervorragend",
+    "trans": [
+      "Adj. 杰出的，突出的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-044",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "Adj. 杰出的，突出的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "speisen",
+    "trans": [
+      "用膳，进餐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-045",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "用膳，进餐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "glatt",
+    "trans": [
+      "Adv. 顺利的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-046",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "Adv. 顺利的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gepäck",
+    "trans": [
+      "行李，包裹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-047",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "行李，包裹",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Abflug",
+    "trans": [
+      "起飞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-048",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "起飞",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Arzneimittel",
+    "trans": [
+      "药，药物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-049",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "药，药物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verstauen",
+    "trans": [
+      "把......摆整齐，把......堆放好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-050",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "把......摆整齐，把......堆放好",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "griffbereit",
+    "trans": [
+      "Adj. 随手可取的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-051",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "Adj. 随手可取的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Thrombose",
+    "trans": [
+      "血栓形成"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-052",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "血栓形成",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Genuss",
+    "trans": [
+      "饮用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-053",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "饮用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zufuhr",
+    "trans": [
+      "供给，补给"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-054",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "供给，补给",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anschwellen",
+    "trans": [
+      "胀，肿胀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-055",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "胀，肿胀",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ratsam",
+    "trans": [
+      "Adj. 值得推荐的，可取的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-056",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "Adj. 值得推荐的，可取的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Durchblutung",
+    "trans": [
+      "供血"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-057",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "供血",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "behindern",
+    "trans": [
+      "阻碍，妨碍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-058",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "阻碍，妨碍",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vene",
+    "trans": [
+      "静脉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-059",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "静脉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schwäche",
+    "trans": [
+      "虚弱，衰弱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-060",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "虚弱，衰弱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bekanntlich",
+    "trans": [
+      "Adv. 众所周知"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-061",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "Adv. 众所周知",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einschränken",
+    "trans": [
+      "限制"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-062",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "限制",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ohnehin",
+    "trans": [
+      "本来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-063",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "本来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gang",
+    "trans": [
+      "通道，过道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-064",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "通道，过道",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ergattern",
+    "trans": [
+      "搞到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-065",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "搞到",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nacken",
+    "trans": [
+      "颈背，脖颈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-066",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "颈背，脖颈",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kissen",
+    "trans": [
+      "软垫，枕头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-067",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "软垫，枕头",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Muskulatur",
+    "trans": [
+      "肌肉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-068",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "肌肉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verspannt",
+    "trans": [
+      "Adj. 抽搐的，痉挛的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-069",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "Adj. 抽搐的，痉挛的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufblasen",
+    "trans": [
+      "（吹得）使鼓起，使充气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-070",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "（吹得）使鼓起，使充气",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schleimhaut",
+    "trans": [
+      "黏膜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-071",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "黏膜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "reizen",
+    "trans": [
+      "刺激"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-072",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "刺激",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anfällig",
+    "trans": [
+      "Adj. 无抵抗力的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-073",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "Adj. 无抵抗力的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Keim",
+    "trans": [
+      "病菌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-074",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "病菌",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stöpsel",
+    "trans": [
+      "塞子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-075",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "塞子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "stechen",
+    "trans": [
+      "痛如针刺"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-076",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "痛如针刺",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "in den Griff bekommen",
+    "trans": [
+      "掌握"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-077",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "掌握",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "umstellen",
+    "trans": [
+      "适应（变化的情况）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E9-078",
+    "sourceSheet": "B4E9",
+    "sourceMeaning": "适应（变化的情况）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

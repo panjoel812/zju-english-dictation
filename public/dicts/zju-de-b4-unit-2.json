@@ -1,0 +1,743 @@
+[
+  {
+    "name": "Maskottchen",
+    "trans": [
+      "吉祥物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-001",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "吉祥物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einläuten",
+    "trans": [
+      "摇铃宣布开始"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-002",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "摇铃宣布开始",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Phase",
+    "trans": [
+      "阶段，时期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-003",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "阶段，时期",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kandidatur",
+    "trans": [
+      "竞选，候选"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-004",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "竞选，候选",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einreichen",
+    "trans": [
+      "递交，提出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-005",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "递交，提出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kandidat",
+    "trans": [
+      "候选人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-006",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "候选人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausscheiden",
+    "trans": [
+      "被淘汰，退出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-007",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "被淘汰，退出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schluss",
+    "trans": [
+      "结束，结尾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-008",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "结束，结尾",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "feststehen",
+    "trans": [
+      "确定，定下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-009",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "确定，定下",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verkünden",
+    "trans": [
+      "宣布，宣告"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-010",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "宣布，宣告",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "durchsetzen",
+    "trans": [
+      "获得成功，达到目的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-011",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "获得成功，达到目的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausrichten",
+    "trans": [
+      "举办，主办"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-012",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "举办，主办",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zuletzt",
+    "trans": [
+      "Adv. 最后一次，终于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-013",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "Adv. 最后一次，终于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "letztlich",
+    "trans": [
+      "Adv. 最后，末了"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-014",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "Adv. 最后，末了",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "äußerst",
+    "trans": [
+      "Adv. 极其，十分"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-015",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "Adv. 极其，十分",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "knapp",
+    "trans": [
+      "Adj. 勉强的，差距微弱的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-016",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "Adj. 勉强的，差距微弱的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sieger",
+    "trans": [
+      "胜利者，获胜者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-017",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "胜利者，获胜者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nominieren",
+    "trans": [
+      "提名，任命"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-018",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "提名，任命",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ursprünglich",
+    "trans": [
+      "Adj. 最早的，原来的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-019",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "Adj. 最早的，原来的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vorsehen",
+    "trans": [
+      "计划，预先规定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-020",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "计划，预先规定",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Abstimmung",
+    "trans": [
+      "表决"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-021",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "表决",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "austragen",
+    "trans": [
+      "举行（比赛）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-022",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "举行（比赛）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beisegen",
+    "trans": [
+      "战胜，击败，克服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-023",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "战胜，击败，克服",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vergeben",
+    "trans": [
+      "分配，给予"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-024",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "分配，给予",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einräumen",
+    "trans": [
+      "把......让给"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-025",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "把......让给",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Persönlichkeit",
+    "trans": [
+      "人物，人士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-026",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "人物，人士",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Philosoph",
+    "trans": [
+      "哲学家，思想家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-027",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "哲学家，思想家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "angreifen",
+    "trans": [
+      "攻击，进攻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-028",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "攻击，进攻",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Publikum",
+    "trans": [
+      "公众，观众，听众"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-029",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "公众，观众，听众",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sekunde",
+    "trans": [
+      "秒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-030",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "秒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Foul",
+    "trans": [
+      "犯规"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-031",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "犯规",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Strafraum",
+    "trans": [
+      "禁区"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-032",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "禁区",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pfeifen",
+    "trans": [
+      "吹哨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-033",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "吹哨",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schiedsrichter",
+    "trans": [
+      "裁判员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-034",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "裁判员",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zugehen",
+    "trans": [
+      "走向，走近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-035",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "走向，走近",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nerv",
+    "trans": [
+      "神经"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-036",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "神经",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schlägerei",
+    "trans": [
+      "厮打，格斗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-037",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "厮打，格斗",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gegenstand",
+    "trans": [
+      "物件，东西，对象"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-038",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "物件，东西，对象",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "detonieren",
+    "trans": [
+      "爆炸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-039",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "爆炸",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schießen",
+    "trans": [
+      "射击；射门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-040",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "射击；射门",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Popularität",
+    "trans": [
+      "普及，流行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-041",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "普及，流行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Profi",
+    "trans": [
+      "职业选手"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-042",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "职业选手",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Jahrhundert",
+    "trans": [
+      "一百年，世纪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-043",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "一百年，世纪",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausüben",
+    "trans": [
+      "从事，执行，施加"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-044",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "从事，执行，施加",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "damalig",
+    "trans": [
+      "Adj. 那时的，当时的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-045",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "Adj. 那时的，当时的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "angeblich",
+    "trans": [
+      "Adj./Adv. 所谓的；据称"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-046",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "Adj./Adv. 所谓的；据称",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bogen",
+    "trans": [
+      "弓；弧线；纸张"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-047",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "弓；弧线；纸张",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ablenken",
+    "trans": [
+      "引开，移开，使分心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-048",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "引开，移开，使分心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vertiefen",
+    "trans": [
+      "加深，加强"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-049",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "加深，加强",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unterzeichnen",
+    "trans": [
+      "签署"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-050",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "签署",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verband",
+    "trans": [
+      "协会，联合会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-051",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "协会，联合会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dach",
+    "trans": [
+      "屋顶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-052",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "屋顶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausrichten",
+    "trans": [
+      "主办，筹办"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-053",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "主办，筹办",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gültig",
+    "trans": [
+      "Adj. 有效的，起作用的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-054",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "Adj. 有效的，起作用的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "registieren",
+    "trans": [
+      "登记，注册"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-055",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "登记，注册",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "siegen",
+    "trans": [
+      "取胜，战胜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-056",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "取胜，战胜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Träger",
+    "trans": [
+      "搬运者；承担者；获得者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E2-057",
+    "sourceSheet": "B4E2",
+    "sourceMeaning": "搬运者；承担者；获得者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

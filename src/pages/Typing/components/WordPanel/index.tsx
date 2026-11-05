@@ -7,7 +7,14 @@ import { focusMobileTypingInput } from './components/TextAreaHandler'
 import Translation from './components/Translation'
 import WordComponent from './components/Word'
 import { usePrefetchPronunciationSound } from '@/hooks/usePronunciation'
-import { isReviewModeAtom, isShowPrevAndNextWordAtom, loopWordConfigAtom, phoneticConfigAtom, reviewModeInfoAtom } from '@/store'
+import {
+  isReviewModeAtom,
+  isShowPrevAndNextWordAtom,
+  loopWordConfigAtom,
+  phoneticConfigAtom,
+  reviewModeInfoAtom,
+  wordDictationConfigAtom,
+} from '@/store'
 import type { Word } from '@/typings'
 import { useAtomValue, useSetAtom } from 'jotai'
 import { useCallback, useContext, useEffect, useMemo, useState } from 'react'
@@ -17,6 +24,7 @@ export default function WordPanel() {
   // eslint-disable-next-line  @typescript-eslint/no-non-null-assertion
   const { state, dispatch } = useContext(TypingContext)!
   const phoneticConfig = useAtomValue(phoneticConfigAtom)
+  const dictationConfig = useAtomValue(wordDictationConfigAtom)
   const isShowPrevAndNextWord = useAtomValue(isShowPrevAndNextWordAtom)
   const [wordComponentKey, setWordComponentKey] = useState(0)
   const [isAnswerTranslationVisible, setIsAnswerTranslationVisible] = useState(false)
@@ -155,7 +163,7 @@ export default function WordPanel() {
   }, [isAnswerTranslationVisible, isShowTranslation, state.isTransVisible])
 
   return (
-    <div className="container flex h-full w-full flex-col items-center justify-center">
+    <div className="container isolate flex h-full w-full flex-col items-center justify-center">
       <div className="container flex min-h-[4rem] w-full shrink-0 grow-0 justify-between gap-3 px-3 pt-4 sm:min-h-[6rem] sm:px-12 sm:pt-10">
         {isShowPrevAndNextWord && state.isTyping && (
           <>
@@ -188,14 +196,15 @@ export default function WordPanel() {
                 onFinish={onFinish}
                 onAnswerComplete={() => setIsAnswerTranslationVisible(true)}
                 resetKey={wordComponentKey}
-              />
-              {phoneticConfig.isOpen && <Phonetic word={currentWord} />}
-              <Translation
-                trans={currentWord.trans.join('；')}
-                showTrans={shouldShowTranslation}
-                onMouseEnter={() => handleShowTranslation(true)}
-                onMouseLeave={() => handleShowTranslation(false)}
-              />
+              >
+                {phoneticConfig.isOpen && !dictationConfig.isOpen && <Phonetic word={currentWord} />}
+                <Translation
+                  trans={currentWord.trans.join('；')}
+                  showTrans={shouldShowTranslation}
+                  onMouseEnter={() => handleShowTranslation(true)}
+                  onMouseLeave={() => handleShowTranslation(false)}
+                />
+              </WordComponent>
             </div>
           </div>
         )}

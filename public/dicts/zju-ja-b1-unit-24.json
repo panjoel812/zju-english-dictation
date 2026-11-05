@@ -1,0 +1,541 @@
+[
+  {
+    "name": "ハイキング",
+    "trans": [
+      "名 郊游，远足"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-001",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "郊游，远足",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おわかれ（お別れ）",
+    "trans": [
+      "名 分别，分手"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-002",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "分别，分手",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おわかれ",
+      "お別れ"
+    ],
+    "speech": "おわかれ"
+  },
+  {
+    "name": "はなし（話）",
+    "trans": [
+      "名 说话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-003",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "说话",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はなし",
+      "話"
+    ],
+    "speech": "はなし"
+  },
+  {
+    "name": "みおくり（見送り）",
+    "trans": [
+      "名 送行，送别"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-004",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "送行，送别",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みおくり",
+      "見送り"
+    ],
+    "speech": "みおくり"
+  },
+  {
+    "name": "あいだ（間）",
+    "trans": [
+      "名 时间，期间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-005",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "时间，期间",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あいだ",
+      "間"
+    ],
+    "speech": "あいだ"
+  },
+  {
+    "name": "ほうりつ（法律）",
+    "trans": [
+      "名 法律"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-006",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "法律",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほうりつ",
+      "法律"
+    ],
+    "speech": "ほうりつ"
+  },
+  {
+    "name": "おもいます（思います）",
+    "trans": [
+      "动1 想，思考"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-007",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "想，思考",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おもいます",
+      "思います"
+    ],
+    "speech": "おもいます"
+  },
+  {
+    "name": "いいます（言います）",
+    "trans": [
+      "动1 说，讲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-008",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "说，讲",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いいます",
+      "言います"
+    ],
+    "speech": "いいます"
+  },
+  {
+    "name": "さがします（探します）",
+    "trans": [
+      "动1 找，寻找，寻求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-009",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "找，寻找，寻求",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さがします",
+      "探します"
+    ],
+    "speech": "さがします"
+  },
+  {
+    "name": "わらいます（笑います）",
+    "trans": [
+      "动1 笑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-010",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "笑",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "わらいます",
+      "笑います"
+    ],
+    "speech": "わらいます"
+  },
+  {
+    "name": "やめます",
+    "trans": [
+      "动2 戒，停止，放弃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-011",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "戒，停止，放弃",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "きめます（決めます）",
+    "trans": [
+      "动2 决定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-012",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "决定",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きめます",
+      "決めます"
+    ],
+    "speech": "きめます"
+  },
+  {
+    "name": "ねぼうします（寝坊します）",
+    "trans": [
+      "动3 睡懒觉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-013",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "睡懒觉",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ねぼうします",
+      "寝坊します"
+    ],
+    "speech": "ねぼうします"
+  },
+  {
+    "name": "がいしゅつします（外出します）",
+    "trans": [
+      "动3 外出，出去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-014",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "外出，出去",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "がいしゅつします",
+      "外出します"
+    ],
+    "speech": "がいしゅつします"
+  },
+  {
+    "name": "けんきゅうします（研究します）",
+    "trans": [
+      "动3 研究"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-015",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "研究",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けんきゅうします",
+      "研究します"
+    ],
+    "speech": "けんきゅうします"
+  },
+  {
+    "name": "おかしい",
+    "trans": [
+      "形1 可笑，滑稽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-016",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "可笑，滑稽",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "いっぱい",
+    "trans": [
+      "副 满"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-017",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "满",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "すこい",
+    "trans": [
+      "副 惊人的，了不起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-018",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "惊人的，了不起",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "とうとう",
+    "trans": [
+      "副 终于，终究，到底"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-019",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "终于，终究，到底",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かならず（必ず）",
+    "trans": [
+      "副 一定，必定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-020",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "一定，必定",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かならず",
+      "必ず"
+    ],
+    "speech": "かならず"
+  },
+  {
+    "name": "ぜったいに（絶対に）",
+    "trans": [
+      "副 绝对"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-021",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "绝对",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぜったいに",
+      "絶対に"
+    ],
+    "speech": "ぜったいに"
+  },
+  {
+    "name": "ば（馬）",
+    "trans": [
+      "专 马"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-022",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "马",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ば",
+      "馬"
+    ],
+    "speech": "ば"
+  },
+  {
+    "name": "おせわになりました（お世話になりました）",
+    "trans": [
+      "承蒙照顾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-023",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "承蒙照顾",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おせわになりました",
+      "お世話になりました"
+    ],
+    "speech": "おせわになりました"
+  },
+  {
+    "name": "よろしくおつたえください（よろしくお伝えください）",
+    "trans": [
+      "请代问好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-024",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "请代问好",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "よろしくおつたえください",
+      "よろしくお伝えください"
+    ],
+    "speech": "よろしくおつたえください"
+  },
+  {
+    "name": "おげんきで（お元気で）",
+    "trans": [
+      "请多保重"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-025",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "请多保重",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おげんきで",
+      "お元気で"
+    ],
+    "speech": "おげんきで"
+  },
+  {
+    "name": "おきをつけて（お気をつけて）",
+    "trans": [
+      "小心点儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-026",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "小心点儿",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おきをつけて",
+      "お気をつけて"
+    ],
+    "speech": "おきをつけて"
+  },
+  {
+    "name": "さようなら",
+    "trans": [
+      "再见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-027",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "再见",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "どうやって",
+    "trans": [
+      "怎样，如何"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-028",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "怎样，如何",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "やくにたちます（役に立ちます）",
+    "trans": [
+      "有用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-029",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "有用",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やくにたちます",
+      "役に立ちます"
+    ],
+    "speech": "やくにたちます"
+  },
+  {
+    "name": "おなかがいっぱいです",
+    "trans": [
+      "吃饱，饱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U24-030",
+    "sourceSheet": "B1U24",
+    "sourceMeaning": "吃饱，饱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

@@ -1,0 +1,757 @@
+[
+  {
+    "name": "しなもの（品物）",
+    "trans": [
+      "名 物品，商品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-001",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "物品，商品",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しなもの",
+      "品物"
+    ],
+    "speech": "しなもの"
+  },
+  {
+    "name": "おさら（お皿）",
+    "trans": [
+      "名 盘子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-002",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "盘子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おさら",
+      "お皿"
+    ],
+    "speech": "おさら"
+  },
+  {
+    "name": "ごみ",
+    "trans": [
+      "名 垃圾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-003",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "垃圾",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しょしんしゃ（初心者）",
+    "trans": [
+      "名 初学者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-004",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "初学者",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょしんしゃ",
+      "初心者"
+    ],
+    "speech": "しょしんしゃ"
+  },
+  {
+    "name": "じょうきゅうしゃ（上級者）",
+    "trans": [
+      "名 熟练者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-005",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "熟练者",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じょうきゅうしゃ",
+      "上級者"
+    ],
+    "speech": "じょうきゅうしゃ"
+  },
+  {
+    "name": "こうきゅう（高級）",
+    "trans": [
+      "名 高级"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-006",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "高级",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうきゅう",
+      "高級"
+    ],
+    "speech": "こうきゅう"
+  },
+  {
+    "name": "じょうきゅうクラス（上級クラス）",
+    "trans": [
+      "名 高级班"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-007",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "高级班",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じょうきゅうクラス",
+      "上級クラス"
+    ],
+    "speech": "じょうきゅうクラス"
+  },
+  {
+    "name": "えいかいわ（英会話）",
+    "trans": [
+      "名 英语会话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-008",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "英语会话",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "えいかいわ",
+      "英会話"
+    ],
+    "speech": "えいかいわ"
+  },
+  {
+    "name": "コース",
+    "trans": [
+      "名 路线，滑道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-009",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "路线，滑道",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "スキー",
+    "trans": [
+      "名 滑雪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-010",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "滑雪",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "レポート",
+    "trans": [
+      "名 报告"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-011",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "报告",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "パスポート",
+    "trans": [
+      "名 护照"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-012",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "护照",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "のど",
+    "trans": [
+      "名 喉咙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-013",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "喉咙",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "さわります（触ります）",
+    "trans": [
+      "动1 碰，触"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-014",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "碰，触",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さわります",
+      "触ります"
+    ],
+    "speech": "さわります"
+  },
+  {
+    "name": "ぬぎます（脱ぎます）",
+    "trans": [
+      "动1 脱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-015",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "脱",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぬぎます",
+      "脱ぎます"
+    ],
+    "speech": "ぬぎます"
+  },
+  {
+    "name": "ころびます（転びます）",
+    "trans": [
+      "动1 摔，摔倒，跌倒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-016",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "摔，摔倒，跌倒",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ころびます",
+      "転びます"
+    ],
+    "speech": "ころびます"
+  },
+  {
+    "name": "かわきます（渇きます）",
+    "trans": [
+      "动1 渴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-017",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "渴",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かわきます",
+      "渇きます"
+    ],
+    "speech": "かわきます"
+  },
+  {
+    "name": "なおります（治ります）",
+    "trans": [
+      "动1 痊愈，医好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-018",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "痊愈，医好",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "なおります",
+      "治ります"
+    ],
+    "speech": "なおります"
+  },
+  {
+    "name": "すべります（滑ります）",
+    "trans": [
+      "动1 滑，滑行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-019",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "滑，滑行",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すべります",
+      "滑ります"
+    ],
+    "speech": "すべります"
+  },
+  {
+    "name": "よびます（呼びます）",
+    "trans": [
+      "动1 呼喊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-020",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "呼喊",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "よびます",
+      "呼びます"
+    ],
+    "speech": "よびます"
+  },
+  {
+    "name": "かえします（返します）",
+    "trans": [
+      "动1 归还"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-021",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "归还",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かえします",
+      "返します"
+    ],
+    "speech": "かえします"
+  },
+  {
+    "name": "てつだいます（手伝います）",
+    "trans": [
+      "动1 帮忙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-022",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "帮忙",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てつだいます",
+      "手伝います"
+    ],
+    "speech": "てつだいます"
+  },
+  {
+    "name": "はこびます（運びます）",
+    "trans": [
+      "动1 搬运"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-023",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "搬运",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はこびます",
+      "運びます"
+    ],
+    "speech": "はこびます"
+  },
+  {
+    "name": "なくします",
+    "trans": [
+      "动1 丢，丢失"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-024",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "丢，丢失",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おとします（落とします）",
+    "trans": [
+      "动1 掉，使落下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-025",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "掉，使落下",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おとします",
+      "落とします"
+    ],
+    "speech": "おとします"
+  },
+  {
+    "name": "おきます（置きます）",
+    "trans": [
+      "动1 放置"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-026",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "放置",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おきます",
+      "置きます"
+    ],
+    "speech": "おきます"
+  },
+  {
+    "name": "はらいます（払います）",
+    "trans": [
+      "动1 支付"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-027",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "支付",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はらいます",
+      "払います"
+    ],
+    "speech": "はらいます"
+  },
+  {
+    "name": "たちます（立ちます）",
+    "trans": [
+      "动1 站，立"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-028",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "站，立",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たちます",
+      "立ちます"
+    ],
+    "speech": "たちます"
+  },
+  {
+    "name": "わすれます（忘れます）",
+    "trans": [
+      "动2 忘记"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-029",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "忘记",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "わすれます",
+      "忘れます"
+    ],
+    "speech": "わすれます"
+  },
+  {
+    "name": "あわてます（慌てます）",
+    "trans": [
+      "动2 慌张，惊慌，着急"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-030",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "慌张，惊慌，着急",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あわてます",
+      "慌てます"
+    ],
+    "speech": "あわてます"
+  },
+  {
+    "name": "すてます（捨てます）",
+    "trans": [
+      "动2 扔，扔掉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-031",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "扔，扔掉",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すてます",
+      "捨てます"
+    ],
+    "speech": "すてます"
+  },
+  {
+    "name": "ざんぎょうします（残業します）",
+    "trans": [
+      "动2 加班"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-032",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "加班",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ざんぎょうします",
+      "残業します"
+    ],
+    "speech": "ざんぎょうします"
+  },
+  {
+    "name": "しんぱいします（心配します）",
+    "trans": [
+      "动3 担心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-033",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "担心",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しんぱいします",
+      "心配します"
+    ],
+    "speech": "しんぱいします"
+  },
+  {
+    "name": "ほんとう（本当）",
+    "trans": [
+      "形2 真的，真正"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-034",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "真的，真正",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほんとう",
+      "本当"
+    ],
+    "speech": "ほんとう"
+  },
+  {
+    "name": "はやく（早く）",
+    "trans": [
+      "副 早点儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-035",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "早点儿",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はやく",
+      "早く"
+    ],
+    "speech": "はやく"
+  },
+  {
+    "name": "やっと",
+    "trans": [
+      "副 好不容易，终于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-036",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "好不容易，终于",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "だいぶ",
+    "trans": [
+      "副 很，相当地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-037",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "很，相当地",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "はじめて（初めて）",
+    "trans": [
+      "副 第一次"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-038",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "第一次",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はじめて",
+      "初めて"
+    ],
+    "speech": "はじめて"
+  },
+  {
+    "name": "さきに（先に）",
+    "trans": [
+      "副 先"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-039",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "先",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さきに",
+      "先に"
+    ],
+    "speech": "さきに"
+  },
+  {
+    "name": "やまだ（山田）",
+    "trans": [
+      "专 山田"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U19-040",
+    "sourceSheet": "B1U19",
+    "sourceMeaning": "山田",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やまだ",
+      "山田"
+    ],
+    "speech": "やまだ"
+  }
+]

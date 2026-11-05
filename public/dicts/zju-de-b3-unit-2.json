@@ -1,0 +1,1276 @@
+[
+  {
+    "name": "Jeans",
+    "trans": [
+      "牛仔裤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-001",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "牛仔裤",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rock",
+    "trans": [
+      "短裙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-002",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "短裙",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Strickjacke",
+    "trans": [
+      "针织开衫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-003",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "针织开衫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Weste",
+    "trans": [
+      "背心，马甲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-004",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "背心，马甲",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kostüm",
+    "trans": [
+      "女式套裙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-005",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "女式套裙",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sakko",
+    "trans": [
+      "男式休闲西服上衣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-006",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "男式休闲西服上衣",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Top",
+    "trans": [
+      "吊带衫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-007",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "吊带衫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Krawatte",
+    "trans": [
+      "领带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-008",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "领带",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tuch",
+    "trans": [
+      "丝巾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-009",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "丝巾",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schal",
+    "trans": [
+      "围巾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-010",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "围巾",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gürtel",
+    "trans": [
+      "皮带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-011",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "皮带",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lederschuh",
+    "trans": [
+      "皮鞋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-012",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "皮鞋",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Turnschuh",
+    "trans": [
+      "运动鞋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-013",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "运动鞋",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kleidungsstück",
+    "trans": [
+      "衣服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-014",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "衣服",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Beratung",
+    "trans": [
+      "咨询，指导"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-015",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "咨询，指导",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ungeeignet",
+    "trans": [
+      "Adj. 不适合的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-016",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 不适合的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beurteilen",
+    "trans": [
+      "判断，评价"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-017",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "判断，评价",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Aufmerksamkeit",
+    "trans": [
+      "关注，注意力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-018",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "关注，注意力",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entscheiden",
+    "trans": [
+      "决定，确定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-019",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "决定，确定",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gepflegt",
+    "trans": [
+      "Adj. 注意修饰的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-020",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 注意修饰的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gesamteindruck",
+    "trans": [
+      "整体印象"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-021",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "整体印象",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "passen",
+    "trans": [
+      "相配，相称"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-022",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "相配，相称",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kombinieren",
+    "trans": [
+      "使配上，使与......组合"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-023",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "使配上，使与......组合",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schmuck",
+    "trans": [
+      "首饰，饰物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-024",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "首饰，饰物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fingernagel",
+    "trans": [
+      "手指甲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-025",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "手指甲",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schlicht",
+    "trans": [
+      "Adj. 朴实无华的，简单的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-026",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 朴实无华的，简单的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "elegant",
+    "trans": [
+      "Adj. 时髦的，优雅的，漂亮的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-027",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 时髦的，优雅的，漂亮的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kompliment",
+    "trans": [
+      "客套，恭维，献殷勤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-028",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "客套，恭维，献殷勤",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ausstrahlung",
+    "trans": [
+      "魅力，风彩"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-029",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "魅力，风彩",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "negativ",
+    "trans": [
+      "Adj. 不利的，消极的，负面的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-030",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 不利的，消极的，负面的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beeinflussen",
+    "trans": [
+      "影响"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-031",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "影响",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einfluss",
+    "trans": [
+      "影响，作用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-032",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "影响，作用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ablaufen",
+    "trans": [
+      "进行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-033",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "进行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unbewusst",
+    "trans": [
+      "Adj. 无意识的，不自觉的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-034",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 无意识的，不自觉的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kontrolle",
+    "trans": [
+      "控制，监督；检查"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-035",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "控制，监督；检查",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kreativität",
+    "trans": [
+      "创造性，独创性"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-036",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "创造性，独创性",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gefragt",
+    "trans": [
+      "Adj. 受人欢迎的，热门的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-037",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 受人欢迎的，热门的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ausgeglichenheit",
+    "trans": [
+      "稳健"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-038",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "稳健",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "altmodisch",
+    "trans": [
+      "Adj. 不合时宜的，守旧的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-039",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 不合时宜的，守旧的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kommunizieren",
+    "trans": [
+      "交流，交际"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-040",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "交流，交际",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mittelpunkt",
+    "trans": [
+      "中心，焦点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-041",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "中心，焦点",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erregen",
+    "trans": [
+      "引起，使产生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-042",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "引起，使产生",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Reinheit",
+    "trans": [
+      "纯洁；洁净，纯净"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-043",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "纯洁；洁净，纯净",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "garantieren",
+    "trans": [
+      "保证，保障"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-044",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "保证，保障",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "professionell",
+    "trans": [
+      "Adj. 职业的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-045",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 职业的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Look",
+    "trans": [
+      "时装的式样"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-046",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "时装的式样",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Respekt",
+    "trans": [
+      "尊敬，敬重"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-047",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "尊敬，敬重",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "distanzieren",
+    "trans": [
+      "疏远"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-048",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "疏远",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Journalistin",
+    "trans": [
+      "女记者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-049",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "女记者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bequem",
+    "trans": [
+      "Adj. 舒服的，舒适的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-050",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 舒服的，舒适的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "modisch",
+    "trans": [
+      "Adj. 时髦的，流行的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-051",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 时髦的，流行的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anlass",
+    "trans": [
+      "机会，时刻，动机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-052",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "机会，时刻，动机",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stil",
+    "trans": [
+      "风格，方式"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-053",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "风格，方式",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Trend",
+    "trans": [
+      "流行趋势"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-054",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "流行趋势",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kragen",
+    "trans": [
+      "领子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-055",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "领子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schlitz",
+    "trans": [
+      "（衣服上的）开口，裂缝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-056",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "（衣服上的）开口，裂缝",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "versehen",
+    "trans": [
+      "给......装上，给......配备"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-057",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "给......装上，给......配备",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ursprung",
+    "trans": [
+      "起源，发祥地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-058",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "起源，发祥地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Volksstamm",
+    "trans": [
+      "种族，部落"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-059",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "种族，部落",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "militärisch",
+    "trans": [
+      "Adj. 军事的，军队的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-060",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 军事的，军队的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stratege",
+    "trans": [
+      "战略家，统帅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-061",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "战略家，统帅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einführen",
+    "trans": [
+      "采用，提倡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-062",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "采用，提倡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "röhrenförmig",
+    "trans": [
+      "Adj. 筒形的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-063",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 筒形的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gewand",
+    "trans": [
+      "长袍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-064",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "长袍",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vorläufer",
+    "trans": [
+      "前辈，先锋，先辈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-065",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "前辈，先锋，先辈",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bezeichnen",
+    "trans": [
+      "把......称为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-066",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "把......称为",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "populär",
+    "trans": [
+      "Adj. 受欢迎的，流行的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-067",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 受欢迎的，流行的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dynastie",
+    "trans": [
+      "朝，朝代"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-068",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "朝，朝代",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gewöhnlich",
+    "trans": [
+      "Adv. 通常，一般"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-069",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adv. 通常，一般",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Seide",
+    "trans": [
+      "丝绸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-070",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "丝绸",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verzieren",
+    "trans": [
+      "装饰，点缀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-071",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "装饰，点缀",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ärmel",
+    "trans": [
+      "袖子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-072",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "袖子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Saum",
+    "trans": [
+      "（衣服上的）镶边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-073",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "（衣服上的）镶边",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Borte",
+    "trans": [
+      "滚边，镶边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-074",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "滚边，镶边",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "besetzen",
+    "trans": [
+      "镶上，缝上；占据，占用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-075",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "镶上，缝上；占据，占用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "außerhalb",
+    "trans": [
+      "Präp. 在......之外"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-076",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Präp. 在......之外",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vollziehen",
+    "trans": [
+      "实施，进行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-077",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "实施，进行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Aufschlag",
+    "trans": [
+      "（衣服的）翻边，翻领"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-078",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "（衣服的）翻边，翻领",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schmal",
+    "trans": [
+      "Adj. 狭窄的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-079",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 狭窄的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anpassung",
+    "trans": [
+      "调整，适应"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-080",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "调整，适应",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erlauben",
+    "trans": [
+      "使有可能，允许"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-081",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "使有可能，允许",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "weiblich",
+    "trans": [
+      "Adj. 女性的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-082",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adj. 女性的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hervorheben",
+    "trans": [
+      "突出，强调"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-083",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "突出，强调",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "existieren",
+    "trans": [
+      "存在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-084",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "存在",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Muster",
+    "trans": [
+      "图案；模型，样本"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-085",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "图案；模型，样本",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "glänzen",
+    "trans": [
+      "引人注目，发光"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-086",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "引人注目，发光",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vielzahl",
+    "trans": [
+      "大量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-087",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "大量",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schätzen",
+    "trans": [
+      "认为有价值，重视；估计"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-088",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "认为有价值，重视；估计",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Diplomat",
+    "trans": [
+      "外交官"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-089",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "外交官",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Veranstaltung",
+    "trans": [
+      "活动，集会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-090",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "活动，集会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erscheinen",
+    "trans": [
+      "出席，到场；出现，出版"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-091",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "出席，到场；出现，出版",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wahl",
+    "trans": [
+      "选择，选举"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-092",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "选择，选举",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bereits",
+    "trans": [
+      "Adv. 已经"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-093",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adv. 已经",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anregen",
+    "trans": [
+      "建议，发起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-094",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "建议，发起",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "heutzutage",
+    "trans": [
+      "Adv. 目前，现今"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-095",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Adv. 目前，现今",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufgrund",
+    "trans": [
+      "Präp. 根据，基于，由于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-096",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "Präp. 根据，基于，由于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Inspiration",
+    "trans": [
+      "灵感"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-097",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "灵感",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Modedesigner",
+    "trans": [
+      "时装设计师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E2-098",
+    "sourceSheet": "B3E2",
+    "sourceMeaning": "时装设计师",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

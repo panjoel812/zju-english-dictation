@@ -1,4 +1,5 @@
-import { pronunciationConfigAtom } from '@/store'
+import { LANG_PRON_MAP } from '@/resources/soundResource'
+import { currentDictInfoAtom, pronunciationConfigAtom } from '@/store'
 import type { PronunciationType } from '@/typings'
 import { romajiToHiragana } from '@/utils/kana'
 import { Howl } from 'howler'
@@ -32,11 +33,63 @@ export function generateWordSoundSrc(word: string, pronunciation: Exclude<Pronun
 
 export default function usePronunciationSound(word: string, isLoop?: boolean) {
   const pronunciationConfig = useAtomValue(pronunciationConfigAtom)
+  const dictionary = useAtomValue(currentDictInfoAtom)
+  const voices = LANG_PRON_MAP[dictionary.language].pronunciation
+  const pronunciation = voices.find((voice) => voice.pron === pronunciationConfig.type) ?? voices[0]
   const loop = useMemo(() => (typeof isLoop === 'boolean' ? isLoop : pronunciationConfig.isLoop), [isLoop, pronunciationConfig.isLoop])
   const [isPlaying, setIsPlaying] = useState(false)
   const soundRef = useRef<{ sound: Howl; source: string } | null>(null)
   const pendingSourceRef = useRef<string | null>(null)
-  const source = generateWordSoundSrc(word, pronunciationConfig.type)
+  const nativeRef = useRef<SpeechSynthesisUtterance | null>(null)
+  const nativeSettings = useRef({
+    word,
+    lang: dictionary.speechLang,
+    loop,
+    volume: pronunciationConfig.volume,
+    rate: pronunciationConfig.rate,
+  })
+  nativeSettings.current = { word, lang: dictionary.speechLang, loop, volume: pronunciationConfig.volume, rate: pronunciationConfig.rate }
+  const source = dictionary.speechLang ? '' : generateWordSoundSrc(word, pronunciation.pron)
+
+  useEffect(() => {
+    setIsPlaying(false)
+    return () => {
+      if (nativeRef.current) {
+        nativeRef.current = null
+        window.speechSynthesis?.cancel()
+      }
+    }
+  }, [word, dictionary.speechLang])
+
+  const playNative = useCallback(function speak() {
+    const settings = nativeSettings.current
+    if (!settings.lang || !window.speechSynthesis || typeof SpeechSynthesisUtterance === 'undefined') return
+    const utterance = new SpeechSynthesisUtterance(settings.word)
+    utterance.lang = settings.lang
+    utterance.volume = settings.volume
+    utterance.rate = settings.rate ?? 1
+    const voice = window.speechSynthesis.getVoices().find((voice) => voice.lang.toLowerCase() === settings.lang?.toLowerCase())
+    if (voice) utterance.voice = voice
+    nativeRef.current = null
+    window.speechSynthesis.cancel()
+    nativeRef.current = utterance
+    utterance.onstart = () => {
+      if (nativeRef.current === utterance) setIsPlaying(true)
+    }
+    utterance.onend = () => {
+      if (nativeRef.current !== utterance) return
+      nativeRef.current = null
+      setIsPlaying(false)
+      if (nativeSettings.current.loop) speak()
+    }
+    utterance.onerror = () => {
+      if (nativeRef.current === utterance) {
+        nativeRef.current = null
+        setIsPlaying(false)
+      }
+    }
+    window.speechSynthesis.speak(utterance)
+  }, [])
 
   // Bind the current source before parent autoplay runs; keep loading requests
   // cancellable so pausing or skipping cannot play a stale word later.
@@ -77,6 +130,10 @@ export default function usePronunciationSound(word: string, isLoop?: boolean) {
   }, [source, loop, pronunciationConfig.volume, pronunciationConfig.rate])
 
   const play = useCallback(() => {
+    if (nativeSettings.current.lang) {
+      playNative()
+      return
+    }
     const current = soundRef.current
     if (!current) return
     const { sound, source } = current
@@ -87,9 +144,14 @@ export default function usePronunciationSound(word: string, isLoop?: boolean) {
       pendingSourceRef.current = source
       if (sound.state() === 'unloaded') sound.load()
     }
-  }, [])
+  }, [playNative])
 
   const stop = useCallback(() => {
+    if (nativeRef.current) {
+      nativeRef.current = null
+      window.speechSynthesis?.cancel()
+      setIsPlaying(false)
+    }
     pendingSourceRef.current = null
     if (soundRef.current?.sound.state() === 'loaded') soundRef.current.sound.stop()
   }, [])
@@ -99,9 +161,10 @@ export default function usePronunciationSound(word: string, isLoop?: boolean) {
 
 export function usePrefetchPronunciationSound(word: string | undefined) {
   const pronunciationConfig = useAtomValue(pronunciationConfigAtom)
+  const dictionary = useAtomValue(currentDictInfoAtom)
 
   useEffect(() => {
-    if (!word) return
+    if (!word || dictionary.speechLang) return
 
     const soundUrl = generateWordSoundSrc(word, pronunciationConfig.type)
     if (soundUrl === '') return
@@ -124,5 +187,5 @@ export function usePrefetchPronunciationSound(word: string | undefined) {
         head.removeChild(audio)
       }
     }
-  }, [pronunciationConfig.type, word])
+  }, [pronunciationConfig.type, word, dictionary.speechLang])
 }

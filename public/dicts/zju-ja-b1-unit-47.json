@@ -1,0 +1,300 @@
+[
+  {
+    "name": "したみ（下見）",
+    "trans": [
+      "名 视察"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-001",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "视察",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "したみ",
+      "下見"
+    ],
+    "speech": "したみ"
+  },
+  {
+    "name": "スタッフ",
+    "trans": [
+      "名 职员，同事"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-002",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "职员，同事",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おこさん（お子さん）",
+    "trans": [
+      "名 您的孩子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-003",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "您的孩子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おこさん",
+      "お子さん"
+    ],
+    "speech": "おこさん"
+  },
+  {
+    "name": "めしあがります（召し上がります）",
+    "trans": [
+      "动1 （尊他）吃，喝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-004",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "（尊他）吃，喝",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "めしあがります",
+      "召し上がります"
+    ],
+    "speech": "めしあがります"
+  },
+  {
+    "name": "ごらんになります（ご覧になります）",
+    "trans": [
+      "动1 （尊他）看，读"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-005",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "（尊他）看，读",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ごらんになります",
+      "ご覧になります"
+    ],
+    "speech": "ごらんになります"
+  },
+  {
+    "name": "おっしゃいます",
+    "trans": [
+      "动1 （尊他）说，讲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-006",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "（尊他）说，讲",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "いらっしゃいます",
+    "trans": [
+      "动1 （尊他）去，来，在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-007",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "（尊他）去，来，在",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おいでになります",
+    "trans": [
+      "动1 （尊他）去，来，在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-008",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "（尊他）去，来，在",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "なさいます",
+    "trans": [
+      "动1 （尊他）做，干"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-009",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "（尊他）做，干",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "くださいます",
+    "trans": [
+      "动1 （尊他）给"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-010",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "（尊他）给",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "チェックインします",
+    "trans": [
+      "动3 办理入住手续"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-011",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "办理入住手续",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ちょっこうします（直行します）",
+    "trans": [
+      "动3 直接去，直达"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-012",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "直接去，直达",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちょっこうします",
+      "直行します"
+    ],
+    "speech": "ちょっこうします"
+  },
+  {
+    "name": "さきほど（先ほど）",
+    "trans": [
+      "副 刚才，方才"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-013",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "刚才，方才",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さきほど",
+      "先ほど"
+    ],
+    "speech": "さきほど"
+  },
+  {
+    "name": "きむら（木村）",
+    "trans": [
+      "专 木村"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-014",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "木村",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きむら",
+      "木村"
+    ],
+    "speech": "きむら"
+  },
+  {
+    "name": "こう（黄）",
+    "trans": [
+      "专 黄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-015",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "黄",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こう",
+      "黄"
+    ],
+    "speech": "こう"
+  },
+  {
+    "name": "ペキンくうこう（北京空港）",
+    "trans": [
+      "专 北京机场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-016",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "北京机场",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ペキンくうこう",
+      "北京空港"
+    ],
+    "speech": "ペキンくうこう"
+  },
+  {
+    "name": "ごぞんじです（ご存じです）（尊他）",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U47-017",
+    "sourceSheet": "B1U47",
+    "sourceMeaning": "知道",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

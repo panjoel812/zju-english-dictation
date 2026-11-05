@@ -1,0 +1,1017 @@
+[
+  {
+    "name": "ちゅうごくじん（中国人）",
+    "trans": [
+      "名 中国人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-001",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "中国人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちゅうごくじん",
+      "中国人"
+    ],
+    "speech": "ちゅうごくじん"
+  },
+  {
+    "name": "にほんじん（日本人）",
+    "trans": [
+      "名 日本人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-002",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "日本人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にほんじん",
+      "日本人"
+    ],
+    "speech": "にほんじん"
+  },
+  {
+    "name": "かんこくじん（韓国人）",
+    "trans": [
+      "名 韩国人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-003",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "韩国人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんこくじん",
+      "韓国人"
+    ],
+    "speech": "かんこくじん"
+  },
+  {
+    "name": "アメリカじん（アメリカ人）",
+    "trans": [
+      "名 美国人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-004",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "美国人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "アメリカじん",
+      "アメリカ人"
+    ],
+    "speech": "アメリカじん"
+  },
+  {
+    "name": "フランスじん（フランス人）",
+    "trans": [
+      "名 法国人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-005",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "法国人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "フランスじん",
+      "フランス人"
+    ],
+    "speech": "フランスじん"
+  },
+  {
+    "name": "がくせい（学生）",
+    "trans": [
+      "名 （大）学生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-006",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "（大）学生",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "がくせい",
+      "学生"
+    ],
+    "speech": "がくせい"
+  },
+  {
+    "name": "せんせい（先生）",
+    "trans": [
+      "名 老师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-007",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "老师",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せんせい",
+      "先生"
+    ],
+    "speech": "せんせい"
+  },
+  {
+    "name": "りゅうがくせい（留学生）",
+    "trans": [
+      "名 留学生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-008",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "留学生",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りゅうがくせい",
+      "留学生"
+    ],
+    "speech": "りゅうがくせい"
+  },
+  {
+    "name": "きょうじゅ（教授）",
+    "trans": [
+      "名 教授"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-009",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "教授",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きょうじゅ",
+      "教授"
+    ],
+    "speech": "きょうじゅ"
+  },
+  {
+    "name": "しゃいん（社員）",
+    "trans": [
+      "名 职员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-010",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "职员",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゃいん",
+      "社員"
+    ],
+    "speech": "しゃいん"
+  },
+  {
+    "name": "かいしゃいん（会社員）",
+    "trans": [
+      "名 公司职员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-011",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "公司职员",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいしゃいん",
+      "会社員"
+    ],
+    "speech": "かいしゃいん"
+  },
+  {
+    "name": "てんいん（店員）",
+    "trans": [
+      "名 店员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-012",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "店员",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てんいん",
+      "店員"
+    ],
+    "speech": "てんいん"
+  },
+  {
+    "name": "けんしゅうせい（研修生）",
+    "trans": [
+      "名 进修生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-013",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "进修生",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けんしゅうせい",
+      "研修生"
+    ],
+    "speech": "けんしゅうせい"
+  },
+  {
+    "name": "きぎょう（企業）",
+    "trans": [
+      "名 企业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-014",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "企业",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きぎょう",
+      "企業"
+    ],
+    "speech": "きぎょう"
+  },
+  {
+    "name": "だいがく（大学）",
+    "trans": [
+      "名 大学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-015",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "大学",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "だいがく",
+      "大学"
+    ],
+    "speech": "だいがく"
+  },
+  {
+    "name": "ちち（父）",
+    "trans": [
+      "名 （我）父亲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-016",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "（我）父亲",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちち",
+      "父"
+    ],
+    "speech": "ちち"
+  },
+  {
+    "name": "かちょう（課長）",
+    "trans": [
+      "名 科长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-017",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "科长",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かちょう",
+      "課長"
+    ],
+    "speech": "かちょう"
+  },
+  {
+    "name": "しゃちょう（社長）",
+    "trans": [
+      "名 总经理，社长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-018",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "总经理，社长",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゃちょう",
+      "社長"
+    ],
+    "speech": "しゃちょう"
+  },
+  {
+    "name": "でむかえ（出迎え）",
+    "trans": [
+      "名 迎接"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-019",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "迎接",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "でむかえ",
+      "出迎え"
+    ],
+    "speech": "でむかえ"
+  },
+  {
+    "name": "あのひと（あの人）",
+    "trans": [
+      "名 那个人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-020",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "那个人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あのひと",
+      "あの人"
+    ],
+    "speech": "あのひと"
+  },
+  {
+    "name": "をたし",
+    "trans": [
+      "代 我"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-021",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "我",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あなた",
+    "trans": [
+      "代 你"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-022",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "你",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "どうも",
+    "trans": [
+      "副 非常，很"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-023",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "非常，很",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "はい",
+    "trans": [
+      "叹 哎，是（应答）；是的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-024",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "哎，是（应答）；是的",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "いいえ",
+    "trans": [
+      "叹 不，不是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-025",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "不，不是",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あっ",
+    "trans": [
+      "叹 哎，哎呀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-026",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "哎，哎呀",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "り（李）",
+    "trans": [
+      "专 李"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-027",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "李",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "り",
+      "李"
+    ],
+    "speech": "り"
+  },
+  {
+    "name": "おう（王）",
+    "trans": [
+      "专 王"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-028",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "王",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おう",
+      "王"
+    ],
+    "speech": "おう"
+  },
+  {
+    "name": "ちょう（張）",
+    "trans": [
+      "专 张"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-029",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "张",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちょう",
+      "張"
+    ],
+    "speech": "ちょう"
+  },
+  {
+    "name": "もり（森）",
+    "trans": [
+      "专 森"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-030",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "森",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "もり",
+      "森"
+    ],
+    "speech": "もり"
+  },
+  {
+    "name": "はやし（林）",
+    "trans": [
+      "专 林"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-031",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "林",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はやし",
+      "林"
+    ],
+    "speech": "はやし"
+  },
+  {
+    "name": "おの（小野）",
+    "trans": [
+      "专 小野"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-032",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "小野",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おの",
+      "小野"
+    ],
+    "speech": "おの"
+  },
+  {
+    "name": "よしだ（吉田）",
+    "trans": [
+      "专 吉田"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-033",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "吉田",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "よしだ",
+      "吉田"
+    ],
+    "speech": "よしだ"
+  },
+  {
+    "name": "たなか（田中）",
+    "trans": [
+      "专 田中"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-034",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "田中",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たなか",
+      "田中"
+    ],
+    "speech": "たなか"
+  },
+  {
+    "name": "なかむら（中村）",
+    "trans": [
+      "专 中村"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-035",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "中村",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "なかむら",
+      "中村"
+    ],
+    "speech": "なかむら"
+  },
+  {
+    "name": "たろう（太郎）",
+    "trans": [
+      "专 太郎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-036",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "太郎",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たろう",
+      "太郎"
+    ],
+    "speech": "たろう"
+  },
+  {
+    "name": "キム（金）",
+    "trans": [
+      "专 金"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-037",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "金",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "キム",
+      "金"
+    ],
+    "speech": "キム"
+  },
+  {
+    "name": "デュポン",
+    "trans": [
+      "专 迪蓬"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-038",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "迪蓬",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "スミス",
+    "trans": [
+      "专 史密斯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-039",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "史密斯",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ジョンソン",
+    "trans": [
+      "专 约翰逊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-040",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "约翰逊",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ちゅうごく（中国）",
+    "trans": [
+      "专 中国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-041",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "中国",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちゅうごく",
+      "中国"
+    ],
+    "speech": "ちゅうごく"
+  },
+  {
+    "name": "とうきょうだいがく（東京大学）",
+    "trans": [
+      "专 东京大学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-042",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "东京大学",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とうきょうだいがく",
+      "東京大学"
+    ],
+    "speech": "とうきょうだいがく"
+  },
+  {
+    "name": "ペキンだいがく（北京大学）",
+    "trans": [
+      "专 北京大学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-043",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "北京大学",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ペキンだいがく",
+      "北京大学"
+    ],
+    "speech": "ペキンだいがく"
+  },
+  {
+    "name": "ジェーシーきかく（ＪＣ企画）",
+    "trans": [
+      "专 JC策划公司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-044",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "JC策划公司",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ジェーシーきかく",
+      "ＪＣ企画"
+    ],
+    "speech": "ジェーシーきかく"
+  },
+  {
+    "name": "ペキンりょこうしゃ（北京旅行社）",
+    "trans": [
+      "专 北京旅行社"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-045",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "北京旅行社",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ペキンりょこうしゃ",
+      "北京旅行社"
+    ],
+    "speech": "ペキンりょこうしゃ"
+  },
+  {
+    "name": "にっちゅうしょうじ（日中商事）",
+    "trans": [
+      "专 日中商社"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-046",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "日中商社",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にっちゅうしょうじ",
+      "日中商事"
+    ],
+    "speech": "にっちゅうしょうじ"
+  },
+  {
+    "name": "こんにちは",
+    "trans": [
+      "你好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-047",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "你好",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "すみません",
+    "trans": [
+      "对不起，请问"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-048",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "对不起，请问",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "どうぞ",
+    "trans": [
+      "请"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-049",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "请",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "よろしくおねがいします（よろしくお願いします）",
+    "trans": [
+      "请多关照"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-050",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "请多关照",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "よろしくおねがいします",
+      "よろしくお願いします"
+    ],
+    "speech": "よろしくおねがいします"
+  },
+  {
+    "name": "はじめまして",
+    "trans": [
+      "初次见面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-051",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "初次见面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "こちらこそ",
+    "trans": [
+      "我才要（请您～）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-052",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "我才要（请您～）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "そうてす",
+    "trans": [
+      "是（这样）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-053",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "是（这样）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ちがいます",
+    "trans": [
+      "不是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-054",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "不是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "わかりません（分かりません）",
+    "trans": [
+      "不知道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-055",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "不知道",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "わかりません",
+      "分かりません"
+    ],
+    "speech": "わかりません"
+  },
+  {
+    "name": "どうもすみません",
+    "trans": [
+      "实在对不起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U01-056",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "实在对不起",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

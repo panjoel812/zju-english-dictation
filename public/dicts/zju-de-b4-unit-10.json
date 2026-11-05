@@ -1,0 +1,548 @@
+[
+  {
+    "name": "Windkraft",
+    "trans": [
+      "风力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-001",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "风力",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "errechnen",
+    "trans": [
+      "算出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-002",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "算出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Windkraftwerk",
+    "trans": [
+      "风力发电厂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-003",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "风力发电厂",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "befriedigen",
+    "trans": [
+      "满足，使满意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-004",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "满足，使满意",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kapazität",
+    "trans": [
+      "电容量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-005",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "电容量",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausschließen",
+    "trans": [
+      "把......除外"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-006",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "把......除外",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "besiedeln",
+    "trans": [
+      "定居在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-007",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "定居在",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Küste",
+    "trans": [
+      "海岸，沿海地区"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-008",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "海岸，沿海地区",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Seemeile",
+    "trans": [
+      "海里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-009",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "海里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Streifen",
+    "trans": [
+      "条（状物），带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-010",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "条（状物），带",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entschließen",
+    "trans": [
+      "包括，包含"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-011",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "包括，包含",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rotor",
+    "trans": [
+      "机器的转动部分"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-012",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "机器的转动部分",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zufolge",
+    "trans": [
+      "Präp. 根据，按照"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-013",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "Präp. 根据，按照",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Umfang",
+    "trans": [
+      "范围，规模"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-014",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "范围，规模",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "utopisch",
+    "trans": [
+      "Adj. 乌托邦的，幻想的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-015",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "Adj. 乌托邦的，幻想的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "absorbierten",
+    "trans": [
+      "吸收"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-016",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "吸收",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unerlässlich",
+    "trans": [
+      "Adj. 必要的，不可免除的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-017",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "Adj. 必要的，不可免除的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "momentan",
+    "trans": [
+      "Adj. 目前的，眼前的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-018",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "Adj. 目前的，眼前的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lösen",
+    "trans": [
+      "溶解"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-019",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "溶解",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "spülen",
+    "trans": [
+      "冲刷，冲洗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-020",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "冲刷，冲洗",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verrichten",
+    "trans": [
+      "做，完成，办理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-021",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "做，完成，办理",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "formulieren",
+    "trans": [
+      "表达，起草，撰写"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-022",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "表达，起草，撰写",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "streben",
+    "trans": [
+      "努力争取，追求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-023",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "努力争取，追求",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wegdenken",
+    "trans": [
+      "撇开，不予考虑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-024",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "撇开，不予考虑",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Grundlage",
+    "trans": [
+      "基础，根据"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-025",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "基础，根据",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fabrikant",
+    "trans": [
+      "工厂主"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-026",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "工厂主",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Assistent",
+    "trans": [
+      "助教，助手"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-027",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "助教，助手",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ruhm",
+    "trans": [
+      "声誉，名望"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-028",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "声誉，名望",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erforschen",
+    "trans": [
+      "研究，考察"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-029",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "研究，考察",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zufall",
+    "trans": [
+      "偶然（事件），巧合"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-030",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "偶然（事件），巧合",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hölzern",
+    "trans": [
+      "Adj. 木制的，木头的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-031",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "Adj. 木制的，木头的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Skelett",
+    "trans": [
+      "骨骼，骷髅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-032",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "骨骼，骷髅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Talent",
+    "trans": [
+      "天赋，才能"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-033",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "天赋，才能",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hervorragend",
+    "trans": [
+      "PI. 突出的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-034",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "PI. 突出的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Entschluss",
+    "trans": [
+      "决定，决心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-035",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "决定，决心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Volontär",
+    "trans": [
+      "实习生，志愿者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-036",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "实习生，志愿者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Patent",
+    "trans": [
+      "专利"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-037",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "专利",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abzeichnen",
+    "trans": [
+      "呈现，映现"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-038",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "呈现，映现",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "stationär",
+    "trans": [
+      "Adj. 静止的，固定的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-039",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "Adj. 静止的，固定的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zerrütten",
+    "trans": [
+      "破坏，损坏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-040",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "破坏，损坏",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bergab",
+    "trans": [
+      "Adv. 下山，下坡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-041",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "Adv. 下山，下坡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hindeuten",
+    "trans": [
+      "指向；表明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E10-042",
+    "sourceSheet": "B4E10",
+    "sourceMeaning": "指向；表明",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

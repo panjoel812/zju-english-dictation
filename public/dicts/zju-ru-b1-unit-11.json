@@ -1,0 +1,873 @@
+[
+  {
+    "name": "Василий",
+    "trans": [
+      "瓦西里 (人名)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-001",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "瓦西里 (人名)",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "аудитория",
+    "trans": [
+      "教室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-002",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "教室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "группа",
+    "trans": [
+      "班级"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-003",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "班级",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "столовая",
+    "trans": [
+      "食堂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-004",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "食堂",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "университет",
+    "trans": [
+      "大学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-005",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "大学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "школьный",
+    "trans": [
+      "中小学的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-006",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "中小学的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "спорт",
+    "trans": [
+      "体育"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-007",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "体育",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "фильм",
+    "trans": [
+      "电影"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-008",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "电影",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "книга",
+    "trans": [
+      "书"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-009",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "书",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "текст",
+    "trans": [
+      "课文"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-010",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "课文",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "пословица",
+    "trans": [
+      "谚语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-011",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "谚语",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "вещь",
+    "trans": [
+      "东西, 物品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-012",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "东西, 物品",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "деньги",
+    "trans": [
+      "钱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-013",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "钱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "рубль",
+    "trans": [
+      "卢布"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-014",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "卢布",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "интерес",
+    "trans": [
+      "兴趣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-015",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "兴趣",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "любовь",
+    "trans": [
+      "爱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-016",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "爱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "дружба",
+    "trans": [
+      "友谊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-017",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "友谊",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "август",
+    "trans": [
+      "八月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-018",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "八月",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "октябрь",
+    "trans": [
+      "十月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-019",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "十月",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ноябрь",
+    "trans": [
+      "十一月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-020",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "十一月",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "декабрь",
+    "trans": [
+      "十二月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-021",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "十二月",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "январь",
+    "trans": [
+      "一月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-022",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "一月",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "февраль",
+    "trans": [
+      "二月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-023",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "二月",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "март",
+    "trans": [
+      "三月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-024",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "三月",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "апрель",
+    "trans": [
+      "四月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-025",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "四月",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "май",
+    "trans": [
+      "五月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-026",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "五月",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "июнь",
+    "trans": [
+      "六月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-027",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "六月",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "июль",
+    "trans": [
+      "七月"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-028",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "七月",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "понедельник",
+    "trans": [
+      "星期一"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-029",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "星期一",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "вторник",
+    "trans": [
+      "星期二"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-030",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "星期二",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "среда",
+    "trans": [
+      "星期三"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-031",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "星期三",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "четверг",
+    "trans": [
+      "星期四"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-032",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "星期四",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "пятница",
+    "trans": [
+      "星期五"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-033",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "星期五",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "суббота",
+    "trans": [
+      "星期六"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-034",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "星期六",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "воскресенье",
+    "trans": [
+      "星期日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-035",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "星期日",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "утром",
+    "trans": [
+      "在早晨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-036",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "在早晨",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "где",
+    "trans": [
+      "在哪里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-037",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "在哪里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "у",
+    "trans": [
+      "(某人) 有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-038",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "(某人) 有",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "иметь",
+    "trans": [
+      "有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-039",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "有",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "быть",
+    "trans": [
+      "有, 发生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-040",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "有, 发生",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "есть",
+    "trans": [
+      "有 (быть的现在时)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-041",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "有 (быть的现在时)",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "звать",
+    "trans": [
+      "叫……名字, 称为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-042",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "叫……名字, 称为",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "купить",
+    "trans": [
+      "买"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-043",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "买",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "общаться",
+    "trans": [
+      "与……交往"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-044",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "与……交往",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "надеяться",
+    "trans": [
+      "希望"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-045",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "希望",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "появиться",
+    "trans": [
+      "出现"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-046",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "出现",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "продолжаться",
+    "trans": [
+      "继续"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-047",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "继续",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "стать",
+    "trans": [
+      "成为, 变为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-048",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "成为, 变为",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ходить",
+    "trans": [
+      "步行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-049",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "步行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "вместе",
+    "trans": [
+      "一起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-050",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "一起",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "без",
+    "trans": [
+      "没有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-051",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "没有",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "нельзя",
+    "trans": [
+      "禁止, 不能"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-052",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "禁止, 不能",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "только",
+    "trans": [
+      "仅仅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-053",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "仅仅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "тоже",
+    "trans": [
+      "也"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-054",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "也",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "поэтому",
+    "trans": [
+      "所以"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-055",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "所以",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "что",
+    "trans": [
+      "连接说明从句"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-056",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "连接说明从句",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "вечный",
+    "trans": [
+      "永远的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-057",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "永远的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "дорогой",
+    "trans": [
+      "宝贵的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-058",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "宝贵的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "дружеский",
+    "trans": [
+      "友好的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-059",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "友好的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "свободный",
+    "trans": [
+      "自由的, 空闲的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-060",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "自由的, 空闲的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "общий",
+    "trans": [
+      "共同的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-061",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "共同的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "любой",
+    "trans": [
+      "任何的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-062",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "任何的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "легко",
+    "trans": [
+      "容易地, 轻松地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-063",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "容易地, 轻松地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "трудно",
+    "trans": [
+      "困难地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-064",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "困难地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "много",
+    "trans": [
+      "许多"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-065",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "许多",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "сначала",
+    "trans": [
+      "起初"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-066",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "起初",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ровесник",
+    "trans": [
+      "同龄人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U11-067",
+    "sourceSheet": "B1U11",
+    "sourceMeaning": "同龄人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

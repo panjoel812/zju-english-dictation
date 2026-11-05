@@ -1,0 +1,756 @@
+[
+  {
+    "name": "novela",
+    "trans": [
+      "小说"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-001",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "小说",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vargas Llosa",
+    "trans": [
+      "巴尔加斯·略萨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-002",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "巴尔加斯·略萨",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "escritor, ra",
+    "trans": [
+      "作家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-003",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "作家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gustar",
+    "trans": [
+      "使……喜欢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-004",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "使……喜欢",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "encantar",
+    "trans": [
+      "使……着迷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-005",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "使……着迷",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "estilo",
+    "trans": [
+      "风格"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-006",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "风格",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "moderno, na",
+    "trans": [
+      "现代的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-007",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "现代的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mirar",
+    "trans": [
+      "看"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-008",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "看",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mediodía",
+    "trans": [
+      "中午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-009",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "中午",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "recoger",
+    "trans": [
+      "收起，拾起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-010",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "收起，拾起",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "meter",
+    "trans": [
+      "装进，塞进"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-011",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "装进，塞进",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mochila",
+    "trans": [
+      "双肩背包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-012",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "双肩背包",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hambre",
+    "trans": [
+      "饥饿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-013",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "饥饿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sed",
+    "trans": [
+      "渴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-014",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "渴",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "por casualidad",
+    "trans": [
+      "偶然，凑巧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-015",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "偶然，凑巧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "botella",
+    "trans": [
+      "瓶子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-016",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "瓶子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "coger",
+    "trans": [
+      "拿起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-017",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "拿起",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cafetería",
+    "trans": [
+      "咖啡馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-018",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "咖啡馆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cerca",
+    "trans": [
+      "近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-019",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "近",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pequeño, ña",
+    "trans": [
+      "小的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-020",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "小的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "limpieza",
+    "trans": [
+      "扫除"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-021",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "扫除",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "acabar de + inf.",
+    "trans": [
+      "刚刚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-022",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "刚刚",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fiesta",
+    "trans": [
+      "聚会，节日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-023",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "聚会，节日",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "despedirse (de)",
+    "trans": [
+      "告别，辞别，送别"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-024",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "告别，辞别，送别",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "encontrar",
+    "trans": [
+      "找到，遇到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-025",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "找到，遇到",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sucio, cia",
+    "trans": [
+      "脏的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-026",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "脏的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "desarreglado, da",
+    "trans": [
+      "乱七八糟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-027",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "乱七八糟",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "suciedad",
+    "trans": [
+      "脏（的状况）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-028",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "脏（的状况）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ni",
+    "trans": [
+      "y 的否定形式"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-029",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "y 的否定形式",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "desorden",
+    "trans": [
+      "无秩序"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-030",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "无秩序",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "retirar",
+    "trans": [
+      "撤下，拿走"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-031",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "撤下，拿走",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vaso",
+    "trans": [
+      "杯子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-032",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "杯子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lavar",
+    "trans": [
+      "清洗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-033",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "清洗",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "libro",
+    "trans": [
+      "书"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-034",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "书",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "periódico",
+    "trans": [
+      "报纸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-035",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "报纸",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "revista",
+    "trans": [
+      "杂志"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-036",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "杂志",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "poner",
+    "trans": [
+      "放"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-037",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "放",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "estantería",
+    "trans": [
+      "架子，书架"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-038",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "架子，书架",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "trapo",
+    "trans": [
+      "抹布"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-039",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "抹布",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mojado, da",
+    "trans": [
+      "湿的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-040",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "湿的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fregar",
+    "trans": [
+      "擦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-041",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "擦",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "silla",
+    "trans": [
+      "椅子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-042",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "椅子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cuando",
+    "trans": [
+      "当……时"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-043",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "当……时",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "escoba",
+    "trans": [
+      "扫帚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-044",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "扫帚",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "barrer",
+    "trans": [
+      "扫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-045",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "扫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "por último",
+    "trans": [
+      "最后"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-046",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "最后",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sacar",
+    "trans": [
+      "取出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-047",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "取出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fregona",
+    "trans": [
+      "墩布"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-048",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "墩布",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pasar",
+    "trans": [
+      "过（时间/空间）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-049",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "过（时间/空间）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "suelo",
+    "trans": [
+      "地面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-050",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "地面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "limpio, pia",
+    "trans": [
+      "干净的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-051",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "干净的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "arreglado, da",
+    "trans": [
+      "整理好的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-052",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "整理好的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sentirse",
+    "trans": [
+      "感觉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-053",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "感觉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sofá",
+    "trans": [
+      "沙发"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-054",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "沙发",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "justo",
+    "trans": [
+      "恰好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-055",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "恰好",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "momento",
+    "trans": [
+      "时候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-056",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "时候",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "alguien",
+    "trans": [
+      "有人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-057",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "有人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "puerta",
+    "trans": [
+      "门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U06-058",
+    "sourceSheet": "B1U6",
+    "sourceMeaning": "门",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

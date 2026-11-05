@@ -1,0 +1,795 @@
+[
+  {
+    "name": "Arbeitlose",
+    "trans": [
+      "d.w. Adj. 失业者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-001",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "d.w. Adj. 失业者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bettler",
+    "trans": [
+      "乞丐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-002",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "乞丐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mars",
+    "trans": [
+      "火星"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-003",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "火星",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Planet",
+    "trans": [
+      "星球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-004",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "星球",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sonnensystem",
+    "trans": [
+      "太阳系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-005",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "太阳系",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Umdrehung",
+    "trans": [
+      "旋转，转圈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-006",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "旋转，转圈",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "besitzen",
+    "trans": [
+      "拥有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-007",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "拥有",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "leuchtend",
+    "trans": [
+      "P.l 发光的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-008",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "P.l 发光的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "absolut",
+    "trans": [
+      "Adj. 绝对，完全"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-009",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "Adj. 绝对，完全",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beobachten",
+    "trans": [
+      "观察"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-010",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "观察",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fürchten",
+    "trans": [
+      "害怕，担心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-011",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "害怕，担心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "landen",
+    "trans": [
+      "降落，登陆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-012",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "降落，登陆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Labor",
+    "trans": [
+      "实验室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-013",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "实验室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "töten",
+    "trans": [
+      "杀死，杀害"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-014",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "杀死，杀害",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zelle",
+    "trans": [
+      "细胞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-015",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "细胞",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "klonen",
+    "trans": [
+      "克隆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-016",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "克隆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "furchtbar",
+    "trans": [
+      "Adj. 可怕的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-017",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "Adj. 可怕的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hauptthema",
+    "trans": [
+      "主题"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-018",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "主题",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "merken",
+    "trans": [
+      "发觉，看出，觉察到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-019",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "发觉，看出，觉察到",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zerstören",
+    "trans": [
+      "毁坏，破坏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-020",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "毁坏，破坏",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tierart",
+    "trans": [
+      "动物种类"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-021",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "动物种类",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pflanzenart",
+    "trans": [
+      "植物种类"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-022",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "植物种类",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aussterben",
+    "trans": [
+      "灭绝，不复存在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-023",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "灭绝，不复存在",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Krieg",
+    "trans": [
+      "战争"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-024",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "战争",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Umweltverschmutzung",
+    "trans": [
+      "环境污染"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-025",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "环境污染",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ozonloch",
+    "trans": [
+      "臭氧层空洞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-026",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "臭氧层空洞",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Biotechnologie",
+    "trans": [
+      "生物技术"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-027",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "生物技术",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "herstellen",
+    "trans": [
+      "制造，生产"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-028",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "制造，生产",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kaputtgehen",
+    "trans": [
+      "打碎，破坏，毁坏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-029",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "打碎，破坏，毁坏",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schützen",
+    "trans": [
+      "保护"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-030",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "保护",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Natur",
+    "trans": [
+      "大自然"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-031",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "大自然",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verbinden",
+    "trans": [
+      "连接，把......连接在一起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-032",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "连接，把......连接在一起",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hass",
+    "trans": [
+      "仇恨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-033",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "仇恨",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Streit",
+    "trans": [
+      "争吵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-034",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "争吵",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verfassen",
+    "trans": [
+      "撰写，写作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-035",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "撰写，写作",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gleichzeitig",
+    "trans": [
+      "Adj. 同时（发生的）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-036",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "Adj. 同时（发生的）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Versuch",
+    "trans": [
+      "尝试，试图；试验"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-037",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "尝试，试图；试验",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vernunft",
+    "trans": [
+      "理智"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-038",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "理智",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gedanke",
+    "trans": [
+      "思想，主意；思考"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-039",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "思想，主意；思考",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "traurig",
+    "trans": [
+      "Adj. 悲伤的，伤心的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-040",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "Adj. 悲伤的，伤心的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Umgang",
+    "trans": [
+      "打交道，交际"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-041",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "打交道，交际",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gefahr",
+    "trans": [
+      "危险"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-042",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "危险",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "umgehen",
+    "trans": [
+      "与......打交道；对待，处理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-043",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "与......打交道；对待，处理",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verschmutzen",
+    "trans": [
+      "污染"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-044",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "污染",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wahrheit",
+    "trans": [
+      "实情，真相，真理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-045",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "实情，真相，真理",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Macht",
+    "trans": [
+      "权力，政权"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-046",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "权力，政权",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufpassen",
+    "trans": [
+      "注意，当心；照料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-047",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "注意，当心；照料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Politiker",
+    "trans": [
+      "政治家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-048",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "政治家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entlassen",
+    "trans": [
+      "解雇，免职，允许离去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-049",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "解雇，免职，允许离去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Waffe",
+    "trans": [
+      "武器"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-050",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "武器",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erholen",
+    "trans": [
+      "休养，复元"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-051",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "休养，复元",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unvorstellbar",
+    "trans": [
+      "Adj. 无法想像的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-052",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "Adj. 无法想像的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Existenz",
+    "trans": [
+      "生存，生计"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-053",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "生存，生计",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dach",
+    "trans": [
+      "屋顶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-054",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "屋顶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erfüllen",
+    "trans": [
+      "完成，满足"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-055",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "完成，满足",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Laden",
+    "trans": [
+      "商店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-056",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "商店",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bemühen",
+    "trans": [
+      "努力，竭力争取"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-057",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "努力，竭力争取",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "empfinden",
+    "trans": [
+      "感觉到，感受到，觉得"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-058",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "感觉到，感受到，觉得",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kommend",
+    "trans": [
+      "P.I 下一个的，未来的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-059",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "P.I 下一个的，未来的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abhauen",
+    "trans": [
+      "逃走，走开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-060",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "逃走，走开",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lehrstelle",
+    "trans": [
+      "学徒名额，培训名额"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E10-061",
+    "sourceSheet": "B2E10",
+    "sourceMeaning": "学徒名额，培训名额",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

@@ -6,19 +6,57 @@
   @apply flex w-full flex-col items-start gap-4;
 }
 .section-label {
-  @apply pb-0 text-left text-base font-medium text-gray-700 dark:text-gray-200 sm:text-lg;
+  @apply pb-0 text-left text-base font-medium text-gray-700 sm:text-lg;
 }
 .section-description {
-  @apply -mt-1 text-left text-sm font-normal leading-6 text-gray-600 dark:text-gray-300;
+  @apply -mt-1 text-left text-sm font-normal leading-6 text-gray-600;
 }
 
-.block {
+.setting-block {
   @apply flex w-full min-w-0 flex-col items-start gap-2 py-0;
 }
 .block-label {
-  @apply font-medium text-gray-600 dark:text-gray-300;
+  @apply font-medium text-gray-600;
 }
 .switch-block {
-  composes: block;
+  composes: setting-block;
   @apply flex-row items-center justify-between;
+}
+
+.row {
+  @apply flex w-full items-center justify-between gap-4 border-b border-gray-100 py-4 last:border-0;
+}
+.row-label {
+  @apply block text-sm font-medium text-gray-700;
+}
+.row-description {
+  @apply mt-1 block text-xs leading-5 text-gray-600;
+}
+.select {
+  @apply max-w-full rounded-lg border border-gray-200 bg-gray-50 py-2 pl-3 pr-8 text-sm text-gray-700 focus:border-indigo-400 focus:outline-none focus:ring-1 focus:ring-indigo-400;
+}
+.settings-content {
+  @apply w-full min-w-0 overflow-y-auto px-4 py-1 text-left sm:px-6;
+}
+
+/* Keep the root theme class global when CSS Modules scopes these selectors. */
+:global(.dark) .section-label,
+:global(.dark) .row-label {
+  @apply text-gray-200;
+}
+:global(.dark) .section-description,
+:global(.dark) .block-label {
+  @apply text-gray-300;
+}
+:global(.dark) .row-description {
+  @apply text-gray-400;
+}
+:global(.dark) .row {
+  @apply border-gray-700;
+}
+:global(.dark) .select {
+  @apply border-gray-600 bg-gray-700 text-gray-200;
+}
+:global(.dark) .select:focus {
+  @apply border-indigo-400;
 }

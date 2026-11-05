@@ -1,0 +1,958 @@
+[
+  {
+    "name": "しつもん（質問）",
+    "trans": [
+      "名 提问，问题"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-001",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "提问，问题",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しつもん",
+      "質問"
+    ],
+    "speech": "しつもん"
+  },
+  {
+    "name": "ばあい（場合）",
+    "trans": [
+      "名 场合，情况"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-002",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "场合，情况",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ばあい",
+      "場合"
+    ],
+    "speech": "ばあい"
+  },
+  {
+    "name": "めいわく（迷惑）",
+    "trans": [
+      "名 麻烦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-003",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "麻烦",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "めいわく",
+      "迷惑"
+    ],
+    "speech": "めいわく"
+  },
+  {
+    "name": "フジ",
+    "trans": [
+      "名 紫藤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-004",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "紫藤",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "カササギ",
+    "trans": [
+      "名 喜鹊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-005",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "喜鹊",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "とり（鳥）",
+    "trans": [
+      "名 鸟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-006",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "鸟",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とり",
+      "鳥"
+    ],
+    "speech": "とり"
+  },
+  {
+    "name": "マーク",
+    "trans": [
+      "名 符号"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-007",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "符号",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ひょうしき（標識）",
+    "trans": [
+      "名 标记"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-008",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "标记",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひょうしき",
+      "標識"
+    ],
+    "speech": "ひょうしき"
+  },
+  {
+    "name": "おうだんきんし（横断禁止）",
+    "trans": [
+      "名 禁止横穿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-009",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "禁止横穿",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おうだんきんし",
+      "横断禁止"
+    ],
+    "speech": "おうだんきんし"
+  },
+  {
+    "name": "スピード",
+    "trans": [
+      "名 速度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-010",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "速度",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "めんきょしょう（免許証）",
+    "trans": [
+      "名 许可证，执照"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-011",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "许可证，执照",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "めんきょしょう",
+      "免許証"
+    ],
+    "speech": "めんきょしょう"
+  },
+  {
+    "name": "きかくしょ（企画書）",
+    "trans": [
+      "名 计划书"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-012",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "计划书",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きかくしょ",
+      "企画書"
+    ],
+    "speech": "きかくしょ"
+  },
+  {
+    "name": "やきゅうじょう（野球場）",
+    "trans": [
+      "名 棒球场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-013",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "棒球场",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やきゅうじょう",
+      "野球場"
+    ],
+    "speech": "やきゅうじょう"
+  },
+  {
+    "name": "テレビこうざ（テレビ講座）",
+    "trans": [
+      "名 电视讲座"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-014",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "电视讲座",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "テレビこうざ",
+      "テレビ講座"
+    ],
+    "speech": "テレビこうざ"
+  },
+  {
+    "name": "かんじ（漢字）",
+    "trans": [
+      "名 汉字"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-015",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "汉字",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんじ",
+      "漢字"
+    ],
+    "speech": "かんじ"
+  },
+  {
+    "name": "せんそう（戦争）",
+    "trans": [
+      "名 战争"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-016",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "战争",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せんそう",
+      "戦争"
+    ],
+    "speech": "せんそう"
+  },
+  {
+    "name": "けいかん（警官）",
+    "trans": [
+      "名 警察"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-017",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "警察",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けいかん",
+      "警官"
+    ],
+    "speech": "けいかん"
+  },
+  {
+    "name": "としうえ（年上）",
+    "trans": [
+      "名 年长者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-018",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "年长者",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "としうえ",
+      "年上"
+    ],
+    "speech": "としうえ"
+  },
+  {
+    "name": "とまります（止まります）",
+    "trans": [
+      "动1 停，停住"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-019",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "停，停住",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とまります",
+      "止まります"
+    ],
+    "speech": "とまります"
+  },
+  {
+    "name": "かわります（変わります）",
+    "trans": [
+      "动1 变，转变"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-020",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "变，转变",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かわります",
+      "変わります"
+    ],
+    "speech": "かわります"
+  },
+  {
+    "name": "がんばります（頑張ります）",
+    "trans": [
+      "动1 拼命努力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-021",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "拼命努力",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "がんばります",
+      "頑張ります"
+    ],
+    "speech": "がんばります"
+  },
+  {
+    "name": "あやまります（謝ります）",
+    "trans": [
+      "动1 道歉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-022",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "道歉",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あやまります",
+      "謝ります"
+    ],
+    "speech": "あやまります"
+  },
+  {
+    "name": "サボります",
+    "trans": [
+      "动1 逃学，怠工"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-023",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "逃学，怠工",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "やぶります（破ります）",
+    "trans": [
+      "动1 爽约，打破"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-024",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "爽约，打破",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やぶります",
+      "破ります"
+    ],
+    "speech": "やぶります"
+  },
+  {
+    "name": "ひきます（引きます）",
+    "trans": [
+      "动1 拉，抽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-025",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "拉，抽",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひきます",
+      "引きます"
+    ],
+    "speech": "ひきます"
+  },
+  {
+    "name": "まもります（守ります）",
+    "trans": [
+      "动1 遵守，保护"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-026",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "遵守，保护",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まもります",
+      "守ります"
+    ],
+    "speech": "まもります"
+  },
+  {
+    "name": "こたえます（答えます）",
+    "trans": [
+      "动2 回答"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-027",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "回答",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こたえます",
+      "答えます"
+    ],
+    "speech": "こたえます"
+  },
+  {
+    "name": "にげます（逃げます）",
+    "trans": [
+      "动2 逃跑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-028",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "逃跑",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にげます",
+      "逃げます"
+    ],
+    "speech": "にげます"
+  },
+  {
+    "name": "たすけます（助けます）",
+    "trans": [
+      "动2 救助，帮助"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-029",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "救助，帮助",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たすけます",
+      "助けます"
+    ],
+    "speech": "たすけます"
+  },
+  {
+    "name": "つけます（付けます）",
+    "trans": [
+      "动2 添加，附加"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-030",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "添加，附加",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つけます",
+      "付けます"
+    ],
+    "speech": "つけます"
+  },
+  {
+    "name": "おぼえます（覚えます）",
+    "trans": [
+      "动2 记住，掌握"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-031",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "记住，掌握",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おぼえます",
+      "覚えます"
+    ],
+    "speech": "おぼえます"
+  },
+  {
+    "name": "ていしゅつします（提出します）",
+    "trans": [
+      "动3 提交，提出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-032",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "提交，提出",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ていしゅつします",
+      "提出します"
+    ],
+    "speech": "ていしゅつします"
+  },
+  {
+    "name": "えんりょします（遠慮します）",
+    "trans": [
+      "动3 客气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-033",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "客气",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "えんりょします",
+      "遠慮します"
+    ],
+    "speech": "えんりょします"
+  },
+  {
+    "name": "ちゅういします（注意します）",
+    "trans": [
+      "动3 注意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-034",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "注意",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちゅういします",
+      "注意します"
+    ],
+    "speech": "ちゅういします"
+  },
+  {
+    "name": "シュートします",
+    "trans": [
+      "动3 （足球）射门，投篮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-035",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "（足球）射门，投篮",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "したしい（親しい）",
+    "trans": [
+      "形1 熟悉，亲切，亲密"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-036",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "熟悉，亲切，亲密",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "したしい",
+      "親しい"
+    ],
+    "speech": "したしい"
+  },
+  {
+    "name": "らんぼう（乱暴）",
+    "trans": [
+      "形2 粗暴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-037",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "粗暴",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "らんぼう",
+      "乱暴"
+    ],
+    "speech": "らんぼう"
+  },
+  {
+    "name": "しつれい（失礼）",
+    "trans": [
+      "形2 不礼貌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-038",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "不礼貌",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しつれい",
+      "失礼"
+    ],
+    "speech": "しつれい"
+  },
+  {
+    "name": "おなじ（同じ）",
+    "trans": [
+      "形2 一样，相同"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-039",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "一样，相同",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おなじ",
+      "同じ"
+    ],
+    "speech": "おなじ"
+  },
+  {
+    "name": "きけん（危険）",
+    "trans": [
+      "形2 危险"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-040",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "危险",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きけん",
+      "危険"
+    ],
+    "speech": "きけん"
+  },
+  {
+    "name": "そんな",
+    "trans": [
+      "连体 那样的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-041",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "那样的",
+    "sourceTags": [
+      "连体"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ていねいに（丁寧に）",
+    "trans": [
+      "副 恭敬地；细心地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-042",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "恭敬地；细心地",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ていねいに",
+      "丁寧に"
+    ],
+    "speech": "ていねいに"
+  },
+  {
+    "name": "おい",
+    "trans": [
+      "叹 哎，喂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-043",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "哎，喂",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "まこと（誠）",
+    "trans": [
+      "专 诚，阿诚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-044",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "诚，阿诚",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まこと",
+      "誠"
+    ],
+    "speech": "まこと"
+  },
+  {
+    "name": "しゅうおんらい（周恩来）",
+    "trans": [
+      "专 周恩来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-045",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "周恩来",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅうおんらい",
+      "周恩来"
+    ],
+    "speech": "しゅうおんらい"
+  },
+  {
+    "name": "ろじん（魯迅）",
+    "trans": [
+      "专 鲁迅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-046",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "鲁迅",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ろじん",
+      "魯迅"
+    ],
+    "speech": "ろじん"
+  },
+  {
+    "name": "せたがや（世田谷）",
+    "trans": [
+      "专 世田谷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-047",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "世田谷",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せたがや",
+      "世田谷"
+    ],
+    "speech": "せたがや"
+  },
+  {
+    "name": "ふじ（富士）",
+    "trans": [
+      "专 富士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-048",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "富士",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふじ",
+      "富士"
+    ],
+    "speech": "ふじ"
+  },
+  {
+    "name": "かわった（変わった）",
+    "trans": [
+      "怪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-049",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "怪",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かわった",
+      "変わった"
+    ],
+    "speech": "かわった"
+  },
+  {
+    "name": "かぜをひきます（風邪を引きます）",
+    "trans": [
+      "感冒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U29-050",
+    "sourceSheet": "B1U29",
+    "sourceMeaning": "感冒",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かぜをひきます",
+      "風邪を引きます"
+    ],
+    "speech": "かぜをひきます"
+  }
+]

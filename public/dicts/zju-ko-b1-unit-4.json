@@ -1,0 +1,1562 @@
+[
+  {
+    "name": "하고",
+    "trans": [
+      "跟，和"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-001",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "跟，和",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "혼자",
+    "trans": [
+      "独自"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-002",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "独自",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "같이",
+    "trans": [
+      "一起(가치)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-003",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "一起(가치)",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "그럽시다",
+    "trans": [
+      "那样做吧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-004",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "那样做吧",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "나가다",
+    "trans": [
+      "出去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-005",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "出去",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "들어오다",
+    "trans": [
+      "进来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-006",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "进来",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "올라가다",
+    "trans": [
+      "上去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-007",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "上去",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "내려오다",
+    "trans": [
+      "下来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-008",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "下来",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "한식집",
+    "trans": [
+      "韩餐馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-009",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "韩餐馆",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "중국집",
+    "trans": [
+      "中餐厅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-010",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "中餐厅",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "일식집",
+    "trans": [
+      "日本料理店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-011",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "日本料理店",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "양식집",
+    "trans": [
+      "西餐厅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-012",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "西餐厅",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "비빔밥",
+    "trans": [
+      "拌饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-013",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "拌饭",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "불고기",
+    "trans": [
+      "烤肉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-014",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "烤肉",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "내일",
+    "trans": [
+      "明天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-015",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "明天",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "정문",
+    "trans": [
+      "正门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-016",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "正门",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "학생식당",
+    "trans": [
+      "学生食堂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-017",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "学生食堂",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "가깝다",
+    "trans": [
+      "近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-018",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "近",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "그래요?",
+    "trans": [
+      "是吗？"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-019",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "是吗？",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "음식",
+    "trans": [
+      "食物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-020",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "食物",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "오늘",
+    "trans": [
+      "今天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-021",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "今天",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "값",
+    "trans": [
+      "价格"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-022",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "价格",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "싸다",
+    "trans": [
+      "便宜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-023",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "便宜",
+    "sourceTags": [],
+    "sourceNotes": "식당에 갑니다"
+  },
+  {
+    "name": "무슨",
+    "trans": [
+      "什么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-024",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "什么",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "맛",
+    "trans": [
+      "味道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-025",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "味道",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "맛있다",
+    "trans": [
+      "好吃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-026",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "好吃",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "맵다",
+    "trans": [
+      "辣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-027",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "辣",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "외국인",
+    "trans": [
+      "外国人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-028",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "外国人",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "잘",
+    "trans": [
+      "好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-029",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "好",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "한식",
+    "trans": [
+      "韩餐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-030",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "韩餐",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "중국 음식",
+    "trans": [
+      "中餐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-031",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "中餐",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "일식",
+    "trans": [
+      "日餐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-032",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "日餐",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "양식",
+    "trans": [
+      "西餐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-033",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "西餐",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "자장면",
+    "trans": [
+      "炸酱面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-034",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "炸酱面",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "초밥",
+    "trans": [
+      "寿司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-035",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "寿司",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "스테이크",
+    "trans": [
+      "牛排"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-036",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "牛排",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "맛없다",
+    "trans": [
+      "不好吃("
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-037",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "不好吃(",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "달다 마덥다)",
+    "trans": [
+      "甜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-038",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "甜",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "쓰다",
+    "trans": [
+      "苦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-039",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "苦",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "시다",
+    "trans": [
+      "酸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-040",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "酸",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "짜다",
+    "trans": [
+      "咸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-041",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "咸",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "싱겁다",
+    "trans": [
+      "淡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-042",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "淡",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "크리스마스",
+    "trans": [
+      "圣诞节"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-043",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "圣诞节",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "살다",
+    "trans": [
+      "居住，生活"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-044",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "居住，生活",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "알다",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-045",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "知道",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "열다",
+    "trans": [
+      "开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-046",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "开",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "놀다",
+    "trans": [
+      "玩"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-047",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "玩",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "만들다",
+    "trans": [
+      "做，制作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-048",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "做，制作",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "아이스크림",
+    "trans": [
+      "冰淇淋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-049",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "冰淇淋",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "좀",
+    "trans": [
+      "一点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-050",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "一点",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "간장",
+    "trans": [
+      "酱油"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-051",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "酱油",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "고추",
+    "trans": [
+      "辣椒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-052",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "辣椒",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "식혜",
+    "trans": [
+      "酒酿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-053",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "酒酿",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "카레",
+    "trans": [
+      "咖喱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-054",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "咖喱",
+    "sourceTags": [],
+    "sourceNotes": "무슨 음식을 좋아하십니까?"
+  },
+  {
+    "name": "갈비",
+    "trans": [
+      "排骨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-055",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "排骨",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "삼겹살",
+    "trans": [
+      "五花肉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-056",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "五花肉",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "김치찌개",
+    "trans": [
+      "泡菜汤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-057",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "泡菜汤",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "된장찌개",
+    "trans": [
+      "大酱汤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-058",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "大酱汤",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "순두부찌개",
+    "trans": [
+      "嫩豆腐汤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-059",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "嫩豆腐汤",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "닭갈비",
+    "trans": [
+      "鸡排"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-060",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "鸡排",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "삼계탕",
+    "trans": [
+      "参鸡汤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-061",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "参鸡汤",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "갈비탕",
+    "trans": [
+      "排骨汤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-062",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "排骨汤",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "냉면",
+    "trans": [
+      "冷面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-063",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "冷面",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "칼국수",
+    "trans": [
+      "刀削面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-064",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "刀削面",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "라면",
+    "trans": [
+      "泡面，拉面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-065",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "泡面，拉面",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "김밥",
+    "trans": [
+      "紫菜包饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-066",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "紫菜包饭",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "떡볶이",
+    "trans": [
+      "炒年糕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-067",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "炒年糕",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "설악산",
+    "trans": [
+      "雪岳山"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-068",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "雪岳山",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "인분",
+    "trans": [
+      "人份"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-069",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "人份",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "중에서",
+    "trans": [
+      "当中"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-070",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "当中",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "보통",
+    "trans": [
+      "一般"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-071",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "一般",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "상추",
+    "trans": [
+      "生菜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-072",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "生菜",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "외국",
+    "trans": [
+      "外国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-073",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "外国",
+    "sourceTags": [],
+    "sourceNotes": "저는 불고기를 먹고 싶습니다"
+  },
+  {
+    "name": "종업원",
+    "trans": [
+      "服务员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-074",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "服务员",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "뭘",
+    "trans": [
+      "什么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-075",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "什么",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "물",
+    "trans": [
+      "水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-076",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "水",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "드리다",
+    "trans": [
+      "给[敬]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-077",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "给[敬]",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "주다",
+    "trans": [
+      "给"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-078",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "给",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "일",
+    "trans": [
+      "一"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-079",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "一",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "이",
+    "trans": [
+      "二"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-080",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "二",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "삼",
+    "trans": [
+      "三"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-081",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "三",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "사",
+    "trans": [
+      "四"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-082",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "四",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "오",
+    "trans": [
+      "五"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-083",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "五",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "육",
+    "trans": [
+      "六"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-084",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "六",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "칠",
+    "trans": [
+      "七"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-085",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "七",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "팔",
+    "trans": [
+      "八"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-086",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "八",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "구",
+    "trans": [
+      "九"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-087",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "九",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "십",
+    "trans": [
+      "十"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-088",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "十",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "잔",
+    "trans": [
+      "瓶杯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-089",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "瓶杯",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "병",
+    "trans": [
+      "瓶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-090",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "瓶",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "그릇",
+    "trans": [
+      "碗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-091",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "碗",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "사탕",
+    "trans": [
+      "糖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-092",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "糖",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "초콜릿",
+    "trans": [
+      "巧克力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-093",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "巧克力",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "커피",
+    "trans": [
+      "咖啡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-094",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "咖啡",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "소주",
+    "trans": [
+      "烧酒，白酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-095",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "烧酒，白酒",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "사과",
+    "trans": [
+      "苹果"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-096",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "苹果",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "배",
+    "trans": [
+      "肚子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-097",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "肚子",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "고프다",
+    "trans": [
+      "饿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-098",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "饿",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "다리",
+    "trans": [
+      "腿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-099",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "腿",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "아프다",
+    "trans": [
+      "疼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-100",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "疼",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "단어",
+    "trans": [
+      "单词"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-101",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "单词",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "모르다",
+    "trans": [
+      "不知道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-102",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "不知道",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "오렌지",
+    "trans": [
+      "橙子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-103",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "橙子",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "케이크",
+    "trans": [
+      "蛋糕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-104",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "蛋糕",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "생일",
+    "trans": [
+      "生日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-105",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "生日",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "영어",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-106",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "英语",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "일어",
+    "trans": [
+      "日语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-107",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "日语",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "콤비네이션",
+    "trans": [
+      "结合，联合"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-108",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "结合，联合",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "피자",
+    "trans": [
+      "比萨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-109",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "比萨",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "스파게티",
+    "trans": [
+      "意大利面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-110",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "意大利面",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "라자냐",
+    "trans": [
+      "烤宽面条"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-111",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "烤宽面条",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "짬뽕",
+    "trans": [
+      "中式面条"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-112",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "中式面条",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "볶음밥",
+    "trans": [
+      "炒饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-113",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "炒饭",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "탕수육",
+    "trans": [
+      "糖醋肉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-114",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "糖醋肉",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "손님",
+    "trans": [
+      "客人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-115",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "客人",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "알겠습니다",
+    "trans": [
+      "好了，知道了"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-116",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "好了，知道了",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "물냉면",
+    "trans": [
+      "冷面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-117",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "冷面",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "술집",
+    "trans": [
+      "酒馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-118",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "酒馆",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "시키다",
+    "trans": [
+      "点(菜)，使"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-119",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "点(菜)，使",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  },
+  {
+    "name": "마시다",
+    "trans": [
+      "喝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U04-120",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "喝",
+    "sourceTags": [],
+    "sourceNotes": "여기 물 좀 주십시요"
+  }
+]

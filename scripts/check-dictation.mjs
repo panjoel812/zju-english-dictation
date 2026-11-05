@@ -1,3 +1,4 @@
+import { expect } from '@playwright/test'
 import assert from 'node:assert/strict'
 import { chromium } from 'playwright'
 
@@ -10,6 +11,17 @@ const words = [
   { name: 'take responsibility', trans: ['承担责任'] },
 ]
 
+async function toggleSettings(page) {
+  const dialog = page.getByRole('dialog', { name: '设置', exact: true })
+  if (await dialog.isVisible()) {
+    await page.getByRole('button', { name: '关闭设置', exact: true }).click()
+    await expect(dialog).toHaveCount(0)
+  } else {
+    await page.getByRole('button', { name: '打开设置对话框', exact: true }).click()
+    await expect(dialog).toBeVisible()
+  }
+}
+
 async function openPage(viewport = { width: 390, height: 844 }, mobile = true, storage = {}) {
   const context = await browser.newContext({ viewport, isMobile: mobile, hasTouch: mobile })
   const page = await context.newPage()
@@ -17,8 +29,11 @@ async function openPage(viewport = { width: 390, height: 844 }, mobile = true, s
   await page.route('https://dict.youdao.com/**', (route) => route.abort())
   await page.route('**/dicts/zju-english-3-unit-1-reading-1.json', (route) => route.fulfill({ json: words }))
   await page.addInitScript((storage) => {
-    localStorage.setItem('lastSeenRelease', JSON.stringify('0.3.2'))
+    localStorage.setItem('zju-practice-guide-seen-v1', 'true')
+    localStorage.setItem('lastSeenRelease', JSON.stringify('0.4.0'))
     localStorage.setItem('wholeWordMode', 'false')
+    document.cookie = 'zju-translation-visible=false; Path=/; SameSite=Lax'
+    localStorage.setItem('hideWordLength', 'false')
     localStorage.setItem('phoneticConfig', JSON.stringify({ isOpen: false }))
     for (const [key, value] of Object.entries(storage)) localStorage.setItem(key, JSON.stringify(value))
   }, storage)
@@ -114,25 +129,25 @@ try {
   }
 
   for (const mobile of [true, false]) {
-    await check(`${mobile ? 'mobile' : 'desktop'} first visit hides English and Chinese by default`, async () => {
+    await check(`${mobile ? 'mobile' : 'desktop'} letter-slot preference hides English and Chinese`, async () => {
       const { context, page } = await openPage(mobile ? undefined : { width: 1440, height: 1000 }, mobile)
       assert.equal(await page.locator('.tooltip-info > div:first-child').textContent(), '____________')
       assert.equal(await page.getByText('n. 企业家', { exact: true }).count(), 0)
-      await page.getByRole('button', { name: '开关默写模式', exact: true }).click()
+      await toggleSettings(page)
       assert.equal(await page.getByRole('switch', { name: '默写模式', exact: true }).getAttribute('aria-checked'), 'true')
-      assert.equal(await page.getByRole('button', { name: '全部隐藏', exact: true }).count(), 1)
+      assert.equal(await page.getByRole('combobox', { name: '隐藏方式', exact: true }).count(), 1)
       await context.close()
     })
   }
 
   await check('manually disabling dictation survives reload', async () => {
     const { context, page } = await openPage()
-    await page.getByRole('button', { name: '开关默写模式', exact: true }).tap()
+    await toggleSettings(page)
     await page.getByRole('switch', { name: '默写模式', exact: true }).uncheck()
     await page.reload({ waitUntil: 'domcontentloaded' })
     await page.locator('.tooltip-info').waitFor()
     assert.equal(await page.locator('.tooltip-info > div:first-child').textContent(), 'entrepreneur')
-    await page.getByRole('button', { name: '开关默写模式', exact: true }).tap()
+    await toggleSettings(page)
     assert.equal(await page.getByRole('switch', { name: '默写模式', exact: true }).getAttribute('aria-checked'), 'false')
     await context.close()
   })
@@ -207,9 +222,8 @@ try {
   await check('mobile settings can take focus without keyboard stealing it', async () => {
     const { context, page } = await openPage()
     await page.locator('#typing-mobile-input').tap()
-    await page.getByRole('button', { name: '开关默写模式', exact: true }).tap()
-    await page.getByRole('button', { name: '全部隐藏', exact: true }).tap()
-    await page.getByRole('option', { name: '隐藏元音', exact: true }).tap()
+    await toggleSettings(page)
+    await page.getByRole('combobox', { name: '隐藏方式', exact: true }).selectOption('hideVowel')
     assert.equal(JSON.parse(await page.evaluate(() => localStorage.getItem('wordDictationConfig-v2'))).type, 'hideVowel')
     assert.notEqual(await page.evaluate(() => document.activeElement?.id), 'typing-mobile-input')
     await context.close()

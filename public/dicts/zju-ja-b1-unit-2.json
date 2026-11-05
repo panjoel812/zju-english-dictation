@@ -1,0 +1,943 @@
+[
+  {
+    "name": "ほん（本）",
+    "trans": [
+      "名 书"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-001",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "书",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほん",
+      "本"
+    ],
+    "speech": "ほん"
+  },
+  {
+    "name": "かばん",
+    "trans": [
+      "名 包，公文包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-002",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "包，公文包",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ノート",
+    "trans": [
+      "名 笔记本，本子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-003",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "笔记本，本子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "えんぴつ（鉛筆）",
+    "trans": [
+      "名 铅笔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-004",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "铅笔",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "えんぴつ",
+      "鉛筆"
+    ],
+    "speech": "えんぴつ"
+  },
+  {
+    "name": "かさ（傘）",
+    "trans": [
+      "名 伞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-005",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "伞",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かさ",
+      "傘"
+    ],
+    "speech": "かさ"
+  },
+  {
+    "name": "くつ（靴）",
+    "trans": [
+      "名 鞋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-006",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "鞋",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "くつ",
+      "靴"
+    ],
+    "speech": "くつ"
+  },
+  {
+    "name": "しんぶん（新聞）",
+    "trans": [
+      "名 报纸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-007",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "报纸",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しんぶん",
+      "新聞"
+    ],
+    "speech": "しんぶん"
+  },
+  {
+    "name": "ざっし（雑誌）",
+    "trans": [
+      "名 杂志"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-008",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "杂志",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ざっし",
+      "雑誌"
+    ],
+    "speech": "ざっし"
+  },
+  {
+    "name": "じしょ（辞書）",
+    "trans": [
+      "名 词典"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-009",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "词典",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じしょ",
+      "辞書"
+    ],
+    "speech": "じしょ"
+  },
+  {
+    "name": "カメラ",
+    "trans": [
+      "名 照相机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-010",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "照相机",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "テレビ",
+    "trans": [
+      "名 电视机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-011",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "电视机",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "パソコン",
+    "trans": [
+      "名 个人电脑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-012",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "个人电脑",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ラジオ",
+    "trans": [
+      "名 收音机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-013",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "收音机",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "でんわ（電話）",
+    "trans": [
+      "名 电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-014",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "电话",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "でんわ",
+      "電話"
+    ],
+    "speech": "でんわ"
+  },
+  {
+    "name": "つくえ（机）",
+    "trans": [
+      "名 桌子，书桌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-015",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "桌子，书桌",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つくえ",
+      "机"
+    ],
+    "speech": "つくえ"
+  },
+  {
+    "name": "いす",
+    "trans": [
+      "名 椅子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-016",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "椅子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かぎ",
+    "trans": [
+      "名 钥匙，锁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-017",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "钥匙，锁",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "とけい（時計）",
+    "trans": [
+      "名 钟，表"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-018",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "钟，表",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とけい",
+      "時計"
+    ],
+    "speech": "とけい"
+  },
+  {
+    "name": "てちょう（手帳）",
+    "trans": [
+      "名 记事本"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-019",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "记事本",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てちょう",
+      "手帳"
+    ],
+    "speech": "てちょう"
+  },
+  {
+    "name": "しゃしん（写真）",
+    "trans": [
+      "名 照片"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-020",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "照片",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゃしん",
+      "写真"
+    ],
+    "speech": "しゃしん"
+  },
+  {
+    "name": "くるま（車）",
+    "trans": [
+      "名 车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-021",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "くるま",
+      "車"
+    ],
+    "speech": "くるま"
+  },
+  {
+    "name": "じてんしゃ（自転車）",
+    "trans": [
+      "名 自行车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-022",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "自行车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じてんしゃ",
+      "自転車"
+    ],
+    "speech": "じてんしゃ"
+  },
+  {
+    "name": "おみやげ（お土産）",
+    "trans": [
+      "名 礼物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-023",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "礼物",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おみやげ",
+      "お土産"
+    ],
+    "speech": "おみやげ"
+  },
+  {
+    "name": "めいさんひん（名産品）",
+    "trans": [
+      "名 特产，名产"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-024",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "特产，名产",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "めいさんひん",
+      "名産品"
+    ],
+    "speech": "めいさんひん"
+  },
+  {
+    "name": "シルク",
+    "trans": [
+      "名 丝绸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-025",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "丝绸",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ハンカチ",
+    "trans": [
+      "名 手绢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-026",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "手绢",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かいしゃ（会社）",
+    "trans": [
+      "名 公司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-027",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "公司",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいしゃ",
+      "会社"
+    ],
+    "speech": "かいしゃ"
+  },
+  {
+    "name": "かた（方）",
+    "trans": [
+      "名 （敬称）位，人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-028",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "（敬称）位，人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かた",
+      "方"
+    ],
+    "speech": "かた"
+  },
+  {
+    "name": "ひと（人）",
+    "trans": [
+      "名 人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-029",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひと",
+      "人"
+    ],
+    "speech": "ひと"
+  },
+  {
+    "name": "かぞく（家族）",
+    "trans": [
+      "名 家人，家属"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-030",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "家人，家属",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かぞく",
+      "家族"
+    ],
+    "speech": "かぞく"
+  },
+  {
+    "name": "はは（母）",
+    "trans": [
+      "名 （我）母亲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-031",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "（我）母亲",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はは",
+      "母"
+    ],
+    "speech": "はは"
+  },
+  {
+    "name": "おかあさん（お母さん）",
+    "trans": [
+      "名 母亲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-032",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "母亲",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おかあさん",
+      "お母さん"
+    ],
+    "speech": "おかあさん"
+  },
+  {
+    "name": "にほんご（日本語）",
+    "trans": [
+      "名 日语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-033",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "日语",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にほんご",
+      "日本語"
+    ],
+    "speech": "にほんご"
+  },
+  {
+    "name": "ちゅうごくご（中国語）",
+    "trans": [
+      "名 汉语，中文"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-034",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "汉语，中文",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちゅうごくご",
+      "中国語"
+    ],
+    "speech": "ちゅうごくご"
+  },
+  {
+    "name": "これ",
+    "trans": [
+      "代 这，这个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-035",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "这，这个",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "それ",
+    "trans": [
+      "代 那，那个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-036",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "那，那个",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あれ",
+    "trans": [
+      "代 那，那个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-037",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "那，那个",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "どれ",
+    "trans": [
+      "疑 哪个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-038",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "哪个",
+    "sourceTags": [
+      "疑"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "なん（何）",
+    "trans": [
+      "疑 什么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-039",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "什么",
+    "sourceTags": [
+      "疑"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "なん",
+      "何"
+    ],
+    "speech": "なん"
+  },
+  {
+    "name": "だれ",
+    "trans": [
+      "疑 谁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-040",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "谁",
+    "sourceTags": [
+      "疑"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "どなた",
+    "trans": [
+      "疑 哪位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-041",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "哪位",
+    "sourceTags": [
+      "疑"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "この",
+    "trans": [
+      "连体 这，这个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-042",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "这，这个",
+    "sourceTags": [
+      "连体"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "その",
+    "trans": [
+      "连体 那，那个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-043",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "那，那个",
+    "sourceTags": [
+      "连体"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あの",
+    "trans": [
+      "连体 那，那个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-044",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "那，那个",
+    "sourceTags": [
+      "连体"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "どの",
+    "trans": [
+      "连体 哪个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-045",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "哪个",
+    "sourceTags": [
+      "连体"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "えっ",
+    "trans": [
+      "叹 啊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-046",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "啊",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "わあ",
+    "trans": [
+      "叹 哇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-047",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "哇",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ええ",
+    "trans": [
+      "叹 （应答）嗯，是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-048",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "（应答）嗯，是",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ながしま（長島）",
+    "trans": [
+      "专 长岛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-049",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "长岛",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ながしま",
+      "長島"
+    ],
+    "speech": "ながしま"
+  },
+  {
+    "name": "にほん（日本）",
+    "trans": [
+      "专 日本"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-050",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "日本",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にほん",
+      "日本"
+    ],
+    "speech": "にほん"
+  },
+  {
+    "name": "スワトウ",
+    "trans": [
+      "专 汕头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-051",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "汕头",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ロンドン",
+    "trans": [
+      "专 伦敦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-052",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "伦敦",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ありがとうございます",
+    "trans": [
+      "谢谢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-053",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "谢谢",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おいくつ",
+    "trans": [
+      "多大"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U02-054",
+    "sourceSheet": "B1U02",
+    "sourceMeaning": "多大",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

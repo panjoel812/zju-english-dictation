@@ -11,6 +11,17 @@ const words = [
   { name: 'take responsibility', trans: ['承担责任'] },
 ]
 
+async function toggleSettings(page) {
+  const dialog = page.getByRole('dialog', { name: '设置', exact: true })
+  if (await dialog.isVisible()) {
+    await page.getByRole('button', { name: '关闭设置', exact: true }).click()
+    await expect(dialog).toHaveCount(0)
+  } else {
+    await page.getByRole('button', { name: '打开设置对话框', exact: true }).click()
+    await expect(dialog).toBeVisible()
+  }
+}
+
 async function check(name, fn, { mobile = false, storage = {}, dictionary = words } = {}) {
   if (process.env.TEST_MATCH && !name.includes(process.env.TEST_MATCH)) return
   const context = await browser.newContext({
@@ -26,7 +37,10 @@ async function check(name, fn, { mobile = false, storage = {}, dictionary = word
     await page.route('**/dicts/zju-english-3-unit-1-reading-1.json', (route) => route.fulfill({ json: dictionary }))
     await page.addInitScript((settings) => {
       if (!sessionStorage.getItem('seeded')) {
-        localStorage.setItem('lastSeenRelease', JSON.stringify('0.3.2'))
+        localStorage.setItem('zju-practice-guide-seen-v1', 'true')
+        localStorage.setItem('lastSeenRelease', JSON.stringify('0.4.0'))
+        document.cookie = 'zju-translation-visible=false; Path=/; SameSite=Lax'
+        localStorage.setItem('hideWordLength', 'false')
         localStorage.setItem('phoneticConfig', JSON.stringify({ isOpen: false }))
         for (const [key, value] of Object.entries(settings)) localStorage.setItem(key, JSON.stringify(value))
         sessionStorage.setItem('seeded', 'true')
@@ -290,15 +304,21 @@ try {
       const field = page.getByLabel('单词长度已隐藏', { exact: true })
       await page.getByRole('button', { name: '开始', exact: true }).click()
       await page.keyboard.type('indistinguishable')
-      const letters = field.locator('span')
-      const first = await letters.first().boundingBox()
-      const bounds = await field.boundingBox()
-      for (const letter of await letters.all()) {
-        const rect = await letter.boundingBox()
+      // Capture one frame before the completed word automatically advances.
+      const { letters, bounds, sound } = await field.evaluate((element) => ({
+        letters: Array.from(element.querySelectorAll(':scope > span'), (letter) => ({
+          ...letter.getBoundingClientRect().toJSON(),
+          text: letter.textContent,
+        })),
+        bounds: element.getBoundingClientRect().toJSON(),
+        sound: element.querySelector('.cursor-pointer').getBoundingClientRect().toJSON(),
+      }))
+      assert.equal(letters.map(({ text }) => text).join(''), 'indistinguishable')
+      const first = letters[0]
+      for (const rect of letters) {
         assert.ok(Math.abs(rect.y - first.y) < 1, `Long word wrapped on the fixed line: ${JSON.stringify(rect)}`)
         assert.ok(rect.x >= bounds.x && rect.x + rect.width <= bounds.x + bounds.width + 1, 'Long word exceeds the fixed line')
       }
-      const sound = await page.locator('.tooltip-info .cursor-pointer').boundingBox()
       assert.ok(sound.x >= bounds.x + bounds.width, 'Sound control belongs to the right of the fixed line')
     },
     {
@@ -344,7 +364,10 @@ try {
       const lineBox = await line.boundingBox()
       const answerBox = await answer.boundingBox()
       const soundBox = await page.locator('.tooltip-info .cursor-pointer').boundingBox()
-      assert.ok(answerBox && lineBox && answerBox.x >= lineBox.x && answerBox.x + answerBox.width <= lineBox.x + lineBox.width + 1, JSON.stringify({ lineBox, answerBox }))
+      assert.ok(
+        answerBox && lineBox && answerBox.x >= lineBox.x && answerBox.x + answerBox.width <= lineBox.x + lineBox.width + 1,
+        JSON.stringify({ lineBox, answerBox }),
+      )
       assert.ok(soundBox && soundBox.x >= lineBox.x + lineBox.width, JSON.stringify({ lineBox, soundBox }))
     },
     {
@@ -482,9 +505,13 @@ try {
   )
 
   await check('keyboard-start focuses the whole-word input for subsequent typing', async (page) => {
+    const input = page.getByRole('textbox', { name: '英文默写输入' })
     await page.keyboard.press('a')
-    await expect(page.getByRole('textbox', { name: '英文默写输入' })).toBeFocused()
+    await expect(input).toBeFocused()
+    await expect(page.getByRole('button', { name: '暂停', exact: true })).toBeVisible()
+    await expect(input).toHaveValue('')
     await page.keyboard.type('entrepreneur')
+    await expect(input).toHaveValue('entrepreneur')
     await page.keyboard.press('Enter')
     await expect.poll(async () => (await records(page)).length).toBe(1)
   })
@@ -640,16 +667,16 @@ try {
         const input = page.getByRole('textbox', { name: '英文默写输入' })
         await input.fill('entre')
         assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth))
-        await page.getByRole('button', { name: '开关默写模式', exact: true }).tap()
+        await toggleSettings(page)
         const toggle = page.getByRole('switch', { name: '隐藏字母数', exact: true })
         const panel = toggle.locator('xpath=../..')
         const panelRect = await panel.boundingBox()
         assert.ok(panelRect.x >= 0 && panelRect.x + panelRect.width <= width, JSON.stringify(panelRect))
         await toggle.uncheck()
         await page.waitForTimeout(350)
-        assert.equal(await input.evaluate((el) => el === document.activeElement), false)
+        assert.equal(await page.locator('[aria-label="英文默写输入"]').evaluate((el) => el === document.activeElement), false)
         await toggle.check()
-        await page.getByRole('button', { name: '开关默写模式', exact: true }).tap()
+        await toggleSettings(page)
         await expect(toggle).toBeHidden()
         await input.tap()
         await page.screenshot({ path: `/private/tmp/zju-answer-${width}.png`, fullPage: true })
@@ -659,9 +686,9 @@ try {
   }
 
   await check('hidden length uses one fixed line for different words and remembers the setting', async (page) => {
-    await page.getByRole('button', { name: '开关默写模式', exact: true }).click()
+    await toggleSettings(page)
     await page.getByRole('switch', { name: '隐藏字母数', exact: true }).check()
-    await page.getByRole('button', { name: '开关默写模式', exact: true }).click()
+    await toggleSettings(page)
     const line = page.getByLabel('单词长度已隐藏', { exact: true })
     await line.waitFor()
     const first = await line.boundingBox()
@@ -674,20 +701,20 @@ try {
     assert.equal((await line.boundingBox()).width, first.width)
     await page.reload({ waitUntil: 'domcontentloaded' })
     await expect(line).toBeVisible()
-    await page.getByRole('button', { name: '开关默写模式', exact: true }).click()
+    await toggleSettings(page)
     await page.getByRole('switch', { name: '隐藏字母数', exact: true }).uncheck()
-    await page.getByRole('button', { name: '开关默写模式', exact: true }).click()
+    await toggleSettings(page)
     await expect(line).toHaveCount(0)
     assert.match(await page.locator('.tooltip-info > div:first-child').textContent(), /^_+$/)
   })
 
   await check('whole-word grading can be disabled and the saved choice survives reload', async (page) => {
-    await page.getByRole('button', { name: '开关默写模式', exact: true }).click()
+    await toggleSettings(page)
     await page.getByRole('switch', { name: '整词提交后判定', exact: true }).uncheck()
     await page.reload({ waitUntil: 'domcontentloaded' })
-    await page.getByRole('button', { name: '开关默写模式', exact: true }).click()
+    await toggleSettings(page)
     await expect(page.getByRole('switch', { name: '整词提交后判定', exact: true })).not.toBeChecked()
-    await page.getByRole('button', { name: '开关默写模式', exact: true }).click()
+    await toggleSettings(page)
     await page.getByRole('button', { name: '开始', exact: true }).click()
     await page.keyboard.type('entrepreneur')
     await expect.poll(async () => (await records(page)).length).toBe(1)

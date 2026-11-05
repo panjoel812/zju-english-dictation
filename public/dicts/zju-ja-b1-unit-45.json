@@ -1,0 +1,874 @@
+[
+  {
+    "name": "しょうしか（少子化）",
+    "trans": [
+      "名 孩子减少现象"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-001",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "孩子减少现象",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょうしか",
+      "少子化"
+    ],
+    "speech": "しょうしか"
+  },
+  {
+    "name": "じんこう（人口）",
+    "trans": [
+      "名 人口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-002",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "人口",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じんこう",
+      "人口"
+    ],
+    "speech": "じんこう"
+  },
+  {
+    "name": "へいきんねんれい（平均年齢）",
+    "trans": [
+      "名 平均年龄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-003",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "平均年龄",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "へいきんねんれい",
+      "平均年齢"
+    ],
+    "speech": "へいきんねんれい"
+  },
+  {
+    "name": "こうつう（交通）",
+    "trans": [
+      "名 交通"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-004",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "交通",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうつう",
+      "交通"
+    ],
+    "speech": "こうつう"
+  },
+  {
+    "name": "べん（便）",
+    "trans": [
+      "名 方便，便利"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-005",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "方便，便利",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "べん",
+      "便"
+    ],
+    "speech": "べん"
+  },
+  {
+    "name": "アクセス",
+    "trans": [
+      "名 连接，衔接"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-006",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "连接，衔接",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "リニアモーターカー",
+    "trans": [
+      "名 磁悬浮列车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-007",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "磁悬浮列车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "びん（便）",
+    "trans": [
+      "名 航班"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-008",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "航班",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "びん",
+      "便"
+    ],
+    "speech": "びん"
+  },
+  {
+    "name": "しない（市内）",
+    "trans": [
+      "名 市内"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-009",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "市内",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しない",
+      "市内"
+    ],
+    "speech": "しない"
+  },
+  {
+    "name": "いなか（田舎）",
+    "trans": [
+      "名 乡下，农村"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-010",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "乡下，农村",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いなか",
+      "田舎"
+    ],
+    "speech": "いなか"
+  },
+  {
+    "name": "ちゅうしんち（中心地）",
+    "trans": [
+      "名 中心地区"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-011",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "中心地区",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちゅうしんち",
+      "中心地"
+    ],
+    "speech": "ちゅうしんち"
+  },
+  {
+    "name": "きんだいか（近代化）",
+    "trans": [
+      "名 现代化"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-012",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "现代化",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きんだいか",
+      "近代化"
+    ],
+    "speech": "きんだいか"
+  },
+  {
+    "name": "げんだいじん（現代人）",
+    "trans": [
+      "名 现代人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-013",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "现代人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "げんだいじん",
+      "現代人"
+    ],
+    "speech": "げんだいじん"
+  },
+  {
+    "name": "じかんたい（時間帯）",
+    "trans": [
+      "名 时间段"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-014",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "时间段",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じかんたい",
+      "時間帯"
+    ],
+    "speech": "じかんたい"
+  },
+  {
+    "name": "ちょうし（調子）",
+    "trans": [
+      "名 情况，状况；势头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-015",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "情况，状况；势头",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちょうし",
+      "調子"
+    ],
+    "speech": "ちょうし"
+  },
+  {
+    "name": "よさ",
+    "trans": [
+      "名 长处，好处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-016",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "长处，好处",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "へやだい（部屋代）",
+    "trans": [
+      "名 房租"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-017",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "房租",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "へやだい",
+      "部屋代"
+    ],
+    "speech": "へやだい"
+  },
+  {
+    "name": "しんりん（森林）",
+    "trans": [
+      "名 森林"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-018",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "森林",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しんりん",
+      "森林"
+    ],
+    "speech": "しんりん"
+  },
+  {
+    "name": "ちきゅう（地球）",
+    "trans": [
+      "名 地球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-019",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "地球",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちきゅう",
+      "地球"
+    ],
+    "speech": "ちきゅう"
+  },
+  {
+    "name": "へいきんきおん（平均気温）",
+    "trans": [
+      "名 平均气温"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-020",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "平均气温",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "へいきんきおん",
+      "平均気温"
+    ],
+    "speech": "へいきんきおん"
+  },
+  {
+    "name": "ちきゅうおんだんか（地球温暖化）",
+    "trans": [
+      "名 地球变暖现象"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-021",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "地球变暖现象",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちきゅうおんだんか",
+      "地球温暖化"
+    ],
+    "speech": "ちきゅうおんだんか"
+  },
+  {
+    "name": "れいとうしょくひん（冷凍食品）",
+    "trans": [
+      "名 冷冻食品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-022",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "冷冻食品",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "れいとうしょくひん",
+      "冷凍食品"
+    ],
+    "speech": "れいとうしょくひん"
+  },
+  {
+    "name": "こうれいしゃ（高齢者）",
+    "trans": [
+      "名 高龄者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-023",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "高龄者",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうれいしゃ",
+      "高齢者"
+    ],
+    "speech": "こうれいしゃ"
+  },
+  {
+    "name": "きつえんしゃ（喫煙者）",
+    "trans": [
+      "名 吸烟者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-024",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "吸烟者",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きつえんしゃ",
+      "喫煙者"
+    ],
+    "speech": "きつえんしゃ"
+  },
+  {
+    "name": "りょこうしゃ（旅行者）",
+    "trans": [
+      "名 旅行者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-025",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "旅行者",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りょこうしゃ",
+      "旅行者"
+    ],
+    "speech": "りょこうしゃ"
+  },
+  {
+    "name": "りようしゃ（利用者）",
+    "trans": [
+      "名 利用者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-026",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "利用者",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りようしゃ",
+      "利用者"
+    ],
+    "speech": "りようしゃ"
+  },
+  {
+    "name": "なやみ（悩み）",
+    "trans": [
+      "名 烦恼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-027",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "烦恼",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "なやみ",
+      "悩み"
+    ],
+    "speech": "なやみ"
+  },
+  {
+    "name": "まちなみ（町並み）",
+    "trans": [
+      "名 市容，街道，街景"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-028",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "市容，街道，街景",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まちなみ",
+      "町並み"
+    ],
+    "speech": "まちなみ"
+  },
+  {
+    "name": "うりあげ（うりあげ）",
+    "trans": [
+      "名 销售额，营业额"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-029",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "销售额，营业额",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うりあげ"
+    ],
+    "speech": "うりあげ"
+  },
+  {
+    "name": "あこがれ",
+    "trans": [
+      "名 憧憬"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-030",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "憧憬",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "すすみます（進みます）",
+    "trans": [
+      "动1 加重，前进"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-031",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "加重，前进",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すすみます",
+      "進みます"
+    ],
+    "speech": "すすみます"
+  },
+  {
+    "name": "みがきます（磨きます）",
+    "trans": [
+      "动1 刷，擦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-032",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "刷，擦",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みがきます",
+      "磨きます"
+    ],
+    "speech": "みがきます"
+  },
+  {
+    "name": "くもります（曇ります）",
+    "trans": [
+      "动1 天阴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-033",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "天阴",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "くもります",
+      "曇ります"
+    ],
+    "speech": "くもります"
+  },
+  {
+    "name": "にます（似ます）",
+    "trans": [
+      "动2 像，相似"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-034",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "像，相似",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にます",
+      "似ます"
+    ],
+    "speech": "にます"
+  },
+  {
+    "name": "ライトアップします",
+    "trans": [
+      "动3 景观照明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-035",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "景观照明",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ふきゅうします（普及します）",
+    "trans": [
+      "动3 普及"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-036",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "普及",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふきゅうします",
+      "普及します"
+    ],
+    "speech": "ふきゅうします"
+  },
+  {
+    "name": "あまやどりします（雨宿りします）",
+    "trans": [
+      "动3 避雨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-037",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "避雨",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あまやどりします",
+      "雨宿りします"
+    ],
+    "speech": "あまやどりします"
+  },
+  {
+    "name": "ひどい",
+    "trans": [
+      "形1 残酷，过分；激烈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-038",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "残酷，过分；激烈",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "てがる（手軽）",
+    "trans": [
+      "形2 简便，简单，轻便"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-039",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "简便，简单，轻便",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てがる",
+      "手軽"
+    ],
+    "speech": "てがる"
+  },
+  {
+    "name": "きゅうそく（急速）",
+    "trans": [
+      "形2 迅速，快速"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-040",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "迅速，快速",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きゅうそく",
+      "急速"
+    ],
+    "speech": "きゅうそく"
+  },
+  {
+    "name": "いぜん（以前）",
+    "trans": [
+      "副 以前"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-041",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "以前",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いぜん",
+      "以前"
+    ],
+    "speech": "いぜん"
+  },
+  {
+    "name": "どんどん",
+    "trans": [
+      "副 连接不断地，接二连三地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-042",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "连接不断地，接二连三地",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ますます",
+    "trans": [
+      "副 越来越，更加"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-043",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "越来越，更加",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "なんか",
+    "trans": [
+      "副 有点，总觉得，有些，好像"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-044",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "有点，总觉得，有些，好像",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ねんねん（年々）",
+    "trans": [
+      "副 逐年，每年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-045",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "逐年，每年",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ねんねん",
+      "年々"
+    ],
+    "speech": "ねんねん"
+  },
+  {
+    "name": "かるいもの（軽い物）",
+    "trans": [
+      "清淡的或少量的食物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U45-046",
+    "sourceSheet": "B1U45",
+    "sourceMeaning": "清淡的或少量的食物",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かるいもの",
+      "軽い物"
+    ],
+    "speech": "かるいもの"
+  }
+]

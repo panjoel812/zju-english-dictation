@@ -1,0 +1,660 @@
+[
+  {
+    "name": "たくはいびん（宅配便）",
+    "trans": [
+      "名 送货上门服务"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-001",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "送货上门服务",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たくはいびん",
+      "宅配便"
+    ],
+    "speech": "たくはいびん"
+  },
+  {
+    "name": "ほうこくしょ（報告書）",
+    "trans": [
+      "名 报告书"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-002",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "报告书",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほうこくしょ",
+      "報告書"
+    ],
+    "speech": "ほうこくしょ"
+  },
+  {
+    "name": "つゆ（梅雨）",
+    "trans": [
+      "名 梅雨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-003",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "梅雨",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つゆ",
+      "梅雨"
+    ],
+    "speech": "つゆ"
+  },
+  {
+    "name": "あき（秋）",
+    "trans": [
+      "名 秋天，秋季"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-004",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "秋天，秋季",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あき",
+      "秋"
+    ],
+    "speech": "あき"
+  },
+  {
+    "name": "ピクニック",
+    "trans": [
+      "名 郊游"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-005",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "郊游",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "こうらくち（行楽地）",
+    "trans": [
+      "名 景点，浏览地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-006",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "景点，浏览地",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうらくち",
+      "行楽地"
+    ],
+    "speech": "こうらくち"
+  },
+  {
+    "name": "ピザ",
+    "trans": [
+      "名 比萨饼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-007",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "比萨饼",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しゅうでん（終電）",
+    "trans": [
+      "名 末班电车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-008",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "末班电车",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅうでん",
+      "終電"
+    ],
+    "speech": "しゅうでん"
+  },
+  {
+    "name": "まちあいしつ（待合室）",
+    "trans": [
+      "名 候诊室，等候室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-009",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "候诊室，等候室",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まちあいしつ",
+      "待合室"
+    ],
+    "speech": "まちあいしつ"
+  },
+  {
+    "name": "かんじゃ（患者）",
+    "trans": [
+      "名 病人，患者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-010",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "病人，患者",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんじゃ",
+      "患者"
+    ],
+    "speech": "かんじゃ"
+  },
+  {
+    "name": "はいざら（灰皿）",
+    "trans": [
+      "名 烟灰缸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-011",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "烟灰缸",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はいざら",
+      "灰皿"
+    ],
+    "speech": "はいざら"
+  },
+  {
+    "name": "すいがら（吸殻）",
+    "trans": [
+      "名 烟头，烟灰，烟蒂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-012",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "烟头，烟灰，烟蒂",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すいがら",
+      "吸殻"
+    ],
+    "speech": "すいがら"
+  },
+  {
+    "name": "は（歯）",
+    "trans": [
+      "名 牙齿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-013",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "牙齿",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "は",
+      "歯"
+    ],
+    "speech": "は"
+  },
+  {
+    "name": "かれ（彼）",
+    "trans": [
+      "代 他"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-014",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "他",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かれ",
+      "彼"
+    ],
+    "speech": "かれ"
+  },
+  {
+    "name": "そろいます",
+    "trans": [
+      "动1 到齐，齐全"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-015",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "到齐，齐全",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "よります（寄ります）",
+    "trans": [
+      "动1 顺便去；靠近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-016",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "顺便去；靠近",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "よります",
+      "寄ります"
+    ],
+    "speech": "よります"
+  },
+  {
+    "name": "ひらきます（開きます）",
+    "trans": [
+      "动1 开，开张"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-017",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "开，开张",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひらきます",
+      "開きます"
+    ],
+    "speech": "ひらきます"
+  },
+  {
+    "name": "むかえます（迎えます）",
+    "trans": [
+      "动2 迎接"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-018",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "迎接",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "むかえます",
+      "迎えます"
+    ],
+    "speech": "むかえます"
+  },
+  {
+    "name": "ひっこします（引っ越します）",
+    "trans": [
+      "动1 搬迁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-019",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "搬迁",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひっこします",
+      "引っ越します"
+    ],
+    "speech": "ひっこします"
+  },
+  {
+    "name": "こわれます（壊れます）",
+    "trans": [
+      "动2 出故障，坏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-020",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "出故障，坏",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こわれます",
+      "壊れます"
+    ],
+    "speech": "こわれます"
+  },
+  {
+    "name": "まちがえます（間違えます）",
+    "trans": [
+      "动2 搞错"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-021",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "搞错",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まちがえます",
+      "間違えます"
+    ],
+    "speech": "まちがえます"
+  },
+  {
+    "name": "しゅっぱつします（出発します）",
+    "trans": [
+      "动3 出发"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-022",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "出发",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅっぱつします",
+      "出発します"
+    ],
+    "speech": "しゅっぱつします"
+  },
+  {
+    "name": "てんしょくします（転職します）",
+    "trans": [
+      "动3 换工作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-023",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "换工作",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てんしょくします",
+      "転職します"
+    ],
+    "speech": "てんしょくします"
+  },
+  {
+    "name": "パンクします",
+    "trans": [
+      "动3 轮胎爆裂，撑破"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-024",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "轮胎爆裂，撑破",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "さびしい（寂しい）",
+    "trans": [
+      "形1 寂寞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-025",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "寂寞",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さびしい",
+      "寂しい"
+    ],
+    "speech": "さびしい"
+  },
+  {
+    "name": "たのしみ（楽しみ）",
+    "trans": [
+      "形2 愉快，期待"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-026",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "愉快，期待",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たのしみ",
+      "楽しみ"
+    ],
+    "speech": "たのしみ"
+  },
+  {
+    "name": "とくべつ（特別）",
+    "trans": [
+      "形2 特别"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-027",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "特别",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とくべつ",
+      "特別"
+    ],
+    "speech": "とくべつ"
+  },
+  {
+    "name": "それでは／それじゃ",
+    "trans": [
+      "连 那么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-028",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "那么",
+    "sourceTags": [
+      "连"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "そうか",
+    "trans": [
+      "叹 是吗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-029",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "是吗",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "まあ",
+    "trans": [
+      "叹 嗯，嘿，哎哟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-030",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "嗯，嘿，哎哟",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "パク",
+    "trans": [
+      "专 朴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-031",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "朴",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ちょうこうくだり（長江下り）",
+    "trans": [
+      "专 坐船浏览长江两岸风光"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-032",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "坐船浏览长江两岸风光",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちょうこうくだり",
+      "長江下り"
+    ],
+    "speech": "ちょうこうくだり"
+  },
+  {
+    "name": "こうざん（香山）",
+    "trans": [
+      "专 香山"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-033",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "香山",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうざん",
+      "香山"
+    ],
+    "speech": "こうざん"
+  },
+  {
+    "name": "ペキンしょくぶつえん（北京植物園）",
+    "trans": [
+      "专 北京植物园"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-034",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "北京植物园",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ペキンしょくぶつえん",
+      "北京植物園"
+    ],
+    "speech": "ペキンしょくぶつえん"
+  },
+  {
+    "name": "しかたない（仕方ない）",
+    "trans": [
+      "没有办法"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U30-035",
+    "sourceSheet": "B1U30",
+    "sourceMeaning": "没有办法",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しかたない",
+      "仕方ない"
+    ],
+    "speech": "しかたない"
+  }
+]

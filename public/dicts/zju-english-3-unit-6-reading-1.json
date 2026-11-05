@@ -2,19 +2,19 @@
   {
     "name": "ham",
     "trans": [
-      "火腿（肉）"
+      "n. 火腿（肉）"
     ]
   },
   {
     "name": "grill",
     "trans": [
-      "烤；烧；焙"
+      "v. 烤；烧；焙"
     ]
   },
   {
     "name": "toast",
     "trans": [
-      "烤，烘（面包，奶酪等）"
+      "v. 烤，烘（面包，奶酪等）"
     ]
   },
   {
@@ -26,13 +26,13 @@
   {
     "name": "resourcefulness",
     "trans": [
-      "机智，有办法"
+      "n. 机智，有办法"
     ]
   },
   {
     "name": "immigration",
     "trans": [
-      "移居；移民入境"
+      "n. 移居；移民入境"
     ]
   },
   {
@@ -44,31 +44,31 @@
   {
     "name": "tuna",
     "trans": [
-      "金枪鱼（肉）"
+      "n. 金枪鱼（肉）"
     ]
   },
   {
     "name": "originate",
     "trans": [
-      "开始，发源"
+      "v. 开始，发源"
     ]
   },
   {
     "name": "conserve",
     "trans": [
-      "削减，节省"
+      "v. 削减，节省"
     ]
   },
   {
     "name": "excess",
     "trans": [
-      "过分，过量"
+      "n. 过分，过量"
     ]
   },
   {
     "name": "leftover",
     "trans": [
-      "剩饭菜"
+      "n. 剩饭菜"
     ]
   },
   {
@@ -86,13 +86,13 @@
   {
     "name": "convention",
     "trans": [
-      "惯例，常规，习俗"
+      "n. 惯例，常规，习俗"
     ]
   },
   {
     "name": "turnover",
     "trans": [
-      "流动，流通；吞吐"
+      "n. 流动，流通；吞吐"
     ]
   },
   {
@@ -110,19 +110,19 @@
   {
     "name": "popularity",
     "trans": [
-      "流行，受欢迎"
+      "n. 流行，受欢迎"
     ]
   },
   {
     "name": "unintended",
     "trans": [
-      "无意的，无心的"
+      "adj. 无意的，无心的"
     ]
   },
   {
     "name": "scrap",
     "trans": [
-      "残羹剩饭"
+      "n. 残羹剩饭"
     ]
   },
   {
@@ -134,7 +134,7 @@
   {
     "name": "environmentalsim",
     "trans": [
-      "环境保护主义"
+      "n. 环境保护主义"
     ]
   },
   {
@@ -158,19 +158,19 @@
   {
     "name": "combination",
     "trans": [
-      "联合，组合"
+      "n. 联合，组合"
     ]
   },
   {
     "name": "elegance",
     "trans": [
-      "高雅"
+      "n. 高雅"
     ]
   },
   {
     "name": "permanent",
     "trans": [
-      "长久的；永久的"
+      "adj. 长久的；永久的"
     ]
   },
   {
@@ -188,7 +188,7 @@
   {
     "name": "conservatism",
     "trans": [
-      "保守，守旧主义"
+      "n. 保守，守旧主义"
     ]
   },
   {
@@ -200,7 +200,7 @@
   {
     "name": "dainty",
     "trans": [
-      "小巧的，精致的"
+      "adj. 小巧的，精致的"
     ]
   },
   {
@@ -212,13 +212,13 @@
   {
     "name": "mystery",
     "trans": [
-      "神秘的事"
+      "n. 神秘的事"
     ]
   },
   {
     "name": "specifically",
     "trans": [
-      "专门地；特定地；具体地"
+      "adv. 专门地；特定地；具体地"
     ]
   },
   {
@@ -242,7 +242,7 @@
   {
     "name": "filling",
     "trans": [
-      "耐饥的；果腹的"
+      "adj. 耐饥的；果腹的"
     ]
   },
   {
@@ -266,7 +266,7 @@
   {
     "name": "expat",
     "trans": [
-      "侨民"
+      "n. 侨民"
     ]
   }
 ]

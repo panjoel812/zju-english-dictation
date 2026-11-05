@@ -1,0 +1,1029 @@
+[
+  {
+    "name": "Weise",
+    "trans": [
+      "方式，方法"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-001",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "方式，方法",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dichter",
+    "trans": [
+      "诗人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-002",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "诗人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Genie",
+    "trans": [
+      "天才"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-003",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "天才",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Philosophie",
+    "trans": [
+      "哲学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-004",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "哲学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Professor",
+    "trans": [
+      "教授"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-005",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "教授",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bitter",
+    "trans": [
+      "Adj. 苦的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-006",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adj. 苦的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lektor",
+    "trans": [
+      "教师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-007",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "教师",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nicken",
+    "trans": [
+      "点头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-008",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "点头",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "daraufhin",
+    "trans": [
+      "Adv. 由此，于是，接着"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-009",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adv. 由此，于是，接着",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kämpfen",
+    "trans": [
+      "斗争，战斗，比赛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-010",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "斗争，战斗，比赛",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zunge",
+    "trans": [
+      "舌头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-011",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "舌头",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aussprechen",
+    "trans": [
+      "说出，表达"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-012",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "说出，表达",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Punkt",
+    "trans": [
+      "点；句号；正点，时刻；（比赛、考试等的）分；问题，要点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-013",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "点；句号；正点，时刻；（比赛、考试等的）分；问题，要点",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bestehen",
+    "trans": [
+      "通过考试"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-014",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "通过考试",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bart",
+    "trans": [
+      "胡子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-015",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "胡子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Brille",
+    "trans": [
+      "眼镜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-016",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "眼镜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wolke",
+    "trans": [
+      "云"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-017",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "云",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "völlig",
+    "trans": [
+      "Adv. 完全地，十分地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-018",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adv. 完全地，十分地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verständlich",
+    "trans": [
+      "Adj. 听得清楚的，易懂的，可以理解的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-019",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adj. 听得清楚的，易懂的，可以理解的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dissertation",
+    "trans": [
+      "博士论文"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-020",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "博士论文",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "daheim",
+    "trans": [
+      "Adv. 在自己家里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-021",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adv. 在自己家里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mentalität",
+    "trans": [
+      "气质，思维方式，特性"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-022",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "气质，思维方式，特性",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Thermoskanne",
+    "trans": [
+      "热水壶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-023",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "热水壶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "charakterisieren",
+    "trans": [
+      "刻画，以......为特点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-024",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "刻画，以......为特点",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einlassen",
+    "trans": [
+      "参与，从事"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-025",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "参与，从事",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "auseinandersetzen",
+    "trans": [
+      "辩论（清楚），讲个明白"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-026",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "辩论（清楚），讲个明白",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "angreifen",
+    "trans": [
+      "攻击，进攻；抨击；腐蚀，损害"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-027",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "攻击，进攻；抨击；腐蚀，损害",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wohlstand",
+    "trans": [
+      "富裕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-028",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "富裕",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sparsam",
+    "trans": [
+      "Adj. 节约的，节俭的，节能的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-029",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adj. 节约的，节俭的，节能的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gefälligkeit",
+    "trans": [
+      "效劳，乐于助人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-030",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "效劳，乐于助人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sachlich",
+    "trans": [
+      "Adj. 客观的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-031",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adj. 客观的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verbergen",
+    "trans": [
+      "藏匿，隐藏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-032",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "藏匿，隐藏",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pflegen",
+    "trans": [
+      "看护，照料，保养"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-033",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "看护，照料，保养",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einwanderer",
+    "trans": [
+      "移居者，迁入（别国）者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-034",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "移居者，迁入（别国）者",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Künstler",
+    "trans": [
+      "艺术家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-035",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "艺术家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schuldig",
+    "trans": [
+      "Adj. 欠债的，有过失的，有罪的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-036",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adj. 欠债的，有过失的，有罪的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "übernehmen",
+    "trans": [
+      "接收，接纳；接管，承担"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-037",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "接收，接纳；接管，承担",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wiederspiegeln",
+    "trans": [
+      "反映"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-038",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "反映",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rasen",
+    "trans": [
+      "草地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-039",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "草地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fleiß",
+    "trans": [
+      "努力，勤劳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-040",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "努力，勤劳",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Disziplin",
+    "trans": [
+      "o. Pl. 纪律；学科，项目"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-041",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "o. Pl. 纪律；学科，项目",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sehnsucht",
+    "trans": [
+      "渴望"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-042",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "渴望",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "trauen",
+    "trans": [
+      "敢于，有胆量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-043",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "敢于，有胆量",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausländisch",
+    "trans": [
+      "Adj. 外国的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-044",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adj. 外国的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vorkommen",
+    "trans": [
+      "发生；出现；+jm. 显得"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-045",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "发生；出现；+jm. 显得",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "spannend",
+    "trans": [
+      "Adj. 紧张的，扣人心弦的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-046",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adj. 紧张的，扣人心弦的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "spüren",
+    "trans": [
+      "觉察到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-047",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "觉察到",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vergesslich",
+    "trans": [
+      "Adj. 健忘的，易忘事的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-048",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adj. 健忘的，易忘事的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "intensiv",
+    "trans": [
+      "Adj. 紧张的，深入的；紧凑的；强烈的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-049",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adj. 紧张的，深入的；紧凑的；强烈的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Umstellung",
+    "trans": [
+      "调整，转变"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-050",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "调整，转变",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Feedback",
+    "trans": [
+      "反馈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-051",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "反馈",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hinweis",
+    "trans": [
+      "指示，提示"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-052",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "指示，提示",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bedienung",
+    "trans": [
+      "服务，服务员；使用，操作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-053",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "服务，服务员；使用，操作",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vermissen",
+    "trans": [
+      "惦念，发觉丢失"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-054",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "惦念，发觉丢失",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kooperation",
+    "trans": [
+      "合作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-055",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "合作",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "darstellen",
+    "trans": [
+      "展示，描述，表演，体现，是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-056",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "展示，描述，表演，体现，是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Plattform",
+    "trans": [
+      "平台；基础"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-057",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "平台；基础",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "reflektieren",
+    "trans": [
+      "反射，反映；思考"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-058",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "反射，反映；思考",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "moderieren",
+    "trans": [
+      "主持节目"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-059",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "主持节目",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bewegen",
+    "trans": [
+      "使感动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-060",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "使感动",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "umfangreich",
+    "trans": [
+      "Adj. 大规模的，内容丰富的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-061",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adj. 大规模的，内容丰富的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Intensität",
+    "trans": [
+      "强化，加强，尽力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-062",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "强化，加强，尽力",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vielfalt",
+    "trans": [
+      "多样化，多种多样"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-063",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "多样化，多种多样",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "rasant",
+    "trans": [
+      "Adj. 飞速的，迅速的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-064",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adj. 飞速的，迅速的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ansteigen",
+    "trans": [
+      "上升，增多"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-065",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "上升，增多",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Quantität",
+    "trans": [
+      "量，数量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-066",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "量，数量",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Euphorie",
+    "trans": [
+      "狂热，高昂的情绪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-067",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "狂热，高昂的情绪",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Missverständnis",
+    "trans": [
+      "误会，误解"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-068",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "误会，误解",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "interkulturell",
+    "trans": [
+      "Adj. 跨文化的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-069",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "Adj. 跨文化的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abmildern",
+    "trans": [
+      "减弱，减缓"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-070",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "减弱，减缓",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Version",
+    "trans": [
+      "文本，版本；解释，说法；类型，款式"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-071",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "文本，版本；解释，说法；类型，款式",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rubrik",
+    "trans": [
+      "栏目"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-072",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "栏目",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fokus",
+    "trans": [
+      "焦点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-073",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "焦点",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Artikel",
+    "trans": [
+      "文章；商品，货物；冠词；条款"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-074",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "文章；商品，货物；冠词；条款",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Magazin",
+    "trans": [
+      "杂志，画报"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-075",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "杂志，画报",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kommentar",
+    "trans": [
+      "评论，述评"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-076",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "评论，述评",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kalender",
+    "trans": [
+      "日历，年历"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-077",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "日历，年历",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bezug",
+    "trans": [
+      "涉及，联系到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-078",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "涉及，联系到",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Institution",
+    "trans": [
+      "公共机构，机构；习俗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E6-079",
+    "sourceSheet": "B4E6",
+    "sourceMeaning": "公共机构，机构；习俗",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

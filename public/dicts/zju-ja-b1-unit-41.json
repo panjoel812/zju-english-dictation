@@ -1,0 +1,1278 @@
+[
+  {
+    "name": "ことり（小鳥）",
+    "trans": [
+      "名 小鸟，鸟儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-001",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "小鸟，鸟儿",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ことり",
+      "小鳥"
+    ],
+    "speech": "ことり"
+  },
+  {
+    "name": "ばんぱく（万博）",
+    "trans": [
+      "名 世博会，万国博览会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-002",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "世博会，万国博览会",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ばんぱく",
+      "万博"
+    ],
+    "speech": "ばんぱく"
+  },
+  {
+    "name": "いせき（遺跡）",
+    "trans": [
+      "名 遗址，遗迹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-003",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "遗址，遗迹",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いせき",
+      "遺跡"
+    ],
+    "speech": "いせき"
+  },
+  {
+    "name": "じょうし（上司）",
+    "trans": [
+      "名 上司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-004",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "上司",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じょうし",
+      "上司"
+    ],
+    "speech": "じょうし"
+  },
+  {
+    "name": "すり",
+    "trans": [
+      "名 扒手，小偷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-005",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "扒手，小偷",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "せだい（世代）",
+    "trans": [
+      "名 世代；一代"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-006",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "世代；一代",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せだい",
+      "世代"
+    ],
+    "speech": "せだい"
+  },
+  {
+    "name": "しじょう（市場）",
+    "trans": [
+      "名 市场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-007",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "市场",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しじょう",
+      "市場"
+    ],
+    "speech": "しじょう"
+  },
+  {
+    "name": "ちょうさ（調査）",
+    "trans": [
+      "名 调查"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-008",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "调查",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちょうさ",
+      "調査"
+    ],
+    "speech": "ちょうさ"
+  },
+  {
+    "name": "しゅっか（出荷）",
+    "trans": [
+      "名 上市，运出货物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-009",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "上市，运出货物",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅっか",
+      "出荷"
+    ],
+    "speech": "しゅっか"
+  },
+  {
+    "name": "せいちょう（成長）",
+    "trans": [
+      "名 成长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-010",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "成长",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せいちょう",
+      "成長"
+    ],
+    "speech": "せいちょう"
+  },
+  {
+    "name": "あらし（嵐）",
+    "trans": [
+      "名 暴风雨，风暴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-011",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "暴风雨，风暴",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あらし",
+      "嵐"
+    ],
+    "speech": "あらし"
+  },
+  {
+    "name": "ダイナマイト",
+    "trans": [
+      "名 炸药"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-012",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "炸药",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ネーミング",
+    "trans": [
+      "名称，命名，取名"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-013",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "名称，命名，取名",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "コストグウン",
+    "trans": [
+      "名 降低成本"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-014",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "降低成本",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ていかかく（低価格）",
+    "trans": [
+      "名 低价（格）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-015",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "低价（格）",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ていかかく",
+      "低価格"
+    ],
+    "speech": "ていかかく"
+  },
+  {
+    "name": "ぎゅうにく（牛肉）",
+    "trans": [
+      "名 牛肉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-016",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "牛肉",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぎゅうにく",
+      "牛肉"
+    ],
+    "speech": "ぎゅうにく"
+  },
+  {
+    "name": "いっさくねん（一昨年）／おととし",
+    "trans": [
+      "名 前年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-017",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "前年",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "さくねん（昨年）",
+    "trans": [
+      "名 去年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-018",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "去年",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さくねん",
+      "昨年"
+    ],
+    "speech": "さくねん"
+  },
+  {
+    "name": "こんご（今後）",
+    "trans": [
+      "名 今后"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-019",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "今后",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こんご",
+      "今後"
+    ],
+    "speech": "こんご"
+  },
+  {
+    "name": "すべて",
+    "trans": [
+      "名 全部，所有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-020",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "全部，所有",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "びしょぬれ",
+    "trans": [
+      "名 落汤鸡，湿透，濡湿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-021",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "落汤鸡，湿透，濡湿",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "みりょく（魅力）",
+    "trans": [
+      "名 吸引力，魅力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-022",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "吸引力，魅力",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みりょく",
+      "魅力"
+    ],
+    "speech": "みりょく"
+  },
+  {
+    "name": "おしょくじけん（汚職事件）",
+    "trans": [
+      "名 贪污事件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-023",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "贪污事件",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おしょくじけん",
+      "汚職事件"
+    ],
+    "speech": "おしょくじけん"
+  },
+  {
+    "name": "しじょうちょうさ（市場調査）",
+    "trans": [
+      "名 市场调查"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-024",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "市场调查",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しじょうちょうさ",
+      "市場調査"
+    ],
+    "speech": "しじょうちょうさ"
+  },
+  {
+    "name": "こうつうじじょう（交通事情）",
+    "trans": [
+      "名 交通状况"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-025",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "交通状况",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうつうじじょう",
+      "交通事情"
+    ],
+    "speech": "こうつうじじょう"
+  },
+  {
+    "name": "ごうべんがいしゃ（合弁会社）",
+    "trans": [
+      "名 合资公司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-026",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "合资公司",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ごうべんがいしゃ",
+      "合弁会社"
+    ],
+    "speech": "ごうべんがいしゃ"
+  },
+  {
+    "name": "しかります",
+    "trans": [
+      "动1 训，责备，斥责"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-027",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "训，责备，斥责",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かみます",
+    "trans": [
+      "动1 咬，嚼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-028",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "咬，嚼",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "さそいます（誘います）",
+    "trans": [
+      "动1 邀请，约请"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-029",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "邀请，约请",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さそいます",
+      "誘います"
+    ],
+    "speech": "さそいます"
+  },
+  {
+    "name": "まきこみます（巻き込みます）",
+    "trans": [
+      "动1 卷入，卷进"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-030",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "卷入，卷进",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まきこみます",
+      "巻き込みます"
+    ],
+    "speech": "まきこみます"
+  },
+  {
+    "name": "いたります（至ります）",
+    "trans": [
+      "动1 到达，达到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-031",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "到达，达到",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いたります",
+      "至ります"
+    ],
+    "speech": "いたります"
+  },
+  {
+    "name": "みつかります（見つかります）",
+    "trans": [
+      "动1 找到，发现"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-032",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "找到，发现",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みつかります",
+      "見つかります"
+    ],
+    "speech": "みつかります"
+  },
+  {
+    "name": "ふみます（踏みます）",
+    "trans": [
+      "动1 踩，踏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-033",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "踩，踏",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふみます",
+      "踏みます"
+    ],
+    "speech": "ふみます"
+  },
+  {
+    "name": "はかります（図ります）",
+    "trans": [
+      "动1 谋求；考虑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-034",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "谋求；考虑",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はかります",
+      "図ります"
+    ],
+    "speech": "はかります"
+  },
+  {
+    "name": "みこみます（見込みます）",
+    "trans": [
+      "动1 预料，估计"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-035",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "预料，估计",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みこみます",
+      "見込みます"
+    ],
+    "speech": "みこみます"
+  },
+  {
+    "name": "ぬすみます（盗みます）",
+    "trans": [
+      "动1 盗取，偷盗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-036",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "盗取，偷盗",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぬすみます",
+      "盗みます"
+    ],
+    "speech": "ぬすみます"
+  },
+  {
+    "name": "おこします（起こします）",
+    "trans": [
+      "动1 叫醒，唤醒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-037",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "叫醒，唤醒",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おこします",
+      "起こします"
+    ],
+    "speech": "おこします"
+  },
+  {
+    "name": "ほめます",
+    "trans": [
+      "动2 表扬，赞扬"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-038",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "表扬，赞扬",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "もとめます（求めます）",
+    "trans": [
+      "动2 要求；追求；寻求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-039",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "要求；追求；寻求",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "もとめます",
+      "求めます"
+    ],
+    "speech": "もとめます"
+  },
+  {
+    "name": "いじめます",
+    "trans": [
+      "动2 欺负，折磨，欺侮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-040",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "欺负，折磨，欺侮",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ぶつけます",
+    "trans": [
+      "动2 碰上，撞上；扔，投，掷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-041",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "碰上，撞上；扔，投，掷",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "はっけんします（発見します）",
+    "trans": [
+      "动3 发现"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-042",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "发现",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はっけんします",
+      "発見します"
+    ],
+    "speech": "はっけんします"
+  },
+  {
+    "name": "じしょくします（辞職します）",
+    "trans": [
+      "动3 辞职"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-043",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "辞职",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じしょくします",
+      "辞職します"
+    ],
+    "speech": "じしょくします"
+  },
+  {
+    "name": "そうりつします（創立します）",
+    "trans": [
+      "动3 成立，创立"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-044",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "成立，创立",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "そうりつします",
+      "創立します"
+    ],
+    "speech": "そうりつします"
+  },
+  {
+    "name": "いらいします（依頼します）",
+    "trans": [
+      "动3 委托，请求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-045",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "委托，请求",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いらいします",
+      "依頼します"
+    ],
+    "speech": "いらいします"
+  },
+  {
+    "name": "はつばいします（発売します）",
+    "trans": [
+      "动3 上市，发售，出售"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-046",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "上市，发售，出售",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はつばいします",
+      "発売します"
+    ],
+    "speech": "はつばいします"
+  },
+  {
+    "name": "かいはつします（開発します）",
+    "trans": [
+      "动3 开发"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-047",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "开发",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいはつします",
+      "開発します"
+    ],
+    "speech": "かいはつします"
+  },
+  {
+    "name": "せいぞうします（製造します）",
+    "trans": [
+      "动3 生产，制造"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-048",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "生产，制造",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せいぞうします",
+      "製造します"
+    ],
+    "speech": "せいぞうします"
+  },
+  {
+    "name": "かんりします（管理します）",
+    "trans": [
+      "动3 管理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-049",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "管理",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんりします",
+      "管理します"
+    ],
+    "speech": "かんりします"
+  },
+  {
+    "name": "じつげんします（実現します）",
+    "trans": [
+      "动3 实现"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-050",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "实现",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じつげんします",
+      "実現します"
+    ],
+    "speech": "じつげんします"
+  },
+  {
+    "name": "せんれんします（洗練します）",
+    "trans": [
+      "动3 精炼，洗练"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-051",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "精炼，洗练",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せんれんします",
+      "洗練します"
+    ],
+    "speech": "せんれんします"
+  },
+  {
+    "name": "ほうそうします（放送します）",
+    "trans": [
+      "动3 广播，播送"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-052",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "广播，播送",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほうそうします",
+      "放送します"
+    ],
+    "speech": "ほうそうします"
+  },
+  {
+    "name": "せいさんします（生産します）",
+    "trans": [
+      "动3 生产"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-053",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "生产",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せいさんします",
+      "生産します"
+    ],
+    "speech": "せいさんします"
+  },
+  {
+    "name": "ほんやくします（翻訳します）",
+    "trans": [
+      "动3 翻译，笔译"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-054",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "翻译，笔译",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほんやくします",
+      "翻訳します"
+    ],
+    "speech": "ほんやくします"
+  },
+  {
+    "name": "はつめいします（発明します）",
+    "trans": [
+      "动3 发明"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-055",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "发明",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はつめいします",
+      "発明します"
+    ],
+    "speech": "はつめいします"
+  },
+  {
+    "name": "はばひろい（幅広い）",
+    "trans": [
+      "形1 广泛，宽广，辽阔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-056",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "广泛，宽广，辽阔",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はばひろい",
+      "幅広い"
+    ],
+    "speech": "はばひろい"
+  },
+  {
+    "name": "おおはば（大幅）",
+    "trans": [
+      "形2 大幅（度），广泛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-057",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "大幅（度），广泛",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おおはば",
+      "大幅"
+    ],
+    "speech": "おおはば"
+  },
+  {
+    "name": "たいりょう（大量）",
+    "trans": [
+      "形2 大量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-058",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "大量",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たいりょう",
+      "大量"
+    ],
+    "speech": "たいりょう"
+  },
+  {
+    "name": "もっとも（最も）",
+    "trans": [
+      "副 最"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-059",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "最",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "もっとも",
+      "最も"
+    ],
+    "speech": "もっとも"
+  },
+  {
+    "name": "いやあ",
+    "trans": [
+      "叹 哎呀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-060",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "哎呀",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ニュートン",
+    "trans": [
+      "专 牛顿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-061",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "牛顿",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ノーベル",
+    "trans": [
+      "专 诺贝尔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-062",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "诺贝尔",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "オーストラリア",
+    "trans": [
+      "专 澳大利亚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-063",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "澳大利亚",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "シーエスコンス（CS公司）",
+    "trans": [
+      "专 CS公司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-064",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "CS公司",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "シーエスコンス",
+      "CS公司"
+    ],
+    "speech": "シーエスコンス"
+  },
+  {
+    "name": "チンタオビール（青岛ビール）",
+    "trans": [
+      "专 青岛啤酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-065",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "青岛啤酒",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "チンタオビール",
+      "青岛ビール"
+    ],
+    "speech": "チンタオビール"
+  },
+  {
+    "name": "あキューせいでん（阿Q正伝）",
+    "trans": [
+      "专 阿Q正传"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-066",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "阿Q正传",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あキューせいでん",
+      "阿Q正伝"
+    ],
+    "speech": "あキューせいでん"
+  },
+  {
+    "name": "まいりました（参りました）",
+    "trans": [
+      "真糟糕，真倒霉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-067",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "真糟糕，真倒霉",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まいりました",
+      "参りました"
+    ],
+    "speech": "まいりました"
+  },
+  {
+    "name": "ばんゆういんりょくのほうそく（万有引力の法則）",
+    "trans": [
+      "万有引力定律"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U41-068",
+    "sourceSheet": "B1U41",
+    "sourceMeaning": "万有引力定律",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ばんゆういんりょくのほうそく",
+      "万有引力の法則"
+    ],
+    "speech": "ばんゆういんりょくのほうそく"
+  }
+]

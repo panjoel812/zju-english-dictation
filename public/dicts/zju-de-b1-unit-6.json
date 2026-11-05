@@ -1,0 +1,1263 @@
+[
+  {
+    "name": "Wohnhaus",
+    "trans": [
+      "住宅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-001",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "住宅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einfamilienhaus",
+    "trans": [
+      "独宅，单户住宅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-002",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "独宅，单户住宅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Reihenhaus",
+    "trans": [
+      "连排房屋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-003",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "连排房屋",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wohngemeinschaft",
+    "trans": [
+      "集体住房，合住套房"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-004",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "集体住房，合住套房",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zimmer",
+    "trans": [
+      "房间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-005",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "房间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wohnzimmer",
+    "trans": [
+      "起居室，客厅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-006",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "起居室，客厅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schlafzimmer",
+    "trans": [
+      "卧室，寝室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-007",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "卧室，寝室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bad",
+    "trans": [
+      "浴室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-008",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "浴室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Balkon",
+    "trans": [
+      "阳台"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-009",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "阳台",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Flur",
+    "trans": [
+      "走廊，过道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-010",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "走廊，过道",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Suche",
+    "trans": [
+      "寻找"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-011",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "寻找",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Informatiker",
+    "trans": [
+      "电脑工程师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-012",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "电脑工程师",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Firma",
+    "trans": [
+      "公司"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-013",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "公司",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "seit",
+    "trans": [
+      "Präp. 自......以来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-014",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Präp. 自......以来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anzeige",
+    "trans": [
+      "广告，告示"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-015",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "广告，告示",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vermieter",
+    "trans": [
+      "出租者（男）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-016",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "出租者（男）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vermieterin",
+    "trans": [
+      "出租者（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-017",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "出租者（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dringend",
+    "trans": [
+      "迫切的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-018",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "迫切的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mieten",
+    "trans": [
+      "租用，租借，租贷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-019",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "租用，租借，租贷",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "besichtigen",
+    "trans": [
+      "参观"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-020",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "参观",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "weg",
+    "trans": [
+      "Adv. 不在，离开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-021",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adv. 不在，离开",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Problem",
+    "trans": [
+      "问题，困难"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-022",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "问题，困难",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zeigen",
+    "trans": [
+      "给...看"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-023",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "给...看",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausziehen",
+    "trans": [
+      "脱衣鞋，搬出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-024",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "脱衣鞋，搬出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nötig",
+    "trans": [
+      "Adv. 必要的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-025",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adv. 必要的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "renoviert",
+    "trans": [
+      "修缮过的，装修过的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-026",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "修缮过的，装修过的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ziemlich",
+    "trans": [
+      "Adv. 颇，比较"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-027",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adv. 颇，比较",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zwar",
+    "trans": [
+      "Adv. 虽然"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-028",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adv. 虽然",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "modern",
+    "trans": [
+      "Adj. 时髦的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-029",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adj. 时髦的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hell",
+    "trans": [
+      "Adj. 明亮的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-030",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adj. 明亮的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fenster",
+    "trans": [
+      "窗户，窗子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-031",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "窗户，窗子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Süden",
+    "trans": [
+      "南部，南方，南面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-032",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "南部，南方，南面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Internetanschluss",
+    "trans": [
+      "网络接口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-033",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "网络接口",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hinter",
+    "trans": [
+      "Präp. 在...后面；到......后面去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-034",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Präp. 在...后面；到......后面去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Parkplatz",
+    "trans": [
+      "停车场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-035",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "停车场",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hoch",
+    "trans": [
+      "Adj. 高的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-036",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adj. 高的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Miete",
+    "trans": [
+      "租金"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-037",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "租金",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Monat",
+    "trans": [
+      "月，月份"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-038",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "月，月份",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nehmen",
+    "trans": [
+      "接受，选购，乘，坐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-039",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "接受，选购，乘，坐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nachbar",
+    "trans": [
+      "邻居（男）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-040",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "邻居（男）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nachbarin",
+    "trans": [
+      "邻居（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-041",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "邻居（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einhalten",
+    "trans": [
+      "遵守"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-042",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "遵守",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Haustier",
+    "trans": [
+      "宠物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-043",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "宠物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "halten",
+    "trans": [
+      "养着，饲养；拿着，停着"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-044",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "养着，饲养；拿着，停着",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Umzug",
+    "trans": [
+      "搬家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-045",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "搬家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "umziehen",
+    "trans": [
+      "搬家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-046",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "搬家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "betrachten",
+    "trans": [
+      "细看，打量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-047",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "细看，打量",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Drehstuhl",
+    "trans": [
+      "转椅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-048",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "转椅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "über",
+    "trans": [
+      "Präp. 在/到......上方"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-049",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Präp. 在/到......上方",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hängen",
+    "trans": [
+      "挂着，悬着，吊着"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-050",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "挂着，悬着，吊着",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gegenüber",
+    "trans": [
+      "Präp. 在...对面，面对"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-051",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Präp. 在...对面，面对",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "stehen",
+    "trans": [
+      "站立，竖直，竖放着"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-052",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "站立，竖直，竖放着",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nachttisch",
+    "trans": [
+      "床头柜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-053",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "床头柜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lampe",
+    "trans": [
+      "灯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-054",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "灯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wand",
+    "trans": [
+      "墙壁，墙面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-055",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "墙壁，墙面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ecke",
+    "trans": [
+      "角落，隅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-056",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "角落，隅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Regal",
+    "trans": [
+      "架子，书架"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-057",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "架子，书架",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sache",
+    "trans": [
+      "物品，东西，事情"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-058",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "物品，东西，事情",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ordnung",
+    "trans": [
+      "规则，秩序"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-059",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "规则，秩序",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Laptop",
+    "trans": [
+      "手提电脑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-060",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "手提电脑",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "stecken",
+    "trans": [
+      "插入，插着"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-061",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "插入，插着",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stecker",
+    "trans": [
+      "插头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-062",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "插头",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Steckdose",
+    "trans": [
+      "插座"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-063",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "插座",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Koffer",
+    "trans": [
+      "箱子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-064",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "箱子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kleidung",
+    "trans": [
+      "衣服（总称）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-065",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "衣服（总称）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schrank",
+    "trans": [
+      "柜，橱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-066",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "柜，橱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "stellen",
+    "trans": [
+      "竖放，直立"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-067",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "竖放，直立",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wecker",
+    "trans": [
+      "闹钟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-068",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "闹钟",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "legen",
+    "trans": [
+      "平放，摆；躺，卧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-069",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "平放，摆；躺，卧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "surfen",
+    "trans": [
+      "冲浪运动，网络漫游"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-070",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "冲浪运动，网络漫游",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sitzen",
+    "trans": [
+      "坐，坐着"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-071",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "坐，坐着",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lärm",
+    "trans": [
+      "噪音，嘈吵声"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-072",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "噪音，嘈吵声",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tippen",
+    "trans": [
+      "打字"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-073",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "打字",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rechnung",
+    "trans": [
+      "账单"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-074",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "账单",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Termin",
+    "trans": [
+      "约期，期限"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-075",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "约期，期限",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "warten",
+    "trans": [
+      "等，等待"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-076",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "等，等待",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fertig",
+    "trans": [
+      "Adj. 完成了的，结束了的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-077",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adj. 完成了的，结束了的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "liegen",
+    "trans": [
+      "平放，躺，卧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-078",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "平放，躺，卧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unter",
+    "trans": [
+      "Präp. 在/到...下面/方"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-079",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Präp. 在/到...下面/方",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schuh",
+    "trans": [
+      "鞋，鞋子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-080",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "鞋，鞋子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "möglich",
+    "trans": [
+      "Adj. 可能的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-081",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adj. 可能的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "da",
+    "trans": [
+      "Adv. （在）那儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-082",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adv. （在）那儿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "parken",
+    "trans": [
+      "停放"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-083",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "停放",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Doktor",
+    "trans": [
+      "大夫，博士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-084",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "大夫，博士",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schwach",
+    "trans": [
+      "Adj. 弱，虚弱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-085",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adj. 弱，虚弱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bus",
+    "trans": [
+      "公共汽车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-086",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "公共汽车",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Station",
+    "trans": [
+      "车站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-087",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "车站",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "praktisch",
+    "trans": [
+      "Adj. 实用，事实"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-088",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adj. 实用，事实",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Heizung",
+    "trans": [
+      "暖气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-089",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "暖气",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Möbel",
+    "trans": [
+      "家具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-090",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "家具",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lage",
+    "trans": [
+      "位置，环境"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-091",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "位置，环境",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "links",
+    "trans": [
+      "Adv. 左边，左面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-092",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adv. 左边，左面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "rechts",
+    "trans": [
+      "Adv. 右边，右面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-093",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adv. 右边，右面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vorne",
+    "trans": [
+      "Adv. 前面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-094",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "Adv. 前面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Park",
+    "trans": [
+      "公园"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-095",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "公园",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geschirrspülmaschine",
+    "trans": [
+      "洗碗机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-096",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "洗碗机",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dusche",
+    "trans": [
+      "沐浴；沐浴龙头；沐浴室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E6-097",
+    "sourceSheet": "B1E6",
+    "sourceMeaning": "沐浴；沐浴龙头；沐浴室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

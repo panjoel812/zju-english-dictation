@@ -4,6 +4,7 @@ import { LanguageTabSwitcher } from './LanguageTabSwitcher'
 import Layout from '@/components/Layout'
 import { Tabs, TabsContent } from '@/components/ui/tabs'
 import { dictionaries } from '@/resources/dictionary'
+import minorLanguages from '@/resources/minorLanguages.json'
 import { currentDictInfoAtom } from '@/store'
 import type { Dictionary, LanguageCategoryType } from '@/typings'
 import { useAtomValue } from 'jotai'
@@ -34,6 +35,10 @@ const categories = [
   { name: '浙大新工科英语', includes: (dict: Dictionary) => dict.id.startsWith('zju-english-engineering-') },
   { name: '四六级', includes: (dict: Dictionary) => ['cet4', 'cet6'].includes(dict.id) },
   { name: '雅思托福', includes: (dict: Dictionary) => ['ielts', 'toefl'].includes(dict.id) },
+  ...Array.from(new Set(minorLanguages.map((dict) => dict.courseBook))).map((name) => ({
+    name,
+    includes: (dict: Dictionary) => dict.courseBook === name,
+  })),
 ]
 
 export default function GalleryPage() {
@@ -50,6 +55,7 @@ export default function GalleryPage() {
       .map((category) => ({ name: category.name, dictionaries: currentLanguageCategoryDicts.filter(category.includes) }))
       .filter((category) => category.dictionaries.length > 0)
   }, [galleryState.currentLanguageTab])
+  const activeCategory = dictionaryGroups.some((group) => group.name === currentCategory) ? currentCategory : dictionaryGroups[0]?.name
 
   const onBack = useCallback(() => {
     navigate('/')
@@ -82,8 +88,8 @@ export default function GalleryPage() {
               <IconX className="h-6 w-6" />
             </button>
           </div>
-          <Tabs value={currentCategory} onValueChange={setCurrentCategory} className="w-full min-w-0">
-            <DictTagSwitcher label="词库分类" tagList={dictionaryGroups.map((group) => group.name)} currentTag={currentCategory} />
+          <Tabs value={activeCategory} onValueChange={setCurrentCategory} className="w-full min-w-0">
+            <DictTagSwitcher label="词库分类" tagList={dictionaryGroups.map((group) => group.name)} currentTag={activeCategory} />
             {dictionaryGroups.map((group) => (
               <TabsContent key={group.name} value={group.name} className="mt-6 min-w-0">
                 <DictionaryGroup dictionaries={group.dictionaries} />

@@ -1,0 +1,937 @@
+[
+  {
+    "name": "へや（部屋）",
+    "trans": [
+      "名 房间，屋子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-001",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "房间，屋子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "へや",
+      "部屋"
+    ],
+    "speech": "へや"
+  },
+  {
+    "name": "にわ（庭）",
+    "trans": [
+      "名 院子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-002",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "院子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にわ",
+      "庭"
+    ],
+    "speech": "にわ"
+  },
+  {
+    "name": "いえ（家）",
+    "trans": [
+      "名 家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-003",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "家",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いえ",
+      "家"
+    ],
+    "speech": "いえ"
+  },
+  {
+    "name": "いま（居間）",
+    "trans": [
+      "名 起居室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-004",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "起居室",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いま",
+      "居間"
+    ],
+    "speech": "いま"
+  },
+  {
+    "name": "れいぞうこ（冷蔵庫）",
+    "trans": [
+      "名 冰箱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-005",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "冰箱",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "れいぞうこ",
+      "冷蔵庫"
+    ],
+    "speech": "れいぞうこ"
+  },
+  {
+    "name": "かべ（壁）",
+    "trans": [
+      "名 墙壁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-006",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "墙壁",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かべ",
+      "壁"
+    ],
+    "speech": "かべ"
+  },
+  {
+    "name": "スイッチ",
+    "trans": [
+      "名 开关"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-007",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "开关",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ほんだな（本棚）",
+    "trans": [
+      "名 书架"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-008",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "书架",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほんだな",
+      "本棚"
+    ],
+    "speech": "ほんだな"
+  },
+  {
+    "name": "ベッド",
+    "trans": [
+      "名 床"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-009",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "床",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ねこ（猫）",
+    "trans": [
+      "名 猫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-010",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "猫",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ねこ",
+      "猫"
+    ],
+    "speech": "ねこ"
+  },
+  {
+    "name": "いぬ（犬）",
+    "trans": [
+      "名 狗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-011",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "狗",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いぬ",
+      "犬"
+    ],
+    "speech": "いぬ"
+  },
+  {
+    "name": "はこ（箱）",
+    "trans": [
+      "名 盒子，箱子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-012",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "盒子，箱子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はこ",
+      "箱"
+    ],
+    "speech": "はこ"
+  },
+  {
+    "name": "めがね（眼鏡）",
+    "trans": [
+      "名 眼镜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-013",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "眼镜",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "めがね",
+      "眼鏡"
+    ],
+    "speech": "めがね"
+  },
+  {
+    "name": "ビデオ",
+    "trans": [
+      "名 录像机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-014",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "录像机",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "サッカーボール",
+    "trans": [
+      "名 足球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-015",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "足球",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ビール",
+    "trans": [
+      "名 啤酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-016",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "啤酒",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ウイスキー",
+    "trans": [
+      "名 威士忌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-017",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "威士忌",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "こども（子供）",
+    "trans": [
+      "名 孩子，小孩"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-018",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "孩子，小孩",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こども",
+      "子供"
+    ],
+    "speech": "こども"
+  },
+  {
+    "name": "きょうだい（兄弟）",
+    "trans": [
+      "名 兄弟姐妹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-019",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "兄弟姐妹",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きょうだい",
+      "兄弟"
+    ],
+    "speech": "きょうだい"
+  },
+  {
+    "name": "りょうしん（両親）",
+    "trans": [
+      "名 父母，双亲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-020",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "父母，双亲",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りょうしん",
+      "両親"
+    ],
+    "speech": "りょうしん"
+  },
+  {
+    "name": "いもうと（妹）",
+    "trans": [
+      "名 妹妹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-021",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "妹妹",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いもうと",
+      "妹"
+    ],
+    "speech": "いもうと"
+  },
+  {
+    "name": "おとこ（男）",
+    "trans": [
+      "名 男"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-022",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "男",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おとこ",
+      "男"
+    ],
+    "speech": "おとこ"
+  },
+  {
+    "name": "おんな（女）",
+    "trans": [
+      "名 女"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-023",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "女",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おんな",
+      "女"
+    ],
+    "speech": "おんな"
+  },
+  {
+    "name": "せいと（生徒）",
+    "trans": [
+      "名 学生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-024",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "学生",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せいと",
+      "生徒"
+    ],
+    "speech": "せいと"
+  },
+  {
+    "name": "うえ（上）",
+    "trans": [
+      "名 上面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-025",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "上面",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うえ",
+      "上"
+    ],
+    "speech": "うえ"
+  },
+  {
+    "name": "そと（外）",
+    "trans": [
+      "名 外面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-026",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "外面",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "そと",
+      "外"
+    ],
+    "speech": "そと"
+  },
+  {
+    "name": "なか（中）",
+    "trans": [
+      "名 里面，内部，中间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-027",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "里面，内部，中间",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "なか",
+      "中"
+    ],
+    "speech": "なか"
+  },
+  {
+    "name": "した（下）",
+    "trans": [
+      "名 下面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-028",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "下面",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "した",
+      "下"
+    ],
+    "speech": "した"
+  },
+  {
+    "name": "まえ（前）",
+    "trans": [
+      "名 前，前面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-029",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "前，前面",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まえ",
+      "前"
+    ],
+    "speech": "まえ"
+  },
+  {
+    "name": "うしろ（後ろ）",
+    "trans": [
+      "名 后，后面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-030",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "后，后面",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うしろ",
+      "後ろ"
+    ],
+    "speech": "うしろ"
+  },
+  {
+    "name": "ちかく（近く）",
+    "trans": [
+      "名 附近，近旁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-031",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "附近，近旁",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちかく",
+      "近く"
+    ],
+    "speech": "ちかく"
+  },
+  {
+    "name": "ばしょ（場所）",
+    "trans": [
+      "名 所在地，地方，场所"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-032",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "所在地，地方，场所",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ばしょ",
+      "場所"
+    ],
+    "speech": "ばしょ"
+  },
+  {
+    "name": "きょうしつ（教室）",
+    "trans": [
+      "名 教室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-033",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "教室",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きょうしつ",
+      "教室"
+    ],
+    "speech": "きょうしつ"
+  },
+  {
+    "name": "かいぎしつ（会議室）",
+    "trans": [
+      "名 会议室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-034",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "会议室",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいぎしつ",
+      "会議室"
+    ],
+    "speech": "かいぎしつ"
+  },
+  {
+    "name": "としょしつ（図書室）",
+    "trans": [
+      "名 图书室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-035",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "图书室",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "としょしつ",
+      "図書室"
+    ],
+    "speech": "としょしつ"
+  },
+  {
+    "name": "こうえん（公園）",
+    "trans": [
+      "名 公园"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-036",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "公园",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こうえん",
+      "公園"
+    ],
+    "speech": "こうえん"
+  },
+  {
+    "name": "はなや（花屋）",
+    "trans": [
+      "名 花店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-037",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "花店",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "はなや",
+      "花屋"
+    ],
+    "speech": "はなや"
+  },
+  {
+    "name": "ばいてん（売店）",
+    "trans": [
+      "名 小卖部，售货亭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-038",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "小卖部，售货亭",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ばいてん",
+      "売店"
+    ],
+    "speech": "ばいてん"
+  },
+  {
+    "name": "えき（駅）",
+    "trans": [
+      "名 车站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-039",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "车站",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "えき",
+      "駅"
+    ],
+    "speech": "えき"
+  },
+  {
+    "name": "ちかてつ（地下鉄）",
+    "trans": [
+      "名 地铁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-040",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "地铁",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちかてつ",
+      "地下鉄"
+    ],
+    "speech": "ちかてつ"
+  },
+  {
+    "name": "き（樹）",
+    "trans": [
+      "名 树，树木"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-041",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "树，树木",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "き",
+      "樹"
+    ],
+    "speech": "き"
+  },
+  {
+    "name": "ひとりぐらし（一人暮らし）",
+    "trans": [
+      "名 单身生活"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-042",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "单身生活",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひとりぐらし",
+      "一人暮らし"
+    ],
+    "speech": "ひとりぐらし"
+  },
+  {
+    "name": "あります",
+    "trans": [
+      "动1 有，在（非意志者）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-043",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "有，在（非意志者）",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "います",
+    "trans": [
+      "动2 有，在（具意志者）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-044",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "有，在（具意志者）",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ええと",
+    "trans": [
+      "叹 啊，嗯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-045",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "啊，嗯",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "よこはま（横浜）",
+    "trans": [
+      "专 横滨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-046",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "横滨",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "よこはま",
+      "横浜"
+    ],
+    "speech": "よこはま"
+  },
+  {
+    "name": "なごや（名古屋）",
+    "trans": [
+      "专 名古屋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-047",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "名古屋",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "なごや",
+      "名古屋"
+    ],
+    "speech": "なごや"
+  },
+  {
+    "name": "おおさか（大阪）",
+    "trans": [
+      "专 大阪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-048",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "大阪",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おおさか",
+      "大阪"
+    ],
+    "speech": "おおさか"
+  },
+  {
+    "name": "ジェーアール（ＪＲ）",
+    "trans": [
+      "专 JR"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U04-049",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "JR",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ジェーアール",
+      "ＪＲ"
+    ],
+    "speech": "ジェーアール"
+  }
+]

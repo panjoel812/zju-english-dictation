@@ -1,0 +1,880 @@
+[
+  {
+    "name": "スーツケース",
+    "trans": [
+      "名 旅行箱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-001",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "旅行箱",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "トランク",
+    "trans": [
+      "名 后备箱；手提箱，皮箱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-002",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "后备箱；手提箱，皮箱",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "スーツ",
+    "trans": [
+      "名 西服，女套装"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-003",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "西服，女套装",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ズボン",
+    "trans": [
+      "名 裤子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-004",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "裤子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "テイーシャツ（Tシャツ）",
+    "trans": [
+      "名 T恤衫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-005",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "T恤衫",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "テイーシャツ",
+      "Tシャツ"
+    ],
+    "speech": "テイーシャツ"
+  },
+  {
+    "name": "サンダル",
+    "trans": [
+      "名 凉鞋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-006",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "凉鞋",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ぼうし（帽子）",
+    "trans": [
+      "名 帽子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-007",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "帽子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぼうし",
+      "帽子"
+    ],
+    "speech": "ぼうし"
+  },
+  {
+    "name": "うでどけい（腕時計）",
+    "trans": [
+      "名 手表"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-008",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "手表",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うでどけい",
+      "腕時計"
+    ],
+    "speech": "うでどけい"
+  },
+  {
+    "name": "こもの（小物）",
+    "trans": [
+      "名 小东西，细小的附件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-009",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "小东西，细小的附件",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こもの",
+      "小物"
+    ],
+    "speech": "こもの"
+  },
+  {
+    "name": "うんてんしゅ（運転手）",
+    "trans": [
+      "名 司机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-010",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "司机",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うんてんしゅ",
+      "運転手"
+    ],
+    "speech": "うんてんしゅ"
+  },
+  {
+    "name": "から（空）",
+    "trans": [
+      "名 空"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-011",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "空",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "から",
+      "空"
+    ],
+    "speech": "から"
+  },
+  {
+    "name": "うんどうかい（運動会）",
+    "trans": [
+      "名 运动会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-012",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "运动会",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うんどうかい",
+      "運動会"
+    ],
+    "speech": "うんどうかい"
+  },
+  {
+    "name": "チーム",
+    "trans": [
+      "名 队，团体"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-013",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "队，团体",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "さいご（最後）",
+    "trans": [
+      "名 最后"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-014",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "最后",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さいご",
+      "最後"
+    ],
+    "speech": "さいご"
+  },
+  {
+    "name": "さいかい（再会）",
+    "trans": [
+      "名 重逢，再会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-015",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "重逢，再会",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さいかい",
+      "再会"
+    ],
+    "speech": "さいかい"
+  },
+  {
+    "name": "ひさしぶり（久しぶり）",
+    "trans": [
+      "名 好久不见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-016",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "好久不见",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひさしぶり",
+      "久しぶり"
+    ],
+    "speech": "ひさしぶり"
+  },
+  {
+    "name": "カキ",
+    "trans": [
+      "名 柿子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-017",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "柿子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "せいりょういんりょうすい（清涼飲料水）",
+    "trans": [
+      "名 清凉饮料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-018",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "清凉饮料",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せいりょういんりょうすい",
+      "清涼飲料水"
+    ],
+    "speech": "せいりょういんりょうすい"
+  },
+  {
+    "name": "しまります（閉まります）",
+    "trans": [
+      "动1 关闭，关"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-019",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "关闭，关",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しまります",
+      "閉まります"
+    ],
+    "speech": "しまります"
+  },
+  {
+    "name": "こわします（壊します）",
+    "trans": [
+      "动1 弄坏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-020",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "弄坏",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "こわします",
+      "壊します"
+    ],
+    "speech": "こわします"
+  },
+  {
+    "name": "わります（割ります）",
+    "trans": [
+      "动1 割开，打破，打坏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-021",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "割开，打破，打坏",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "わります",
+      "割ります"
+    ],
+    "speech": "わります"
+  },
+  {
+    "name": "つきます（付きます）",
+    "trans": [
+      "动1 附带，附加"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-022",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "附带，附加",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つきます",
+      "付きます"
+    ],
+    "speech": "つきます"
+  },
+  {
+    "name": "かかります（掛かります）",
+    "trans": [
+      "动1 挂，悬挂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-023",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "挂，悬挂",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かかります",
+      "掛かります"
+    ],
+    "speech": "かかります"
+  },
+  {
+    "name": "よごします（汚します）",
+    "trans": [
+      "动1 弄脏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-024",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "弄脏",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "よごします",
+      "汚します"
+    ],
+    "speech": "よごします"
+  },
+  {
+    "name": "やみます",
+    "trans": [
+      "动1 停，停息，停止"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-025",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "停，停息，停止",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "たちます（建ちます）",
+    "trans": [
+      "动1 盖，建"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-026",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "盖，建",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たちます",
+      "建ちます"
+    ],
+    "speech": "たちます"
+  },
+  {
+    "name": "ならびます（並びます）",
+    "trans": [
+      "动1 排队，排，列队"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-027",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "排队，排，列队",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ならびます",
+      "並びます"
+    ],
+    "speech": "ならびます"
+  },
+  {
+    "name": "つきます（着きます）",
+    "trans": [
+      "动1 到，到达"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-028",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "到，到达",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つきます",
+      "着きます"
+    ],
+    "speech": "つきます"
+  },
+  {
+    "name": "かぶります",
+    "trans": [
+      "动1 戴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-029",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "戴",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "はきます",
+    "trans": [
+      "动1 穿（鞋，裤子）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-030",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "穿（鞋，裤子）",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かいます（飼います）",
+    "trans": [
+      "动1 饲养"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-031",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "饲养",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいます",
+      "飼います"
+    ],
+    "speech": "かいます"
+  },
+  {
+    "name": "きえます（消えます）",
+    "trans": [
+      "动2 熄灭，消失"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-032",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "熄灭，消失",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きえます",
+      "消えます"
+    ],
+    "speech": "きえます"
+  },
+  {
+    "name": "かけます（掛けます）",
+    "trans": [
+      "动2 挂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-033",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "挂",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かけます",
+      "掛けます"
+    ],
+    "speech": "かけます"
+  },
+  {
+    "name": "おちます（落ちます）",
+    "trans": [
+      "动2 落下，掉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-034",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "落下，掉",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おちます",
+      "落ちます"
+    ],
+    "speech": "おちます"
+  },
+  {
+    "name": "われます（割れます）",
+    "trans": [
+      "动2 裂开，破裂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-035",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "裂开，破裂",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "われます",
+      "割れます"
+    ],
+    "speech": "われます"
+  },
+  {
+    "name": "たてます（建てます）",
+    "trans": [
+      "动2 盖，建造"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-036",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "盖，建造",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たてます",
+      "建てます"
+    ],
+    "speech": "たてます"
+  },
+  {
+    "name": "まけます（負けます）",
+    "trans": [
+      "动2 输，败"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-037",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "输，败",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まけます",
+      "負けます"
+    ],
+    "speech": "まけます"
+  },
+  {
+    "name": "よごれます（汚れます）",
+    "trans": [
+      "动2 脏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-038",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "脏",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "よごれます",
+      "汚れます"
+    ],
+    "speech": "よごれます"
+  },
+  {
+    "name": "えらい（偉い）",
+    "trans": [
+      "形1 了不起，伟大"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-039",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "了不起，伟大",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "えらい",
+      "偉い"
+    ],
+    "speech": "えらい"
+  },
+  {
+    "name": "らく（楽）",
+    "trans": [
+      "形2 容易，简易；快乐，轻松"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-040",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "容易，简易；快乐，轻松",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "らく",
+      "楽"
+    ],
+    "speech": "らく"
+  },
+  {
+    "name": "ざんねん（残念）",
+    "trans": [
+      "形2 可惜，遗憾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-041",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "可惜，遗憾",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ざんねん",
+      "残念"
+    ],
+    "speech": "ざんねん"
+  },
+  {
+    "name": "きゅうに（急に）",
+    "trans": [
+      "副 突然"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-042",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "突然",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きゅうに",
+      "急に"
+    ],
+    "speech": "きゅうに"
+  },
+  {
+    "name": "ぜんぶ（全部）",
+    "trans": [
+      "副 全部"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-043",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "全部",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぜんぶ",
+      "全部"
+    ],
+    "speech": "ぜんぶ"
+  },
+  {
+    "name": "あいかわらず（相変わらず）",
+    "trans": [
+      "副 照旧，依然"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-044",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "照旧，依然",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あいかわらず",
+      "相変わらず"
+    ],
+    "speech": "あいかわらず"
+  },
+  {
+    "name": "うっかり",
+    "trans": [
+      "副 不留神，不注意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-045",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "不留神，不注意",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "それにすても",
+    "trans": [
+      "连 即便那样，话虽如此"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-046",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "即便那样，话虽如此",
+    "sourceTags": [
+      "连"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おひさしぶりです（お久しぶりです）",
+    "trans": [
+      "好久不见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U33-047",
+    "sourceSheet": "B1U33",
+    "sourceMeaning": "好久不见",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おひさしぶりです",
+      "お久しぶりです"
+    ],
+    "speech": "おひさしぶりです"
+  }
+]

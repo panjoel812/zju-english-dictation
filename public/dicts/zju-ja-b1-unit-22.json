@@ -1,0 +1,487 @@
+[
+  {
+    "name": "スキーじょう（スキー場）",
+    "trans": [
+      "名 滑雪场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-001",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "滑雪场",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "スキーじょう",
+      "スキー場"
+    ],
+    "speech": "スキーじょう"
+  },
+  {
+    "name": "そうべつかい（送別会）",
+    "trans": [
+      "名 欢送会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-002",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "欢送会",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "そうべつかい",
+      "送別会"
+    ],
+    "speech": "そうべつかい"
+  },
+  {
+    "name": "つごう（都合）",
+    "trans": [
+      "名 方便；情况"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-003",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "方便；情况",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つごう",
+      "都合"
+    ],
+    "speech": "つごう"
+  },
+  {
+    "name": "よてい（予定）",
+    "trans": [
+      "名 预约"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-004",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "预约",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "よてい",
+      "予定"
+    ],
+    "speech": "よてい"
+  },
+  {
+    "name": "おもちゃ",
+    "trans": [
+      "名 玩具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-005",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "玩具",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かじ（火事）",
+    "trans": [
+      "名 火灾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-006",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "火灾",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かじ",
+      "火事"
+    ],
+    "speech": "かじ"
+  },
+  {
+    "name": "きかん（期間）",
+    "trans": [
+      "名 时间，期间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-007",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "时间，期间",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きかん",
+      "期間"
+    ],
+    "speech": "きかん"
+  },
+  {
+    "name": "てんきん（転勤）",
+    "trans": [
+      "名 调动工作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-008",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "调动工作",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てんきん",
+      "転勤"
+    ],
+    "speech": "てんきん"
+  },
+  {
+    "name": "けいたい（携帯）",
+    "trans": [
+      "名 手机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-009",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "手机",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けいたい",
+      "携帯"
+    ],
+    "speech": "けいたい"
+  },
+  {
+    "name": "バドミントン",
+    "trans": [
+      "名 羽毛球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-010",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "羽毛球",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ラケット",
+    "trans": [
+      "名 球拍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-011",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "球拍",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おくさん（奥さん）",
+    "trans": [
+      "名 夫人，（别人的）爱人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-012",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "夫人，（别人的）爱人",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おくさん",
+      "奥さん"
+    ],
+    "speech": "おくさん"
+  },
+  {
+    "name": "かしゅ（歌手）",
+    "trans": [
+      "名 歌手"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-013",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "歌手",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かしゅ",
+      "歌手"
+    ],
+    "speech": "かしゅ"
+  },
+  {
+    "name": "だいとうりょう（大統領）",
+    "trans": [
+      "名 总统"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-014",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "总统",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "だいとうりょう",
+      "大統領"
+    ],
+    "speech": "だいとうりょう"
+  },
+  {
+    "name": "やります",
+    "trans": [
+      "动1 做"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-015",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "做",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "うれしい",
+    "trans": [
+      "形1 高兴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-016",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "高兴",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ねむい（眠い）",
+    "trans": [
+      "形1 困倦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-017",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "困倦",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ねむい",
+      "眠い"
+    ],
+    "speech": "ねむい"
+  },
+  {
+    "name": "おもい（重い）",
+    "trans": [
+      "形1 重，沉重"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-018",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "重，沉重",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おもい",
+      "重い"
+    ],
+    "speech": "おもい"
+  },
+  {
+    "name": "きゅう（急）",
+    "trans": [
+      "形2 突然；紧急"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-019",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "突然；紧急",
+    "sourceTags": [
+      "形2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きゅう",
+      "急"
+    ],
+    "speech": "きゅう"
+  },
+  {
+    "name": "まあまあ",
+    "trans": [
+      "副 大致，还算"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-020",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "大致，还算",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ごめん",
+    "trans": [
+      "叹 抱歉，请原谅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-021",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "抱歉，请原谅",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ううん∕いや",
+    "trans": [
+      "叹 不"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-022",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "不",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "うん",
+    "trans": [
+      "叹 嗯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-023",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "嗯",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しみず（清水）",
+    "trans": [
+      "专 清水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-024",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "清水",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しみず",
+      "清水"
+    ],
+    "speech": "しみず"
+  },
+  {
+    "name": "おおた（太田）",
+    "trans": [
+      "专 太田"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-025",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "太田",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おおた",
+      "太田"
+    ],
+    "speech": "おおた"
+  },
+  {
+    "name": "モーツァルト",
+    "trans": [
+      "专 莫扎特"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-026",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "莫扎特",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ディズニーランド",
+    "trans": [
+      "专 迪斯尼乐园"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U22-027",
+    "sourceSheet": "B1U22",
+    "sourceMeaning": "迪斯尼乐园",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": ""
+  }
+]

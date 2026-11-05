@@ -1,0 +1,1263 @@
+[
+  {
+    "name": "Treppe",
+    "trans": [
+      "楼梯，阶梯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-001",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "楼梯，阶梯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Band",
+    "trans": [
+      "带子，传送带；纽带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-002",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "带子，传送带；纽带",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufgehen",
+    "trans": [
+      "松散；升起；开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-003",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "松散；升起；开",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zusammentreffen",
+    "trans": [
+      "遇见，会见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-004",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "遇见，会见",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "heftig",
+    "trans": [
+      "Adj. 激烈的，剧烈的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-005",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 激烈的，剧烈的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "weinen",
+    "trans": [
+      "哭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-006",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "哭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "angehen",
+    "trans": [
+      "与......有关"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-007",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "与......有关",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "merkwürdig",
+    "trans": [
+      "Adj. 奇怪的，值得注意的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-008",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 奇怪的，值得注意的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geräusch",
+    "trans": [
+      "声响，噪声"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-009",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "声响，噪声",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zugeben",
+    "trans": [
+      "承认，供认"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-010",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "承认，供认",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wieso",
+    "trans": [
+      "Adv. 为什么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-011",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adv. 为什么",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "übelnehmen",
+    "trans": [
+      "因......而见怪，为......而生气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-012",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "因......而见怪，为......而生气",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Salz",
+    "trans": [
+      "盐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-013",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "盐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hinlegen",
+    "trans": [
+      "躺下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-014",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "躺下",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Liebling",
+    "trans": [
+      "亲爱的，宝贝；最喜欢的人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-015",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "亲爱的，宝贝；最喜欢的人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wegen",
+    "trans": [
+      "Präp. 由于，因为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-016",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Präp. 由于，因为",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "leer",
+    "trans": [
+      "Adj. 空的；空白的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-017",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 空的；空白的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "jedenfalls",
+    "trans": [
+      "Adv. 总之，无论如何"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-018",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adv. 总之，无论如何",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "leben",
+    "trans": [
+      "Adj. 活着；生活"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-019",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 活着；生活",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Beweis",
+    "trans": [
+      "证据；表示"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-020",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "证据；表示",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gestehen",
+    "trans": [
+      "袒露；供认"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-021",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "袒露；供认",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wohl",
+    "trans": [
+      "Adv. 也许、可能；舒服、（健康及情绪）良好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-022",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adv. 也许、可能；舒服、（健康及情绪）良好",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verhalten",
+    "trans": [
+      "行为，态度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-023",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "行为，态度",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ärgerlich",
+    "trans": [
+      "生气的，恼火的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-024",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "生气的，恼火的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hausarbeit",
+    "trans": [
+      "家务活；家庭作业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-025",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "家务活；家庭作业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überzeugen",
+    "trans": [
+      "使信服，使坚信"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-026",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "使信服，使坚信",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kommissar",
+    "trans": [
+      "警官"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-027",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "警官",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unbeschädigt",
+    "trans": [
+      "Adj. 未受损害的，完整无损的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-028",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 未受损害的，完整无损的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sparbuch",
+    "trans": [
+      "储蓄存折"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-029",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "储蓄存折",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schublade",
+    "trans": [
+      "抽屉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-030",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "抽屉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Täter",
+    "trans": [
+      "作案人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-031",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "作案人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "herrschen",
+    "trans": [
+      "存在着，笼罩着；统治"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-032",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "存在着，笼罩着；统治",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Durcheinander",
+    "trans": [
+      "乱七八糟，混乱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-033",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "乱七八糟，混乱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "umkippen",
+    "trans": [
+      "弄翻，弄倒；晕倒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-034",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "弄翻，弄倒；晕倒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kostbar",
+    "trans": [
+      "Adj. 昂贵的，宝贵的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-035",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 昂贵的，宝贵的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vorbeigehen",
+    "trans": [
+      "在旁边走过；没有命中"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-036",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "在旁边走过；没有命中",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hinzufügen",
+    "trans": [
+      "添加，补充"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-037",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "添加，补充",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wecken",
+    "trans": [
+      "唤醒；引起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-038",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "唤醒；引起",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vorsitzende",
+    "trans": [
+      "Adj. 主席"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-039",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 主席",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wert",
+    "trans": [
+      "价值；重要性；数值"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-040",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "价值；重要性；数值",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "prägen",
+    "trans": [
+      "对......产生影响，使具有......特征"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-041",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "对......产生影响，使具有......特征",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ernährer",
+    "trans": [
+      "供养人，赡养人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-042",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "供养人，赡养人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "orientieren",
+    "trans": [
+      "辨认方向；了解情况"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-043",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "辨认方向；了解情况",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sicherung",
+    "trans": [
+      "保障，保证；安全（防护）措施；保险装置"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-044",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "保障，保证；安全（防护）措施；保险装置",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Altersversorgung",
+    "trans": [
+      "养老金"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-045",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "养老金",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vermeidung",
+    "trans": [
+      "避免"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-046",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "避免",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Armut",
+    "trans": [
+      "贫困，贫穷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-047",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "贫困，贫穷",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einführung",
+    "trans": [
+      "引入，采用；导言，入门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-048",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "引入，采用；导言，入门",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "künftig",
+    "trans": [
+      "Adj. 未来的，今后的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-049",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 未来的，今后的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "versorgen",
+    "trans": [
+      "供给；照顾，照料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-050",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "供给；照顾，照料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bedürfnis",
+    "trans": [
+      "需要，需求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-051",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "需要，需求",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "grundsätzlich",
+    "trans": [
+      "Adj. 基本的，一般的；原则性的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-052",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 基本的，一般的；原则性的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kindertageseinrichtung",
+    "trans": [
+      "日托小孩的机构"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-053",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "日托小孩的机构",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unterbringen",
+    "trans": [
+      "安顿，安放；使被接受"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-054",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "安顿，安放；使被接受",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Eintritt",
+    "trans": [
+      "进入；入场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-055",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "进入；入场",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anspruch",
+    "trans": [
+      "要求，权利"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-056",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "要求，权利",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hort",
+    "trans": [
+      "（日托）托儿所"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-057",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "（日托）托儿所",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Familieplanung",
+    "trans": [
+      "计划生育"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-058",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "计划生育",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wirkung",
+    "trans": [
+      "效果，作用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-059",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "效果，作用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wandel",
+    "trans": [
+      "变化，转变"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-060",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "变化，转变",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausüben",
+    "trans": [
+      "施加；从事"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-061",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "施加；从事",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "befreien",
+    "trans": [
+      "解放；使摆脱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-062",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "解放；使摆脱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verschieben",
+    "trans": [
+      "推迟；延期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-063",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "推迟；延期",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unabhängig",
+    "trans": [
+      "Adj. 独立自主的，不受......制约的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-064",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 独立自主的，不受......制约的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stellung",
+    "trans": [
+      "（社会）地位；姿势；态度"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-065",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "（社会）地位；姿势；态度",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erhöhen",
+    "trans": [
+      "提高，增加"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-066",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "提高，增加",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gebären",
+    "trans": [
+      "生育，分娩；产生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-067",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "生育，分娩；产生",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Belastung",
+    "trans": [
+      "负担"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-068",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "负担",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "reduzieren",
+    "trans": [
+      "降低，减少"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-069",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "降低，减少",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Erziehung",
+    "trans": [
+      "教育"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-070",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "教育",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bewusstsein",
+    "trans": [
+      "意识，知觉；觉悟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-071",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "意识，知觉；觉悟",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einzelkind",
+    "trans": [
+      "独生子女"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-072",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "独生子女",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "-jährig",
+    "trans": [
+      "Adj. ......年的，......岁的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-073",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. ......年的，......岁的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schweißtropfen",
+    "trans": [
+      "汗珠，汗滴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-074",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "汗珠，汗滴",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gesicht",
+    "trans": [
+      "脸；脸部表情"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-075",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "脸；脸部表情",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kraft",
+    "trans": [
+      "力；精力；人士；效力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-076",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "力；精力；人士；效力",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aufbrauchen",
+    "trans": [
+      "用完，耗尽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-077",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "用完，耗尽",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schwangerschaft",
+    "trans": [
+      "怀孕；怀孕期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-078",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "怀孕；怀孕期",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "regelmäßig",
+    "trans": [
+      "Adj. 有规则的，定期的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-079",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 有规则的，定期的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sowie",
+    "trans": [
+      "Konj. 以及"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-080",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Konj. 以及",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "stillen",
+    "trans": [
+      "给......喂奶；使......停止；使满足；消除"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-081",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "给......喂奶；使......停止；使满足；消除",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Säugling",
+    "trans": [
+      "婴儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-082",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "婴儿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "streicheln",
+    "trans": [
+      "抚摩"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-083",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "抚摩",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "berufstätig",
+    "trans": [
+      "Adj. 在职的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-084",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 在职的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verwöhnen",
+    "trans": [
+      "溺爱，宠爱，宠坏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-085",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "溺爱，宠爱，宠坏",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hart",
+    "trans": [
+      "Adj. 艰苦的；硬的；严厉的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-086",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 艰苦的；硬的；严厉的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nachstehen",
+    "trans": [
+      "落在......后面，不如"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-087",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "落在......后面，不如",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schwanger",
+    "trans": [
+      "Adj. 怀孕的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-088",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 怀孕的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Empfindlichkeit",
+    "trans": [
+      "敏感性，灵敏性"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-089",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "敏感性，灵敏性",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "geistig",
+    "trans": [
+      "Adj. 精神的，脑力的，思想的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-090",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 精神的，脑力的，思想的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "logisch",
+    "trans": [
+      "Adj. 逻辑的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-091",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "Adj. 逻辑的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Institut",
+    "trans": [
+      "学院，系；研究所"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-092",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "学院，系；研究所",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Psychologie",
+    "trans": [
+      "心理学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-093",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "心理学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "befassen",
+    "trans": [
+      "从事，致力于，研究"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-094",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "从事，致力于，研究",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Erschließung",
+    "trans": [
+      "开发，开拓；推断，启发"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-095",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "开发，开拓；推断，启发",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gehirnpotential",
+    "trans": [
+      "大脑潜力"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-096",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "大脑潜力",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Niveau",
+    "trans": [
+      "水平"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E6-097",
+    "sourceSheet": "B3E6",
+    "sourceMeaning": "水平",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

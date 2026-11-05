@@ -1,0 +1,500 @@
+[
+  {
+    "name": "ことば（言葉）",
+    "trans": [
+      "名 语言"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-001",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "语言",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ことば",
+      "言葉"
+    ],
+    "speech": "ことば"
+  },
+  {
+    "name": "メールアドレス",
+    "trans": [
+      "名 邮件地址"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-002",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "邮件地址",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "れんきゅう（連休）",
+    "trans": [
+      "名 连休"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-003",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "连休",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "れんきゅう",
+      "連休"
+    ],
+    "speech": "れんきゅう"
+  },
+  {
+    "name": "ゴールデンウィーク",
+    "trans": [
+      "名 黄金周"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-004",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "黄金周",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "おわり（終わり）",
+    "trans": [
+      "名 结束"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-005",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "结束",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おわり",
+      "終わり"
+    ],
+    "speech": "おわり"
+  },
+  {
+    "name": "きゅうけいじかん（休憩時間）",
+    "trans": [
+      "名 休息时间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-006",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "休息时间",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きゅうけいじかん",
+      "休憩時間"
+    ],
+    "speech": "きゅうけいじかん"
+  },
+  {
+    "name": "きょうげき（京劇）",
+    "trans": [
+      "名 京剧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-007",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "京剧",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きょうげき",
+      "京劇"
+    ],
+    "speech": "きょうげき"
+  },
+  {
+    "name": "きっぷ（切符）",
+    "trans": [
+      "名 票（券）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-008",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "票（券）",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きっぷ",
+      "切符"
+    ],
+    "speech": "きっぷ"
+  },
+  {
+    "name": "からだ（体）",
+    "trans": [
+      "名 身体"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-009",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "身体",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "からだ",
+      "体"
+    ],
+    "speech": "からだ"
+  },
+  {
+    "name": "じしん（地震）",
+    "trans": [
+      "名 地震"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-010",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "地震",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じしん",
+      "地震"
+    ],
+    "speech": "じしん"
+  },
+  {
+    "name": "どろぼう（泥棒）",
+    "trans": [
+      "名 小偷，盗贼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-011",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "小偷，盗贼",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "どろぼう",
+      "泥棒"
+    ],
+    "speech": "どろぼう"
+  },
+  {
+    "name": "ちゅうしゃじょう（駐車場）",
+    "trans": [
+      "名 停车场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-012",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "停车场",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちゅうしゃじょう",
+      "駐車場"
+    ],
+    "speech": "ちゅうしゃじょう"
+  },
+  {
+    "name": "わたします（渡します）",
+    "trans": [
+      "动1 交给"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-013",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "交给",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "わたします",
+      "渡します"
+    ],
+    "speech": "わたします"
+  },
+  {
+    "name": "おくれます（遅れます）",
+    "trans": [
+      "动2 迟到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-014",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "迟到",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おくれます",
+      "遅れます"
+    ],
+    "speech": "おくれます"
+  },
+  {
+    "name": "かんがえます（考えます）",
+    "trans": [
+      "动2 考虑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-015",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "考虑",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんがえます",
+      "考えます"
+    ],
+    "speech": "かんがえます"
+  },
+  {
+    "name": "しらべます（調べます）",
+    "trans": [
+      "动2 调查"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-016",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "调查",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しらべます",
+      "調べます"
+    ],
+    "speech": "しらべます"
+  },
+  {
+    "name": "きます（着ます）",
+    "trans": [
+      "动2 穿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-017",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "穿",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きます",
+      "着ます"
+    ],
+    "speech": "きます"
+  },
+  {
+    "name": "よやくします（予約します）",
+    "trans": [
+      "动3 预约"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-018",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "预约",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "よやくします",
+      "予約します"
+    ],
+    "speech": "よやくします"
+  },
+  {
+    "name": "かんしゃします（感謝します）",
+    "trans": [
+      "动3 感谢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-019",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "感谢",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かんしゃします",
+      "感謝します"
+    ],
+    "speech": "かんしゃします"
+  },
+  {
+    "name": "うんどうします（運動します）",
+    "trans": [
+      "动3 运动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-020",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "运动",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うんどうします",
+      "運動します"
+    ],
+    "speech": "うんどうします"
+  },
+  {
+    "name": "せんたくします（洗濯します）",
+    "trans": [
+      "动3 洗涤，洗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-021",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "洗涤，洗",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せんたくします",
+      "洗濯します"
+    ],
+    "speech": "せんたくします"
+  },
+  {
+    "name": "ほうこくします（報告します）",
+    "trans": [
+      "动3 报告"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-022",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "报告",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほうこくします",
+      "報告します"
+    ],
+    "speech": "ほうこくします"
+  },
+  {
+    "name": "あぶない（危ない）",
+    "trans": [
+      "形1 危险"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-023",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "危险",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あぶない",
+      "危ない"
+    ],
+    "speech": "あぶない"
+  },
+  {
+    "name": "これとも",
+    "trans": [
+      "连 还是，或者"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-024",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "还是，或者",
+    "sourceTags": [
+      "连"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "とうきょうタワー（東京タワー）",
+    "trans": [
+      "专 东京塔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-025",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "东京塔",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とうきょうタワー",
+      "東京タワー"
+    ],
+    "speech": "とうきょうタワー"
+  },
+  {
+    "name": "そんなに",
+    "trans": [
+      "那么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U21-026",
+    "sourceSheet": "B1U21",
+    "sourceMeaning": "那么",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

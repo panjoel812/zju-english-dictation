@@ -1,0 +1,760 @@
+[
+  {
+    "name": "デパート",
+    "trans": [
+      "名 百货商店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-001",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "百货商店",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しょくどう（食堂）",
+    "trans": [
+      "名 食堂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-002",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "食堂",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しょくどう",
+      "食堂"
+    ],
+    "speech": "しょくどう"
+  },
+  {
+    "name": "ゆうびんきょく（郵便局）",
+    "trans": [
+      "名 邮局"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-003",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "邮局",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ゆうびんきょく",
+      "郵便局"
+    ],
+    "speech": "ゆうびんきょく"
+  },
+  {
+    "name": "ぎんこう（銀行）",
+    "trans": [
+      "名 银行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-004",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "银行",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぎんこう",
+      "銀行"
+    ],
+    "speech": "ぎんこう"
+  },
+  {
+    "name": "としょかん（図書館）",
+    "trans": [
+      "名 图书馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-005",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "图书馆",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "としょかん",
+      "図書館"
+    ],
+    "speech": "としょかん"
+  },
+  {
+    "name": "マンション",
+    "trans": [
+      "名 （高级）公寓"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-006",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "（高级）公寓",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ホテル",
+    "trans": [
+      "名 宾馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-007",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "宾馆",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "コンビニ",
+    "trans": [
+      "名 便利店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-008",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "便利店",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "きっさてん（喫茶店）",
+    "trans": [
+      "名 咖啡馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-009",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "咖啡馆",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きっさてん",
+      "喫茶店"
+    ],
+    "speech": "きっさてん"
+  },
+  {
+    "name": "びょういん（病院）",
+    "trans": [
+      "名 医院"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-010",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "医院",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "びょういん",
+      "病院"
+    ],
+    "speech": "びょういん"
+  },
+  {
+    "name": "ほんや（本屋）",
+    "trans": [
+      "名 书店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-011",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "书店",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほんや",
+      "本屋"
+    ],
+    "speech": "ほんや"
+  },
+  {
+    "name": "レストラン",
+    "trans": [
+      "名 餐馆，西餐馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-012",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "餐馆，西餐馆",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ビル",
+    "trans": [
+      "名 大楼，大厦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-013",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "大楼，大厦",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "たてもの（建物）",
+    "trans": [
+      "名 大楼，建筑物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-014",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "大楼，建筑物",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たてもの",
+      "建物"
+    ],
+    "speech": "たてもの"
+  },
+  {
+    "name": "うりば（売り場）",
+    "trans": [
+      "名 柜台，出售处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-015",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "柜台，出售处",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うりば",
+      "売り場"
+    ],
+    "speech": "うりば"
+  },
+  {
+    "name": "トイレ",
+    "trans": [
+      "名 厕所，盥洗室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-016",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "厕所，盥洗室",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "いりぐち（入り口）",
+    "trans": [
+      "名 入口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-017",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "入口",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いりぐち",
+      "入り口"
+    ],
+    "speech": "いりぐち"
+  },
+  {
+    "name": "じむしょ（事務所）",
+    "trans": [
+      "名 事务所，办事处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-018",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "事务所，办事处",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じむしょ",
+      "事務所"
+    ],
+    "speech": "じむしょ"
+  },
+  {
+    "name": "うけつけ（受付）",
+    "trans": [
+      "名 接待处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-019",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "接待处",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うけつけ",
+      "受付"
+    ],
+    "speech": "うけつけ"
+  },
+  {
+    "name": "バーゲンかいじょう（バーゲン会場）",
+    "trans": [
+      "名 降价处理大卖场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-020",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "降价处理大卖场",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "バーゲンかいじょう",
+      "バーゲン会場"
+    ],
+    "speech": "バーゲンかいじょう"
+  },
+  {
+    "name": "エスカレーター",
+    "trans": [
+      "名 自动扶梯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-021",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "自动扶梯",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ふく（服）",
+    "trans": [
+      "名 衣服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-022",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "衣服",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふく",
+      "服"
+    ],
+    "speech": "ふく"
+  },
+  {
+    "name": "コート",
+    "trans": [
+      "名 风衣，大衣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-023",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "风衣，大衣",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "デジカメ",
+    "trans": [
+      "名 数码相机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-024",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "数码相机",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "くに（国）",
+    "trans": [
+      "名 国，国家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-025",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "国，国家",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "くに",
+      "国"
+    ],
+    "speech": "くに"
+  },
+  {
+    "name": "ちず（地図）",
+    "trans": [
+      "名 地图"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-026",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "地图",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちず",
+      "地図"
+    ],
+    "speech": "ちず"
+  },
+  {
+    "name": "となり（隣）",
+    "trans": [
+      "名 旁边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-027",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "旁边",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "となり",
+      "隣"
+    ],
+    "speech": "となり"
+  },
+  {
+    "name": "しゅうへん（周辺）",
+    "trans": [
+      "名 附近，周边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-028",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "附近，周边",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅうへん",
+      "周辺"
+    ],
+    "speech": "しゅうへん"
+  },
+  {
+    "name": "きょう（今日）",
+    "trans": [
+      "名 今天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-029",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "今天",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きょう",
+      "今日"
+    ],
+    "speech": "きょう"
+  },
+  {
+    "name": "すいようび（水曜日）",
+    "trans": [
+      "名 星期三"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-030",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "星期三",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すいようび",
+      "水曜日"
+    ],
+    "speech": "すいようび"
+  },
+  {
+    "name": "もくようび（木曜日）",
+    "trans": [
+      "名 星期四"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-031",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "星期四",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "もくようび",
+      "木曜日"
+    ],
+    "speech": "もくようび"
+  },
+  {
+    "name": "ここ",
+    "trans": [
+      "代 这里，这儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-032",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "这里，这儿",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "そこ",
+    "trans": [
+      "代 那里，那儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-033",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "那里，那儿",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あそこ",
+    "trans": [
+      "代 那里，那儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-034",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "那里，那儿",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "こちら",
+    "trans": [
+      "代 这儿，这边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-035",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "这儿，这边",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "そちら",
+    "trans": [
+      "代 那儿，那边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-036",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "那儿，那边",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あちら",
+    "trans": [
+      "代 那儿，那边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-037",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "那儿，那边",
+    "sourceTags": [
+      "代"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "どこ",
+    "trans": [
+      "疑 哪里，哪儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-038",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "哪里，哪儿",
+    "sourceTags": [
+      "疑"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "どちら",
+    "trans": [
+      "疑 哪儿，哪边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-039",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "哪儿，哪边",
+    "sourceTags": [
+      "疑"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あのう",
+    "trans": [
+      "叹 请问，对不起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-040",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "请问，对不起",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "シャンハイ（上海）",
+    "trans": [
+      "专 上海"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-041",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "上海",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "シャンハイ",
+      "上海"
+    ],
+    "speech": "シャンハイ"
+  },
+  {
+    "name": "とうきょう（東京）",
+    "trans": [
+      "专 东京"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-042",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "东京",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とうきょう",
+      "東京"
+    ],
+    "speech": "とうきょう"
+  },
+  {
+    "name": "いくら",
+    "trans": [
+      "多少钱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U03-043",
+    "sourceSheet": "B1U03",
+    "sourceMeaning": "多少钱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

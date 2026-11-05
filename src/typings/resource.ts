@@ -12,6 +12,10 @@ export type DictionaryResource = {
   languageCategory: LanguageCategoryType
   //override default pronunciation when not undefined
   defaultPronIndex?: number
+  courseBook?: string
+  speechLang?: string
+  specialKeys?: string[]
+  inputHint?: string
 }
 
 export type Dictionary = {
@@ -28,6 +32,10 @@ export type Dictionary = {
   chapterCount: number
   //override default pronunciation when not undefined
   defaultPronIndex?: number
+  courseBook?: string
+  speechLang?: string
+  specialKeys?: string[]
+  inputHint?: string
 }
 
 export type PronunciationConfig = {

@@ -1,0 +1,1458 @@
+[
+  {
+    "name": "선물",
+    "trans": [
+      "礼物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-001",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "礼物",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "장미꽃",
+    "trans": [
+      "玫瑰"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-002",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "玫瑰",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "꽃",
+    "trans": [
+      "花"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-003",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "花",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "케이크",
+    "trans": [
+      "蛋糕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-004",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "蛋糕",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "꽃 가게",
+    "trans": [
+      "花店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-005",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "花店",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "빵",
+    "trans": [
+      "面包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-006",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "面包",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "빵집",
+    "trans": [
+      "面包房"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-007",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "面包房",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "옷 가게",
+    "trans": [
+      "服装店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-008",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "服装店",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "빵 가게",
+    "trans": [
+      "面包店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-009",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "面包店",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "과일",
+    "trans": [
+      "水果"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-010",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "水果",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "과일 가게",
+    "trans": [
+      "水果店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-011",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "水果店",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "문방구",
+    "trans": [
+      "文具店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-012",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "文具店",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "편의점",
+    "trans": [
+      "便利店"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-013",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "便利店",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "시장",
+    "trans": [
+      "市场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-014",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "市场",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "슈퍼마켓",
+    "trans": [
+      "超市"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-015",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "超市",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "바지",
+    "trans": [
+      "裤子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-016",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "裤子",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "동대문시장",
+    "trans": [
+      "东大门市场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-017",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "东大门市场",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "비싸다",
+    "trans": [
+      "贵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-018",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "贵",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "그렇지만",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-019",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "但是",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "아줌마",
+    "trans": [
+      "婶婶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-020",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "婶婶",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "장소",
+    "trans": [
+      "场所"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-021",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "场所",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "이유",
+    "trans": [
+      "理由"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-022",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "理由",
+    "sourceTags": [],
+    "sourceNotes": "선물을  사러 갑시다"
+  },
+  {
+    "name": "주인",
+    "trans": [
+      "主人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-023",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "主人",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "건",
+    "trans": [
+      "件("
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-024",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "件(",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "치즈 것+은)",
+    "trans": [
+      "芝士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-025",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "芝士",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "색",
+    "trans": [
+      "颜色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-026",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "颜色",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "빨간색",
+    "trans": [
+      "红色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-027",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "红色",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "노란색",
+    "trans": [
+      "黄色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-028",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "黄色",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "파란색",
+    "trans": [
+      "蓝色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-029",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "蓝色",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "하얀색",
+    "trans": [
+      "白色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-030",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "白色",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "검은색",
+    "trans": [
+      "黑色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-031",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "黑色",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "길다",
+    "trans": [
+      "长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-032",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "长",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "짧다",
+    "trans": [
+      "短"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-033",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "短",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "튼튼하다",
+    "trans": [
+      "结实"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-034",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "结实",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "약하다",
+    "trans": [
+      "弱，瘦弱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-035",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "弱，瘦弱",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "두껍다",
+    "trans": [
+      "厚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-036",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "厚",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "얇다",
+    "trans": [
+      "薄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-037",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "薄",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "무겁다",
+    "trans": [
+      "重"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-038",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "重",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "가볍다",
+    "trans": [
+      "轻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-039",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "轻",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "비싸다",
+    "trans": [
+      "贵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-040",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "贵",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "싸다",
+    "trans": [
+      "便宜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-041",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "便宜",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "가깝다",
+    "trans": [
+      "近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-042",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "近",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "멀다",
+    "trans": [
+      "远"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-043",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "远",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "코트",
+    "trans": [
+      "大衣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-044",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "大衣",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "한국말",
+    "trans": [
+      "韩国语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-045",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "韩国语",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "자동차",
+    "trans": [
+      "汽车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-046",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "汽车",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "까맣다",
+    "trans": [
+      "漆黑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-047",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "漆黑",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "보여 주다",
+    "trans": [
+      "给...看"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-048",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "给...看",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "다르다",
+    "trans": [
+      "不同"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-049",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "不同",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "죄송하다",
+    "trans": [
+      "对不起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-050",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "对不起",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "다시",
+    "trans": [
+      "再，重新"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-051",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "再，重新",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "또",
+    "trans": [
+      "又"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-052",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "又",
+    "sourceTags": [],
+    "sourceNotes": "좋지만 좀 비싸요"
+  },
+  {
+    "name": "보여 주다",
+    "trans": [
+      "给...看"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-053",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "给...看",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "구경하다",
+    "trans": [
+      "看，观赏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-054",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "看，观赏",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "얼마",
+    "trans": [
+      "多少"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-055",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "多少",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "송이",
+    "trans": [
+      "朵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-056",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "朵",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "대",
+    "trans": [
+      "辆，台"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-057",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "辆，台",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "잔",
+    "trans": [
+      "杯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-058",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "杯",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "신발",
+    "trans": [
+      "鞋子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-059",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "鞋子",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "결레",
+    "trans": [
+      "双"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-060",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "双",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "식빵",
+    "trans": [
+      "面包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-061",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "面包",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "개",
+    "trans": [
+      "个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-062",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "个",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "마리",
+    "trans": [
+      "只"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-063",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "只",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "자루",
+    "trans": [
+      "支，把"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-064",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "支，把",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "벌",
+    "trans": [
+      "件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-065",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "件",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "권",
+    "trans": [
+      "本"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-066",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "本",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "콜라",
+    "trans": [
+      "可乐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-067",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "可乐",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "장",
+    "trans": [
+      "张"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-068",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "张",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "표",
+    "trans": [
+      "票"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-069",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "票",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "병",
+    "trans": [
+      "瓶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-070",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "瓶",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "셔츠",
+    "trans": [
+      "衬衫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-071",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "衬衫",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "티셔츠",
+    "trans": [
+      "T恤衫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-072",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "T恤衫",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "전화기",
+    "trans": [
+      "电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-073",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "电话",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "고양이",
+    "trans": [
+      "猫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-074",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "猫",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "슬리퍼",
+    "trans": [
+      "拖鞋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-075",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "拖鞋",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "빌리다",
+    "trans": [
+      "借"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-076",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "借",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "닫다",
+    "trans": [
+      "关"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-077",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "关",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "스웨터",
+    "trans": [
+      "毛衫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-078",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "毛衫",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "치마",
+    "trans": [
+      "裙子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-079",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "裙子",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "바나나",
+    "trans": [
+      "香蕉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-080",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "香蕉",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "귤",
+    "trans": [
+      "橘子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-081",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "橘子",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "포도",
+    "trans": [
+      "葡萄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-082",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "葡萄",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "튤립",
+    "trans": [
+      "郁金香"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-083",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "郁金香",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "입어 보다",
+    "trans": [
+      "穿一穿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-084",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "穿一穿",
+    "sourceTags": [],
+    "sourceNotes": "얼마예요?"
+  },
+  {
+    "name": "선물하다",
+    "trans": [
+      "送礼物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-085",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "送礼物",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "깎다",
+    "trans": [
+      "削减"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-086",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "削减",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "꽃다발",
+    "trans": [
+      "花束"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-087",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "花束",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "손수건",
+    "trans": [
+      "手绢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-088",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "手绢",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "상품권",
+    "trans": [
+      "商品券"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-089",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "商品券",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "인형",
+    "trans": [
+      "玩偶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-090",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "玩偶",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "화장품",
+    "trans": [
+      "化妆品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-091",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "化妆品",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "향수",
+    "trans": [
+      "香水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-092",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "香水",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "액세서리",
+    "trans": [
+      "饰品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-093",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "饰品",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "만년필",
+    "trans": [
+      "钢笔"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-094",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "钢笔",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "에게",
+    "trans": [
+      "给，向，对"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-095",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "给，向，对",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "전화하다",
+    "trans": [
+      "打电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-096",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "打电话",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "선물을 주다",
+    "trans": [
+      "送礼物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-097",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "送礼物",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "께",
+    "trans": [
+      "给，向，对[敬]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-098",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "给，向，对[敬]",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "드리다",
+    "trans": [
+      "给，送[敬]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-099",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "给，送[敬]",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "프랑스",
+    "trans": [
+      "法国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-100",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "法国",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "돌아가다",
+    "trans": [
+      "回去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-101",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "回去",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "넥타이",
+    "trans": [
+      "领带"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-102",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "领带",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "결혼식",
+    "trans": [
+      "结婚典礼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-103",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "结婚典礼",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "프로그램",
+    "trans": [
+      "节目"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-104",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "节目",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "여러 가지",
+    "trans": [
+      "各种，种种"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-105",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "各种，种种",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "먼저",
+    "trans": [
+      "先"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-106",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "先",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "한복",
+    "trans": [
+      "韩服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-107",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "韩服",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "넥타이핀",
+    "trans": [
+      "领带夹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-108",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "领带夹",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "피곤하다",
+    "trans": [
+      "累"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-109",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "累",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "목걸이",
+    "trans": [
+      "项链"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-110",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "项链",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "선글라스",
+    "trans": [
+      "太阳镜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-111",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "太阳镜",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  },
+  {
+    "name": "어깨",
+    "trans": [
+      "肩膀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U06-112",
+    "sourceSheet": "B1U06",
+    "sourceMeaning": "肩膀",
+    "sourceTags": [],
+    "sourceNotes": "깎아 주세요"
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "name": "город",
+    "trans": [
+      "城市"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-001",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "城市",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Москва",
+    "trans": [
+      "莫斯科"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-002",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "莫斯科",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "парк",
+    "trans": [
+      "公园"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-003",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "公园",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "сад",
+    "trans": [
+      "花园"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-004",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "花园",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "рынок",
+    "trans": [
+      "市场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-005",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "市场",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "выставка",
+    "trans": [
+      "展览会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-006",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "展览会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "клуб",
+    "trans": [
+      "俱乐部"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-007",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "俱乐部",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "завод",
+    "trans": [
+      "工厂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-008",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "工厂",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "автобус",
+    "trans": [
+      "公共汽车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-009",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "公共汽车",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "этаж",
+    "trans": [
+      "楼层"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-010",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "楼层",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "гора",
+    "trans": [
+      "山"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-011",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "山",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "вода",
+    "trans": [
+      "水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-012",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "水",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "трава",
+    "trans": [
+      "草, 青草"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-013",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "草, 青草",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "брат",
+    "trans": [
+      "兄弟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-014",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "兄弟",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "друг",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-015",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "朋友",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "класс",
+    "trans": [
+      "班级"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-016",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "班级",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "курс",
+    "trans": [
+      "年级"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-017",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "年级",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "мозг",
+    "trans": [
+      "大脑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-018",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "大脑",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "рука",
+    "trans": [
+      "手"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-019",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "手",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "зуб",
+    "trans": [
+      "牙齿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-020",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "牙齿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "буква",
+    "trans": [
+      "字母"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-021",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "字母",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "сказка",
+    "trans": [
+      "童话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-022",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "童话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "урок",
+    "trans": [
+      "课"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-023",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "课",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "игра",
+    "trans": [
+      "游戏; 演奏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-024",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "游戏; 演奏",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "год",
+    "trans": [
+      "年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-025",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "年",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "завтра",
+    "trans": [
+      "明天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-026",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "明天",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "когда",
+    "trans": [
+      "什么时候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-027",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "什么时候",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "куда",
+    "trans": [
+      "去哪里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-028",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "去哪里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "откуда",
+    "trans": [
+      "从哪里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-029",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "从哪里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "вкусно",
+    "trans": [
+      "好吃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-030",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "好吃",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "также",
+    "trans": [
+      "同样, 也"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-031",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "同样, 也",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "иногда",
+    "trans": [
+      "有时"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U04-032",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "有时",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

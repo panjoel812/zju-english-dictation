@@ -1,0 +1,656 @@
+[
+  {
+    "name": "comment",
+    "trans": [
+      "adv. 怎样，如何"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-001",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "怎样，如何",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [kɔmɑ̃]",
+    "phonetic": "[kɔmɑ̃]"
+  },
+  {
+    "name": "bonjour",
+    "trans": [
+      "n.m. 日安，早安"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-002",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "日安，早安",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [bɔ̃ʒur]",
+    "phonetic": "[bɔ̃ʒur]"
+  },
+  {
+    "name": "madame",
+    "trans": [
+      "n.f. 夫人，太太"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-003",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "夫人，太太",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": "音标: [madam]",
+    "phonetic": "[madam]"
+  },
+  {
+    "name": "monsieur",
+    "trans": [
+      "n.m. 先生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-004",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "先生",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [məsjø]",
+    "phonetic": "[məsjø]"
+  },
+  {
+    "name": "très",
+    "trans": [
+      "adv. 很，非常"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-005",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "很，非常",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [trɛ]",
+    "phonetic": "[trɛ]"
+  },
+  {
+    "name": "bien",
+    "trans": [
+      "adv. 好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-006",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "好",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [bjɛ̃]",
+    "phonetic": "[bjɛ̃]"
+  },
+  {
+    "name": "merci",
+    "trans": [
+      "interj. 谢谢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-007",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "谢谢",
+    "sourceTags": [
+      "interj."
+    ],
+    "sourceNotes": "音标: [mɛrsi]",
+    "phonetic": "[mɛrsi]"
+  },
+  {
+    "name": "et",
+    "trans": [
+      "conj. 和；而"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-008",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "和；而",
+    "sourceTags": [
+      "conj."
+    ],
+    "sourceNotes": "音标: [e]",
+    "phonetic": "[e]"
+  },
+  {
+    "name": "vous",
+    "trans": [
+      "pron.pers. 您，你们"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-009",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "您，你们",
+    "sourceTags": [
+      "pron.pers."
+    ],
+    "sourceNotes": "音标: [vu]",
+    "phonetic": "[vu]"
+  },
+  {
+    "name": "moi",
+    "trans": [
+      "pron.pers. 我"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-010",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "我",
+    "sourceTags": [
+      "pron.pers."
+    ],
+    "sourceNotes": "音标: [mwa]",
+    "phonetic": "[mwa]"
+  },
+  {
+    "name": "aussi",
+    "trans": [
+      "adv. 同样，也"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-011",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "同样，也",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [osi]",
+    "phonetic": "[osi]"
+  },
+  {
+    "name": "salut",
+    "trans": [
+      "n.m. 致意；你好；再见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-012",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "致意；你好；再见",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [saly]",
+    "phonetic": "[saly]"
+  },
+  {
+    "name": "ça",
+    "trans": [
+      "pron.dém. 这个，那个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-013",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "这个，那个",
+    "sourceTags": [
+      "pron.dém."
+    ],
+    "sourceNotes": "音标: [sa]",
+    "phonetic": "[sa]"
+  },
+  {
+    "name": "toi",
+    "trans": [
+      "pron.pers. 你"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-014",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "你",
+    "sourceTags": [
+      "pron.pers."
+    ],
+    "sourceNotes": "音标: [twa]",
+    "phonetic": "[twa]"
+  },
+  {
+    "name": "voilà",
+    "trans": [
+      "prép. 这是；那是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-015",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "这是；那是",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": "音标: [vwala]",
+    "phonetic": "[vwala]"
+  },
+  {
+    "name": "ma",
+    "trans": [
+      "adj.poss. 我的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-016",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "我的",
+    "sourceTags": [
+      "adj.poss."
+    ],
+    "sourceNotes": "音标: [ma]",
+    "phonetic": "[ma]"
+  },
+  {
+    "name": "sœur",
+    "trans": [
+      "n.f. 姐姐，妹妹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-017",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "姐姐，妹妹",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": "音标: [sœr]",
+    "phonetic": "[sœr]"
+  },
+  {
+    "name": "qui",
+    "trans": [
+      "pron.interr. 谁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-018",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "谁",
+    "sourceTags": [
+      "pron.interr."
+    ],
+    "sourceNotes": "音标: [ki]",
+    "phonetic": "[ki]"
+  },
+  {
+    "name": "ce",
+    "trans": [
+      "pron.dém. 这，那；这个，那个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-019",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "这，那；这个，那个",
+    "sourceTags": [
+      "pron.dém."
+    ],
+    "sourceNotes": "音标: [sə]",
+    "phonetic": "[sə]"
+  },
+  {
+    "name": "je",
+    "trans": [
+      "pron.pers. 我"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-020",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "我",
+    "sourceTags": [
+      "pron.pers."
+    ],
+    "sourceNotes": "音标: [ʒə]",
+    "phonetic": "[ʒə]"
+  },
+  {
+    "name": "te",
+    "trans": [
+      "pron.pers. 你"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-021",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "你",
+    "sourceTags": [
+      "pron.pers."
+    ],
+    "sourceNotes": "音标: [tə]",
+    "phonetic": "[tə]"
+  },
+  {
+    "name": "présenter",
+    "trans": [
+      "v.t. 介绍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-022",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "介绍",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": "音标: [prezɑ̃te]",
+    "phonetic": "[prezɑ̃te]"
+  },
+  {
+    "name": "se présenter",
+    "trans": [
+      "v.pr. 自我介绍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-023",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "自我介绍",
+    "sourceTags": [
+      "v.pr."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "elle",
+    "trans": [
+      "pron.pers. 她"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-024",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "她",
+    "sourceTags": [
+      "pron.pers."
+    ],
+    "sourceNotes": "音标: [ɛl]",
+    "phonetic": "[ɛl]"
+  },
+  {
+    "name": "ingénieur",
+    "trans": [
+      "n.m. 工程师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-025",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "工程师",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [ɛ̃ʒenjœr]",
+    "phonetic": "[ɛ̃ʒenjœr]"
+  },
+  {
+    "name": "enchanté, e",
+    "trans": [
+      "adj. 非常高兴的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-026",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "非常高兴的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": "音标: [ɑ̃ʃɑ̃te]",
+    "phonetic": "[ɑ̃ʃɑ̃te]"
+  },
+  {
+    "name": "appeler",
+    "trans": [
+      "v.t. 呼唤，叫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-027",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "呼唤，叫",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": "音标: [aple]",
+    "phonetic": "[aple]"
+  },
+  {
+    "name": "s’appeler",
+    "trans": [
+      "v.pr. 名叫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-028",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "名叫",
+    "sourceTags": [
+      "v.pr."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "professeur",
+    "trans": [
+      "n.m. 教师；教授"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-029",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "教师；教授",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [prɔfesœr]",
+    "phonetic": "[prɔfesœr]"
+  },
+  {
+    "name": "prof",
+    "trans": [
+      "n. professeur 的缩写形式"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-030",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "professeur 的缩写形式",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": "音标: [prɔf]",
+    "phonetic": "[prɔf]"
+  },
+  {
+    "name": "à",
+    "trans": [
+      "prép. 在……；去……"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-031",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "在……；去……",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": "音标: [a]",
+    "phonetic": "[a]"
+  },
+  {
+    "name": "école",
+    "trans": [
+      "n.f. 学校"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-032",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "学校",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": "音标: [ekɔl]",
+    "phonetic": "[ekɔl]"
+  },
+  {
+    "name": "déjà",
+    "trans": [
+      "adv. 已经"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-033",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "已经",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [deʒa]",
+    "phonetic": "[deʒa]"
+  },
+  {
+    "name": "oui",
+    "trans": [
+      "adv. 是，是的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-034",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "是，是的",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [wi]",
+    "phonetic": "[wi]"
+  },
+  {
+    "name": "an",
+    "trans": [
+      "n.m. 岁；年"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-035",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "岁；年",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [ɑ̃]",
+    "phonetic": "[ɑ̃]"
+  },
+  {
+    "name": "aimer",
+    "trans": [
+      "v.t. 喜欢，热爱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-036",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "喜欢，热爱",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": "音标: [ɛme]",
+    "phonetic": "[ɛme]"
+  },
+  {
+    "name": "habiter",
+    "trans": [
+      "v.t. / v.i. 居住，住在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-037",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "居住，住在",
+    "sourceTags": [
+      "v.t. / v.i."
+    ],
+    "sourceNotes": "音标: [abite]",
+    "phonetic": "[abite]"
+  },
+  {
+    "name": "où",
+    "trans": [
+      "adv.interr. 在……地方"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-038",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "在……地方",
+    "sourceTags": [
+      "adv.interr."
+    ],
+    "sourceNotes": "音标: [u]",
+    "phonetic": "[u]"
+  },
+  {
+    "name": "nous",
+    "trans": [
+      "pron.pers. 我们"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-039",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "我们",
+    "sourceTags": [
+      "pron.pers."
+    ],
+    "sourceNotes": "音标: [nu]",
+    "phonetic": "[nu]"
+  },
+  {
+    "name": "rue",
+    "trans": [
+      "n.f. 街，马路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-040",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "街，马路",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": "音标: [ry]",
+    "phonetic": "[ry]"
+  },
+  {
+    "name": "fête",
+    "trans": [
+      "n.f. 节日；庆祝会，聚会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U01-041",
+    "sourceSheet": "B1U01",
+    "sourceMeaning": "节日；庆祝会，聚会",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": "音标: [fɛt]",
+    "phonetic": "[fɛt]"
+  }
+]

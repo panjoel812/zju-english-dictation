@@ -1,0 +1,899 @@
+[
+  {
+    "name": "Nachricht",
+    "trans": [
+      "新闻；消息"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-001",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "新闻；消息",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "informieren",
+    "trans": [
+      "了解，查询，获悉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-002",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "了解，查询，获悉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Webseite",
+    "trans": [
+      "网页"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-003",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "网页",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Job",
+    "trans": [
+      "工作，职业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-004",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "工作，职业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "benutzen",
+    "trans": [
+      "使用，用，利用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-005",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "使用，用，利用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sinnvoll",
+    "trans": [
+      "Adj. 有意义的，意义深长的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-006",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "Adj. 有意义的，意义深长的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ding",
+    "trans": [
+      "事物，东西"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-007",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "事物，东西",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hilfreich",
+    "trans": [
+      "Adj. 有帮助的，有益的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-008",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "Adj. 有帮助的，有益的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beruflich",
+    "trans": [
+      "Adj. 职业上的，专业上的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-009",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "Adj. 职业上的，专业上的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Arbeitsstelle",
+    "trans": [
+      "工作职位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-010",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "工作职位",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "stundenlang",
+    "trans": [
+      "Adj. 数小时的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-011",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "Adj. 数小时的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "miteinander",
+    "trans": [
+      "Adv. 一起"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-012",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "Adv. 一起",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "herunterladen",
+    "trans": [
+      "下载"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-013",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "下载",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausgeschlossen",
+    "trans": [
+      "P.II 被排除在外的，不可能的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-014",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "P.II 被排除在外的，不可能的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einschalten",
+    "trans": [
+      "（接通电流）打开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-015",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "（接通电流）打开",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausschalten",
+    "trans": [
+      "（切断电流）关闭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-016",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "（切断电流）关闭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Programm",
+    "trans": [
+      "程序；节目；计划"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-017",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "程序；节目；计划",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "installieren",
+    "trans": [
+      "安装，装设"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-018",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "安装，装设",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Datei",
+    "trans": [
+      "资料，数据"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-019",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "资料，数据",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bearbeiten",
+    "trans": [
+      "编辑，处理，加工"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-020",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "编辑，处理，加工",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "losgehen",
+    "trans": [
+      "开始"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-021",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "开始",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "reinlegen",
+    "trans": [
+      "把......放进去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-022",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "把......放进去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "löschen",
+    "trans": [
+      "消除，清除"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-023",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "消除，清除",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "speichern",
+    "trans": [
+      "储存"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-024",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "储存",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mausklick",
+    "trans": [
+      "点击鼠标"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-025",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "点击鼠标",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Abruf",
+    "trans": [
+      "S. 取用（信息），调用（数据）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-026",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "S. 取用（信息），调用（数据）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ergebnis",
+    "trans": [
+      "结果，成果，成绩"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-027",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "结果，成果，成绩",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abrufen",
+    "trans": [
+      "V. 调用，取出（数据）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-028",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "V. 调用，取出（数据）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausdrucken",
+    "trans": [
+      "将......印出，打印输出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-029",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "将......印出，打印输出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Computerfachmann",
+    "trans": [
+      "电脑专家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-030",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "电脑专家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Landkarte",
+    "trans": [
+      "地图"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-031",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "地图",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Arbeitsamt",
+    "trans": [
+      "劳动局，劳工局"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-032",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "劳动局，劳工局",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Maschine",
+    "trans": [
+      "机器"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-033",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "机器",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Apparat",
+    "trans": [
+      "装置，器械，仪器，器材"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-034",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "装置，器械，仪器，器材",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tätigkeit",
+    "trans": [
+      "活动，工作"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-035",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "活动，工作",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sparen",
+    "trans": [
+      "节约，储蓄，节省"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-036",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "节约，储蓄，节省",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "genug",
+    "trans": [
+      "Adv./Adj. 够，足够"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-037",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "Adv./Adj. 够，足够",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pilot",
+    "trans": [
+      "飞行员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-038",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "飞行员",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "elektronisch",
+    "trans": [
+      "Adj. 电子的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-039",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "Adj. 电子的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gedruckt",
+    "trans": [
+      "P.II 印刷的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-040",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "P.II 印刷的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zunehmend",
+    "trans": [
+      "P.I 不断增多的，不断增长的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-041",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "P.I 不断增多的，不断增长的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Altersgruppe",
+    "trans": [
+      "年龄组，年龄段"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-042",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "年龄组，年龄段",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lehrling",
+    "trans": [
+      "学徒，徒工"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-043",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "学徒，徒工",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Auflage",
+    "trans": [
+      "印数；印次"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-044",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "印数；印次",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einerseits",
+    "trans": [
+      "Adv. 一方面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-045",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "Adv. 一方面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Suchfunktion",
+    "trans": [
+      "搜索功能"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-046",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "搜索功能",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überlegen",
+    "trans": [
+      "Adj. 占优势的，胜过......，强于......"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-047",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "Adj. 占优势的，胜过......，强于......",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zitat",
+    "trans": [
+      "引文，引语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-048",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "引文，引语",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erleichtern",
+    "trans": [
+      "使容易，减轻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-049",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "使容易，减轻",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "speziell",
+    "trans": [
+      "Adj. 特别的，特殊的，专门的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-050",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "Adj. 特别的，特殊的，专门的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "notwendig",
+    "trans": [
+      "Adj. 必要的，必需的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-051",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "Adj. 必要的，必需的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Taschenbuch",
+    "trans": [
+      "袖珍本，简装本"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-052",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "袖珍本，简装本",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "digital",
+    "trans": [
+      "Adj. 数字的，数码的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-053",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "Adj. 数字的，数码的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Speicher",
+    "trans": [
+      "存储器，存储设备"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-054",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "存储器，存储设备",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausgestattet",
+    "trans": [
+      "P.II 配备有......的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-055",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "P.II 配备有......的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Inhalt",
+    "trans": [
+      "内容"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-056",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "内容",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "überspielen",
+    "trans": [
+      "转录，转存"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-057",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "转录，转存",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Display",
+    "trans": [
+      "显示器，显示面板"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-058",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "显示器，显示面板",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Oberseite",
+    "trans": [
+      "上面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-059",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "上面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "befinden",
+    "trans": [
+      "处于，位于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-060",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "处于，位于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kunde",
+    "trans": [
+      "顾客，客户"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-061",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "顾客，客户",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nachkaufen",
+    "trans": [
+      "续买"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-062",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "续买",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vereinen",
+    "trans": [
+      "使联合，使统一"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-063",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "使联合，使统一",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stärke",
+    "trans": [
+      "强项，特长，优点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-064",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "强项，特长，优点",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vorteil",
+    "trans": [
+      "好处，优点，利益"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-065",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "好处，优点，利益",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schleppen",
+    "trans": [
+      "扛，背，拉，拖"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-066",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "扛，背，拉，拖",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einpacken",
+    "trans": [
+      "装入，包入"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-067",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "装入，包入",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verbreitung",
+    "trans": [
+      "推广，流行，传播"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-068",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "推广，流行，传播",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "preiswert",
+    "trans": [
+      "便宜的，物美价廉的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B2E6-069",
+    "sourceSheet": "B2E6",
+    "sourceMeaning": "便宜的，物美价廉的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

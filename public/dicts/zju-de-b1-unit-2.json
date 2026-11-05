@@ -1,0 +1,1081 @@
+[
+  {
+    "name": "Kennenlernen",
+    "trans": [
+      "结识"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-001",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "结识",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ihr",
+    "trans": [
+      "Pron. 你们，她的，他们的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-002",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Pron. 你们，她的，他们的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "arbeiten",
+    "trans": [
+      "工作，学习，劳动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-003",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "工作，学习，劳动",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hier",
+    "trans": [
+      "Adv.这里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-004",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adv.这里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "in",
+    "trans": [
+      "Präp.在...里面，到...里面；在...时候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-005",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Präp.在...里面，到...里面；在...时候",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bitte",
+    "trans": [
+      "Adv.请"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-006",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adv.请",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sprechen",
+    "trans": [
+      "说话，谈话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-007",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "说话，谈话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zu",
+    "trans": [
+      "Adv.太，非常"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-008",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adv.太，非常",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schnell",
+    "trans": [
+      "Adj.快的，迅速的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-009",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adj.快的，迅速的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "langsam",
+    "trans": [
+      "Adj. 慢的，缓慢的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-010",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adj. 慢的，缓慢的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Deutsch",
+    "trans": [
+      "德语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-011",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "德语",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ihr",
+    "trans": [
+      "Pron. 您的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-012",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Pron. 您的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "England",
+    "trans": [
+      "英国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-013",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "英国",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "laut",
+    "trans": [
+      "Adj. 大声的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-014",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adj. 大声的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Entschuldigung",
+    "trans": [
+      "N. 原谅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-015",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "N. 原谅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entschuldigen",
+    "trans": [
+      "V. 原谅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-016",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "V. 原谅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "buchstabieren",
+    "trans": [
+      "拼出字母"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-017",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "拼出字母",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "man",
+    "trans": [
+      "Pron. 人们"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-018",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Pron. 人们",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schön",
+    "trans": [
+      "Adj. 行；好的；Adv. 美丽的，美好的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-019",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adj. 行；好的；Adv. 美丽的，美好的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "jetzt",
+    "trans": [
+      "Adv. 现在，目前"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-020",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adv. 现在，目前",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "öffnen",
+    "trans": [
+      "打开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-021",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "打开",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "auf",
+    "trans": [
+      "Präp. 到...上面，以...方式"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-022",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Präp. 到...上面，以...方式",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Seite",
+    "trans": [
+      "页，边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-023",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "页，边",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lesen",
+    "trans": [
+      "阅读，读，朗读"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-024",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "阅读，读，朗读",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zuerst",
+    "trans": [
+      "Adv. 先，首先"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-025",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adv. 先，首先",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Text",
+    "trans": [
+      "课文，文章，文本"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-026",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "课文，文章，文本",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "eins",
+    "trans": [
+      "Num. 一"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-027",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Num. 一",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "leise",
+    "trans": [
+      "Adj. 轻声的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-028",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adj. 轻声的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "machen",
+    "trans": [
+      "做，制作，干，从事"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-029",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "做，制作，干，从事",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wir",
+    "trans": [
+      "Pron. 我们"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-030",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Pron. 我们",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Übung",
+    "trans": [
+      "练习"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-031",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "练习",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fragen",
+    "trans": [
+      "问，打听"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-032",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "问，打听",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "antworten",
+    "trans": [
+      "回答，答复，回信"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-033",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "回答，答复，回信",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schließen",
+    "trans": [
+      "合，关，闭，锁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-034",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "合，关，闭，锁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hören",
+    "trans": [
+      "听，听到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-035",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "听，听到",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zwei",
+    "trans": [
+      "Num. 二"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-036",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Num. 二",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mensa",
+    "trans": [
+      "学生食堂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-037",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "学生食堂",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Platz",
+    "trans": [
+      "座位，地方，场所"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-038",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "座位，地方，场所",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "frei",
+    "trans": [
+      "Adj.（座位）空着：自由的，空闲的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-039",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adj.（座位）空着：自由的，空闲的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ja",
+    "trans": [
+      "Adv.是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-040",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adv.是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Japan",
+    "trans": [
+      "日本"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-041",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "日本",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nein",
+    "trans": [
+      "Adv.不，不是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-042",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adv.不，不是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "studieren",
+    "trans": [
+      "（在大学）学习，研究"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-043",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "（在大学）学习，研究",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "noch",
+    "trans": [
+      "Adv. 还，此外还"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-044",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adv. 还，此外还",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Chemie",
+    "trans": [
+      "化学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-045",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "化学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lernen",
+    "trans": [
+      "学习，学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-046",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "学习，学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Informatik",
+    "trans": [
+      "计算机科学与技术"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-047",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "计算机科学与技术",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "du",
+    "trans": [
+      "Pron. 你"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-048",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Pron. 你",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Elektrotechnik",
+    "trans": [
+      "电气工程，电工学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-049",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "电气工程，电工学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wo",
+    "trans": [
+      "Adv. 哪里，何处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-050",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adv. 哪里，何处",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wohnen",
+    "trans": [
+      "居住"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-051",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "居住",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Studentenwohnheim",
+    "trans": [
+      "学生宿舍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-052",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "学生宿舍",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "drei",
+    "trans": [
+      "Num. 三"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-053",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Num. 三",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "übrigens",
+    "trans": [
+      "Adv.此外，再说，顺带说"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-054",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adv.此外，再说，顺带说",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "er",
+    "trans": [
+      "Pron. 他"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-055",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Pron. 他",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schreiben",
+    "trans": [
+      "写，写作，写信"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-056",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "写，写作，写信",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dick",
+    "trans": [
+      "Adj. 胖的，厚的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-057",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adj. 胖的，厚的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Student",
+    "trans": [
+      "大学生（男）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-058",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "大学生（男）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Studentin",
+    "trans": [
+      "大学生（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-059",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "大学生（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "spielen",
+    "trans": [
+      "玩，比赛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-060",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "玩，比赛",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fußball",
+    "trans": [
+      "足球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-061",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "足球",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "groß",
+    "trans": [
+      "Adj. 大的；高的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-062",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adj. 大的；高的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "oder",
+    "trans": [
+      "Konj. 或者，还是（两者选一）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-063",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Konj. 或者，还是（两者选一）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "alles",
+    "trans": [
+      "Pron. 所有，全部"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-064",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Pron. 所有，全部",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dialog",
+    "trans": [
+      "对话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-065",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "对话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Satz",
+    "trans": [
+      "句，句子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-066",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "句，句子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Musik",
+    "trans": [
+      "音乐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-067",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "音乐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Brief",
+    "trans": [
+      "信，书信，信礼，函件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-068",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "信，书信，信礼，函件",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Freund",
+    "trans": [
+      "朋友（男）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-069",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "朋友（男）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Freundin",
+    "trans": [
+      "朋友（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-070",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "朋友（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Italien",
+    "trans": [
+      "意大利（国名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-071",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "意大利（国名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hobby",
+    "trans": [
+      "业余爱好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-072",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "业余爱好",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gerade",
+    "trans": [
+      "Adv. 恰好，刚好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-073",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adv. 恰好，刚好",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wirtschaftswissenschaft",
+    "trans": [
+      "经济学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-074",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "经济学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Universität",
+    "trans": [
+      "综合性大学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-075",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "综合性大学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Polen",
+    "trans": [
+      "波兰（国名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-076",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "波兰（国名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "suchen",
+    "trans": [
+      "寻找"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-077",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "寻找",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gern",
+    "trans": [
+      "Adv. 乐意，喜欢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-078",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "Adv. 乐意，喜欢",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chatten",
+    "trans": [
+      "聊天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-079",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "聊天",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Englisch",
+    "trans": [
+      "英文"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-080",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "英文",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Welt",
+    "trans": [
+      "世界，世间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-081",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "世界，世间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "München",
+    "trans": [
+      "慕尼黑（德国地名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-082",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "慕尼黑（德国地名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Chinesisch",
+    "trans": [
+      "中文"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E2-083",
+    "sourceSheet": "B1E2",
+    "sourceMeaning": "中文",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

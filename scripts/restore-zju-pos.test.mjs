@@ -49,13 +49,13 @@ test('does not add translations or duplicate prefixes on repeated restoration', 
 
 test('preserves all 49 original dictionaries except for the restored POS prefixes', () => {
   const root = new URL('../public/dicts/', import.meta.url)
-  const prefix = /^(?:(?:n|v|vt|vi|adj|adv|prep|pron|conj|interj|aux|num)\.|number|suffix) /u
+  const prefix = /^(?:(?:n|v|vt|vi|adj|adv|prep|pron|conj|interj|aux|num)\.(?:\/(?:adj|adv)\.)*|number|suffix) /u
   // Digests of the pre-restoration dictionaries, including file names, order and all fields.
   const families = [
     ['zju-english-engineering-', 24, 745, 882, 745, 860, '020f4cd905e85f8ee98462186bff415db0b7fa2388828f2d34235d6991c3b3ff'],
-    ['zju-english-3-', 16, 580, 580, 182, 182, '4d3366c5f7d569f687bb9661e855e13508937ef4cde66c6016af9cff7ac007c6'],
-    ['zju-english-4-', 8, 720, 716, 21, 21, '12491409c30ffe7981f0ab001ca3d85703c7805747f19fa19363b40091c0e8b6'],
-    ['zju-english-book1-', 1, 245, 309, 39, 51, '46a32a8dfe9c9c076c010cf12b1197d20c7f960852350ade0c8678e40abe5cf8'],
+    ['zju-english-3-', 16, 580, 580, 580, 580, '4d3366c5f7d569f687bb9661e855e13508937ef4cde66c6016af9cff7ac007c6'],
+    ['zju-english-4-', 8, 720, 716, 716, 716, '12491409c30ffe7981f0ab001ca3d85703c7805747f19fa19363b40091c0e8b6'],
+    ['zju-english-book1-', 1, 245, 309, 93, 123, '46a32a8dfe9c9c076c010cf12b1197d20c7f960852350ade0c8678e40abe5cf8'],
   ]
   for (const [family, fileCount, wordCount, translationCount, taggedWords, taggedMeanings, digest] of families) {
     const files = readdirSync(root)
@@ -73,5 +73,19 @@ test('preserves all 49 original dictionaries except for the restored POS prefixe
       entries.map((word) => ({ ...word, trans: word.trans.map((text) => text.replace(prefix, '')) })),
     ])
     assert.equal(createHash('sha256').update(JSON.stringify(withoutPOS)).digest('hex'), digest, family)
+  }
+})
+
+test('every English course meaning has a POS label, with source annotations excluded', () => {
+  const root = new URL('../public/dicts/', import.meta.url)
+  const prefix = /^(?:(?:n|v|vt|vi|a|ad|adj|adv|prep|pron|conj|interj|aux|num|art|abbr)\.|number\b|suffix\b)/
+  const suffix = /\(((?:n|v|vt|vi|adj|adv|prep|pron|conj)\.?[&/]?)+\.?\)$/
+  for (const file of readdirSync(root).filter((file) => file.startsWith('zju-english-') && file.endsWith('.json'))) {
+    for (const word of JSON.parse(readFileSync(new URL(file, root), 'utf8'))) {
+      for (const meaning of word.trans) {
+        if (/^(词条补充：|原文拼写：|时态:|名\s*词:|形容词:)/.test(meaning)) continue
+        assert.ok(prefix.test(meaning) || suffix.test(meaning), `${file}: ${word.name}: ${meaning}`)
+      }
+    }
   }
 })

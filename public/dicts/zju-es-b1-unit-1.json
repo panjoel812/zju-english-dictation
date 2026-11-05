@@ -1,0 +1,834 @@
+[
+  {
+    "name": "cómo",
+    "trans": [
+      "怎么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-001",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "怎么",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "llamarse",
+    "trans": [
+      "叫…… 名字"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-002",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "叫…… 名字",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "te llamas",
+    "trans": [
+      "你叫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-003",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "你叫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ana",
+    "trans": [
+      "安娜（女子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-004",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "安娜（女子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hola",
+    "trans": [
+      "你好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-005",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "你好",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bueno,na",
+    "trans": [
+      "好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-006",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "好",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "día",
+    "trans": [
+      "天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-007",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "天",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "buenos días",
+    "trans": [
+      "早上好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-008",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "早上好",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Paco",
+    "trans": [
+      "帕科（男子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-009",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "帕科（男子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "yo",
+    "trans": [
+      "我"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-010",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "我",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ser",
+    "trans": [
+      "是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-011",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "soy",
+    "trans": [
+      "我是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-012",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "我是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "y",
+    "trans": [
+      "和，与"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-013",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "和，与",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tú",
+    "trans": [
+      "你"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-014",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "你",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "me llamo",
+    "trans": [
+      "我叫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-015",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "我叫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ellos",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-016",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "他们",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "son",
+    "trans": [
+      "他（她）们是；你们（礼貌式）是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-017",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "他（她）们是；你们（礼貌式）是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mi",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-018",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "我的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "amigo,ga",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-019",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "朋友",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ella",
+    "trans": [
+      "她，它"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-020",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "她，它",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "se llama",
+    "trans": [
+      "他（她，您）叫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-021",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "他（她，您）叫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Susana",
+    "trans": [
+      "苏萨娜（女子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-022",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "苏萨娜（女子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "él",
+    "trans": [
+      "他"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-023",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "他",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tomás",
+    "trans": [
+      "托马斯（男子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-024",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "托马斯（男子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ustedes",
+    "trans": [
+      "你们（礼貌式）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-025",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "你们（礼貌式）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "español, la",
+    "trans": [
+      "西班牙人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-026",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "西班牙人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cubano, na",
+    "trans": [
+      "古巴人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-027",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "古巴人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chileno, na",
+    "trans": [
+      "智利人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-028",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "智利人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "encantado, da",
+    "trans": [
+      "很高兴……"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-029",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "很高兴……",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "de",
+    "trans": [
+      "（表示所属、来源等关系）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-030",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "（表示所属、来源等关系）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "conocer",
+    "trans": [
+      "认识，了解"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-031",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "认识，了解",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "los, las",
+    "trans": [
+      "你们（礼貌式），诸位，他们，她们，它们（第三人称复数宾格代词）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-032",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "你们（礼貌式），诸位，他们，她们，它们（第三人称复数宾格代词）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mucho gusto",
+    "trans": [
+      "很高兴（认识你，您，你们，诸位）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-033",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "很高兴（认识你，您，你们，诸位）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "es",
+    "trans": [
+      "您（他，她，它）是……"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-034",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "您（他，她，它）是……",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "usted",
+    "trans": [
+      "您"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-035",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "您",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "profesor, ra",
+    "trans": [
+      "教师"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-036",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "教师",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sí",
+    "trans": [
+      "是的，对"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-037",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "是的，对",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chino",
+    "trans": [
+      "汉语，中文"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-038",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "汉语，中文",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ah",
+    "trans": [
+      "啊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-039",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "啊",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nuestro, tra",
+    "trans": [
+      "我们的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-040",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "我们的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entonces",
+    "trans": [
+      "那么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-041",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "那么",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "somos",
+    "trans": [
+      "我们是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-042",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "我们是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "su",
+    "trans": [
+      "您（诸位，他 [们]，她 [们]）的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-043",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "您（诸位，他 [们]，她 [们]）的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "alumno, na",
+    "trans": [
+      "学生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-044",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "学生",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "quién, es",
+    "trans": [
+      "谁，哪几位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-045",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "谁，哪几位",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "el",
+    "trans": [
+      "（单数阳性定冠词）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-046",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "（单数阳性定冠词）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chico, ca",
+    "trans": [
+      "小伙子；小姑娘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-047",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "小伙子；小姑娘",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mexicano, na",
+    "trans": [
+      "墨西哥人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-048",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "墨西哥人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chino, na",
+    "trans": [
+      "中国人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-049",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "中国人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "las",
+    "trans": [
+      "（复数阴性定冠词）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-050",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "（复数阴性定冠词）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dos",
+    "trans": [
+      "二，两个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-051",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "二，两个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "estudiante",
+    "trans": [
+      "学生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-052",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "学生",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "eres",
+    "trans": [
+      "你是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-053",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "你是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "esos, as",
+    "trans": [
+      "那些"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-054",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "那些",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "joven",
+    "trans": [
+      "青年人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-055",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "青年人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ellos, ellas",
+    "trans": [
+      "他们，她们，它们"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-056",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "他们，她们，它们",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ese, esa",
+    "trans": [
+      "那个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-057",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "那个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Manolo",
+    "trans": [
+      "马诺罗（男子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-058",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "马诺罗（男子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "no",
+    "trans": [
+      "不，不是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-059",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "不，不是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "panameño, ña",
+    "trans": [
+      "巴拿马人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-060",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "巴拿马人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Elena",
+    "trans": [
+      "艾琳娜（女子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-061",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "艾琳娜（女子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "novio, via",
+    "trans": [
+      "情侣，朋友"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-062",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "情侣，朋友",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": ";Qué va!",
+    "trans": [
+      "不是！哪里！"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-063",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "不是！哪里！",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "solo",
+    "trans": [
+      "只是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U01-064",
+    "sourceSheet": "B1U1",
+    "sourceMeaning": "只是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

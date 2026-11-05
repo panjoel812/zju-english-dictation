@@ -1,0 +1,673 @@
+[
+  {
+    "name": "secrétaire",
+    "trans": [
+      "n. 秘书"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-001",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "秘书",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": "音标: [səkretɛr]",
+    "phonetic": "[səkretɛr]"
+  },
+  {
+    "name": "étudiant, e",
+    "trans": [
+      "n. 大学生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-002",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "大学生",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": "音标: [etydjɑ̃, ɑ̃t]",
+    "phonetic": "[etydjɑ̃, ɑ̃t]"
+  },
+  {
+    "name": "dans",
+    "trans": [
+      "prép. 在……里；在……之后"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-003",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "在……里；在……之后",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": "音标: [dɑ̃]",
+    "phonetic": "[dɑ̃]"
+  },
+  {
+    "name": "département",
+    "trans": [
+      "n.m. 系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-004",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "系",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [departəmɑ̃]",
+    "phonetic": "[departəmɑ̃]"
+  },
+  {
+    "name": "chinois, e",
+    "trans": [
+      "adj. 中国的，中文的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-005",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "中国的，中文的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": "音标: [ʃinwa]",
+    "phonetic": "[ʃinwa]"
+  },
+  {
+    "name": "chinois",
+    "trans": [
+      "n.m. 中文，汉语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-006",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "中文，汉语",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [ʃinwa]",
+    "phonetic": "[ʃinwa]"
+  },
+  {
+    "name": "Chinois, e",
+    "trans": [
+      "n. 中国人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-007",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "中国人",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": "音标: [ʃinwa]",
+    "phonetic": "[ʃinwa]"
+  },
+  {
+    "name": "année",
+    "trans": [
+      "n.f. 年，年份"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-008",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "年，年份",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": "音标: [ane]",
+    "phonetic": "[ane]"
+  },
+  {
+    "name": "exact, e",
+    "trans": [
+      "adj. 正确的；确切的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-009",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "正确的；确切的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": "音标: [egzakt]",
+    "phonetic": "[egzakt]"
+  },
+  {
+    "name": "faire",
+    "trans": [
+      "v.t. 做；学习；从事；制造"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-010",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "做；学习；从事；制造",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": "音标: [fɛr]",
+    "phonetic": "[fɛr]"
+  },
+  {
+    "name": "stage",
+    "trans": [
+      "n.m. 培训期；实习期"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-011",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "培训期；实习期",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [staʒ]",
+    "phonetic": "[staʒ]"
+  },
+  {
+    "name": "été",
+    "trans": [
+      "n.m. 夏天，夏季"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-012",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "夏天，夏季",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [ete]",
+    "phonetic": "[ete]"
+  },
+  {
+    "name": "intéressant, e",
+    "trans": [
+      "adj. 有趣的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-013",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "有趣的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": "音标: [ɛ̃terɛsɑ̃, ɑ̃t]",
+    "phonetic": "[ɛ̃terɛsɑ̃, ɑ̃t]"
+  },
+  {
+    "name": "toujours",
+    "trans": [
+      "adv. 始终，总是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-014",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "始终，总是",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [tuʒur]",
+    "phonetic": "[tuʒur]"
+  },
+  {
+    "name": "fac",
+    "trans": [
+      "n.f. 学院，大学的系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-015",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "学院，大学的系",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": "音标: [fak]",
+    "phonetic": "[fak]"
+  },
+  {
+    "name": "depuis",
+    "trans": [
+      "prép. 自……以来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-016",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "自……以来",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": "音标: [dəpɥi]",
+    "phonetic": "[dəpɥi]"
+  },
+  {
+    "name": "longtemps",
+    "trans": [
+      "adv. 长久地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-017",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "长久地",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [lɔ̃tɑ̃]",
+    "phonetic": "[lɔ̃tɑ̃]"
+  },
+  {
+    "name": "là",
+    "trans": [
+      "adv. 这儿，那儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-018",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "这儿，那儿",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [la]",
+    "phonetic": "[la]"
+  },
+  {
+    "name": "là-bas",
+    "trans": [
+      "adv. 那儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-019",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "那儿",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [laba]",
+    "phonetic": "[laba]"
+  },
+  {
+    "name": "voir",
+    "trans": [
+      "v.t. 看见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-020",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "看见",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": "音标: [vwar]",
+    "phonetic": "[vwar]"
+  },
+  {
+    "name": "ami, e",
+    "trans": [
+      "n. 朋友"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-021",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "朋友",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": "音标: [ami]",
+    "phonetic": "[ami]"
+  },
+  {
+    "name": "ensemble",
+    "trans": [
+      "adv. 一起，共同"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-022",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "一起，共同",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": "音标: [ɑ̃sɑ̃bl]",
+    "phonetic": "[ɑ̃sɑ̃bl]"
+  },
+  {
+    "name": "pouvoir",
+    "trans": [
+      "v.t. 能，可以；能够"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-023",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "能，可以；能够",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": "音标: [puvwar]",
+    "phonetic": "[puvwar]"
+  },
+  {
+    "name": "pouvoir",
+    "trans": [
+      "n.m. 能力，力量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-024",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "能力，力量",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [puvwar]",
+    "phonetic": "[puvwar]"
+  },
+  {
+    "name": "donner",
+    "trans": [
+      "v.t. 给"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-025",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "给",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": "音标: [dɔne]",
+    "phonetic": "[dɔne]"
+  },
+  {
+    "name": "ton",
+    "trans": [
+      "adj.poss. 你的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-026",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "你的",
+    "sourceTags": [
+      "adj.poss."
+    ],
+    "sourceNotes": "音标: [tɔ̃]",
+    "phonetic": "[tɔ̃]"
+  },
+  {
+    "name": "numéro",
+    "trans": [
+      "n.m. 号，号码"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-027",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "号，号码",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [nymero]",
+    "phonetic": "[nymero]"
+  },
+  {
+    "name": "téléphone",
+    "trans": [
+      "n.m. 电话；电话机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-028",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "电话；电话机",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [telefon]",
+    "phonetic": "[telefon]"
+  },
+  {
+    "name": "sûr, e",
+    "trans": [
+      "adj. 确实的，确信的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-029",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "确实的，确信的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": "音标: [syr]",
+    "phonetic": "[syr]"
+  },
+  {
+    "name": "bien sûr",
+    "trans": [
+      "loc.adv. 当然"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-030",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "当然",
+    "sourceTags": [
+      "loc.adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "portable",
+    "trans": [
+      "adj. 可携带的，手提式的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-031",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "可携带的，手提式的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": "音标: [pɔrtabl]",
+    "phonetic": "[pɔrtabl]"
+  },
+  {
+    "name": "portable",
+    "trans": [
+      "n.m. 手机；便携式器材、机器、设备"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-032",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "手机；便携式器材、机器、设备",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [pɔrtabl]",
+    "phonetic": "[pɔrtabl]"
+  },
+  {
+    "name": "matin",
+    "trans": [
+      "n.m. 早晨，上午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-033",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "早晨，上午",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [matɛ̃]",
+    "phonetic": "[matɛ̃]"
+  },
+  {
+    "name": "bonsoir",
+    "trans": [
+      "n.m. 晚安"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-034",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "晚安",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [bɔ̃swar]",
+    "phonetic": "[bɔ̃swar]"
+  },
+  {
+    "name": "déranger",
+    "trans": [
+      "v.t. 打扰，妨碍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-035",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "打扰，妨碍",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": "音标: [derɑ̃ʒe]",
+    "phonetic": "[derɑ̃ʒe]"
+  },
+  {
+    "name": "pas du tout",
+    "trans": [
+      "loc.adv. 一点儿也不"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-036",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "一点儿也不",
+    "sourceTags": [
+      "loc.adv."
+    ],
+    "sourceNotes": "音标: [pa-dy-tu]",
+    "phonetic": "[pa-dy-tu]"
+  },
+  {
+    "name": "notre",
+    "trans": [
+      "adj.poss. 我们的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-037",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "我们的",
+    "sourceTags": [
+      "adj.poss."
+    ],
+    "sourceNotes": "音标: [nɔtr]",
+    "phonetic": "[nɔtr]"
+  },
+  {
+    "name": "malade",
+    "trans": [
+      "adj. 患病的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-038",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "患病的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": "音标: [malad]",
+    "phonetic": "[malad]"
+  },
+  {
+    "name": "malade",
+    "trans": [
+      "n. 病人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-039",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "病人",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": "音标: [malad]",
+    "phonetic": "[malad]"
+  },
+  {
+    "name": "hôpital",
+    "trans": [
+      "n.m. 医院"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-040",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "医院",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [o(p)ital]",
+    "phonetic": "[o(p)ital]"
+  },
+  {
+    "name": "venir",
+    "trans": [
+      "v.i. 来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-041",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "来",
+    "sourceTags": [
+      "v.i."
+    ],
+    "sourceNotes": "音标: [vənir]",
+    "phonetic": "[vənir]"
+  },
+  {
+    "name": "samedi",
+    "trans": [
+      "n.m. 星期六"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U04-042",
+    "sourceSheet": "B1U04",
+    "sourceMeaning": "星期六",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": "音标: [samdi]",
+    "phonetic": "[samdi]"
+  }
+]

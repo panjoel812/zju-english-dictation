@@ -1,0 +1,769 @@
+[
+  {
+    "name": "estar",
+    "trans": [
+      "在，处于…… 状况"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-001",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "在，处于…… 状况",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mario",
+    "trans": [
+      "马里奥（男子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-002",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "马里奥（男子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Carmen",
+    "trans": [
+      "卡门（女子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-003",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "卡门（女子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fernando",
+    "trans": [
+      "费尔南多（男子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-004",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "费尔南多（男子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tres",
+    "trans": [
+      "三"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-005",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "三",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "latinoamericano, na",
+    "trans": [
+      "拉丁美洲的；拉丁美洲人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-006",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "拉丁美洲的；拉丁美洲人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "argentino, na",
+    "trans": [
+      "阿根廷人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-007",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "阿根廷人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Cuba",
+    "trans": [
+      "古巴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-008",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "古巴",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "los",
+    "trans": [
+      "（复数阳性定冠词）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-009",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "（复数阳性定冠词）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Carlos",
+    "trans": [
+      "卡洛斯（男子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-010",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "卡洛斯（男子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ramírez",
+    "trans": [
+      "拉米雷斯（姓）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-011",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "拉米雷斯（姓）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tarde",
+    "trans": [
+      "下午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-012",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "下午",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bien",
+    "trans": [
+      "好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-013",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "好",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gracias",
+    "trans": [
+      "谢谢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-014",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "谢谢",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "le",
+    "trans": [
+      "您、他（她，它）（第三人称单数与格代词）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-015",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "您、他（她，它）（第三人称单数与格代词）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "presentar",
+    "trans": [
+      "介绍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-016",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "介绍",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dónde",
+    "trans": [
+      "（在）哪里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-017",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "（在）哪里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "también",
+    "trans": [
+      "同样，也"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-018",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "同样，也",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pero",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-019",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "但是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ahora",
+    "trans": [
+      "现在"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-020",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "现在",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "China",
+    "trans": [
+      "中国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-021",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "中国",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "enseñar",
+    "trans": [
+      "教，授课"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-022",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "教，授课",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lenguaje",
+    "trans": [
+      "语言"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-023",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "语言",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "en",
+    "trans": [
+      "在…… 里（上）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-024",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "在…… 里（上）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "uno, na",
+    "trans": [
+      "一个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-025",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "一个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "universidad",
+    "trans": [
+      "大学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-026",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "大学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "este, ta",
+    "trans": [
+      "这个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-027",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "这个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "país",
+    "trans": [
+      "国家"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-028",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "国家",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hispanohablante",
+    "trans": [
+      "以西班牙语为母语的人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-029",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "以西班牙语为母语的人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ocupado, da",
+    "trans": [
+      "忙碌的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-030",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "忙碌的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "contento, ta",
+    "trans": [
+      "高兴的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-031",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "高兴的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Víctor",
+    "trans": [
+      "维克多（男子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-032",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "维克多（男子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pablo",
+    "trans": [
+      "巴勃罗（男子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-033",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "巴勃罗（男子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pilar",
+    "trans": [
+      "皮拉尔（女子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-034",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "皮拉尔（女子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cuatro",
+    "trans": [
+      "四"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-035",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "四",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Alemania",
+    "trans": [
+      "德国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-036",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "德国",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "estudiar",
+    "trans": [
+      "学习"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-037",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "学习",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "alemán",
+    "trans": [
+      "德语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-038",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "德语",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tener",
+    "trans": [
+      "有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-039",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "有",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mucho, cha",
+    "trans": [
+      "很多的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-040",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "很多的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "clase",
+    "trans": [
+      "（一节）课"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-041",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "（一节）课",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "todo, da",
+    "trans": [
+      "所有的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-042",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "所有的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "siempre",
+    "trans": [
+      "总是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-043",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "总是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "muy",
+    "trans": [
+      "很"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-044",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "很",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我（单数第一人称宾格与格代词）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-045",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "我（单数第一人称宾格与格代词）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "preguntar",
+    "trans": [
+      "提问"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-046",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "提问",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pues",
+    "trans": [
+      "嗯，是这样"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-047",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "嗯，是这样",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "varios, ria",
+    "trans": [
+      "几个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-048",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "几个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hombre",
+    "trans": [
+      "男人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-049",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "男人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mujer",
+    "trans": [
+      "女人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-050",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "女人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cada",
+    "trans": [
+      "每一个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-051",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "每一个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "encargarse",
+    "trans": [
+      "担任，承担"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-052",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "担任，承担",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "asignatura",
+    "trans": [
+      "课程"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-053",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "课程",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lectura",
+    "trans": [
+      "阅读"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-054",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "阅读",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gramática",
+    "trans": [
+      "语法"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-055",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "语法",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "conversación",
+    "trans": [
+      "会话，谈话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-056",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "会话，谈话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "otro, tra",
+    "trans": [
+      "其他的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-057",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "其他的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cosa",
+    "trans": [
+      "事情"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-058",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "事情",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "trabajar",
+    "trans": [
+      "工作，劳动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U02-059",
+    "sourceSheet": "B1U2",
+    "sourceMeaning": "工作，劳动",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

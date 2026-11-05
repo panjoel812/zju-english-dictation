@@ -1,0 +1,912 @@
+[
+  {
+    "name": "casa",
+    "trans": [
+      "家，房子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-001",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "家，房子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Juan",
+    "trans": [
+      "胡安（男子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-002",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "胡安（男子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "habitación",
+    "trans": [
+      "房间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-003",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "房间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lima",
+    "trans": [
+      "利马"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-004",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "利马",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Perú",
+    "trans": [
+      "秘鲁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-005",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "秘鲁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "familia",
+    "trans": [
+      "家庭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-006",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "家庭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vivir",
+    "trans": [
+      "住，生活"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-007",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "住，生活",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "padre",
+    "trans": [
+      "父亲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-008",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "父亲",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "médico, ca",
+    "trans": [
+      "医生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-009",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "医生",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hospital",
+    "trans": [
+      "医院"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-010",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "医院",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "madre",
+    "trans": [
+      "母亲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-011",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "母亲",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "inglés",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-012",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "英语",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "colegio",
+    "trans": [
+      "小学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-013",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "小学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hermano, na",
+    "trans": [
+      "兄弟；姊妹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-014",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "兄弟；姊妹",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "menor",
+    "trans": [
+      "年纪较小的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-015",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "年纪较小的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ir",
+    "trans": [
+      "去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-016",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abuelo, la",
+    "trans": [
+      "祖父母；外祖父母"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-017",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "祖父母；外祖父母",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ya",
+    "trans": [
+      "已经；好了"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-018",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "已经；好了",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mayor",
+    "trans": [
+      "年纪大的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-019",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "年纪大的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bachillerato",
+    "trans": [
+      "高中"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-020",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "高中",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "secundaria",
+    "trans": [
+      "中学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-021",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "中学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "levantarse",
+    "trans": [
+      "起床"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-022",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "起床",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "temprano",
+    "trans": [
+      "早"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-023",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "早",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bañarse",
+    "trans": [
+      "泡澡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-024",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "泡澡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cepillarse",
+    "trans": [
+      "刷洗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-025",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "刷洗",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "diente",
+    "trans": [
+      "牙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-026",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "牙",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "peinarse",
+    "trans": [
+      "梳头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-027",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "梳头",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "después de",
+    "trans": [
+      "在…… 之后"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-028",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "在…… 之后",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "desayunar",
+    "trans": [
+      "吃早饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-029",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "吃早饭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "primero",
+    "trans": [
+      "首先"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-030",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "首先",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "llevar",
+    "trans": [
+      "送去，带去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-031",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "送去，带去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "escuela",
+    "trans": [
+      "学校"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-032",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "学校",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "luego",
+    "trans": [
+      "之后"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-033",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "之后",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tomar",
+    "trans": [
+      "拿；乘坐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-034",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "拿；乘坐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "autobús",
+    "trans": [
+      "公共汽车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-035",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "公共汽车",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "para",
+    "trans": [
+      "为了"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-036",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "为了",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "instituto",
+    "trans": [
+      "中学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-037",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "中学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "centro",
+    "trans": [
+      "中心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-038",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "中心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "estudio",
+    "trans": [
+      "学习，研究"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-039",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "学习，研究",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "por la mañana",
+    "trans": [
+      "上午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-040",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "上午",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "por eso",
+    "trans": [
+      "因此"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-041",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "因此",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "regresar",
+    "trans": [
+      "回，返回"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-042",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "回，返回",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tarde",
+    "trans": [
+      "晚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-043",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "晚",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cuánto, ta",
+    "trans": [
+      "多少"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-044",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "多少",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "señor, ra",
+    "trans": [
+      "先生；女士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-045",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "先生；女士",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "José",
+    "trans": [
+      "何塞（男子名）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-046",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "何塞（男子名）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "parecer",
+    "trans": [
+      "好像"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-047",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "好像",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "grande",
+    "trans": [
+      "大"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-048",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "大",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ciudad",
+    "trans": [
+      "城市"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-049",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "城市",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bastante",
+    "trans": [
+      "相当地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-050",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "相当地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "allí",
+    "trans": [
+      "那里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-051",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "那里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "con",
+    "trans": [
+      "和，用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-052",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "和，用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verdad",
+    "trans": [
+      "真实"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-053",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "真实",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "siete",
+    "trans": [
+      "七"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-054",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "七",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "suponer",
+    "trans": [
+      "设想，猜测"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-055",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "设想，猜测",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sala de estar",
+    "trans": [
+      "客厅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-056",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "客厅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dormitorio",
+    "trans": [
+      "卧室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-057",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "卧室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cocina",
+    "trans": [
+      "厨房"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-058",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "厨房",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cuarto de baño",
+    "trans": [
+      "卫生间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-059",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "卫生间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "todavía",
+    "trans": [
+      "仍然，还"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-060",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "仍然，还",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "qué",
+    "trans": [
+      "多么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-061",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "多么",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tan",
+    "trans": [
+      "如此地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-062",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "如此地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "recargado, da",
+    "trans": [
+      "繁重的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-063",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "繁重的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tiempo",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-064",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "时间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cinco",
+    "trans": [
+      "五"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-065",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "五",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hijo, ja",
+    "trans": [
+      "儿子，女儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-066",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "儿子，女儿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "primo, ma",
+    "trans": [
+      "（堂、表）兄弟姐妹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-067",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "（堂、表）兄弟姐妹",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "seis",
+    "trans": [
+      "六"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-068",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "六",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sobrino, na",
+    "trans": [
+      "外甥，侄子；外甥女，侄女"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-069",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "外甥，侄子；外甥女，侄女",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tío, a",
+    "trans": [
+      "伯、叔、舅；姑、姨、婶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U03-070",
+    "sourceSheet": "B1U3",
+    "sourceMeaning": "伯、叔、舅；姑、姨、婶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

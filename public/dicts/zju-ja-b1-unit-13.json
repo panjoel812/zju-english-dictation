@@ -1,0 +1,510 @@
+[
+  {
+    "name": "にもつ（荷物）",
+    "trans": [
+      "名 包裹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-001",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "包裹",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にもつ",
+      "荷物"
+    ],
+    "speech": "にもつ"
+  },
+  {
+    "name": "はがき",
+    "trans": [
+      "名 明信片"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-002",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "明信片",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "きって（切手）",
+    "trans": [
+      "名 邮票"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-003",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "邮票",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きって",
+      "切手"
+    ],
+    "speech": "きって"
+  },
+  {
+    "name": "ひきだし（引き出し）",
+    "trans": [
+      "名 抽屉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-004",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "抽屉",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひきだし",
+      "引き出し"
+    ],
+    "speech": "ひきだし"
+  },
+  {
+    "name": "アルバム",
+    "trans": [
+      "名 相册"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-005",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "相册",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "タバコ",
+    "trans": [
+      "名 烟，烟草"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-006",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "烟，烟草",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "まんが（漫画）",
+    "trans": [
+      "名 漫画"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-007",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "漫画",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "まんが",
+      "漫画"
+    ],
+    "speech": "まんが"
+  },
+  {
+    "name": "ガレージ",
+    "trans": [
+      "名 车库，汽车房"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-008",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "车库，汽车房",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しゅうり（修理）",
+    "trans": [
+      "名 修理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-009",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "修理",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しゅうり",
+      "修理"
+    ],
+    "speech": "しゅうり"
+  },
+  {
+    "name": "いざかや（居酒屋）",
+    "trans": [
+      "名 酒馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-010",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "酒馆",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いざかや",
+      "居酒屋"
+    ],
+    "speech": "いざかや"
+  },
+  {
+    "name": "なまビール（生ビール）",
+    "trans": [
+      "名 生啤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-011",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "生啤",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "なまビール",
+      "生ビール"
+    ],
+    "speech": "なまビール"
+  },
+  {
+    "name": "やきとり（焼き鳥）",
+    "trans": [
+      "名 烤鸡肉串"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-012",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "烤鸡肉串",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やきとり",
+      "焼き鳥"
+    ],
+    "speech": "やきとり"
+  },
+  {
+    "name": "からあげ（唐揚げ）",
+    "trans": [
+      "名 炸鸡，油炸食品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-013",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "炸鸡，油炸食品",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "からあげ",
+      "唐揚げ"
+    ],
+    "speech": "からあげ"
+  },
+  {
+    "name": "にくじゃが（肉じゃが）",
+    "trans": [
+      "名 土豆炖肉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-014",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "土豆炖肉",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にくじゃが",
+      "肉じゃが"
+    ],
+    "speech": "にくじゃが"
+  },
+  {
+    "name": "ボーリング",
+    "trans": [
+      "名 保龄球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-015",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "保龄球",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かみ（髪）",
+    "trans": [
+      "名 头发"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-016",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "头发",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かみ",
+      "髪"
+    ],
+    "speech": "かみ"
+  },
+  {
+    "name": "ぞう（象）",
+    "trans": [
+      "名 象，大象"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-017",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "象，大象",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぞう",
+      "象"
+    ],
+    "speech": "ぞう"
+  },
+  {
+    "name": "ひる（昼）",
+    "trans": [
+      "名 白天，中午"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-018",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "白天，中午",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひる",
+      "昼"
+    ],
+    "speech": "ひる"
+  },
+  {
+    "name": "ほか",
+    "trans": [
+      "名 另外，其他"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-019",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "另外，其他",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かかります",
+    "trans": [
+      "动1 花费（时间，金钱）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-020",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "花费（时间，金钱）",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "さきます（咲きます）",
+    "trans": [
+      "动1 花开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-021",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "花开",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さきます",
+      "咲きます"
+    ],
+    "speech": "さきます"
+  },
+  {
+    "name": "およぎます（泳ぎます）",
+    "trans": [
+      "动1 游泳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-022",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "游泳",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "およぎます",
+      "泳ぎます"
+    ],
+    "speech": "およぎます"
+  },
+  {
+    "name": "あそびます（遊びます）",
+    "trans": [
+      "动1 玩，玩耍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-023",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "玩，玩耍",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あそびます",
+      "遊びます"
+    ],
+    "speech": "あそびます"
+  },
+  {
+    "name": "すいます（吸います）",
+    "trans": [
+      "动1 吸（烟）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-024",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "吸（烟）",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すいます",
+      "吸います"
+    ],
+    "speech": "すいます"
+  },
+  {
+    "name": "きります（切ります）",
+    "trans": [
+      "动1 剪，切，割"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-025",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "剪，切，割",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きります",
+      "切ります"
+    ],
+    "speech": "きります"
+  },
+  {
+    "name": "だいたい",
+    "trans": [
+      "副 大约，大概，大体"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-026",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "大约，大概，大体",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "とりあえず",
+    "trans": [
+      "副 暂且"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-027",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "暂且",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "どのぐらい∕どれぐらい",
+    "trans": [
+      "多久，多少钱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U13-028",
+    "sourceSheet": "B1U13",
+    "sourceMeaning": "多久，多少钱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

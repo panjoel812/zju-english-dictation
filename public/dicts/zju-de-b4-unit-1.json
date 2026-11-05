@@ -1,0 +1,808 @@
+[
+  {
+    "name": "Wissen",
+    "trans": [
+      "知识；知道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-001",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "知识；知道",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Technik",
+    "trans": [
+      "技术（o. Pl.）；技能，技巧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-002",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "技术（o. Pl.）；技能，技巧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ausprobieren",
+    "trans": [
+      "试用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-003",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "试用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Strategie",
+    "trans": [
+      "战略，策略"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-004",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "战略，策略",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bisherig",
+    "trans": [
+      "Adj. 以前的，到目前为止的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-005",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "Adj. 以前的，到目前为止的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ändern",
+    "trans": [
+      "变化，变动"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-006",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "变化，变动",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Motivation",
+    "trans": [
+      "动力；诱因"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-007",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "动力；诱因",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Überblick",
+    "trans": [
+      "概貌，概要"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-008",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "概貌，概要",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Struktur",
+    "trans": [
+      "结构"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-009",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "结构",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stoff",
+    "trans": [
+      "物质；材料；资料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-010",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "物质；材料；资料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "durchschauen",
+    "trans": [
+      "看清，认清，识破"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-011",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "看清，认清，识破",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zusammenhang",
+    "trans": [
+      "相互关系，关联"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-012",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "相互关系，关联",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "frustrieren",
+    "trans": [
+      "使失望"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-013",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "使失望",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einordnen",
+    "trans": [
+      "归类，编排"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-014",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "归类，编排",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entmutigen",
+    "trans": [
+      "使丧失勇气，使沮丧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-015",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "使丧失勇气，使沮丧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erfolgen",
+    "trans": [
+      "发生；进行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-016",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "发生；进行",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Eindruck",
+    "trans": [
+      "印象"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-017",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "印象",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gehirn",
+    "trans": [
+      "脑，大脑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-018",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "脑，大脑",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schwer fallen",
+    "trans": [
+      "使感到困难"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-019",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "使感到困难",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "weiterhin",
+    "trans": [
+      "Adv. 继续，一直；今后"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-020",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "Adv. 继续，一直；今后",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "motivieren",
+    "trans": [
+      "激发......的积极性"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-021",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "激发......的积极性",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schwierig",
+    "trans": [
+      "Adj. 难的，困难的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-022",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "Adj. 难的，困难的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fortschritt",
+    "trans": [
+      "进步"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-023",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "进步",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "deprimieren",
+    "trans": [
+      "使沮丧，使抑郁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-024",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "使沮丧，使抑郁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erzielen",
+    "trans": [
+      "获得，达到，得到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-025",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "获得，达到，得到",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "auswendig lernen",
+    "trans": [
+      "记住，背出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-026",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "记住，背出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "effektiv",
+    "trans": [
+      "Adj. 有效的，实际的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-027",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "Adj. 有效的，实际的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "landeslkundlich",
+    "trans": [
+      "国情的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-028",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "国情的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aneignen",
+    "trans": [
+      "掌握"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-029",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "掌握",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anwenden",
+    "trans": [
+      "使用，应用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-030",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "使用，应用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wortschatz",
+    "trans": [
+      "词汇量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-031",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "词汇量",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erweitern",
+    "trans": [
+      "加宽，扩大，扩展"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-032",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "加宽，扩大，扩展",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "interviewen",
+    "trans": [
+      "采访，访问"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-033",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "采访，访问",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Campus",
+    "trans": [
+      "校园"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-034",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "校园",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fleißig",
+    "trans": [
+      "Adv. 努力的，勤奋的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-035",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "Adv. 努力的，勤奋的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lieb",
+    "trans": [
+      "Adj. 亲爱的，可爱的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-036",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "Adj. 亲爱的，可爱的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bibel",
+    "trans": [
+      "圣经；经典"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-037",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "圣经；经典",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Metapher",
+    "trans": [
+      "隐喻，比喻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-038",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "隐喻，比喻",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wahrnehmen",
+    "trans": [
+      "发现，发觉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-039",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "发现，发觉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "schämen",
+    "trans": [
+      "感到羞愧，自惭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-040",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "感到羞愧，自惭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Scham",
+    "trans": [
+      "羞耻，羞愧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-041",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "羞耻，羞愧",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "angenehm",
+    "trans": [
+      "Adj. 令人愉快的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-042",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "Adj. 令人愉快的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "produktiv",
+    "trans": [
+      "Adj. 生产的，有效的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-043",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "Adj. 生产的，有效的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verhältnis",
+    "trans": [
+      "关系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-044",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "关系",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "protokollieren",
+    "trans": [
+      "把......记录下来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-045",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "把......记录下来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "diskutieren",
+    "trans": [
+      "讨论"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-046",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "讨论",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "materiell",
+    "trans": [
+      "Adj. 物质的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-047",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "Adj. 物质的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anschaulich",
+    "trans": [
+      "Adj. 直观的，明显的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-048",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "Adj. 直观的，明显的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Katalog",
+    "trans": [
+      "目录"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-049",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "目录",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anlegen",
+    "trans": [
+      "编制；放，摆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-050",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "编制；放，摆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Heft",
+    "trans": [
+      "本子，笔记本"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-051",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "本子，笔记本",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zettel",
+    "trans": [
+      "纸条，纸片，便条"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-052",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "纸条，纸片，便条",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "übertragen",
+    "trans": [
+      "转播；转抄，转载"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-053",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "转播；转抄，转载",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tausch",
+    "trans": [
+      "交换，互换"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-054",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "交换，互换",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ähnlich",
+    "trans": [
+      "Adj. 类似的，相像的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-055",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "Adj. 类似的，相像的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Briefmarke",
+    "trans": [
+      "邮票"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-056",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "邮票",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "begründen",
+    "trans": [
+      "对......说明理由"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-057",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "对......说明理由",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "farbig",
+    "trans": [
+      "Adj. 彩色的，有颜色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-058",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "Adj. 彩色的，有颜色的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "deutlich",
+    "trans": [
+      "Adj. 清楚的，明白的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-059",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "Adj. 清楚的，明白的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schrift",
+    "trans": [
+      "文字"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-060",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "文字",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "systematisieren",
+    "trans": [
+      "使系统化"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-061",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "使系统化",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bewältigen",
+    "trans": [
+      "克服；胜任，完成"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B4E1-062",
+    "sourceSheet": "B4E1",
+    "sourceMeaning": "克服；胜任，完成",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

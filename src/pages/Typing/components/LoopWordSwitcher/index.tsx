@@ -1,16 +1,22 @@
 import { loopWordConfigAtom } from '@/store'
 import type { LoopWordTimesOption } from '@/typings'
+import { autoUpdate, flip, offset, shift, useFloating } from '@floating-ui/react'
 import { Popover, Transition } from '@headlessui/react'
 import * as RadioGroup from '@radix-ui/react-radio-group'
 import { useAtom } from 'jotai'
-import { Fragment, useCallback, useState } from 'react'
+import { Fragment, useCallback } from 'react'
 import IconRepeat from '~icons/tabler/repeat'
 import IconRepeatOff from '~icons/tabler/repeat-off'
 
 const loopOptions: LoopWordTimesOption[] = [1, 3, 5, 8, Number.MAX_SAFE_INTEGER]
 export default function LoopWordSwitcher() {
+  const { x, y, strategy, refs } = useFloating({
+    placement: 'bottom',
+    strategy: 'fixed',
+    middleware: [offset(8), flip(), shift({ padding: 12 })],
+    whileElementsMounted: autoUpdate,
+  })
   const [{ times: loopTimes }, setLoopWordConfig] = useAtom(loopWordConfigAtom)
-  const [isOpen, setIsOpen] = useState(false)
 
   const onChangeLoopTimes = useCallback(
     (value: number) => {
@@ -26,14 +32,9 @@ export default function LoopWordSwitcher() {
     <>
       <Popover className="relative">
         <Popover.Button
-          className={`p-[2px] ${
-            loopTimes === 1 ? 'text-gray-500' : 'text-indigo-500'
-          } rounded text-lg hover:bg-indigo-400 hover:text-white focus:outline-none `}
+          ref={refs.setReference}
+          className={`toolbar-button ${loopTimes === 1 ? 'text-gray-500' : ''}`}
           type="button"
-          onClick={(e) => {
-            setIsOpen(!isOpen)
-            e.currentTarget.blur()
-          }}
           aria-label="选择单词的循环次数"
         >
           <div className="relative">
@@ -58,7 +59,7 @@ export default function LoopWordSwitcher() {
           leaveFrom="opacity-100 translate-y-0"
           leaveTo="opacity-0 translate-y-1"
         >
-          <Popover.Panel className="absolute left-1/2 z-10 mt-2 flex max-w-max -translate-x-1/2 px-4 ">
+          <Popover.Panel ref={refs.setFloating} style={{ position: strategy, top: y ?? 0, left: x ?? 0 }} className="z-40 flex max-w-max">
             <div className="shadow-upper box-border flex w-60 select-none flex-col items-center justify-center gap-4 rounded-xl bg-white p-4 drop-shadow dark:bg-gray-800">
               <div className="flex w-full  flex-col  items-start gap-2 py-0">
                 <span className="text-sm font-normal leading-5 text-gray-900 dark:text-white dark:text-opacity-60">选择单词的循环次数</span>

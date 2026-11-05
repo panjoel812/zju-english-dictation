@@ -1,0 +1,1393 @@
+[
+  {
+    "name": "Familie",
+    "trans": [
+      "家庭，家人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-001",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "家庭，家人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mitglied",
+    "trans": [
+      "成员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-002",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "成员",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Eltern",
+    "trans": [
+      "（Pl.）父母亲，双亲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-003",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "（Pl.）父母亲，双亲",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vater",
+    "trans": [
+      "父亲，爸爸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-004",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "父亲，爸爸",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mutter",
+    "trans": [
+      "母亲，妈妈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-005",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "母亲，妈妈",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Onkel",
+    "trans": [
+      "叔叔，舅舅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-006",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "叔叔，舅舅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tante",
+    "trans": [
+      "姑妈，姨妈"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-007",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "姑妈，姨妈",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sohn",
+    "trans": [
+      "儿子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-008",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "儿子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tochter",
+    "trans": [
+      "女儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-009",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "女儿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bruder",
+    "trans": [
+      "兄弟，哥哥，弟弟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-010",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "兄弟，哥哥，弟弟",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schwester",
+    "trans": [
+      "姐妹，姐姐，妹妹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-011",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "姐妹，姐姐，妹妹",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schwiegertochter",
+    "trans": [
+      "儿媳，媳妇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-012",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "儿媳，媳妇",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geschwister",
+    "trans": [
+      "（Pl.）兄弟姐妹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-013",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "（Pl.）兄弟姐妹",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Generation",
+    "trans": [
+      "世代，代"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-014",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "世代，代",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Enkelkind",
+    "trans": [
+      "（外）孙子/孙女"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-015",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "（外）孙子/孙女",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Oma",
+    "trans": [
+      "祖母，奶奶，外婆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-016",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "祖母，奶奶，外婆",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Opa",
+    "trans": [
+      "祖父，爷爷，外公"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-017",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "祖父，爷爷，外公",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Großeltern",
+    "trans": [
+      "（Pl.）祖父母"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-018",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "（Pl.）祖父母",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geburtstag",
+    "trans": [
+      "生日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-019",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "生日",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Telefon",
+    "trans": [
+      "电话机，电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-020",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "电话机，电话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gespräch",
+    "trans": [
+      "谈话，交谈，会话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-021",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "谈话，交谈，会话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "klingeln",
+    "trans": [
+      "按铃，铃响"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-022",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "按铃，铃响",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bald",
+    "trans": [
+      "Adv.不久"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-023",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adv.不久",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schatz",
+    "trans": [
+      "宝贝，亲爱的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-024",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "宝贝，亲爱的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "etwas",
+    "trans": [
+      "Pron. 某事，某物，一些事，一些东西；一点儿，一些"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-025",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Pron. 某事，某物，一些事，一些东西；一点儿，一些",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vorhaben",
+    "trans": [
+      "(v..)打算，意图，计划"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-026",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "(v..)打算，意图，计划",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "planen",
+    "trans": [
+      "(p..)计划，安排"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-027",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "(p..)计划，安排",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Feier",
+    "trans": [
+      "庆祝活动，庆典"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-028",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "庆祝活动，庆典",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "finden",
+    "trans": [
+      "觉得，认为；找到，发现"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-029",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "觉得，认为；找到，发现",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lieb",
+    "trans": [
+      "Adj. （令人）亲切的，亲爱的，友善的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-030",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. （令人）亲切的，亲爱的，友善的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Moment",
+    "trans": [
+      "片刻，瞬息"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-031",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "片刻，瞬息",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Samstag",
+    "trans": [
+      "星期六，周六"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-032",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "星期六，周六",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "meinen",
+    "trans": [
+      "认为，观点，看法"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-033",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "认为，观点，看法",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nichts",
+    "trans": [
+      "Pron. 一点儿都没有，什么都没有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-034",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Pron. 一点儿都没有，什么都没有",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einladen",
+    "trans": [
+      "邀请"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-035",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "邀请",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "andere",
+    "trans": [
+      "Pron. 其他的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-036",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Pron. 其他的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verwandte",
+    "trans": [
+      "亲戚（男）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-037",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "亲戚（男）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verwandte",
+    "trans": [
+      "亲戚（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-038",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "亲戚（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einkaufen",
+    "trans": [
+      "购物，买进"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-039",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "购物，买进",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bestellen",
+    "trans": [
+      "订购，预定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-040",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "订购，预定",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gleich",
+    "trans": [
+      "Adv. 马上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-041",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adv. 马上",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Torte",
+    "trans": [
+      "圆蛋糕"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-042",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "圆蛋糕",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vorschlagen",
+    "trans": [
+      "建议，提议"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-043",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "建议，提议",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kochen",
+    "trans": [
+      "做菜饭；煮，烧，烹调"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-044",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "做菜饭；煮，烧，烹调",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geburtstagkind",
+    "trans": [
+      "寿星"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-045",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "寿星",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mitmachen",
+    "trans": [
+      "一起干，参与做"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-046",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "一起干，参与做",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Idee",
+    "trans": [
+      "注意，想法，点子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-047",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "注意，想法，点子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "genau",
+    "trans": [
+      "Adv. 对的，是的；精确的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-048",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adv. 对的，是的；精确的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ganz",
+    "trans": [
+      "Adv. 蛮，挺，很，甚，相当；完好的，完整的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-049",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adv. 蛮，挺，很，甚，相当；完好的，完整的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bestimmt",
+    "trans": [
+      "Adv. 一定，肯定地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-050",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adv. 一定，肯定地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "richtig",
+    "trans": [
+      "Adj. 正确的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-051",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. 正确的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aussehen",
+    "trans": [
+      "看上去，显得"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-052",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "看上去，显得",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fit",
+    "trans": [
+      "Adj. 精力充沛的，状态良好的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-053",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. 精力充沛的，状态良好的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gesund",
+    "trans": [
+      "Adj. 健康的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-054",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. 健康的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "rauchen",
+    "trans": [
+      "抽烟，吸烟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-055",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "抽烟，吸烟",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Alkohol",
+    "trans": [
+      "酒精，酒；含酒精的饮料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-056",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "酒精，酒；含酒精的饮料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wirklich",
+    "trans": [
+      "Adj. 真的，真实的，现实的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-057",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. 真的，真实的，现实的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "doch",
+    "trans": [
+      "Adv. 对否定的事表达肯定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-058",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adv. 对否定的事表达肯定",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "manchmal",
+    "trans": [
+      "Adv. 有时"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-059",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adv. 有时",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "selten",
+    "trans": [
+      "Adv. 难得，很少，罕见，稀有"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-060",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adv. 难得，很少，罕见，稀有",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "außerdem",
+    "trans": [
+      "Adv. 除此之外，此外"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-061",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adv. 除此之外，此外",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ingenieur",
+    "trans": [
+      "工程师（男）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-062",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "工程师（男）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ingenieurin",
+    "trans": [
+      "工程师（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-063",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "工程师（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sekretär",
+    "trans": [
+      "秘书（男）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-064",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "秘书（男）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sekretärin",
+    "trans": [
+      "秘书（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-065",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "秘书（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "beide",
+    "trans": [
+      "Pron. 两个，两人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-066",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Pron. 两个，两人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Österreich",
+    "trans": [
+      "奥地利（国家）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-067",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "奥地利（国家）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nett",
+    "trans": [
+      "Adj. 友好的，和蔼的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-068",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. 友好的，和蔼的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gefährte",
+    "trans": [
+      "伴侣，同伴（男）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-069",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "伴侣，同伴（男）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gefährtin",
+    "trans": [
+      "伴侣，同伴（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-070",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "伴侣，同伴（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verheiratet",
+    "trans": [
+      "Adj. 已婚的，已结婚的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-071",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. 已婚的，已结婚的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "anrufen",
+    "trans": [
+      "打电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-072",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "打电话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Handy",
+    "trans": [
+      "手机，移动电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-073",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "手机，移动电话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Polizei",
+    "trans": [
+      "警察局；警方人员"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-074",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "警察局；警方人员",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dort",
+    "trans": [
+      "Adv. 那里，那儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-075",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adv. 那里，那儿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Beruf",
+    "trans": [
+      "职业"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-076",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "职业",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mitkommen",
+    "trans": [
+      "一起来，一同去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-077",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "一起来，一同去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lieber",
+    "trans": [
+      "Komp./Adv. 宁可，宁愿，更喜欢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-078",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Komp./Adv. 宁可，宁愿，更喜欢",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vorschlag",
+    "trans": [
+      "建议，提议"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-079",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "建议，提议",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einladung",
+    "trans": [
+      "邀请"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-080",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "邀请",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "annehmen",
+    "trans": [
+      "接受，接收；假设"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-081",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "接受，接收；假设",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ablehnen",
+    "trans": [
+      "拒绝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-082",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "拒绝",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abgemacht",
+    "trans": [
+      "Adj. 一言为定，就这么着"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-083",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. 一言为定，就这么着",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "leidtun",
+    "trans": [
+      "遗憾，抱歉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-084",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "遗憾，抱歉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verabredung",
+    "trans": [
+      "约会，约定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-085",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "约会，约定",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lust",
+    "trans": [
+      "兴趣，兴致"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-086",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "兴趣，兴致",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "prima",
+    "trans": [
+      "Adj. 好极了，好棒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-087",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. 好极了，好棒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lied",
+    "trans": [
+      "歌，歌曲"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-088",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "歌，歌曲",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einmal",
+    "trans": [
+      "Num. 一次"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-089",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Num. 一次",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tier",
+    "trans": [
+      "动物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-090",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "动物",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hund",
+    "trans": [
+      "狗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-091",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "狗",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Form",
+    "trans": [
+      "形式"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-092",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "形式",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Urlaub",
+    "trans": [
+      "假期，度假"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-093",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "假期，度假",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "abholen",
+    "trans": [
+      "接，取"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-094",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "接，取",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "freitags",
+    "trans": [
+      "Adv. 每星期五"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-095",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adv. 每星期五",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "normal",
+    "trans": [
+      "Adj. 正常的，平常的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-096",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. 正常的，平常的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "arbeitslos",
+    "trans": [
+      "Adj. 失业的，无工作的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-097",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. 失业的，无工作的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "türkisch",
+    "trans": [
+      "Adj. 土耳其的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-098",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. 土耳其的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rollenverteilung",
+    "trans": [
+      "角色分配"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-099",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "角色分配",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zufrieden",
+    "trans": [
+      "Adj. 满意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-100",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. 满意",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "als",
+    "trans": [
+      "Konj. 作为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-101",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Konj. 作为",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "alleinstehend",
+    "trans": [
+      "Adj. 单身的，独身的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-102",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. 单身的，独身的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kaufmann",
+    "trans": [
+      "商务职员，商人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-103",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "商务职员，商人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fest",
+    "trans": [
+      "Adj. 固定的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-104",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "Adj. 固定的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wohnung",
+    "trans": [
+      "套房，住房"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-105",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "套房，住房",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stelle",
+    "trans": [
+      "职位，岗位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-106",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "职位，岗位",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "reisen",
+    "trans": [
+      "旅行，旅游"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E4-107",
+    "sourceSheet": "B1E4",
+    "sourceMeaning": "旅行，旅游",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

@@ -1,0 +1,1305 @@
+[
+  {
+    "name": "りょうり（料理）",
+    "trans": [
+      "名 菜肴，饭菜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-001",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "菜肴，饭菜",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "りょうり",
+      "料理"
+    ],
+    "speech": "りょうり"
+  },
+  {
+    "name": "しせんりょうり（四川料理）",
+    "trans": [
+      "名 四川菜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-002",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "四川菜",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しせんりょうり",
+      "四川料理"
+    ],
+    "speech": "しせんりょうり"
+  },
+  {
+    "name": "スーブ",
+    "trans": [
+      "名 汤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-003",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "汤",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ぺキンダック（北京ダック）",
+    "trans": [
+      "名 北京烤鸭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-004",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "北京烤鸭",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぺキンダック",
+      "北京ダック"
+    ],
+    "speech": "ぺキンダック"
+  },
+  {
+    "name": "たべもの（食べ物）",
+    "trans": [
+      "名 食物，食品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-005",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "食物，食品",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たべもの",
+      "食べ物"
+    ],
+    "speech": "たべもの"
+  },
+  {
+    "name": "すきやき（すき焼き）",
+    "trans": [
+      "名 日式牛肉火锅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-006",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "日式牛肉火锅",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すきやき",
+      "すき焼き"
+    ],
+    "speech": "すきやき"
+  },
+  {
+    "name": "おんせん（温泉）",
+    "trans": [
+      "名 温泉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-007",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "温泉",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おんせん",
+      "温泉"
+    ],
+    "speech": "おんせん"
+  },
+  {
+    "name": "おゆ（お湯）",
+    "trans": [
+      "名 热水，开水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-008",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "热水，开水",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おゆ",
+      "お湯"
+    ],
+    "speech": "おゆ"
+  },
+  {
+    "name": "みず（水）",
+    "trans": [
+      "名 水，凉水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-009",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "水，凉水",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みず",
+      "水"
+    ],
+    "speech": "みず"
+  },
+  {
+    "name": "ゆかた（浴衣）",
+    "trans": [
+      "名 浴衣，夏季和服"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-010",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "浴衣，夏季和服",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ゆかた",
+      "浴衣"
+    ],
+    "speech": "ゆかた"
+  },
+  {
+    "name": "ながめ（眺め）",
+    "trans": [
+      "名 景色，风景"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-011",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "景色，风景",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ながめ",
+      "眺め"
+    ],
+    "speech": "ながめ"
+  },
+  {
+    "name": "くすり（薬）",
+    "trans": [
+      "名 药"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-012",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "药",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "くすり",
+      "薬"
+    ],
+    "speech": "くすり"
+  },
+  {
+    "name": "てんき（天気）",
+    "trans": [
+      "名 天气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-013",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "天气",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てんき",
+      "天気"
+    ],
+    "speech": "てんき"
+  },
+  {
+    "name": "うみ（海）",
+    "trans": [
+      "名 大海"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-014",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "大海",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "うみ",
+      "海"
+    ],
+    "speech": "うみ"
+  },
+  {
+    "name": "やま（山）",
+    "trans": [
+      "名 山"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-015",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "山",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やま",
+      "山"
+    ],
+    "speech": "やま"
+  },
+  {
+    "name": "かみ（紙）",
+    "trans": [
+      "名 纸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-016",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "纸",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かみ",
+      "紙"
+    ],
+    "speech": "かみ"
+  },
+  {
+    "name": "ニュース",
+    "trans": [
+      "名 新闻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-017",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "新闻",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "じょせい（女性）",
+    "trans": [
+      "名 女性"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-018",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "女性",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "じょせい",
+      "女性"
+    ],
+    "speech": "じょせい"
+  },
+  {
+    "name": "おきゃくさま（お客様）",
+    "trans": [
+      "名 来宾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-019",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "来宾",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おきゃくさま",
+      "お客様"
+    ],
+    "speech": "おきゃくさま"
+  },
+  {
+    "name": "グラス",
+    "trans": [
+      "名 玻璃杯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-020",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "玻璃杯",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かぶき（歌舞伎）",
+    "trans": [
+      "名 歌舞伎"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-021",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "歌舞伎",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かぶき",
+      "歌舞伎"
+    ],
+    "speech": "かぶき"
+  },
+  {
+    "name": "きもち（気持ち）",
+    "trans": [
+      "名 心情"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-022",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "心情",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きもち",
+      "気持ち"
+    ],
+    "speech": "きもち"
+  },
+  {
+    "name": "たくさん",
+    "trans": [
+      "名 很多"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-023",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "很多",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "からい（辛い）",
+    "trans": [
+      "形1 辣"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-024",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "辣",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "からい",
+      "辛い"
+    ],
+    "speech": "からい"
+  },
+  {
+    "name": "あまい（甘い）",
+    "trans": [
+      "形1 甜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-025",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "甜",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あまい",
+      "甘い"
+    ],
+    "speech": "あまい"
+  },
+  {
+    "name": "しおからい（塩辛い）∕しょっぱい",
+    "trans": [
+      "形1 咸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-026",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "咸",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "すっぱい（酸っぱい）",
+    "trans": [
+      "形1 酸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-027",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "酸",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すっぱい",
+      "酸っぱい"
+    ],
+    "speech": "すっぱい"
+  },
+  {
+    "name": "にがい（苦い）",
+    "trans": [
+      "形1 苦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-028",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "苦",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "にがい",
+      "苦い"
+    ],
+    "speech": "にがい"
+  },
+  {
+    "name": "おいしい",
+    "trans": [
+      "形1 好吃，可口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-029",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "好吃，可口",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "まずい",
+    "trans": [
+      "形1 不好吃，难吃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-030",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "不好吃，难吃",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あつい",
+    "trans": [
+      "形1 热，烫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-031",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "热，烫",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "つめたい（冷たい）",
+    "trans": [
+      "形1 凉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-032",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "凉",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つめたい",
+      "冷たい"
+    ],
+    "speech": "つめたい"
+  },
+  {
+    "name": "たのしい（楽しい）",
+    "trans": [
+      "形1 愉快，快乐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-033",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "愉快，快乐",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たのしい",
+      "楽しい"
+    ],
+    "speech": "たのしい"
+  },
+  {
+    "name": "おもしろい",
+    "trans": [
+      "形1 有趣，有意思"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-034",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "有趣，有意思",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "つまらない",
+    "trans": [
+      "形1 无聊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-035",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "无聊",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ひろい（広い）",
+    "trans": [
+      "形1 广阔，宽敞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-036",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "广阔，宽敞",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひろい",
+      "広い"
+    ],
+    "speech": "ひろい"
+  },
+  {
+    "name": "せまい（狭い）",
+    "trans": [
+      "形1 狭窄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-037",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "狭窄",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "せまい",
+      "狭い"
+    ],
+    "speech": "せまい"
+  },
+  {
+    "name": "おおきい（大きい）",
+    "trans": [
+      "形1 大"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-038",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "大",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おおきい",
+      "大きい"
+    ],
+    "speech": "おおきい"
+  },
+  {
+    "name": "ちいさい（小さい）",
+    "trans": [
+      "形1 小"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-039",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "小",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちいさい",
+      "小さい"
+    ],
+    "speech": "ちいさい"
+  },
+  {
+    "name": "いそがしい（忙しい）",
+    "trans": [
+      "形1 忙，忙碌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-040",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "忙，忙碌",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いそがしい",
+      "忙しい"
+    ],
+    "speech": "いそがしい"
+  },
+  {
+    "name": "いい",
+    "trans": [
+      "形1 好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-041",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "好",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "わるい（悪い）",
+    "trans": [
+      "形1 不好，坏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-042",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "不好，坏",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "わるい",
+      "悪い"
+    ],
+    "speech": "わるい"
+  },
+  {
+    "name": "すばらしい",
+    "trans": [
+      "形1 极好，绝佳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-043",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "极好，绝佳",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "とおい（遠い）",
+    "trans": [
+      "形1 远"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-044",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "远",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とおい",
+      "遠い"
+    ],
+    "speech": "とおい"
+  },
+  {
+    "name": "ちかい（近い）",
+    "trans": [
+      "形1 近"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-045",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "近",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ちかい",
+      "近い"
+    ],
+    "speech": "ちかい"
+  },
+  {
+    "name": "たかい（高い）",
+    "trans": [
+      "形1 高，贵"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-046",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "高，贵",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "たかい",
+      "高い"
+    ],
+    "speech": "たかい"
+  },
+  {
+    "name": "ひくい（低い）",
+    "trans": [
+      "形1 低"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-047",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "低",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ひくい",
+      "低い"
+    ],
+    "speech": "ひくい"
+  },
+  {
+    "name": "やすい（安い）",
+    "trans": [
+      "形1 便宜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-048",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "便宜",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やすい",
+      "安い"
+    ],
+    "speech": "やすい"
+  },
+  {
+    "name": "さむい（寒い）",
+    "trans": [
+      "形1 寒冷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-049",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "寒冷",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "さむい",
+      "寒い"
+    ],
+    "speech": "さむい"
+  },
+  {
+    "name": "あつい（暑い）",
+    "trans": [
+      "形1 （天气）热"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-050",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "（天气）热",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あつい",
+      "暑い"
+    ],
+    "speech": "あつい"
+  },
+  {
+    "name": "あおい（青い）",
+    "trans": [
+      "形1 蓝色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-051",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "蓝色的",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あおい",
+      "青い"
+    ],
+    "speech": "あおい"
+  },
+  {
+    "name": "しろい（白い）",
+    "trans": [
+      "形1 白色的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-052",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "白色的",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しろい",
+      "白い"
+    ],
+    "speech": "しろい"
+  },
+  {
+    "name": "あたらしい（新しい）",
+    "trans": [
+      "形1 新"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-053",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "新",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "あたらしい",
+      "新しい"
+    ],
+    "speech": "あたらしい"
+  },
+  {
+    "name": "ふるい（古い）",
+    "trans": [
+      "形1 旧"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-054",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "旧",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふるい",
+      "古い"
+    ],
+    "speech": "ふるい"
+  },
+  {
+    "name": "むずかしい（難しい）",
+    "trans": [
+      "形1 难"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-055",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "难",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "むずかしい",
+      "難しい"
+    ],
+    "speech": "むずかしい"
+  },
+  {
+    "name": "やさしい（易しい）",
+    "trans": [
+      "形1 容易"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-056",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "容易",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やさしい",
+      "易しい"
+    ],
+    "speech": "やさしい"
+  },
+  {
+    "name": "おおい（多い）",
+    "trans": [
+      "形1 多"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-057",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "多",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おおい",
+      "多い"
+    ],
+    "speech": "おおい"
+  },
+  {
+    "name": "すくない（少ない）",
+    "trans": [
+      "形1 少"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-058",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "少",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "すくない",
+      "少ない"
+    ],
+    "speech": "すくない"
+  },
+  {
+    "name": "かわいい",
+    "trans": [
+      "形1 可爱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-059",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "可爱",
+    "sourceTags": [
+      "形1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ほんとうに（本当に）",
+    "trans": [
+      "副 真的，实在是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-060",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "真的，实在是",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほんとうに",
+      "本当に"
+    ],
+    "speech": "ほんとうに"
+  },
+  {
+    "name": "あまり",
+    "trans": [
+      "副 不（太）～，不很～"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-061",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "不（太）～，不很～",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "とても∕たいへん",
+    "trans": [
+      "副 很，非常"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-062",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "很，非常",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "すこし（少し）∕ちょっと",
+    "trans": [
+      "副 一点儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-063",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "一点儿",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ぜんぜん（全然）",
+    "trans": [
+      "副 根本（不），全然（不）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-064",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "根本（不），全然（不）",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぜんぜん",
+      "全然"
+    ],
+    "speech": "ぜんぜん"
+  },
+  {
+    "name": "ちょうど",
+    "trans": [
+      "副 正好，恰好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-065",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "正好，恰好",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "あら∕あれ",
+    "trans": [
+      "叹 哎呀，咦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-066",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "哎呀，咦",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ああ",
+    "trans": [
+      "叹 啊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-067",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "啊",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "てんあんもん（天安門）",
+    "trans": [
+      "专 天安门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-068",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "天安门",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "てんあんもん",
+      "天安門"
+    ],
+    "speech": "てんあんもん"
+  },
+  {
+    "name": "ばんりのちょうじょう（万里の長城）",
+    "trans": [
+      "专 万里长城"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-069",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "万里长城",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ばんりのちょうじょう",
+      "万里の長城"
+    ],
+    "speech": "ばんりのちょうじょう"
+  },
+  {
+    "name": "きもちがいい（気持ちがいい）",
+    "trans": [
+      "感觉舒服，心情愉快"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U09-070",
+    "sourceSheet": "B1U09",
+    "sourceMeaning": "感觉舒服，心情愉快",
+    "sourceTags": [],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きもちがいい",
+      "気持ちがいい"
+    ],
+    "speech": "きもちがいい"
+  }
+]

@@ -38,6 +38,10 @@ export const wrongSoundResources: SoundResource[] = [{ key: '1', name: '声音1'
 export const correctSoundResources: SoundResource[] = [{ key: '1', name: '声音1', filename: 'correct.wav' }]
 
 export const LANG_PRON_MAP: LanguagePronunciationMap = {
+  es: { defaultPronIndex: 0, pronunciation: [{ name: '西班牙语', pron: 'es' }] },
+  fr: { defaultPronIndex: 0, pronunciation: [{ name: '法语', pron: 'fr' }] },
+  ko: { defaultPronIndex: 0, pronunciation: [{ name: '韩语', pron: 'ko' }] },
+  ru: { defaultPronIndex: 0, pronunciation: [{ name: '俄语', pron: 'ru' }] },
   en: {
     defaultPronIndex: 0,
     pronunciation: [

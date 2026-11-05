@@ -1,0 +1,405 @@
+[
+  {
+    "name": "студент",
+    "trans": [
+      "大学生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-001",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "大学生",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "сестра",
+    "trans": [
+      "姐妹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-002",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "姐妹",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "вы",
+    "trans": [
+      "您, 你们"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-003",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "您, 你们",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "она",
+    "trans": [
+      "她"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-004",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "她",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "я",
+    "trans": [
+      "我"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-005",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "我",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "этот",
+    "trans": [
+      "这个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-006",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "这个",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "здание",
+    "trans": [
+      "楼房"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-007",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "楼房",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "комната",
+    "trans": [
+      "房间"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-008",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "房间",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "окно",
+    "trans": [
+      "窗户"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-009",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "窗户",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "факультет",
+    "trans": [
+      "系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-010",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "系",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "наука",
+    "trans": [
+      "科学"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-011",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "科学",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "математический",
+    "trans": [
+      "数学的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-012",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "数学的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "экономический",
+    "trans": [
+      "经济的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-013",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "经济的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "словарь",
+    "trans": [
+      "词典"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-014",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "词典",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "футбол",
+    "trans": [
+      "足球"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-015",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "足球",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "один",
+    "trans": [
+      "一"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-016",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "一",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "два",
+    "trans": [
+      "二"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-017",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "二",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "три",
+    "trans": [
+      "三"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-018",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "三",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "сорок",
+    "trans": [
+      "四十"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-019",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "四十",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "первый",
+    "trans": [
+      "第一"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-020",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "第一",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "познакомиться",
+    "trans": [
+      "相识"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-021",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "相识",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "отдыхать",
+    "trans": [
+      "休息"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-022",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "休息",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "приятно",
+    "trans": [
+      "愉快"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-023",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "愉快",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "рад",
+    "trans": [
+      "感到高兴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-024",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "感到高兴",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "здорово",
+    "trans": [
+      "很棒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-025",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "很棒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "русский",
+    "trans": [
+      "俄语的, 俄罗斯的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-026",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "俄语的, 俄罗斯的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ах",
+    "trans": [
+      "咳, 哎哟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-027",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "咳, 哎哟",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ой",
+    "trans": [
+      "哎呀"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-028",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "哎呀",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ура",
+    "trans": [
+      "乌拉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-029",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "乌拉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "вот",
+    "trans": [
+      "这就是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-030",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "这就是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "из",
+    "trans": [
+      "从……里面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "RU-B1-U07-031",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "从……里面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "name": "Waage",
+    "trans": [
+      "天秤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-001",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "天秤",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mappe",
+    "trans": [
+      "书包，纸夹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-002",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "书包，纸夹",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kaffee",
+    "trans": [
+      "咖啡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-003",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "咖啡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hemd",
+    "trans": [
+      "衬衫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-004",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "衬衫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Huhn",
+    "trans": [
+      "鸡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-005",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "鸡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mund",
+    "trans": [
+      "口，嘴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-006",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "口，嘴",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kino",
+    "trans": [
+      "电影院"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-007",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "电影院",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ofen",
+    "trans": [
+      "炉子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-008",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "炉子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Boot",
+    "trans": [
+      "小船，小艇"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-009",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "小船，小艇",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pass",
+    "trans": [
+      "护照"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-010",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "护照",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Obst",
+    "trans": [
+      "水果"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-011",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "水果",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Bett",
+    "trans": [
+      "床"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-012",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "床",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kind",
+    "trans": [
+      "小孩"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-013",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "小孩",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kanne",
+    "trans": [
+      "壶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-014",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "壶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Gas",
+    "trans": [
+      "煤气，气体"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-015",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "煤气，气体",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mann",
+    "trans": [
+      "男人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-016",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "男人",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nase",
+    "trans": [
+      "鼻子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-017",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "鼻子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fuß",
+    "trans": [
+      "脚，足"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-018",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "脚，足",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sonne",
+    "trans": [
+      "太阳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-019",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "太阳",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fahne",
+    "trans": [
+      "旗，旗帜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-020",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "旗，旗帜",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vase",
+    "trans": [
+      "花瓶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-021",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "花瓶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gut",
+    "trans": [
+      "Adj. 好的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-022",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Adj. 好的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tag",
+    "trans": [
+      "白天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-023",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "白天",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ich",
+    "trans": [
+      "Pron. 我"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-024",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Pron. 我",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "heißen",
+    "trans": [
+      "名叫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-025",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "名叫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mein",
+    "trans": [
+      "Poss. Pron. 我的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-026",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Poss. Pron. 我的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Name",
+    "trans": [
+      "名字"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-027",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "名字",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sein",
+    "trans": [
+      "是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-028",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "kommen",
+    "trans": [
+      "来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-029",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "来",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "aus",
+    "trans": [
+      "从......"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-030",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "从......",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "China",
+    "trans": [
+      "中国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-031",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "中国",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "und",
+    "trans": [
+      "和，与"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-032",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "和，与",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sie",
+    "trans": [
+      "Pron. 您，您们"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-033",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Pron. 您，您们",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Deutschland",
+    "trans": [
+      "德国"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-034",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "德国",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Eis",
+    "trans": [
+      "冰淇淋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-035",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "冰淇淋",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mais",
+    "trans": [
+      "玉米"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-036",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "玉米",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Auge",
+    "trans": [
+      "眼睛"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-037",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "眼睛",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Faust",
+    "trans": [
+      "拳头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-038",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "拳头",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "neun",
+    "trans": [
+      "Num. 九"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-039",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Num. 九",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Maus",
+    "trans": [
+      "老鼠，鼠标"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-040",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "老鼠，鼠标",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hand",
+    "trans": [
+      "手"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-041",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "手",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hof",
+    "trans": [
+      "庭院，大院子，宫廷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-042",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "庭院，大院子，宫廷",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Hut",
+    "trans": [
+      "帽子，大盖帽"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-043",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "帽子，大盖帽",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fünf",
+    "trans": [
+      "五"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-044",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "五",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Haus",
+    "trans": [
+      "屋子，房子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-045",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "屋子，房子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Jacke",
+    "trans": [
+      "夹克衫，上衣，外套"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-046",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "夹克衫，上衣，外套",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Geld",
+    "trans": [
+      "钱，钞票"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-047",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "钱，钞票",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fahrrad",
+    "trans": [
+      "自行车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-048",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "自行车",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wasser",
+    "trans": [
+      "水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-049",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "水",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zehn",
+    "trans": [
+      "Num. 十"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-050",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Num. 十",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Katze",
+    "trans": [
+      "猫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-051",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "猫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sechs",
+    "trans": [
+      "Num. 六"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-052",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Num. 六",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Licht",
+    "trans": [
+      "光，电灯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-053",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "光，电灯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Buch",
+    "trans": [
+      "书"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-054",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "书",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Morgen",
+    "trans": [
+      "早晨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-055",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "早晨",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Frau",
+    "trans": [
+      "女士"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-056",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "女士",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Herr",
+    "trans": [
+      "先生"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-057",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "先生",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wie",
+    "trans": [
+      "Adv. 如何， 怎样"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-058",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Adv. 如何， 怎样",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "es",
+    "trans": [
+      "Pron. 它"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-059",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Pron. 它",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gehen",
+    "trans": [
+      "走"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-060",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "走",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ihnen",
+    "trans": [
+      "Pron. 您(第三格)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-061",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Pron. 您(第三格)",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "auch",
+    "trans": [
+      "Adv. 也"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-062",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Adv. 也",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schüler",
+    "trans": [
+      "中小学生（男）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-063",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "中小学生（男）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Schülerin",
+    "trans": [
+      "中小学生（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-064",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "中小学生（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tisch",
+    "trans": [
+      "桌子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-065",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "桌子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Champagner",
+    "trans": [
+      "香槟酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-066",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "香槟酒",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Stuhl",
+    "trans": [
+      "椅子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-067",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "椅子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Apfel",
+    "trans": [
+      "苹果"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-068",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "苹果",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Quelle",
+    "trans": [
+      "泉，源泉；出处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-069",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "泉，源泉；出处",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zeitung",
+    "trans": [
+      "报纸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-070",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "报纸",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hallo",
+    "trans": [
+      "Int. 喂，你好"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-071",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Int. 喂，你好",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dir",
+    "trans": [
+      "Pron. 你 （第三格）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-072",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Pron. 你 （第三格）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sagen",
+    "trans": [
+      "说"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-073",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "说",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mal",
+    "trans": [
+      "Adv. 次，一次"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-074",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Adv. 次，一次",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wer",
+    "trans": [
+      "Pron. 谁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-075",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Pron. 谁",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "denn",
+    "trans": [
+      "Part. 究竟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-076",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Part. 究竟",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "das",
+    "trans": [
+      "Pron. 这"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-077",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Pron. 这",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "was",
+    "trans": [
+      "Pron. 什么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-078",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Pron. 什么",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sie",
+    "trans": [
+      "Pron. 她"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-079",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Pron. 她",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lehrer",
+    "trans": [
+      "教师（男）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-080",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "教师（男）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lehrerin",
+    "trans": [
+      "教师（女）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-081",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "教师（女）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "woher",
+    "trans": [
+      "Adv. 从哪里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-082",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Adv. 从哪里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Berlin",
+    "trans": [
+      "柏林（德国首都）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-083",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "柏林（德国首都）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zu",
+    "trans": [
+      "Präp. 到......去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-084",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Präp. 到......去",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Unterricht",
+    "trans": [
+      "课"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-085",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "课",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "also",
+    "trans": [
+      "Konj. 因此"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-086",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Konj. 因此",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tschüs",
+    "trans": [
+      "Int. 再见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-087",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Int. 再见",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bis",
+    "trans": [
+      "Präp. 直至"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-088",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Präp. 直至",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "morgen",
+    "trans": [
+      "Adv. 明天"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-089",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Adv. 明天",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vorname",
+    "trans": [
+      "名字"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-090",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "名字",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Familienname",
+    "trans": [
+      "姓，姓名"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-091",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "姓，姓名",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Griechenland",
+    "trans": [
+      "希腊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-092",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "希腊",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wiedersehen",
+    "trans": [
+      "再见"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-093",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "再见",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Physik",
+    "trans": [
+      "物理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-094",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "物理",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "begrüßen",
+    "trans": [
+      "欢迎，向......问候"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-095",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "欢迎，向......问候",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verabschieden",
+    "trans": [
+      "告别，告辞"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-096",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "告别，告辞",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Abend",
+    "trans": [
+      "傍晚，晚上；晚会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-097",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "傍晚，晚上；晚会",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Nacht",
+    "trans": [
+      "夜里"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-098",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "夜里",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dann",
+    "trans": [
+      "Adv. 然后，那么"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-099",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Adv. 然后，那么",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gleich",
+    "trans": [
+      "Adv. 马上，不一会儿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B1E1-100",
+    "sourceSheet": "B1E1",
+    "sourceMeaning": "Adv. 马上，不一会儿",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

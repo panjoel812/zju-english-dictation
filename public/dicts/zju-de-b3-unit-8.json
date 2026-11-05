@@ -1,0 +1,1159 @@
+[
+  {
+    "name": "Restmüll",
+    "trans": [
+      "剩余垃圾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-001",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "剩余垃圾",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sondermüll",
+    "trans": [
+      "特殊垃圾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-002",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "特殊垃圾",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Tonne",
+    "trans": [
+      "桶；吨"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-003",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "桶；吨",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Biotonne",
+    "trans": [
+      "有机垃圾桶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-004",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "有机垃圾桶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Sack",
+    "trans": [
+      "袋子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-005",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "袋子",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sortieren",
+    "trans": [
+      "把......分类"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-006",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "把......分类",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lebenswichtig",
+    "trans": [
+      "Adj. 极其重要的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-007",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "Adj. 极其重要的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vorhanden",
+    "trans": [
+      "Adj. 存在的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-008",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "Adj. 存在的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Knappheit",
+    "trans": [
+      "短缺，不足"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-009",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "短缺，不足",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pol",
+    "trans": [
+      "极，极地；电极"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-010",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "极，极地；电极",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Süßwasser",
+    "trans": [
+      "淡水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-011",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "淡水",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Vorrat",
+    "trans": [
+      "储备，储存"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-012",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "储备，储存",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "unbegrenzt",
+    "trans": [
+      "Adj. 无限的，无限制的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-013",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "Adj. 无限的，无限制的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "mitmachen",
+    "trans": [
+      "一起做；参加"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-014",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "一起做；参加",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Wasserhahn",
+    "trans": [
+      "水龙头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-015",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "水龙头",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zudrehen",
+    "trans": [
+      "旋紧，关上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-016",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "旋紧，关上",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tropfen",
+    "trans": [
+      "滴下"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-017",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "滴下",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "umweltfreundlich",
+    "trans": [
+      "Adj. 对环境无害的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-018",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "Adj. 对环境无害的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Waschmittel",
+    "trans": [
+      "洗涤剂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-019",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "洗涤剂",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Erdöl",
+    "trans": [
+      "石油，原油"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-020",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "石油，原油",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Erdgas",
+    "trans": [
+      "天然气"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-021",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "天然气",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kohle",
+    "trans": [
+      "煤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-022",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "煤",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fossil",
+    "trans": [
+      "Adj. 古生代的，化石的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-023",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "Adj. 古生代的，化石的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Energieträger",
+    "trans": [
+      "能产生能量的物质"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-024",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "能产生能量的物质",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kraftwerk",
+    "trans": [
+      "发电厂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-025",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "发电厂",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verbrennen",
+    "trans": [
+      "烧，烧掉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-026",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "烧，烧掉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kohlendioxyd",
+    "trans": [
+      "二氧化碳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-027",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "二氧化碳",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erzeugen",
+    "trans": [
+      "产生，引起，制造"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-028",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "产生，引起，制造",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Treibhauseffekt",
+    "trans": [
+      "温室效应"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-029",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "温室效应",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "erneuerbar",
+    "trans": [
+      "Adj. 可再生的，可更新的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-030",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "Adj. 可再生的，可更新的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Biomasse",
+    "trans": [
+      "生物质"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-031",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "生物质",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vermeiden",
+    "trans": [
+      "避免"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-032",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "避免",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verbrauchen",
+    "trans": [
+      "消耗，消费，花费"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-033",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "消耗，消费，花费",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Glühbirne",
+    "trans": [
+      "白炽灯泡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-034",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "白炽灯泡",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verlorengehen",
+    "trans": [
+      "丢失，遗失"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-035",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "丢失，遗失",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "-köpfig",
+    "trans": [
+      "Adj. ......人的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-036",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "Adj. ......人的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dose",
+    "trans": [
+      "易拉罐，盒，罐头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-037",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "易拉罐，盒，罐头",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Umweltkiller",
+    "trans": [
+      "环境杀手"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-038",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "环境杀手",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Aluminium",
+    "trans": [
+      "铝"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-039",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "铝",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Produktion",
+    "trans": [
+      "生产，制造；产量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-040",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "生产，制造；产量",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "giftig",
+    "trans": [
+      "Adj. 有毒的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-041",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "Adj. 有毒的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Dioxin",
+    "trans": [
+      "二恶英"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-042",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "二恶英",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mehrwegflasche",
+    "trans": [
+      "可回收瓶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-043",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "可回收瓶",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gefährlich",
+    "trans": [
+      "Adj. 危险的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-044",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "Adj. 危险的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Limo",
+    "trans": [
+      "汽水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-045",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "汽水",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Batterie",
+    "trans": [
+      "电池"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-046",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "电池",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Radio",
+    "trans": [
+      "收音机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-047",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "收音机",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Fernbedienung",
+    "trans": [
+      "遥控器"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-048",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "遥控器",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Spielzeug",
+    "trans": [
+      "玩具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-049",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "玩具",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "umweltschädlich",
+    "trans": [
+      "Adj. 对环境有害的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-050",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "Adj. 对环境有害的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wegwerfen",
+    "trans": [
+      "扔掉，丢弃"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-051",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "扔掉，丢弃",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "leeren",
+    "trans": [
+      "腾出，出空"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-052",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "腾出，出空",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wiederaufladbar",
+    "trans": [
+      "Adj. 可充电的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-053",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "Adj. 可充电的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einweg-",
+    "trans": [
+      "一次性的......"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-054",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "一次性的......",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Ratschlag",
+    "trans": [
+      "建议，劝告"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-055",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "建议，劝告",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Plastik",
+    "trans": [
+      "塑料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-056",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "塑料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Becher",
+    "trans": [
+      "杯子（平底无把）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-057",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "杯子（平底无把）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Deponie",
+    "trans": [
+      "垃圾堆放场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-058",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "垃圾堆放场",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Rohstoff",
+    "trans": [
+      "原材料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-059",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "原材料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Heizenergie",
+    "trans": [
+      "供暖能源"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-060",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "供暖能源",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Kunststoff",
+    "trans": [
+      "塑料，合成材料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-061",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "塑料，合成材料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Transport",
+    "trans": [
+      "运输，运送"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-062",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "运输，运送",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Reinigung",
+    "trans": [
+      "洗，清洗"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-063",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "洗，清洗",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pressen",
+    "trans": [
+      "压制；挤压"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-064",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "压制；挤压",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verfahren",
+    "trans": [
+      "方法"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-065",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "方法",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wundern",
+    "trans": [
+      "感到惊讶，惊异"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-066",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "感到惊讶，惊异",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ansammeln",
+    "trans": [
+      "积聚；聚集"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-067",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "积聚；聚集",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verwalten",
+    "trans": [
+      "管理，掌管"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-068",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "管理，掌管",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Lagerplatz",
+    "trans": [
+      "储藏处"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-069",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "储藏处",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Abfall",
+    "trans": [
+      "垃圾，废物，废料"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-070",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "垃圾，废物，废料",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "einwerfen",
+    "trans": [
+      "把......掷入，投入"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-071",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "把......掷入，投入",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Mehrfamilienhaus",
+    "trans": [
+      "多户住宅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-072",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "多户住宅",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Verpackung",
+    "trans": [
+      "包装材料；包装"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-073",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "包装材料；包装",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "wiederverwerten",
+    "trans": [
+      "再次利用，再次使用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-074",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "再次利用，再次使用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Container",
+    "trans": [
+      "大型垃圾箱；集装箱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-075",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "大型垃圾箱；集装箱",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "verarbeiten",
+    "trans": [
+      "加工，处理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-076",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "加工，处理",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "werktags",
+    "trans": [
+      "Adv. 在工作日"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-077",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "Adv. 在工作日",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Anwohner",
+    "trans": [
+      "临街的居民"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-078",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "临街的居民",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "belästigen",
+    "trans": [
+      "打扰，使厌烦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-079",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "打扰，使厌烦",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Keller",
+    "trans": [
+      "地下室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-080",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "地下室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Karton",
+    "trans": [
+      "硬纸盒；纸板"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-081",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "硬纸盒；纸板",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "belasten",
+    "trans": [
+      "污染，破坏，使恶化"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-082",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "污染，破坏，使恶化",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "behandeln",
+    "trans": [
+      "对待，处理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-083",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "对待，处理",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "defekt",
+    "trans": [
+      "Adj. 坏的，有故障的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-084",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "Adj. 坏的，有故障的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Zahnbürste",
+    "trans": [
+      "牙刷"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-085",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "牙刷",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einmalwindel",
+    "trans": [
+      "一次性尿布"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-086",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "一次性尿布",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Pfand",
+    "trans": [
+      "押金；抵押金"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-087",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "押金；抵押金",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "-bedürftig",
+    "trans": [
+      "Adj. 需要......的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-088",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "Adj. 需要......的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Einblick",
+    "trans": [
+      "认识，了解"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "B3E8-089",
+    "sourceSheet": "B3E8",
+    "sourceMeaning": "认识，了解",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

@@ -1,0 +1,1138 @@
+[
+  {
+    "name": "cuisine",
+    "trans": [
+      "n.f. 烹调；厨房"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-001",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "烹调；厨房",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "connu, e",
+    "trans": [
+      "adj. 著名的，熟悉的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-002",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "著名的，熟悉的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "déjeuner",
+    "trans": [
+      "n.m. 午餐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-003",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "午餐",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "déjeuner",
+    "trans": [
+      "v.i. 用午餐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-004",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "用午餐",
+    "sourceTags": [
+      "v.i."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "petit déjeuner",
+    "trans": [
+      "n.m. 早餐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-005",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "早餐",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "thé",
+    "trans": [
+      "n.m. 茶；茶叶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-006",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "茶；茶叶",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "café",
+    "trans": [
+      "n.m. 咖啡；咖啡馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-007",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "咖啡；咖啡馆",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lait",
+    "trans": [
+      "n.m. 牛奶，奶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-008",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "牛奶，奶",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pain",
+    "trans": [
+      "n.m. 面包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-009",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "面包",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "céréale",
+    "trans": [
+      "n.f. 粮食"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-010",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "粮食",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "céréales",
+    "trans": [
+      "n.f.pl. 谷类食品"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-011",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "谷类食品",
+    "sourceTags": [
+      "n.f.pl."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "œuf",
+    "trans": [
+      "n.m. 鸡蛋；蛋"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-012",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "鸡蛋；蛋",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fruit",
+    "trans": [
+      "n.m. 水果"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-013",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "水果",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "yaourt",
+    "trans": [
+      "n.m. 酸奶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-014",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "酸奶",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "croissant",
+    "trans": [
+      "n.m. 羊角面包"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-015",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "羊角面包",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "plus",
+    "trans": [
+      "adv. 更，更加，更多"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-016",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "更，更加，更多",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "de plus",
+    "trans": [
+      "再，又，还"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-017",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "再，又，还",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "parisien, ne",
+    "trans": [
+      "adj. 巴黎的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-018",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "巴黎的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Parisien, ne",
+    "trans": [
+      "n. 巴黎人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-019",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "巴黎人",
+    "sourceTags": [
+      "n."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "assez",
+    "trans": [
+      "adv. 足够地，相当地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-020",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "足够地，相当地",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chez",
+    "trans": [
+      "prép. 在……家里；在……地方"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-021",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "在……家里；在……地方",
+    "sourceTags": [
+      "prép."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "restaurant",
+    "trans": [
+      "n.m. 饭店，食堂"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-022",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "饭店，食堂",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bureau",
+    "trans": [
+      "n.m. 办公室；办公桌"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-023",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "办公室；办公桌",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sandwich",
+    "trans": [
+      "n.m. 三明治"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-024",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "三明治",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tasse",
+    "trans": [
+      "n.f. 带把的杯子；一杯的量"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-025",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "带把的杯子；一杯的量",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ville",
+    "trans": [
+      "n.f. 城市"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-026",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "城市",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "comme",
+    "trans": [
+      "conj. 如同，像"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-027",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "如同，像",
+    "sourceTags": [
+      "conj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "comme",
+    "trans": [
+      "adv. 作为；多么，何等"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-028",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "作为；多么，何等",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "campagne",
+    "trans": [
+      "n.f. 农村"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-029",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "农村",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gros, se",
+    "trans": [
+      "adj. 重要的；胖的；大的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-030",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "重要的；胖的；大的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "repas",
+    "trans": [
+      "n.m. 饮食；餐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-031",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "饮食；餐",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "journée",
+    "trans": [
+      "n.f. 一天，白昼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-032",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "一天，白昼",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "salade",
+    "trans": [
+      "n.f. 沙拉，冷盘；生菜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-033",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "沙拉，冷盘；生菜",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "viande",
+    "trans": [
+      "n.f. 肉，肉类"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-034",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "肉，肉类",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "légumes",
+    "trans": [
+      "n.m.pl. 蔬菜"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-035",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "蔬菜",
+    "sourceTags": [
+      "n.m.pl."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fromage",
+    "trans": [
+      "n.m. 干酪，奶酪"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-036",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "干酪，奶酪",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dessert",
+    "trans": [
+      "n.m. 餐后甜点"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-037",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "餐后甜点",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "boire",
+    "trans": [
+      "v.t. 喝，饮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-038",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "喝，饮",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "eau",
+    "trans": [
+      "n.f. 水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-039",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "水",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "vin",
+    "trans": [
+      "n.m. 葡萄酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-040",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "葡萄酒",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "bière",
+    "trans": [
+      "n.f. 啤酒"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-041",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "啤酒",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ne... jamais",
+    "trans": [
+      "adv. 从不，决不"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-042",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "从不，决不",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "payer",
+    "trans": [
+      "v.t. 支付，缴纳"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-043",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "支付，缴纳",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dîner",
+    "trans": [
+      "n.m. 晚饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-044",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "晚饭",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dîner",
+    "trans": [
+      "v.i. 吃晚饭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-045",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "吃晚饭",
+    "sourceTags": [
+      "v.i."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "soupe",
+    "trans": [
+      "n.f. 浓汤"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-046",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "浓汤",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "passer",
+    "trans": [
+      "v.t. 度过；穿过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-047",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "度过；穿过",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "passer",
+    "trans": [
+      "v.i. 经过；通过"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-048",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "经过；通过",
+    "sourceTags": [
+      "v.i."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "table",
+    "trans": [
+      "n.f. 餐桌；桌子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-049",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "餐桌；桌子",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "parler",
+    "trans": [
+      "v.i. 说话；讲话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-050",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "说话；讲话",
+    "sourceTags": [
+      "v.i."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chose",
+    "trans": [
+      "n.f. 事情；事物，东西"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-051",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "事情；事物，东西",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "plaisir",
+    "trans": [
+      "n.m. 高兴，愉快"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-052",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "高兴，愉快",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "avec plaisir",
+    "trans": [
+      "高兴地，愉快地"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-053",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "高兴地，愉快地",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "demander",
+    "trans": [
+      "v.t. 问；要求"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-054",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "问；要求",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "adresse",
+    "trans": [
+      "n.f. 地址"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-055",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "地址",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "chercher",
+    "trans": [
+      "v.t. 寻找"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-056",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "寻找",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "Internet",
+    "trans": [
+      "n.m. 互联网"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-057",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "互联网",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "trouver",
+    "trans": [
+      "v.t. 找到；发现"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-058",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "找到；发现",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "certainement",
+    "trans": [
+      "adv. 一定，当然"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-059",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "一定，当然",
+    "sourceTags": [
+      "adv."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "plusieurs",
+    "trans": [
+      "adj.indéf.pl. 几个，好几个"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-060",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "几个，好几个",
+    "sourceTags": [
+      "adj.indéf.pl."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "merveilleux, se",
+    "trans": [
+      "adj. 出色的，令人赞叹的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-061",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "出色的，令人赞叹的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "moment",
+    "trans": [
+      "n.m. 片刻，一会儿；时刻"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-062",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "片刻，一会儿；时刻",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "faim",
+    "trans": [
+      "n.f. 饥饿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-063",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "饥饿",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "soif",
+    "trans": [
+      "n.f. 口渴"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-064",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "口渴",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "jus",
+    "trans": [
+      "n.m. 水果、蔬菜的汁，液"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-065",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "水果、蔬菜的汁，液",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "tomate",
+    "trans": [
+      "n.f. 西红柿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-066",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "西红柿",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "orange",
+    "trans": [
+      "n.f. 橙子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-067",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "橙子",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "adorer",
+    "trans": [
+      "v.t. 热爱"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-068",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "热爱",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ravioli",
+    "trans": [
+      "n.m.pl. 饺子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-069",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "饺子",
+    "sourceTags": [
+      "n.m.pl."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "délicieux, se",
+    "trans": [
+      "adj. 美味的；精致的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-070",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "美味的；精致的",
+    "sourceTags": [
+      "adj."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "riz",
+    "trans": [
+      "n.m. 米饭；大米"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-071",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "米饭；大米",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "préférer",
+    "trans": [
+      "v.t. 宁愿，更喜欢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-072",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "宁愿，更喜欢",
+    "sourceTags": [
+      "v.t."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "plat",
+    "trans": [
+      "n.m. 一道菜，一盘菜；盘子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-073",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "一道菜，一盘菜；盘子",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "poulet",
+    "trans": [
+      "n.m. 鸡肉；小鸡"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-074",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "鸡肉；小鸡",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "châtaigne",
+    "trans": [
+      "n.f. 栗子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-075",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "栗子",
+    "sourceTags": [
+      "n.f."
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "poisson",
+    "trans": [
+      "n.m. 鱼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "FR-B1-U07-076",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "鱼",
+    "sourceTags": [
+      "n.m."
+    ],
+    "sourceNotes": ""
+  }
+]

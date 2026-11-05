@@ -1,0 +1,795 @@
+[
+  {
+    "name": "indicar",
+    "trans": [
+      "指出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-001",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "指出",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "camino",
+    "trans": [
+      "路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-002",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "路",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "teléfono",
+    "trans": [
+      "电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-003",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "电话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "llamada",
+    "trans": [
+      "打电话"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-004",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "打电话",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "jamás",
+    "trans": [
+      "愿意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-005",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "愿意",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "desde",
+    "trans": [
+      "从"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-006",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "从",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gato, ta",
+    "trans": [
+      "猫"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-007",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "猫",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "quedar",
+    "trans": [
+      "位于"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-008",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "位于",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "lejos",
+    "trans": [
+      "远"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-009",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "远",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "inmediatamente",
+    "trans": [
+      "马上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-010",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "马上",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dejar",
+    "trans": [
+      "放下；离开；让处于……状态"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-011",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "放下；离开；让处于……状态",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "suficiente",
+    "trans": [
+      "足够的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-012",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "足够的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "espacio",
+    "trans": [
+      "空间，地方"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-013",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "空间，地方",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "dirección",
+    "trans": [
+      "地址；方向"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-014",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "地址；方向",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "por supuesto",
+    "trans": [
+      "当然"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-015",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "当然",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "seguridad",
+    "trans": [
+      "安全；保险"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-016",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "安全；保险",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "móvil (Esp.)",
+    "trans": [
+      "手机（西班牙）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-017",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "手机（西班牙）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "celular (Amer.)",
+    "trans": [
+      "手机（拉美）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-018",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "手机（拉美）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "encender",
+    "trans": [
+      "点燃；打开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-019",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "点燃；打开",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "minuto",
+    "trans": [
+      "分（钟）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-020",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "分（钟）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "fuera",
+    "trans": [
+      "在外面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-021",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "在外面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "hacia",
+    "trans": [
+      "朝……方向"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-022",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "朝……方向",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "izquierda",
+    "trans": [
+      "左面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-023",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "左面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "parada",
+    "trans": [
+      "公共汽车站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-024",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "公共汽车站",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "línea",
+    "trans": [
+      "线路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-025",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "线路",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "correr",
+    "trans": [
+      "跑"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-026",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "跑",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "a ver si",
+    "trans": [
+      "且看是不是"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-027",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "且看是不是",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "alcanzar",
+    "trans": [
+      "赶上"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-028",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "赶上",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "rápido",
+    "trans": [
+      "快"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-029",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "快",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "apearse",
+    "trans": [
+      "下（车等）"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-030",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "下（车等）",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pino",
+    "trans": [
+      "松树"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-031",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "松树",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "estación",
+    "trans": [
+      "（地铁、火车）站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-032",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "（地铁、火车）站",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "nacional",
+    "trans": [
+      "国家级的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-033",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "国家级的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "zona",
+    "trans": [
+      "地区"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-034",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "地区",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "residencial",
+    "trans": [
+      "住宅的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-035",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "住宅的",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "claro",
+    "trans": [
+      "清楚；明亮"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-036",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "清楚；明亮",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "edificio",
+    "trans": [
+      "楼房"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-037",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "楼房",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "creer",
+    "trans": [
+      "相信，认为"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-038",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "相信，认为",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "en todo caso",
+    "trans": [
+      "不管怎样"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-039",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "不管怎样",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "perderse",
+    "trans": [
+      "迷路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-040",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "迷路",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "descuidar",
+    "trans": [
+      "放心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-041",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "放心",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "secretario, ria",
+    "trans": [
+      "秘书"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-042",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "秘书",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "cliente",
+    "trans": [
+      "顾客"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-043",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "顾客",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "señorita",
+    "trans": [
+      "小姐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-044",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "小姐",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "delegación",
+    "trans": [
+      "代表团"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-045",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "代表团",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "entrevista",
+    "trans": [
+      "会见，见面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-046",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "会见，见面",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "gerente",
+    "trans": [
+      "经理"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-047",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "经理",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "oficina",
+    "trans": [
+      "办公室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-048",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "办公室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ascensor",
+    "trans": [
+      "电梯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-049",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "电梯",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "a la derecha",
+    "trans": [
+      "在右边，向右边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-050",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "在右边，向右边",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "avanzar",
+    "trans": [
+      "前进"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-051",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "前进",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "metro",
+    "trans": [
+      "米，公尺"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-052",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "米，公尺",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "pasillo",
+    "trans": [
+      "走廊"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-053",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "走廊",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "sentir",
+    "trans": [
+      "感到；抱歉"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-054",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "感到；抱歉",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "apagar",
+    "trans": [
+      "熄灭，关闭"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-055",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "熄灭，关闭",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "despacho",
+    "trans": [
+      "办公室"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-056",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "办公室",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "duda",
+    "trans": [
+      "疑问"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-057",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "疑问",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "seguir",
+    "trans": [
+      "继续，接着"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-058",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "继续，接着",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "taxi",
+    "trans": [
+      "出租车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-059",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "出租车",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "taxista",
+    "trans": [
+      "出租司机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-060",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "出租司机",
+    "sourceTags": [],
+    "sourceNotes": ""
+  },
+  {
+    "name": "utilizar",
+    "trans": [
+      "使用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "ES-B1-U09-061",
+    "sourceSheet": "B1U9",
+    "sourceMeaning": "使用",
+    "sourceTags": [],
+    "sourceNotes": ""
+  }
+]

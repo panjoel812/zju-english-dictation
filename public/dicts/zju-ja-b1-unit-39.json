@@ -1,0 +1,867 @@
+[
+  {
+    "name": "むら（村）",
+    "trans": [
+      "名 村子，村庄"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-001",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "村子，村庄",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "むら",
+      "村"
+    ],
+    "speech": "むら"
+  },
+  {
+    "name": "いね（稲）",
+    "trans": [
+      "名 稻子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-002",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "稻子",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いね",
+      "稲"
+    ],
+    "speech": "いね"
+  },
+  {
+    "name": "きり（霧）",
+    "trans": [
+      "名 雾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-003",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "雾",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きり",
+      "霧"
+    ],
+    "speech": "きり"
+  },
+  {
+    "name": "もん（門）",
+    "trans": [
+      "名 城门，门，大门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-004",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "城门，门，大门",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "もん",
+      "門"
+    ],
+    "speech": "もん"
+  },
+  {
+    "name": "ぶたい（舞台）",
+    "trans": [
+      "名 舞台"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-005",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "舞台",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぶたい",
+      "舞台"
+    ],
+    "speech": "ぶたい"
+  },
+  {
+    "name": "やね（屋根）",
+    "trans": [
+      "名 屋顶，房顶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-006",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "屋顶，房顶",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やね",
+      "屋根"
+    ],
+    "speech": "やね"
+  },
+  {
+    "name": "るりがわら（瑠璃瓦）",
+    "trans": [
+      "名 琉璃瓦"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-007",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "琉璃瓦",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "るりがわら",
+      "瑠璃瓦"
+    ],
+    "speech": "るりがわら"
+  },
+  {
+    "name": "きいろ（黄色）",
+    "trans": [
+      "名 黄色，黄颜色"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-008",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "黄色，黄颜色",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きいろ",
+      "黄色"
+    ],
+    "speech": "きいろ"
+  },
+  {
+    "name": "そら（空）",
+    "trans": [
+      "名 天空"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-009",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "天空",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "そら",
+      "空"
+    ],
+    "speech": "そら"
+  },
+  {
+    "name": "バック",
+    "trans": [
+      "名 背景"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-010",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "背景",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "かしきり（貸し切り）",
+    "trans": [
+      "名 包租"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-011",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "包租",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かしきり",
+      "貸し切り"
+    ],
+    "speech": "かしきり"
+  },
+  {
+    "name": "いっぱん（一般）",
+    "trans": [
+      "名 一般"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-012",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "一般",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "いっぱん",
+      "一般"
+    ],
+    "speech": "いっぱん"
+  },
+  {
+    "name": "そぼ（祖母）",
+    "trans": [
+      "名 祖母，外婆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-013",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "祖母，外婆",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "そぼ",
+      "祖母"
+    ],
+    "speech": "そぼ"
+  },
+  {
+    "name": "おんがくかい（音楽会）",
+    "trans": [
+      "名 音乐会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-014",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "音乐会",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おんがくかい",
+      "音楽会"
+    ],
+    "speech": "おんがくかい"
+  },
+  {
+    "name": "ジャズ",
+    "trans": [
+      "名 爵士乐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-015",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "爵士乐",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "やがいコンサート（野外コンサート）",
+    "trans": [
+      "名 露天音乐会"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-016",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "露天音乐会",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "やがいコンサート",
+      "野外コンサート"
+    ],
+    "speech": "やがいコンサート"
+  },
+  {
+    "name": "えんだか（円高）",
+    "trans": [
+      "名 日元升值"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-017",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "日元升值",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "えんだか",
+      "円高"
+    ],
+    "speech": "えんだか"
+  },
+  {
+    "name": "ゆしゅつ（輸出）",
+    "trans": [
+      "名 出口，输出"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-018",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "出口，输出",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ゆしゅつ",
+      "輸出"
+    ],
+    "speech": "ゆしゅつ"
+  },
+  {
+    "name": "えいきょう（影響）",
+    "trans": [
+      "名 影响"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-019",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "影响",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "えいきょう",
+      "影響"
+    ],
+    "speech": "えいきょう"
+  },
+  {
+    "name": "しげん（資源）",
+    "trans": [
+      "名 资源"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-020",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "资源",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しげん",
+      "資源"
+    ],
+    "speech": "しげん"
+  },
+  {
+    "name": "きおん（気温）",
+    "trans": [
+      "名 气温"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-021",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "气温",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "きおん",
+      "気温"
+    ],
+    "speech": "きおん"
+  },
+  {
+    "name": "おき（沖）",
+    "trans": [
+      "名 海上，湖心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-022",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "海上，湖心",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "おき",
+      "沖"
+    ],
+    "speech": "おき"
+  },
+  {
+    "name": "かいがい（海外）",
+    "trans": [
+      "名 海外"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-023",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "海外",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "かいがい",
+      "海外"
+    ],
+    "speech": "かいがい"
+  },
+  {
+    "name": "クジラ",
+    "trans": [
+      "名 鲸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-024",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "鲸",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "サメ",
+    "trans": [
+      "名 鲨鱼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-025",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "鲨鱼",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ユーフォー（UFO）",
+    "trans": [
+      "名 不明飞行物"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-026",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "不明飞行物",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ユーフォー",
+      "UFO"
+    ],
+    "speech": "ユーフォー"
+  },
+  {
+    "name": "むかし（昔）",
+    "trans": [
+      "名 以前"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-027",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "以前",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "むかし",
+      "昔"
+    ],
+    "speech": "むかし"
+  },
+  {
+    "name": "べつめい（別名）",
+    "trans": [
+      "名 别名"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-028",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "别名",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "べつめい",
+      "別名"
+    ],
+    "speech": "べつめい"
+  },
+  {
+    "name": "ほう（方）",
+    "trans": [
+      "名 方，方面"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-029",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "方，方面",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ほう",
+      "方"
+    ],
+    "speech": "ほう"
+  },
+  {
+    "name": "どうろこうじ（道路工事）",
+    "trans": [
+      "名 道路施工"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-030",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "道路施工",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "どうろこうじ",
+      "道路工事"
+    ],
+    "speech": "どうろこうじ"
+  },
+  {
+    "name": "つうきんラッシュ（通勤ラッシュ）",
+    "trans": [
+      "名 上下班高峰"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-031",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "上下班高峰",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つうきんラッシュ",
+      "通勤ラッシュ"
+    ],
+    "speech": "つうきんラッシュ"
+  },
+  {
+    "name": "つうこうきんし（通行禁止）",
+    "trans": [
+      "名 禁止通行"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-032",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "禁止通行",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つうこうきんし",
+      "通行禁止"
+    ],
+    "speech": "つうこうきんし"
+  },
+  {
+    "name": "とおく（遠く）",
+    "trans": [
+      "名 远处，远方"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-033",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "远处，远方",
+    "sourceTags": [
+      "名"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "とおく",
+      "遠く"
+    ],
+    "speech": "とおく"
+  },
+  {
+    "name": "みわたします（見渡します）",
+    "trans": [
+      "动1 眺望，远眺"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-034",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "眺望，远眺",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "みわたします",
+      "見渡します"
+    ],
+    "speech": "みわたします"
+  },
+  {
+    "name": "つづきます（続きます）",
+    "trans": [
+      "动1 继续，持续"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-035",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "继续，持续",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つづきます",
+      "続きます"
+    ],
+    "speech": "つづきます"
+  },
+  {
+    "name": "なくなります",
+    "trans": [
+      "动1 完，丢失"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-036",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "完，丢失",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "そだちます（育ちます）",
+    "trans": [
+      "动1 生长，成长"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-037",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "生长，成长",
+    "sourceTags": [
+      "动1"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "そだちます",
+      "育ちます"
+    ],
+    "speech": "そだちます"
+  },
+  {
+    "name": "ふえます（増えます）",
+    "trans": [
+      "动2 增加，增多"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-038",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "增加，增多",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ふえます",
+      "増えます"
+    ],
+    "speech": "ふえます"
+  },
+  {
+    "name": "つれます（連れます）",
+    "trans": [
+      "动2 带，领"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-039",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "带，领",
+    "sourceTags": [
+      "动2"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "つれます",
+      "連れます"
+    ],
+    "speech": "つれます"
+  },
+  {
+    "name": "けっせきします（欠席します）",
+    "trans": [
+      "动3 缺席"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-040",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "缺席",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "けっせきします",
+      "欠席します"
+    ],
+    "speech": "けっせきします"
+  },
+  {
+    "name": "ゆにゅうします（輸入します）",
+    "trans": [
+      "动3 进口，输入"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-041",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "进口，输入",
+    "sourceTags": [
+      "动3"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ゆにゅうします",
+      "輸入します"
+    ],
+    "speech": "ゆにゅうします"
+  },
+  {
+    "name": "せっかく",
+    "trans": [
+      "副 好（不）容易，特意"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-042",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "好（不）容易，特意",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "ぜったい（絶対）",
+    "trans": [
+      "副 绝对，一定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-043",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "绝对，一定",
+    "sourceTags": [
+      "副"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "ぜったい",
+      "絶対"
+    ],
+    "speech": "ぜったい"
+  },
+  {
+    "name": "そうそう",
+    "trans": [
+      "叹 是的是的"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-044",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "是的是的",
+    "sourceTags": [
+      "叹"
+    ],
+    "sourceNotes": ""
+  },
+  {
+    "name": "しきんじょう（紫禁城）",
+    "trans": [
+      "专 紫禁城"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "JA-DEFAULT-U39-045",
+    "sourceSheet": "B1U39",
+    "sourceMeaning": "紫禁城",
+    "sourceTags": [
+      "专"
+    ],
+    "sourceNotes": "",
+    "acceptedAnswers": [
+      "しきんじょう",
+      "紫禁城"
+    ],
+    "speech": "しきんじょう"
+  }
+]

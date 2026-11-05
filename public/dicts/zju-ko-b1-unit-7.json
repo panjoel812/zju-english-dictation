@@ -1,0 +1,1523 @@
+[
+  {
+    "name": "남자",
+    "trans": [
+      "男人"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-001",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "男人",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "실례",
+    "trans": [
+      "打扰一下，劳驾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-002",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "打扰一下，劳驾",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "길",
+    "trans": [
+      "路，街"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-003",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "路，街",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "묻다",
+    "trans": [
+      "询问"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-004",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "询问",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "찾다",
+    "trans": [
+      "找"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-005",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "找",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "아파트",
+    "trans": [
+      "公寓"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-006",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "公寓",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "번",
+    "trans": [
+      "号"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-007",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "号",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "출구",
+    "trans": [
+      "出口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-008",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "出口",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "왼쪽",
+    "trans": [
+      "左边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-009",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "左边",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "이쪽",
+    "trans": [
+      "这边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-010",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "这边",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "그쪽",
+    "trans": [
+      "那边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-011",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "那边",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "저쪽",
+    "trans": [
+      "那边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-012",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "那边",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "오른쪽",
+    "trans": [
+      "右边"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-013",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "右边",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "건너다",
+    "trans": [
+      "过(路，桥)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-014",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "过(路，桥)",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "횡단보도",
+    "trans": [
+      "人行横道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-015",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "人行横道",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "육교",
+    "trans": [
+      "天桥"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-016",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "天桥",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "지하도",
+    "trans": [
+      "地下通道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-017",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "地下通道",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "층",
+    "trans": [
+      "层"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-018",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "层",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "샌드위치",
+    "trans": [
+      "三明治"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-019",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "三明治",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "호텔",
+    "trans": [
+      "饭店，宾馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-020",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "饭店，宾馆",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "신문사",
+    "trans": [
+      "报社"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-021",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "报社",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "미술관",
+    "trans": [
+      "美术馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-022",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "美术馆",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "대사관",
+    "trans": [
+      "大使馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-023",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "大使馆",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "똑바로",
+    "trans": [
+      "直"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-024",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "直",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "나오다",
+    "trans": [
+      "出来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-025",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "出来",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "동문",
+    "trans": [
+      "东门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-026",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "东门",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "북문",
+    "trans": [
+      "北门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-027",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "北门",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "서문",
+    "trans": [
+      "西门"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-028",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "西门",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "기숙사",
+    "trans": [
+      "宿舍"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-029",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "宿舍",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "오피스텔",
+    "trans": [
+      "商务楼"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-030",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "商务楼",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "원룸",
+    "trans": [
+      "套房，一居室住宅"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-031",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "套房，一居室住宅",
+    "sourceTags": [],
+    "sourceNotes": "실례지만 길 좀 묻겠습니다"
+  },
+  {
+    "name": "얼마나",
+    "trans": [
+      "多少，多久"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-032",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "多少，多久",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "걸리다",
+    "trans": [
+      "需要，消耗(时间)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-033",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "需要，消耗(时间)",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "호선",
+    "trans": [
+      "线路"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-034",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "线路",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "교통",
+    "trans": [
+      "交通"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-035",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "交通",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "지하철",
+    "trans": [
+      "地铁"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-036",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "地铁",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "버스",
+    "trans": [
+      "巴士，公交"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-037",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "巴士，公交",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "시내버스",
+    "trans": [
+      "市内公交"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-038",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "市内公交",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "고속버스",
+    "trans": [
+      "高速公交"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-039",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "高速公交",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "마을버스",
+    "trans": [
+      "乡下公交"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-040",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "乡下公交",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "택시",
+    "trans": [
+      "出租车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-041",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "出租车",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "일반택시",
+    "trans": [
+      "普通出租车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-042",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "普通出租车",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "모범택시",
+    "trans": [
+      "模范出租车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-043",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "模范出租车",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "자동차",
+    "trans": [
+      "汽车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-044",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "汽车",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "기차",
+    "trans": [
+      "火车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-045",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "火车",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "자전거",
+    "trans": [
+      "自行车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-046",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "自行车",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "비행기",
+    "trans": [
+      "飞机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-047",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "飞机",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "배",
+    "trans": [
+      "船"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-048",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "船",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "동대문 운동장",
+    "trans": [
+      "东大门运动场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-049",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "东大门运动场",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "부산",
+    "trans": [
+      "釜山"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-050",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "釜山",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "베트남",
+    "trans": [
+      "越南"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-051",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "越南",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "비디요",
+    "trans": [
+      "视频，录像机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-052",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "视频，录像机",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "이메일",
+    "trans": [
+      "电子邮件"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-053",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "电子邮件",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "연락",
+    "trans": [
+      "联系"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-054",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "联系",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "젓가락",
+    "trans": [
+      "筷子"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-055",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "筷子",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "늦다",
+    "trans": [
+      "晚"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-056",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "晚",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "밀리다",
+    "trans": [
+      "堵车，堆积"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-057",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "堵车，堆积",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "바쁘다",
+    "trans": [
+      "忙"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-058",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "忙",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "아르바이트",
+    "trans": [
+      "兼职"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-059",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "兼职",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "머리",
+    "trans": [
+      "头"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-060",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "头",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "호수",
+    "trans": [
+      "湖水"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-061",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "湖水",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "빨리",
+    "trans": [
+      "快"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-062",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "快",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "자리",
+    "trans": [
+      "座位"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-063",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "座位",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "오래",
+    "trans": [
+      "久"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-064",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "久",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "곳",
+    "trans": [
+      "地方"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-065",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "地方",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "교통수단",
+    "trans": [
+      "交通工具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-066",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "交通工具",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "떠나다",
+    "trans": [
+      "离开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-067",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "离开",
+    "sourceTags": [],
+    "sourceNotes": "지하철로 40분쯤 걸립니다"
+  },
+  {
+    "name": "앉다",
+    "trans": [
+      "坐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-068",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "坐",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "비키다",
+    "trans": [
+      "让开"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-069",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "让开",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "조심하다",
+    "trans": [
+      "小心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-070",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "小心",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "역",
+    "trans": [
+      "站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-071",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "站",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "공항",
+    "trans": [
+      "机场"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-072",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "机场",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "고속버스 터미널",
+    "trans": [
+      "高速巴士客运站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-073",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "高速巴士客运站",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "타다",
+    "trans": [
+      "乘坐"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-074",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "乘坐",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "내리다",
+    "trans": [
+      "下来"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-075",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "下来",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "갈아타다",
+    "trans": [
+      "换乘"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-076",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "换乘",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "도착하다",
+    "trans": [
+      "到达"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-077",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "到达",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "교통편",
+    "trans": [
+      "交通工具"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-078",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "交通工具",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "여관",
+    "trans": [
+      "旅馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-079",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "旅馆",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "민박",
+    "trans": [
+      "民宿"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-080",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "民宿",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "펜션",
+    "trans": [
+      "简易旅馆"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-081",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "简易旅馆",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "콘도",
+    "trans": [
+      "共管式公寓"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-082",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "共管式公寓",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "회",
+    "trans": [
+      "生鱼片"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-083",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "生鱼片",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "만지다",
+    "trans": [
+      "摸"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-084",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "摸",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "찍다",
+    "trans": [
+      "拍照"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-085",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "拍照",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "담배",
+    "trans": [
+      "烟"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-086",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "烟",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "피우다",
+    "trans": [
+      "吸，抽(烟)"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-087",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "吸，抽(烟)",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "주차하다",
+    "trans": [
+      "停车"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-088",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "停车",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "떠들다",
+    "trans": [
+      "吵闹"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-089",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "吵闹",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "지각하다",
+    "trans": [
+      "迟到"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-090",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "迟到",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "게임",
+    "trans": [
+      "游戏"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-091",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "游戏",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "모르다",
+    "trans": [
+      "不知道"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-092",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "不知道",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "가르치다",
+    "trans": [
+      "教"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-093",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "教",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "안내 방송",
+    "trans": [
+      "广播"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-094",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "广播",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "걱정하다",
+    "trans": [
+      "担心"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-095",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "担心",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "실례하다",
+    "trans": [
+      "劳驾"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-096",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "劳驾",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "비용",
+    "trans": [
+      "费用"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-097",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "费用",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "기타",
+    "trans": [
+      "其他"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-098",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "其他",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "정류장",
+    "trans": [
+      "车站，站"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-099",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "车站，站",
+    "sourceTags": [],
+    "sourceNotes": "사람이 많으니까 조심하세요"
+  },
+  {
+    "name": "기사",
+    "trans": [
+      "司机"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-100",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "司机",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "걷다",
+    "trans": [
+      "走"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-101",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "走",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "세우다",
+    "trans": [
+      "停"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-102",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "停",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "들어가다",
+    "trans": [
+      "进去"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-103",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "进去",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "출발하다",
+    "trans": [
+      "出发"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-104",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "出发",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "도착하다",
+    "trans": [
+      "到达"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-105",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "到达",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "사거리",
+    "trans": [
+      "十字路口"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-106",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "十字路口",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "신호등",
+    "trans": [
+      "红绿灯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-107",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "红绿灯",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "직진",
+    "trans": [
+      "直走"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-108",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "直走",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "좌회전",
+    "trans": [
+      "左转弯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-109",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "左转弯",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "우회전",
+    "trans": [
+      "右转弯"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-110",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "右转弯",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "고르다",
+    "trans": [
+      "选"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-111",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "选",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "빠르다",
+    "trans": [
+      "快"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-112",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "快",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "모시다",
+    "trans": [
+      "陪[敬]"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-113",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "陪[敬]",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "다왔습니다",
+    "trans": [
+      "快到了"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-114",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "快到了",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "동",
+    "trans": [
+      "栋，座，幢"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-115",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "栋，座，幢",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "약속",
+    "trans": [
+      "约定"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-116",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "约定",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  },
+  {
+    "name": "차",
+    "trans": [
+      "茶"
+    ],
+    "usphone": "",
+    "ukphone": "",
+    "sourceId": "KO-B1-U07-117",
+    "sourceSheet": "B1U07",
+    "sourceMeaning": "茶",
+    "sourceTags": [],
+    "sourceNotes": "과일 가게 앞에 세워 주세요"
+  }
+]

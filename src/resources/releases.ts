@@ -29,7 +29,7 @@ export function acknowledgeCurrentRelease() {
 
 export const currentReleaseNotes = [
   {
-    title: 'Lexi · 六种小语种课程',
+    title: 'CED · 六种小语种课程',
     description:
       '新增德语、西班牙语、法语、日语、韩语、俄语共 7,914 条词条、125 个单元；词库页按语言、B 编号和 Unit 选择。原有英语词库和练习记录保留。',
   },

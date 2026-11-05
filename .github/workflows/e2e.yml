@@ -1,4 +1,4 @@
-name: Lexi CI
+name: CED CI
 
 on:
   workflow_dispatch:

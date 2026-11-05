@@ -6,7 +6,7 @@ const Header: React.FC<PropsWithChildren<{ actions?: ReactNode }>> = ({ children
   <header className="container relative z-30 mx-auto w-full px-3 py-3 sm:px-6 sm:py-5 lg:px-10 lg:py-6">
     <div className="flex w-full flex-col items-stretch justify-between gap-3 xl:flex-row xl:items-center xl:gap-6">
       <NavLink className="shrink-0 text-xl font-bold text-indigo-500 no-underline hover:no-underline sm:text-2xl xl:text-3xl" to="/">
-        <h1>Lexi</h1>
+        <h1>CED</h1>
       </NavLink>
       <nav
         aria-label="练习导航"

@@ -1,0 +1,530 @@
+[
+  {
+    "name": "advent",
+    "trans": [
+      "n. [sing.] （新产品、新思想等的）出现"
+    ]
+  },
+  {
+    "name": "density",
+    "trans": [
+      "n. [C, U] 密度"
+    ]
+  },
+  {
+    "name": "deplete",
+    "trans": [
+      "vt. 损耗；减少"
+    ]
+  },
+  {
+    "name": "deploy",
+    "trans": [
+      "vt.; v. 有效运用 ／ 部署，调度（士兵、装备）"
+    ]
+  },
+  {
+    "name": "distribution",
+    "trans": [
+      "n. [U] 分发；分配"
+    ]
+  },
+  {
+    "name": "facilitate",
+    "trans": [
+      "vt. 促进；使便利"
+    ]
+  },
+  {
+    "name": "interaction",
+    "trans": [
+      "n. [C, U] 交流；交往 ／ 相互影响；相互作用"
+    ]
+  },
+  {
+    "name": "irrigation",
+    "trans": [
+      "n. [U] 灌溉"
+    ]
+  },
+  {
+    "name": "malleable",
+    "trans": [
+      "a. 易受影响的、可塑的 ／（金属）有延展性的，可锻压的"
+    ]
+  },
+  {
+    "name": "relocate",
+    "trans": [
+      "v. 迁移；搬迁；重新安置"
+    ]
+  },
+  {
+    "name": "renewable",
+    "trans": [
+      "a. （能源和自然资源）可再生的"
+    ]
+  },
+  {
+    "name": "residence",
+    "trans": [
+      "n. [C] 住宅"
+    ]
+  },
+  {
+    "name": "sanitation",
+    "trans": [
+      "n. [U] 公共卫生；环境卫生"
+    ]
+  },
+  {
+    "name": "settlement",
+    "trans": [
+      "n. [C, U] 定居地；定居 ／（解决争端的）协议"
+    ]
+  },
+  {
+    "name": "specialized",
+    "trans": [
+      "a. 专门的；专用的"
+    ]
+  },
+  {
+    "name": "sustainable",
+    "trans": [
+      "a. 可持续的；不破坏环境的"
+    ]
+  },
+  {
+    "name": "vertically",
+    "trans": [
+      "ad. 竖直地；垂直地；立式地"
+    ]
+  },
+  {
+    "name": "administrative",
+    "trans": [
+      "a. 管理的；行政的"
+    ]
+  },
+  {
+    "name": "anecdote",
+    "trans": [
+      "n. [C] 趣闻；轶事"
+    ]
+  },
+  {
+    "name": "array",
+    "trans": [
+      "n. [C, usu. sing.] 大群；大堆；大量"
+    ]
+  },
+  {
+    "name": "auxiliary",
+    "trans": [
+      "a. 辅助的"
+    ]
+  },
+  {
+    "name": "census",
+    "trans": [
+      "n. [C] 人口普查"
+    ]
+  },
+  {
+    "name": "coastal",
+    "trans": [
+      "a. 位于海岸的；沿海的"
+    ]
+  },
+  {
+    "name": "counteract",
+    "trans": [
+      "vt. 抵消；对抗"
+    ]
+  },
+  {
+    "name": "discourse",
+    "trans": [
+      "n. [U], [C] （严肃的）交谈，谈话 ／（某主题的）演讲，论述"
+    ]
+  },
+  {
+    "name": "flexibility",
+    "trans": [
+      "n. [U] 灵活性；可变通性"
+    ]
+  },
+  {
+    "name": "foster",
+    "trans": [
+      "vt. 鼓励；促进；培养"
+    ]
+  },
+  {
+    "name": "governance",
+    "trans": [
+      "n. [U] 管理；管理方法"
+    ]
+  },
+  {
+    "name": "grass roots",
+    "trans": [
+      "a.; n. [pl.] 基层的；民众的；草根的 ／ 基层民众；平民百姓"
+    ]
+  },
+  {
+    "name": "grid",
+    "trans": [
+      "n. [C] 网格；方格 ／ 金属格栅"
+    ]
+  },
+  {
+    "name": "heartening",
+    "trans": [
+      "a. 令人振奋的"
+    ]
+  },
+  {
+    "name": "implementation",
+    "trans": [
+      "n. [U] （计划、系统的）实施，执行"
+    ]
+  },
+  {
+    "name": "indicator",
+    "trans": [
+      "n. [C] 指标；指示物"
+    ]
+  },
+  {
+    "name": "influx",
+    "trans": [
+      "n. [C] 大量涌入"
+    ]
+  },
+  {
+    "name": "initiative",
+    "trans": [
+      "n. [C], [U] 倡议；新措施 ／ 自主决断的能力；主动性"
+    ]
+  },
+  {
+    "name": "integration",
+    "trans": [
+      "n. [U] 整合，结合"
+    ]
+  },
+  {
+    "name": "megacity",
+    "trans": [
+      "n. [C] （人口超 1,000 万的）大城市，特大城市"
+    ]
+  },
+  {
+    "name": "metropolis",
+    "trans": [
+      "n. [C] 大城市；大都市"
+    ]
+  },
+  {
+    "name": "mobilize",
+    "trans": [
+      "vt. 组织；动员；调动"
+    ]
+  },
+  {
+    "name": "mosaic",
+    "trans": [
+      "n. [C, usu. sing.], [C, U] 镶嵌画般的东西；拼嵌物；组合体 ／ 马赛克；镶嵌图案"
+    ]
+  },
+  {
+    "name": "occupational",
+    "trans": [
+      "a. 职业的；工作的；由职业引起的"
+    ]
+  },
+  {
+    "name": "patrol",
+    "trans": [
+      "vt. 巡查；巡逻"
+    ]
+  },
+  {
+    "name": "poised",
+    "trans": [
+      "a. 准备就绪的 ／（摆好姿势）准备行动的"
+    ]
+  },
+  {
+    "name": "proactive",
+    "trans": [
+      "a. 主动的；积极的"
+    ]
+  },
+  {
+    "name": "prosperity",
+    "trans": [
+      "n. [U] 兴隆；昌盛；繁荣"
+    ]
+  },
+  {
+    "name": "residential",
+    "trans": [
+      "a. 居住的；定居的"
+    ]
+  },
+  {
+    "name": "resilient",
+    "trans": [
+      "a. 有复原力的；适应力强的"
+    ]
+  },
+  {
+    "name": "resonate",
+    "trans": [
+      "vi. 引起共鸣"
+    ]
+  },
+  {
+    "name": "roll-out",
+    "trans": [
+      "n. [C, U] 正式推出；首次展示"
+    ]
+  },
+  {
+    "name": "suspicious",
+    "trans": [
+      "a. 可疑的、引起怀疑的 ／ 怀疑的、猜疑的"
+    ]
+  },
+  {
+    "name": "testament",
+    "trans": [
+      "n. [C] 是…的证据；是…的证明"
+    ]
+  },
+  {
+    "name": "align",
+    "trans": [
+      "vt. 使一致 ／ 公开支持；与…结盟"
+    ]
+  },
+  {
+    "name": "amenity",
+    "trans": [
+      "n. [C, usu. pl.] 便利设施；生活设施"
+    ]
+  },
+  {
+    "name": "circumscribed",
+    "trans": [
+      "a. 限制的"
+    ]
+  },
+  {
+    "name": "constantly",
+    "trans": [
+      "ad. 总是；经常地；不断地"
+    ]
+  },
+  {
+    "name": "demographics",
+    "trans": [
+      "n. [pl.] 人口统计数据；人口统计资料"
+    ]
+  },
+  {
+    "name": "departure",
+    "trans": [
+      "n. [C, U] 离开；启程；出发"
+    ]
+  },
+  {
+    "name": "devolve",
+    "trans": [
+      "v. 下放（权力）；移交（职责）"
+    ]
+  },
+  {
+    "name": "dynamism",
+    "trans": [
+      "n. [U] 活力"
+    ]
+  },
+  {
+    "name": "envision",
+    "trans": [
+      "vt. 设想；想象；展望"
+    ]
+  },
+  {
+    "name": "far-flung",
+    "trans": [
+      "a. 遥远的"
+    ]
+  },
+  {
+    "name": "gentry",
+    "trans": [
+      "n. [pl.] （尤指旧时的）上流社会人士，绅士阶层"
+    ]
+  },
+  {
+    "name": "geographic",
+    "trans": [
+      "a. 地理的；地理学的"
+    ]
+  },
+  {
+    "name": "influential",
+    "trans": [
+      "a. 有影响力的"
+    ]
+  },
+  {
+    "name": "isochrone",
+    "trans": [
+      "n. [C] 等时线"
+    ]
+  },
+  {
+    "name": "luxurious",
+    "trans": [
+      "a. 豪华的；华丽舒适的"
+    ]
+  },
+  {
+    "name": "mobility",
+    "trans": [
+      "n. [U] 活动性；流动性"
+    ]
+  },
+  {
+    "name": "momentum",
+    "trans": [
+      "n. [U] 动力；势头"
+    ]
+  },
+  {
+    "name": "originate",
+    "trans": [
+      "vi. 起源；发源；开始"
+    ]
+  },
+  {
+    "name": "outgrowth",
+    "trans": [
+      "n. [C] 产物；发展结果"
+    ]
+  },
+  {
+    "name": "overhaul",
+    "trans": [
+      "n. [C] 彻底改革 ／（对机器等的）大检修"
+    ]
+  },
+  {
+    "name": "proponent",
+    "trans": [
+      "n. [C] 支持者；拥护者；提倡者"
+    ]
+  },
+  {
+    "name": "proverbial",
+    "trans": [
+      "a. 谚语的；俗话所说的"
+    ]
+  },
+  {
+    "name": "radius",
+    "trans": [
+      "n. [C] （圆的）半径（长度）"
+    ]
+  },
+  {
+    "name": "self-contained",
+    "trans": [
+      "a. 独立自足的"
+    ]
+  },
+  {
+    "name": "sprawling",
+    "trans": [
+      "a. 杂乱延伸的；无计划扩展的"
+    ]
+  },
+  {
+    "name": "substantially",
+    "trans": [
+      "ad. 在很大程度上"
+    ]
+  },
+  {
+    "name": "suburban",
+    "trans": [
+      "a. 城郊的；近郊的"
+    ]
+  },
+  {
+    "name": "tight-knit",
+    "trans": [
+      "a. 组织有序的"
+    ]
+  },
+  {
+    "name": "urbanist",
+    "trans": [
+      "n. [C] 城市规划专家；城镇规划设计师"
+    ]
+  },
+  {
+    "name": "vocal",
+    "trans": [
+      "a. 直言不讳的；大声表达的"
+    ]
+  },
+  {
+    "name": "by extension",
+    "trans": [
+      "自然地，当然地（用于提及另一件与之自然相关的事物）"
+    ]
+  },
+  {
+    "name": "in search of",
+    "trans": [
+      "寻找"
+    ]
+  },
+  {
+    "name": "draw on",
+    "trans": [
+      "利用，依赖（信息或知识）"
+    ]
+  },
+  {
+    "name": "akin to",
+    "trans": [
+      "与…类似"
+    ]
+  },
+  {
+    "name": "by definition",
+    "trans": [
+      "根据定义；必然"
+    ]
+  },
+  {
+    "name": "in lieu of",
+    "trans": [
+      "代替"
+    ]
+  },
+  {
+    "name": "strike out",
+    "trans": [
+      "（朝某方向）坚定地走去（游去）／ 突然攻击；猛烈抨击"
+    ]
+  }
+]

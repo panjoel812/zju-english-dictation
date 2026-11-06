@@ -1,6 +1,7 @@
 import DictionaryGroup from './CategoryDicts'
 import DictTagSwitcher from './DictTagSwitcher'
 import { LanguageTabSwitcher } from './LanguageTabSwitcher'
+import UploadDictionaryPlaceholder from './UploadDictionaryPlaceholder'
 import Layout from '@/components/Layout'
 import { Tabs, TabsContent } from '@/components/ui/tabs'
 import { dictionaries } from '@/resources/dictionary'
@@ -32,6 +33,7 @@ const categories = [
   { name: '浙江大学英语III', includes: (dict: Dictionary) => dict.id.startsWith('zju-english-3-') },
   { name: '浙江大学英语IV', includes: (dict: Dictionary) => dict.id.startsWith('zju-english-4-') },
   { name: 'Book1', includes: (dict: Dictionary) => dict.id.startsWith('zju-english-book1-') },
+  { name: '浙大新文科英语', includes: (dict: Dictionary) => dict.id.startsWith('zju-liberal-arts-') },
   { name: '浙大新工科英语', includes: (dict: Dictionary) => dict.id.startsWith('zju-english-engineering-') },
   { name: '四六级', includes: (dict: Dictionary) => ['cet4', 'cet6'].includes(dict.id) },
   { name: '雅思托福', includes: (dict: Dictionary) => ['ielts', 'toefl'].includes(dict.id) },
@@ -78,15 +80,18 @@ export default function GalleryPage() {
         <div className="mx-auto flex w-full min-w-0 max-w-6xl flex-1 flex-col px-4 py-8 sm:px-8 sm:py-12">
           <div className="mb-6 flex items-center justify-between gap-4">
             <LanguageTabSwitcher />
-            <button
-              type="button"
-              aria-label="返回练习"
-              title="返回练习"
-              className="flex h-11 w-11 shrink-0 items-center justify-center rounded-md text-gray-400 hover:text-gray-600 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 dark:hover:text-gray-200"
-              onClick={onBack}
-            >
-              <IconX className="h-6 w-6" />
-            </button>
+            <div className="flex shrink-0 items-center gap-2">
+              <UploadDictionaryPlaceholder />
+              <button
+                type="button"
+                aria-label="返回练习"
+                title="返回练习"
+                className="flex h-11 w-11 shrink-0 items-center justify-center rounded-md text-gray-400 hover:text-gray-600 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 dark:hover:text-gray-200"
+                onClick={onBack}
+              >
+                <IconX className="h-6 w-6" />
+              </button>
+            </div>
           </div>
           <Tabs value={activeCategory} onValueChange={setCurrentCategory} className="w-full min-w-0">
             <DictTagSwitcher label="词库分类" tagList={dictionaryGroups.map((group) => group.name)} currentTag={activeCategory} />

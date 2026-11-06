@@ -71,6 +71,7 @@
     "test:theme-defaults": "node scripts/check-theme-defaults.mjs",
     "test:release-settings": "node scripts/check-release-settings.mjs",
     "test:gallery": "node scripts/check-gallery.mjs",
+    "import:liberal-arts": "node scripts/import-liberal-arts.mjs",
     "test:book1": "node scripts/check-book1.mjs",
     "test:engineering": "node --test scripts/import-engineering.test.mjs scripts/restore-zju-pos.test.mjs",
     "screenshots:readme": "node scripts/capture-readme.mjs",

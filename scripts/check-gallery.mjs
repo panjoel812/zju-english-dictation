@@ -4,7 +4,7 @@ import assert from 'node:assert/strict'
 const baseURL = process.env.TEST_URL || 'http://127.0.0.1:5174'
 const browser = await chromium.launch({ channel: process.env.BROWSER_CHANNEL || 'chrome', headless: true })
 const failures = []
-const categories = ['浙江大学英语III', '浙江大学英语IV', 'Book1', '浙大新工科英语', '四六级', '雅思托福']
+const categories = ['浙江大学英语III', '浙江大学英语IV', 'Book1', '浙大新文科英语', '浙大新工科英语', '四六级', '雅思托福']
 const cards = (page) =>
   page
     .getByRole('main')
@@ -65,6 +65,7 @@ try {
 
   for (const [category, count, prefix, suffixes] of [
     ['浙江大学英语III', 2, '浙江大学英语III', [' Reading 1', ' Reading 2']],
+    ['浙大新文科英语', 1, '浙大新文科英语', ['']],
     ['浙江大学英语IV', 1, '浙江大学英语IV', ['']],
     ['浙大新工科英语', 3, '新工科英语', [' Viewing', ' Reading 1', ' Reading 2']],
   ]) {

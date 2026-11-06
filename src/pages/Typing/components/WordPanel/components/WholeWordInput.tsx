@@ -62,8 +62,8 @@ export default function WholeWordInput({
           isLengthHidden
             ? undefined
             : ({
-                // Include 8px padding and 1px for per-letter subpixel rounding.
-                width: `calc(${Math.max(prompt.length, 1)}ch + 9px)`,
+                // Full-width characters such as Japanese kana need up to 1em each.
+                width: `calc(${Math.max(prompt.length, 1)}em + 9px)`,
                 '--word-font-size': `${fontSizeConfig.foreignFont}px`,
               } as CSSProperties)
         }

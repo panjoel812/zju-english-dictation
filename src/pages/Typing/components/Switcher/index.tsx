@@ -10,12 +10,15 @@ import { CTRL } from '@/utils'
 import { useAtom, useAtomValue } from 'jotai'
 import { useContext } from 'react'
 import { useHotkeys } from 'react-hotkeys-hook'
+import { Link } from 'react-router-dom'
 import IconMoon from '~icons/heroicons/moon-solid'
 import IconSun from '~icons/heroicons/sun-solid'
+import IconClipboardList from '~icons/tabler/clipboard-list'
 import IconLanguage from '~icons/tabler/language'
 import IconLanguageOff from '~icons/tabler/language-off'
 
 export default function Switcher() {
+  const isQuizAvailable = import.meta.env.DEV
   const [isOpenDarkMode, setIsOpenDarkMode] = useAtom(isOpenDarkModeAtom)
   const [, setDictationConfig] = useAtom(wordDictationConfigAtom)
   const wholeWordMode = useAtomValue(effectiveWholeWordModeAtom)
@@ -61,6 +64,24 @@ export default function Switcher() {
         </button>
       </Tooltip>
       <WordList />
+      <Tooltip content={isQuizAvailable ? '小测专题' : '敬请期待'}>
+        {isQuizAvailable ? (
+          <Link to="/quiz" className="toolbar-button" aria-label="小测专题">
+            <IconClipboardList />
+          </Link>
+        ) : (
+          <button
+            type="button"
+            disabled
+            title="敬请期待"
+            aria-label="小测专题（敬请期待）"
+            className="toolbar-button w-auto min-w-[88px] gap-1 whitespace-nowrap bg-gray-100 px-2 text-sm text-gray-400 disabled:cursor-not-allowed dark:bg-gray-700 dark:text-gray-500"
+          >
+            <IconClipboardList />
+            <span className="text-xs font-medium">敬请期待</span>
+          </button>
+        )}
+      </Tooltip>
       <Tooltip content="错题本">
         <ErrorBookButton />
       </Tooltip>

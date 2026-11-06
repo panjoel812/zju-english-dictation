@@ -1,0 +1,608 @@
+[
+  {
+    "name": "alloy",
+    "trans": [
+      "n. [C, U] 合金"
+    ]
+  },
+  {
+    "name": "biodegrade",
+    "trans": [
+      "v. 生物降解；经生物分解"
+    ]
+  },
+  {
+    "name": "circular",
+    "trans": [
+      "a. 循环的；环形的"
+    ]
+  },
+  {
+    "name": "compostable",
+    "trans": [
+      "a. 可用作堆肥的"
+    ]
+  },
+  {
+    "name": "cyclical",
+    "trans": [
+      "a. 循环的；周期的"
+    ]
+  },
+  {
+    "name": "disassemble",
+    "trans": [
+      "vt. 拆开；拆卸"
+    ]
+  },
+  {
+    "name": "finite",
+    "trans": [
+      "a. 有限的；有限度的"
+    ]
+  },
+  {
+    "name": "landfill",
+    "trans": [
+      "n. [C] 废弃物填埋场"
+    ]
+  },
+  {
+    "name": "manufacturer",
+    "trans": [
+      "n. [C] 制造商；制造公司；制造厂"
+    ]
+  },
+  {
+    "name": "nutrient",
+    "trans": [
+      "n. [C] 养分；营养物"
+    ]
+  },
+  {
+    "name": "polymer",
+    "trans": [
+      "n. [C] 聚合物；聚合体"
+    ]
+  },
+  {
+    "name": "toxic",
+    "trans": [
+      "a. 有毒的；由有毒物质引起的"
+    ]
+  },
+  {
+    "name": "adversary",
+    "trans": [
+      "n. [C] 对手；敌手"
+    ]
+  },
+  {
+    "name": "beacon",
+    "trans": [
+      "n. [C] 引路人；指路明灯"
+    ]
+  },
+  {
+    "name": "bio-methane",
+    "trans": [
+      "n. [U] 生物甲烷"
+    ]
+  },
+  {
+    "name": "byproduct",
+    "trans": [
+      "n. [C] 副产品"
+    ]
+  },
+  {
+    "name": "catalyst",
+    "trans": [
+      "n. [C] 导致重大变化的人或事物；促进因素"
+    ]
+  },
+  {
+    "name": "choreographed",
+    "trans": [
+      "a. （活动等）精心设计的"
+    ]
+  },
+  {
+    "name": "coexist",
+    "trans": [
+      "vi. 共存；共处"
+    ]
+  },
+  {
+    "name": "consumption",
+    "trans": [
+      "n. [U] （精力、油、电等的）消耗量"
+    ]
+  },
+  {
+    "name": "dismantle",
+    "trans": [
+      "vt. （逐渐地）废除；取消"
+    ]
+  },
+  {
+    "name": "disposable",
+    "trans": [
+      "a. 一次性的；用完即丢弃的"
+    ]
+  },
+  {
+    "name": "eco-friendly",
+    "trans": [
+      "a. 环保的"
+    ]
+  },
+  {
+    "name": "ecosystem",
+    "trans": [
+      "n. [C] 生态系统"
+    ]
+  },
+  {
+    "name": "embody",
+    "trans": [
+      "vt. 代表；体现（思想或品质）"
+    ]
+  },
+  {
+    "name": "entrenched",
+    "trans": [
+      "a. 根深蒂固的"
+    ]
+  },
+  {
+    "name": "etch",
+    "trans": [
+      "v. 铭记；使深印"
+    ]
+  },
+  {
+    "name": "ethos",
+    "trans": [
+      "n. [sing.] （个人或团体的）精神特质；价值观"
+    ]
+  },
+  {
+    "name": "exemplify",
+    "trans": [
+      "vt. 是…的范例"
+    ]
+  },
+  {
+    "name": "exquisite",
+    "trans": [
+      "a. 精美的；精致的"
+    ]
+  },
+  {
+    "name": "feat",
+    "trans": [
+      "n. [C] 业绩；功绩；壮举"
+    ]
+  },
+  {
+    "name": "ferment",
+    "trans": [
+      "v. （使）发酵"
+    ]
+  },
+  {
+    "name": "garner",
+    "trans": [
+      "vt. 收集；获得"
+    ]
+  },
+  {
+    "name": "immersed",
+    "trans": [
+      "a. 投入的；专心的"
+    ]
+  },
+  {
+    "name": "imperative",
+    "trans": [
+      "n. [C] 紧迫的事"
+    ]
+  },
+  {
+    "name": "interweave",
+    "trans": [
+      "v. （使）交织"
+    ]
+  },
+  {
+    "name": "lofty",
+    "trans": [
+      "a. 高尚的；崇高的"
+    ]
+  },
+  {
+    "name": "manure",
+    "trans": [
+      "n. [U] 粪肥"
+    ]
+  },
+  {
+    "name": "optimize",
+    "trans": [
+      "vt. 使最优化；使尽可能完善"
+    ]
+  },
+  {
+    "name": "orchestrate",
+    "trans": [
+      "vt. 精心策划"
+    ]
+  },
+  {
+    "name": "organic fertilizer",
+    "trans": [
+      "n. [C, U] 有机肥料"
+    ]
+  },
+  {
+    "name": "paradigm",
+    "trans": [
+      "n. [C] 范例；示例"
+    ]
+  },
+  {
+    "name": "perennial",
+    "trans": [
+      "a. 持续的；长久的；反复出现的"
+    ]
+  },
+  {
+    "name": "portrait",
+    "trans": [
+      "n. [C] 描述；表现"
+    ]
+  },
+  {
+    "name": "scaffolding",
+    "trans": [
+      "n. [U] 支撑框架"
+    ]
+  },
+  {
+    "name": "seedbed",
+    "trans": [
+      "n. [C] 温床"
+    ]
+  },
+  {
+    "name": "steadfast",
+    "trans": [
+      "a. 长期不变的"
+    ]
+  },
+  {
+    "name": "stewardship",
+    "trans": [
+      "n. [U] 管理方式"
+    ]
+  },
+  {
+    "name": "symbiosis",
+    "trans": [
+      "n. [U, sing.] （人或机构间的）共生关系"
+    ]
+  },
+  {
+    "name": "trample",
+    "trans": [
+      "v. 残忍地对待；不公正地对待"
+    ]
+  },
+  {
+    "name": "underpin",
+    "trans": [
+      "vt. 支撑；加强；巩固"
+    ]
+  },
+  {
+    "name": "unfulfilled",
+    "trans": [
+      "a. 未实现的；未达到的"
+    ]
+  },
+  {
+    "name": "utopia",
+    "trans": [
+      "n. [C, U] 乌托邦（想象中的完美世界）"
+    ]
+  },
+  {
+    "name": "waste disposal",
+    "trans": [
+      "n. [U] 废物处理"
+    ]
+  },
+  {
+    "name": "agent",
+    "trans": [
+      "n. [C] 剂"
+    ]
+  },
+  {
+    "name": "certification",
+    "trans": [
+      "n. [C, U] 证书"
+    ]
+  },
+  {
+    "name": "certify",
+    "trans": [
+      "vt. 证明…合格；证实"
+    ]
+  },
+  {
+    "name": "compost",
+    "trans": [
+      "vt. 把…制成堆肥"
+    ]
+  },
+  {
+    "name": "construction timber",
+    "trans": [
+      "n. [C, U] 建筑木材"
+    ]
+  },
+  {
+    "name": "consumer",
+    "trans": [
+      "n. [C] 消费者"
+    ]
+  },
+  {
+    "name": "counterpoint",
+    "trans": [
+      "n. [C, U] 有趣的对比；惬意的对照"
+    ]
+  },
+  {
+    "name": "cradle",
+    "trans": [
+      "n. [C] 摇篮"
+    ]
+  },
+  {
+    "name": "downcycling",
+    "trans": [
+      "n. [U] （废弃物的）降级回收"
+    ]
+  },
+  {
+    "name": "dump",
+    "trans": [
+      "vt. 掩埋（垃圾）"
+    ]
+  },
+  {
+    "name": "emission",
+    "trans": [
+      "n. [C, usu. pl.] 排放物；散发物"
+    ]
+  },
+  {
+    "name": "fashion industry",
+    "trans": [
+      "n. [U] 时尚产业"
+    ]
+  },
+  {
+    "name": "greenhouse gas",
+    "trans": [
+      "n. [C] 温室气体"
+    ]
+  },
+  {
+    "name": "high-impact",
+    "trans": [
+      "a. 高强度的"
+    ]
+  },
+  {
+    "name": "incremental",
+    "trans": [
+      "a. 逐渐的；逐步的"
+    ]
+  },
+  {
+    "name": "inevitability",
+    "trans": [
+      "n. [sing., U] 必然性；必然发生的事；不可避免的事"
+    ]
+  },
+  {
+    "name": "initially",
+    "trans": [
+      "ad. 最初；一开始"
+    ]
+  },
+  {
+    "name": "intention",
+    "trans": [
+      "n. [C, U] 意图；目的；打算"
+    ]
+  },
+  {
+    "name": "inventory",
+    "trans": [
+      "n. [U] 存货；库存"
+    ]
+  },
+  {
+    "name": "life cycle",
+    "trans": [
+      "n. [C] （思想、产品或机构等的）使用周期"
+    ]
+  },
+  {
+    "name": "loop",
+    "trans": [
+      "n. [C] 圈；环"
+    ]
+  },
+  {
+    "name": "motto",
+    "trans": [
+      "n. [C] 箴言；格言；座右铭"
+    ]
+  },
+  {
+    "name": "pesticide",
+    "trans": [
+      "n. [C, U] 杀虫剂"
+    ]
+  },
+  {
+    "name": "pollutant",
+    "trans": [
+      "n. [C] 污染物"
+    ]
+  },
+  {
+    "name": "polyester",
+    "trans": [
+      "n. [U] 涤纶"
+    ]
+  },
+  {
+    "name": "print-on-demand (POD)",
+    "trans": [
+      "n. 按需印制"
+    ]
+  },
+  {
+    "name": "revolutionary",
+    "trans": [
+      "a. 革命性的；突破性的；创新的"
+    ]
+  },
+  {
+    "name": "single-use",
+    "trans": [
+      "a. 一次性的"
+    ]
+  },
+  {
+    "name": "solvent",
+    "trans": [
+      "n. [C, U] 溶剂"
+    ]
+  },
+  {
+    "name": "stark",
+    "trans": [
+      "a. 明显的；突出的"
+    ]
+  },
+  {
+    "name": "stringent",
+    "trans": [
+      "a. 严格的；严厉的"
+    ]
+  },
+  {
+    "name": "supply chain",
+    "trans": [
+      "n. [C, usu. sing.] 供应链"
+    ]
+  },
+  {
+    "name": "trillion",
+    "trans": [
+      "num. 一万亿"
+    ]
+  },
+  {
+    "name": "trivial",
+    "trans": [
+      "a. 微不足道的；没有什么价值的"
+    ]
+  },
+  {
+    "name": "upcycling",
+    "trans": [
+      "n. [U] （废弃物的）升级改造"
+    ]
+  },
+  {
+    "name": "yarn",
+    "trans": [
+      "n. [U] 纱；纱线"
+    ]
+  },
+  {
+    "name": "eat into",
+    "trans": [
+      "逐渐消耗（时间、金钱等）"
+    ]
+  },
+  {
+    "name": "make sense",
+    "trans": [
+      "解释得通；有道理"
+    ]
+  },
+  {
+    "name": "pack up",
+    "trans": [
+      "（机器）停止运转，失灵"
+    ]
+  },
+  {
+    "name": "anything but",
+    "trans": [
+      "决不；根本不"
+    ]
+  },
+  {
+    "name": "connect the dots",
+    "trans": [
+      "串联信息"
+    ]
+  },
+  {
+    "name": "contribute to",
+    "trans": [
+      "促成；造成"
+    ]
+  },
+  {
+    "name": "convert sth. into",
+    "trans": [
+      "把…转变成；把…改造成"
+    ]
+  },
+  {
+    "name": "revolve around",
+    "trans": [
+      "以…为中心；以…为主题；围绕"
+    ]
+  },
+  {
+    "name": "transform sb. / sth. into",
+    "trans": [
+      "把…转化成"
+    ]
+  },
+  {
+    "name": "all the better / easier / more, etc.",
+    "trans": [
+      "好得多／简单得多／多得多等"
+    ]
+  },
+  {
+    "name": "break (sth.) down",
+    "trans": [
+      "分解"
+    ]
+  }
+]

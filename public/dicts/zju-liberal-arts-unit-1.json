@@ -1,0 +1,644 @@
+[
+  {
+    "name": "behavioral",
+    "trans": [
+      "a. 行为的；行为方式的"
+    ]
+  },
+  {
+    "name": "bilingual",
+    "trans": [
+      "a.; n. [C] 双语的；用两种语言的 ／ 能流利地说两种语言的人"
+    ]
+  },
+  {
+    "name": "cognitive",
+    "trans": [
+      "a. 认知的；认知过程的"
+    ]
+  },
+  {
+    "name": "concentration",
+    "trans": [
+      "n. [U] 专注；专心"
+    ]
+  },
+  {
+    "name": "confirmation",
+    "trans": [
+      "n. [C, U] 证实；证明"
+    ]
+  },
+  {
+    "name": "dementia",
+    "trans": [
+      "n. [U] 痴呆（症）"
+    ]
+  },
+  {
+    "name": "exposure",
+    "trans": [
+      "n. [sing.] / [U] 接触 ／ 暴露"
+    ]
+  },
+  {
+    "name": "implication",
+    "trans": [
+      "n. [C, usu. pl.] 可能的影响（或结果）"
+    ]
+  },
+  {
+    "name": "massive",
+    "trans": [
+      "a. 巨大的；强大的；极具破坏力的 ／ 大而重的"
+    ]
+  },
+  {
+    "name": "monolingual",
+    "trans": [
+      "a. 单语的；只用一种语言的"
+    ]
+  },
+  {
+    "name": "onset",
+    "trans": [
+      "n. [sing.] （尤指坏事的）开始，发作"
+    ]
+  },
+  {
+    "name": "perception",
+    "trans": [
+      "n. [C, U] 看法；理解"
+    ]
+  },
+  {
+    "name": "rationally",
+    "trans": [
+      "ad. 理性地；理智地"
+    ]
+  },
+  {
+    "name": "scanner",
+    "trans": [
+      "n. [C] 扫描仪"
+    ]
+  },
+  {
+    "name": "suppress",
+    "trans": [
+      "vt. 抑制；压制 ／（凭武力或严法）平定，制止"
+    ]
+  },
+  {
+    "name": "affirm",
+    "trans": [
+      "vt. 肯定；证实"
+    ]
+  },
+  {
+    "name": "angst",
+    "trans": [
+      "n. [U] 忧虑；焦虑"
+    ]
+  },
+  {
+    "name": "anguished",
+    "trans": [
+      "a. （身心）感到极其痛苦的"
+    ]
+  },
+  {
+    "name": "balk",
+    "trans": [
+      "vi. 犹豫；不愿做"
+    ]
+  },
+  {
+    "name": "biopsy",
+    "trans": [
+      "n. [C] 活组织检查"
+    ]
+  },
+  {
+    "name": "blood pressure",
+    "trans": [
+      "n. [U] 血压"
+    ]
+  },
+  {
+    "name": "catastrophe",
+    "trans": [
+      "n. [C] 麻烦；困境"
+    ]
+  },
+  {
+    "name": "cathartic",
+    "trans": [
+      "a. 可以宣泄情感的；有发泄作用的"
+    ]
+  },
+  {
+    "name": "consecutive",
+    "trans": [
+      "a. 连续的"
+    ]
+  },
+  {
+    "name": "contemplate",
+    "trans": [
+      "v. 思忖；思量"
+    ]
+  },
+  {
+    "name": "crave",
+    "trans": [
+      "vt. 渴望；渴求"
+    ]
+  },
+  {
+    "name": "demon",
+    "trans": [
+      "n. [C] 烦恼；心魔 ／ 恶魔"
+    ]
+  },
+  {
+    "name": "disillusionment",
+    "trans": [
+      "n. [U] 幻灭；失望"
+    ]
+  },
+  {
+    "name": "externalize",
+    "trans": [
+      "vt. 表露（情感或想法）"
+    ]
+  },
+  {
+    "name": "first aid kit",
+    "trans": [
+      "n. [C] 急救包；急救药箱"
+    ]
+  },
+  {
+    "name": "frustration",
+    "trans": [
+      "n. [C, U] 懊恼；沮丧"
+    ]
+  },
+  {
+    "name": "incorporate",
+    "trans": [
+      "vt. 纳入；并入"
+    ]
+  },
+  {
+    "name": "infection",
+    "trans": [
+      "n. [C, U] 传染（病）；感染"
+    ]
+  },
+  {
+    "name": "intervention",
+    "trans": [
+      "n. [C, U] 干预；介入"
+    ]
+  },
+  {
+    "name": "irritation",
+    "trans": [
+      "n. [U] 恼怒；厌烦"
+    ]
+  },
+  {
+    "name": "juggle",
+    "trans": [
+      "vt.; v. （尤指艰难地）兼顾 ／ 玩杂耍；抛接"
+    ]
+  },
+  {
+    "name": "literature",
+    "trans": [
+      "n. [U] （有关某一主题的）著述，文献资料 ／ 文学；文学作品"
+    ]
+  },
+  {
+    "name": "maximize",
+    "trans": [
+      "vt. 最大限度地利用；充分利用 ／ 使最大化"
+    ]
+  },
+  {
+    "name": "miraculous",
+    "trans": [
+      "a. 不可思议的；奇迹般的"
+    ]
+  },
+  {
+    "name": "narrative",
+    "trans": [
+      "a.; n. [C] 叙事的；记叙的 ／（小说中的）叙述"
+    ]
+  },
+  {
+    "name": "participant",
+    "trans": [
+      "n. [C] 参加者；参与者"
+    ]
+  },
+  {
+    "name": "peel",
+    "trans": [
+      "n. [C, U]; vt. （水果、蔬菜的）皮 ／ 削去…的皮；剥去…的壳"
+    ]
+  },
+  {
+    "name": "philosophical",
+    "trans": [
+      "a. 达观的；豁达的 ／ 哲学的"
+    ]
+  },
+  {
+    "name": "pinpoint",
+    "trans": [
+      "vt. 确切地解释（或找出）（真相）"
+    ]
+  },
+  {
+    "name": "psychological",
+    "trans": [
+      "a. 心理的；精神的"
+    ]
+  },
+  {
+    "name": "recede",
+    "trans": [
+      "vi. （感情）逐渐淡漠；（记忆）模糊 ／（景物、声音）逐渐远去"
+    ]
+  },
+  {
+    "name": "replicate",
+    "trans": [
+      "v.; vt. （病毒、分子）自我复制 ／ 重做；复制"
+    ]
+  },
+  {
+    "name": "revive",
+    "trans": [
+      "v. （使）复活；（使）苏醒"
+    ]
+  },
+  {
+    "name": "rumination",
+    "trans": [
+      "n. [C, U] 沉思；认真思考"
+    ]
+  },
+  {
+    "name": "solace",
+    "trans": [
+      "n. [U] 安慰；慰藉"
+    ]
+  },
+  {
+    "name": "soothe",
+    "trans": [
+      "vt. 抚慰；安慰"
+    ]
+  },
+  {
+    "name": "spontaneity",
+    "trans": [
+      "n. [U] 自发性；自动"
+    ]
+  },
+  {
+    "name": "transformation",
+    "trans": [
+      "n. [C, U] （彻底的）改变"
+    ]
+  },
+  {
+    "name": "traumatic",
+    "trans": [
+      "a. （经历）痛苦难忘的"
+    ]
+  },
+  {
+    "name": "triviality",
+    "trans": [
+      "n. [C] 琐事"
+    ]
+  },
+  {
+    "name": "ultimately",
+    "trans": [
+      "ad. 最终；终于"
+    ]
+  },
+  {
+    "name": "white blood cell",
+    "trans": [
+      "n. [C] 白细胞"
+    ]
+  },
+  {
+    "name": "working memory",
+    "trans": [
+      "n. [U] 工作记忆"
+    ]
+  },
+  {
+    "name": "activate",
+    "trans": [
+      "vt. 使开始工作；激活"
+    ]
+  },
+  {
+    "name": "addition",
+    "trans": [
+      "n. [U], [C] 加法 ／ 添加物；增加物"
+    ]
+  },
+  {
+    "name": "arithmetic",
+    "trans": [
+      "n. [U] 算术"
+    ]
+  },
+  {
+    "name": "assumption",
+    "trans": [
+      "n. [C] 假设；假定"
+    ]
+  },
+  {
+    "name": "categorization",
+    "trans": [
+      "n. [U] 分类；归类"
+    ]
+  },
+  {
+    "name": "comprehension",
+    "trans": [
+      "n. [U] 理解；理解力"
+    ]
+  },
+  {
+    "name": "decomposition",
+    "trans": [
+      "n. [U] 分解"
+    ]
+  },
+  {
+    "name": "denominator",
+    "trans": [
+      "n. [C] （分数中的）分母"
+    ]
+  },
+  {
+    "name": "denote",
+    "trans": [
+      "vt. 表示"
+    ]
+  },
+  {
+    "name": "differentiate",
+    "trans": [
+      "v. 区分；区别"
+    ]
+  },
+  {
+    "name": "embed",
+    "trans": [
+      "vt. 使成为（…的）重要部分；使融入 ／ 使插入；使嵌入"
+    ]
+  },
+  {
+    "name": "explicitly",
+    "trans": [
+      "ad. 明确地；明白地"
+    ]
+  },
+  {
+    "name": "flip-flop",
+    "trans": [
+      "vi. 改变（观点）"
+    ]
+  },
+  {
+    "name": "fraction",
+    "trans": [
+      "n. [C] 分数 ／ 小部分；片断"
+    ]
+  },
+  {
+    "name": "fraught",
+    "trans": [
+      "a. 充满…的"
+    ]
+  },
+  {
+    "name": "graphics",
+    "trans": [
+      "n. [pl.] 图形；图表"
+    ]
+  },
+  {
+    "name": "harken",
+    "trans": [
+      "vi. 倾听"
+    ]
+  },
+  {
+    "name": "hindrance",
+    "trans": [
+      "n. [C] 阻碍者；阻碍物"
+    ]
+  },
+  {
+    "name": "identification",
+    "trans": [
+      "n. [U] （对某物的）确认，识别 ／ 身份证明；证件"
+    ]
+  },
+  {
+    "name": "inconsistency",
+    "trans": [
+      "n. [C, U] 不一致；前后矛盾的事情"
+    ]
+  },
+  {
+    "name": "irregularity",
+    "trans": [
+      "n. [C, usu. pl.], [C, U] 不合常规 ／ 无规律；不定期"
+    ]
+  },
+  {
+    "name": "linear",
+    "trans": [
+      "a. （观点或事件）连续的，线性的 ／ 线条的；直线的"
+    ]
+  },
+  {
+    "name": "linguistic",
+    "trans": [
+      "a. 语言的；语言学的"
+    ]
+  },
+  {
+    "name": "logical",
+    "trans": [
+      "a. 合乎逻辑的；合理的"
+    ]
+  },
+  {
+    "name": "MRI",
+    "trans": [
+      "磁共振成像"
+    ]
+  },
+  {
+    "name": "neural",
+    "trans": [
+      "a. 神经的；神经系统的"
+    ]
+  },
+  {
+    "name": "numerator",
+    "trans": [
+      "n. [C] （分数中的）分子"
+    ]
+  },
+  {
+    "name": "oddball",
+    "trans": [
+      "a.; n. [C] 古怪的；奇怪的 ／ 举止古怪的人"
+    ]
+  },
+  {
+    "name": "pattern recognition",
+    "trans": [
+      "n. [U] 模式识别"
+    ]
+  },
+  {
+    "name": "pesky",
+    "trans": [
+      "a. 烦人的；让人讨厌的"
+    ]
+  },
+  {
+    "name": "place value",
+    "trans": [
+      "n. [C, U] 位值"
+    ]
+  },
+  {
+    "name": "reliant",
+    "trans": [
+      "a. 依赖的；依靠的"
+    ]
+  },
+  {
+    "name": "sequential",
+    "trans": [
+      "a. 顺序的；按次序的"
+    ]
+  },
+  {
+    "name": "sloppy",
+    "trans": [
+      "a. 草率的；马虎的"
+    ]
+  },
+  {
+    "name": "spatial",
+    "trans": [
+      "a. 空间的"
+    ]
+  },
+  {
+    "name": "subtle",
+    "trans": [
+      "a. 细微的；微妙的"
+    ]
+  },
+  {
+    "name": "subtraction",
+    "trans": [
+      "n. [U] 减法"
+    ]
+  },
+  {
+    "name": "symbolic reasoning",
+    "trans": [
+      "n. [U] 符号推理"
+    ]
+  },
+  {
+    "name": "temporal lobe",
+    "trans": [
+      "n. [C] 颞叶"
+    ]
+  },
+  {
+    "name": "terminology",
+    "trans": [
+      "n. [C, U] 术语"
+    ]
+  },
+  {
+    "name": "hold (sb. / sth.) back",
+    "trans": [
+      "阻碍…的发展"
+    ]
+  },
+  {
+    "name": "light up",
+    "trans": [
+      "变得明亮"
+    ]
+  },
+  {
+    "name": "chime (in) with",
+    "trans": [
+      "与…一致"
+    ]
+  },
+  {
+    "name": "note (sth.) down",
+    "trans": [
+      "记录；记下"
+    ]
+  },
+  {
+    "name": "out of whack",
+    "trans": [
+      "出毛病的；不正常的"
+    ]
+  },
+  {
+    "name": "pay a visit to",
+    "trans": [
+      "（短时间的）拜访，访问"
+    ]
+  },
+  {
+    "name": "shake (sth.) off",
+    "trans": [
+      "摆脱（疾病、问题等）"
+    ]
+  },
+  {
+    "name": "sketch (sth.) out",
+    "trans": [
+      "草拟；概略地叙述"
+    ]
+  },
+  {
+    "name": "right off the bat",
+    "trans": [
+      "立刻；马上"
+    ]
+  }
+]

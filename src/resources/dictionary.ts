@@ -4442,6 +4442,27 @@ const engineeringDictionaries: DictionaryResource[] = engineeringVocabulary.map(
   languageCategory: 'en',
 }))
 
+const liberalArtsDictionaries: DictionaryResource[] = [
+  [107, 1],
+  [111, 2],
+  [88, 3],
+  [96, 4],
+  [101, 5],
+  [86, 6],
+  [90, 7],
+  [91, 8],
+].map(([length, unit]) => ({
+  id: `zju-liberal-arts-unit-${unit}`,
+  name: `浙大新文科英语 - Unit ${unit}`,
+  description: `浙江大学新文科英语 Unit ${unit} 词汇`,
+  category: '浙大新文科英语',
+  tags: ['浙江大学', '大学英语'],
+  url: `/dicts/zju-liberal-arts-unit-${unit}.json`,
+  length,
+  language: 'en',
+  languageCategory: 'en',
+}))
+
 /**
  * Built-in dictionaries in an array.
  * Why arrays? Because it keeps the order across browsers.
@@ -4449,6 +4470,7 @@ const engineeringDictionaries: DictionaryResource[] = engineeringVocabulary.map(
 const allDictionaryResources: DictionaryResource[] = [
   ...(minorLanguages as DictionaryResource[]),
   ...chinaExam,
+  ...liberalArtsDictionaries,
   ...engineeringDictionaries,
   ...internationalExam,
   ...childrenEnglish,
@@ -4495,6 +4517,7 @@ const preferredDictionaryIds = [
   'zju-english-3-unit-7-reading-2',
   'zju-english-3-unit-8-reading-1',
   'zju-english-3-unit-8-reading-2',
+  ...liberalArtsDictionaries.map((resource) => resource.id),
   'zju-english-4-unit-1',
   'zju-english-4-unit-2',
   'zju-english-4-unit-3',

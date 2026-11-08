@@ -116,6 +116,7 @@ export default function Setting() {
           <div className="fixed inset-0 overflow-y-auto">
             <div className="flex min-h-full items-center justify-center p-3 text-center">
               <Transition.Child
+                key={view}
                 as={Fragment}
                 enter="ease-out duration-300"
                 enterFrom="opacity-0 scale-95"
@@ -126,7 +127,7 @@ export default function Setting() {
               >
                 <Dialog.Panel
                   className={classNames(
-                    'flex max-h-[calc(100dvh-24px)] w-full flex-col overflow-hidden rounded-lg bg-white shadow-xl dark:bg-gray-800',
+                    'flex max-h-[calc(100dvh-24px)] w-full flex-col overflow-hidden rounded-lg border border-gray-200 bg-white shadow-xl dark:border-gray-600 dark:bg-gray-800',
                     view === 'release' ? 'max-w-lg' : 'h-[min(40rem,calc(100dvh-24px))] max-w-3xl',
                   )}
                 >
